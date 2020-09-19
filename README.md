@@ -1,5 +1,10 @@
-# xHyroM
- Developer [JS, PHP, LUA, HTML, CSS]
+### Hello, my name is Hyro
+I am JavaScript, PHP, Lua, NodeJS, CSS, HTML developer.
+I have big programming CZ/SK Discord Server : **https://discord.gg/hVma4Yt**
+
+##### 🌐 My Web : https://hyrousek.tk
+##### 💬 Documentation: https://docs.hyrousek.tk
+##### 🕐 Status: https://status.hyrousek.tk
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHyroM&show_icons=true&theme=dark)
 
