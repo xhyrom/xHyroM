@@ -11,4 +11,6 @@ I have big programming CZ/SK Discord Server : **https://discord.gg/hVma4Yt**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHyroM&theme=dark&layout=compact)
 
+![Discord](https://raw.githubusercontent.com/xHyroM/xHyroM/master/dc.png)
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xHyroM.xHyroM)
