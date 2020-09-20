@@ -13,4 +13,7 @@ I have big programming CZ/SK Discord Server : **https://discord.gg/hVma4Yt**
 
 ![Discord](https://raw.githubusercontent.com/xHyroM/xHyroM/master/dc.png)
 
+## 😃 Pinned Projects
+[![Pinned Projects](https://github-readme-stats.vercel.app/api/pin/?username=xHyroM&repo=xHyroM&show_icons=true)](https://github.com/xHyroM/xHyroM)
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xHyroM.xHyroM)
