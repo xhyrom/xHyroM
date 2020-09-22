@@ -5,6 +5,7 @@ I have big programming CZ/SK Discord Server : **https://discord.gg/hVma4Yt**
 ##### 🌐 My Web : https://hyrousek.tk
 ##### 💬 Documentation: https://docs.hyrousek.tk
 ##### 🕐 Status: https://status.hyrousek.tk
+##### 🎇 Redirect System: https://r.hyrousek.tk
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHyroM&show_icons=true&theme=dark)
