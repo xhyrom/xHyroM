@@ -8,6 +8,8 @@ I have big programming CZ/SK Discord Server : **https://discord.gg/hVma4Yt**
 ##### 🎇 Redirect System: https://r.hyrousek.tk
 <br>
 
+[![Status-badge](https://status.hyrousek.tk/index.svg)](https://status.hyrousek.tk)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHyroM&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHyroM&theme=dark&layout=compact)
