@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1998" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1936" class="">
     <defs>
         <style/>
     </defs>
@@ -1166,7 +1166,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            45 issue comments
+            46 issue comments
           </div>
                     </section>
                     <section>
@@ -1219,7 +1219,7 @@
         </div>
                         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-          248 MB used
+          249 MB used
         </div>
                     </section>
                     <section>
@@ -2389,6 +2389,63 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8ef7bad</span>
+                                        <span class="message">new event + allowedMentions + clyde</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#55df682</span>
+                                        <span class="message">Update allowedmentions.md</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3486e3e</span>
+                                        <span class="message">allowedMentions option to return slash</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2397,23 +2454,9 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by xHyroM in <span class="repo">Garlic-Team/GCommands</span></div>
-                                    <div class="comment">https://github.com/Garlic-Team/GCommands/commit/91e38d7c1322638b3e1974cea1bca5f97bb7b73c
-https://github.com/Garlic-Team/GCommands/commit/af0d596102617dc693783619c6db34bf6e4f1468
-https://github.com/Garlic-Team/GCommands/commit/e23dec2e4fb10a57230e5b8ff883a8e6f3f613db
-https://github.com/Garlic-Team/GCommands/commit/8fdd463dc69211376bca33a0ea2cf5bdad249ab9
-https://github.com/Garlic-Team/GCommands/commit/8d163165c5e38b20b4cbd1288cae3345ae43cf09
-https://github.com/Garlic-Team/GCommands/commit/af73cb8d2a417f27ad40d9b378a240dde827ab00
-https://github.com/Garlic-Team/GCommands/commit/e7011a205c715c0fc677a3abc2c83a655429b0f9
-https://github.com/Garlic-Team/GCommands/commit/c45a40ff9920f5f2518751c19ecdf2c10dcb4e4c
-https://github.com/Garlic-Team/GCommands/commit/979d422b189f1adf22dfb41b49066eab80c9c756
-https://github.com/Garlic-Team/GCommands/commit/40730a2cec1aca3a2cd0b6c68dc6b9e4da9b6881
-https://github.com/Garlic-Team/GCommands/commit/6554d6c54329b4c25257be82fcdace248f85a335
-https://github.com/Garlic-Team/GCommands/commit/0e0bd24e9188edafa4653f5ae3f47431ae28389d
-https://github.com/Garlic-Team/GCommands/commit/197e02b00dc33a4e73b0fd60d1b5d03aa8350297
-https://github.com/Garlic-Team/GCommands/commit/a80ea29cf0e2b78926e144f60f2c8e922e809831
-https://github.com/Garlic-Team/GCommands/commit/5205e4a09a624d14c2477457056791e97b4b08c1
-https://github.com/Garlic-Team/GCommands/commit/0d6d02996d6620cbbbfa0f438ff39ce429681e18
-@SebestikCZ 
+                                    <div class="comment">
+guildMaximumMembersUpdate event
+
 </div>
                                 </div>
                             </section>
@@ -2431,62 +2474,9 @@ https://github.com/Garlic-Team/GCommands/commit/0d6d02996d6620cbbbfa0f438ff39ce4
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#51406ae</span>
-                                        <span class="message">changed partnered and verified to partner, verify</span>
+                                        <span class="sha">#b622072</span>
+                                        <span class="message">discord.js v13 support</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#11 1.0.52</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xHyroM in <span class="repo">Garlic-Team/GCommands</span></div>
-                                    <div class="comment">https://github.com/Garlic-Team/GCommands/commit/e06557e874e1906a6601805a478564f7225a3392
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e06557e</span>
-                                        <span class="message">Added events</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#11 1.0.52</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xHyroM in <span class="repo">Garlic-Team/GCommands</span></div>
-                                    <div class="comment">https://github.com/Garlic-Team/GCommands/commit/15ae7d3ff9f7e5a1a290674e8cea23fbc6be579d
-</div>
                                 </div>
                             </section>
                         </div>
@@ -2585,7 +2575,7 @@ https://github.com/Garlic-Team/GCommands/commit/0d6d02996d6620cbbbfa0f438ff39ce4
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.35289627354452 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.36044105435059 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3012,7 +3002,7 @@ https://github.com/Garlic-Team/GCommands/commit/0d6d02996d6620cbbbfa0f438ff39ce4
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Bratislava</span>
-                <span>Last updated Tue, 11 May 2021 13:29:07 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Tue, 11 May 2021 14:22:02 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
