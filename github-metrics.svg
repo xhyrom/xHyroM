@@ -1252,13 +1252,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.46709907104096" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="226.46709907104096" y="0" width="222.95535412959563" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.42245320063665" y="0" width="5.528119131658776" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.9505723322954" y="0" width="3.902981724621074" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.85355405691644" y="0" width="1.0348555582401795" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.8884096151566" y="0" width="0.10890863994724606" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.99731825510383" y="0" width="0.0026817448961018184" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.35537084672194" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="226.35537084672194" y="0" width="223.07230081843508" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.42767166515705" y="0" width="5.525391817461977" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.95306348261903" y="0" width="3.9010561768508674" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.85411965946986" y="0" width="1.0343450091386845" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.8884646686086" y="0" width="0.10885490954223705" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.99731957815084" y="0" width="0.002680421849193251" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2375,33 +2375,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#b196f2e</span>
-                                        <span class="message">files</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#51434a0</span>
-                                        <span class="message">messageUpdate</span>
+                                        <span class="sha">#ccdd247</span>
+                                        <span class="message">ascii table</span>
                                     </div>
                                 </div>
                             </section>
@@ -2419,8 +2400,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6008e05</span>
-                                        <span class="message">Update Player.js</span>
+                                        <span class="sha">#ff59ecf</span>
+                                        <span class="message">sharding table</span>
                                     </div>
                                 </div>
                             </section>
@@ -2432,14 +2413,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4dce208</span>
-                                        <span class="message">cooldown fix, loading fix</span>
+                                        <span class="sha">#d920975</span>
+                                        <span class="message">sharding</span>
                                     </div>
                                 </div>
                             </section>
@@ -2451,14 +2432,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#7d838e0</span>
-                                        <span class="message">fix</span>
+                                        <span class="sha">#826bee7</span>
+                                        <span class="message">Update botinfo.js</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#57b3303</span>
+                                        <span class="message">Add files via upload</span>
                                     </div>
                                 </div>
                             </section>
@@ -2558,7 +2558,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.139934090800985 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.14856365288876 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2985,7 +2985,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Bratislava</span>
-                <span>Last updated Sat, 15 May 2021 06:26:12 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 15 May 2021 07:24:50 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
