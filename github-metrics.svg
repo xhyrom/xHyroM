@@ -1252,13 +1252,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.15082183540005" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="226.15082183540005" y="0" width="223.28640365346428" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.4372254888643" y="0" width="5.520398724392437" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.9576242132568" y="0" width="3.8975309360708437" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.85515514932763" y="0" width="1.0334103096517953" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.8885654589794" y="0" width="0.10875654136991972" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9973220003493" y="0" width="0.0026779996506956978" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.15118755569068" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="226.15118755569068" y="0" width="223.28602085155998" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.4372084072507" y="0" width="5.520407651717173" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.9576160589678" y="0" width="3.8975372389714265" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.85515329793924" y="0" width="1.0334119808335127" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.8885652787728" y="0" width="0.1087567172457958" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.99732199601857" y="0" width="0.0026780039814286245" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2399,6 +2399,25 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f355116</span>
+                                        <span class="message">Update Infinity.js</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2465,25 +2484,6 @@
                                     <div class="commit">
                                         <span class="sha">#bc5ea2f</span>
                                         <span class="message">updated.txt removed</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bf84ac6</span>
-                                        <span class="message">console.log(cmd) remove</span>
                                     </div>
                                 </div>
                             </section>
@@ -2583,7 +2583,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.175880888984025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.18449058457002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3010,7 +3010,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Bratislava</span>
-                <span>Last updated Thu, 20 May 2021 03:32:09 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Thu, 20 May 2021 04:30:44 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
