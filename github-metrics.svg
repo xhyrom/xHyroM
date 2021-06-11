@@ -2448,7 +2448,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <span class="sha">#dfef4f3</span>
+                                        <span class="sha">#d05a839</span>
                                         <span class="message">Auto deploy by the Vuepress-deploy</span>
                                     </div>
                                 </div>
@@ -2467,27 +2467,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e4fef50</span>
+                                        <span class="sha">#ec1d104</span>
                                         <span class="message">Auto deploy by the Vuepress-deploy</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#755feb3</span>
-                                        <span class="message">guide</span>
                                     </div>
                                 </div>
                             </section>
@@ -2505,7 +2486,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5ec1338</span>
+                                        <span class="sha">#18fdd49</span>
                                         <span class="message">Auto deploy by the Vuepress-deploy</span>
                                     </div>
                                 </div>
@@ -2518,14 +2499,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                      Pushed 1 commit in <span class="repo">discord-buttons/discord-buttons.github.io</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <span class="sha">#b9b5f1f</span>
-                                        <span class="message">userRequiredRole to userRequiredRoles | array support</span>
+                                        <span class="sha">#37c4c4f</span>
+                                        <span class="message">Auto deploy by the Vuepress-deploy</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">discord-buttons/discord-buttons.github.io</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">gh-pages</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#efa49de</span>
+                                        <span class="message">Auto deploy by the Vuepress-deploy</span>
                                     </div>
                                 </div>
                             </section>
@@ -2664,7 +2664,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.9862991603247 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.99553658477613 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3093,7 +3093,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 11 Jun 2021 21:15:38 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 11 Jun 2021 22:18:17 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
