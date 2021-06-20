@@ -1320,13 +1320,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.9631101561584" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="226.9631101561584" y="0" width="222.42053543175663" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.38364558791505" y="0" width="5.687997468539298" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.0716430564543" y="0" width="3.809399470378464" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.8810425268328" y="0" width="1.0100427041740967" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.8910852310069" y="0" width="0.10629732461146915" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.99738255561834" y="0" width="0.002617444381677763" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.19257706199477" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="227.19257706199477" y="0" width="222.2015222442128" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.3940993062076" y="0" width="5.682396607746892" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.0764959139545" y="0" width="3.805648428600708" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.8821443425552" y="0" width="1.0090481347123914" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.89119247726757" y="0" width="0.10619265569748894" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.99738513296506" y="0" width="0.0026148670349586877" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2456,8 +2456,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6abb6d3</span>
-                                        <span class="message">Update systemsstate.html</span>
+                                        <span class="sha">#4003037</span>
+                                        <span class="message">Create Events “2021-06-20-ycggctccygfyc”</span>
                                     </div>
                                 </div>
                             </section>
@@ -2475,8 +2475,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#250053b</span>
-                                        <span class="message">Update systemsstate.html</span>
+                                        <span class="sha">#0b1e757</span>
+                                        <span class="message">Create Events “2021-06-20-jsjsjsjsjs”</span>
                                     </div>
                                 </div>
                             </section>
@@ -2488,14 +2488,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">xHyroM/clearstatus</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/SP</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#30640b5</span>
-                                        <span class="message">Update index.html</span>
+                                        <span class="sha">#70c2377</span>
+                                        <span class="message">Update config.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -2507,14 +2507,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">xHyroM/clearstatus</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/SP</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5b7ae42</span>
-                                        <span class="message">Update systemsstate.html</span>
+                                        <span class="sha">#edc1fdc</span>
+                                        <span class="message">Update config.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -2526,14 +2526,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">xHyroM/clearstatus</span>
+                      Pushed 1 commit in <span class="repo">xHyroM/SP</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#57aeddb</span>
-                                        <span class="message">Update index.html</span>
+                                        <span class="sha">#001d985</span>
+                                        <span class="message">Update config.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -2633,7 +2633,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.81820544227232 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.82641173777588 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3101,7 +3101,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 20 Jun 2021 12:19:30 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 20 Jun 2021 13:15:10 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
