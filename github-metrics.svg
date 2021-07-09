@@ -1320,14 +1320,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.8081233546446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="227.8081233546446" y="0" width="221.20596715557227" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.0140905102169" y="0" width="5.639137520371067" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.6532280305879" y="0" width="3.776676695499561" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.42990472608744" y="0" width="1.0013664284818855" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.43127115456934" y="0" width="0.46074965525886924" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8920208098282" y="0" width="0.10538422966027329" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.99740503948846" y="0" width="0.002594960511470478" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.800555704242" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="227.800555704242" y="0" width="221.21389975135588" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.0144554555979" y="0" width="5.638950191575684" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.65340564717354" y="0" width="3.7765512365453575" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.42995688371894" y="0" width="1.0013331636845462" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.4312900474034" y="0" width="0.4607343494292844" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8920243968327" y="0" width="0.10538072885882568" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.99740512569156" y="0" width="0.0025948743084252563" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2447,14 +2447,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#81c71ee</span>
-                                        <span class="message">Update Player.js</span>
+                                        <span class="sha">#f16f777</span>
+                                        <span class="message">fix eventemitter</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a27bddc</span>
+                                        <span class="message">fetchClientApplication fix for djs v13</span>
                                     </div>
                                 </div>
                             </section>
@@ -2472,8 +2491,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#889c63a</span>
-                                        <span class="message">Update play.js</span>
+                                        <span class="sha">#83eb7b1</span>
+                                        <span class="message">Update package.json</span>
                                     </div>
                                 </div>
                             </section>
@@ -2491,8 +2510,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#535bca4</span>
-                                        <span class="message">Update play.js</span>
+                                        <span class="sha">#990370c</span>
+                                        <span class="message">Update package.json</span>
                                     </div>
                                 </div>
                             </section>
@@ -2510,27 +2529,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8f93159</span>
-                                        <span class="message">Update play.js</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">xHyroM/MrInfinityNewUpdate</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4bfb83c</span>
-                                        <span class="message">Update play.js</span>
+                                        <span class="sha">#e13bb8c</span>
+                                        <span class="message">Update index.js</span>
                                     </div>
                                 </div>
                             </section>
@@ -2663,7 +2663,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.85295370330732 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.86100462526954 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3131,7 +3131,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 09 Jul 2021 12:22:55 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 09 Jul 2021 13:17:31 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
