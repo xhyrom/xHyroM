@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2114" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2052" class="">
     <defs>
         <style/>
     </defs>
@@ -2470,8 +2470,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e0dd5dc</span>
-                                        <span class="message">Rename docs/.vuepress/components/Notice.vue to guide/.vuepress/components/Notice.vue</span>
+                                        <span class="sha">#becf732</span>
+                                        <span class="message">Rename 4.3.0.json to main.json</span>
                                     </div>
                                 </div>
                             </section>
@@ -2489,8 +2489,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2fd66a5</span>
-                                        <span class="message">Rename docs/.vuepress/components/V2v3.vue to guide/.vuepress/components/V2v3.vue</span>
+                                        <span class="sha">#e0587e3</span>
+                                        <span class="message">Rename main.json to 4.3.0.json</span>
                                     </div>
                                 </div>
                             </section>
@@ -2506,10 +2506,10 @@
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">docs</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#91fa3b4</span>
-                                        <span class="message">Delete docs/.vuepress/public directory</span>
+                                        <span class="sha">#db2f9cf</span>
+                                        <span class="message">Add files via upload</span>
                                     </div>
                                 </div>
                             </section>
@@ -2525,10 +2525,10 @@
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">docs</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#828b756</span>
-                                        <span class="message">Rename docs/.vuepress/mixins/branches.js to guide/.vuepress/mixins/branches.js</span>
+                                        <span class="sha">#3ff01ad</span>
+                                        <span class="message">Update index.html</span>
                                     </div>
                                 </div>
                             </section>
@@ -2544,10 +2544,10 @@
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">docs</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#239c26e</span>
-                                        <span class="message">Rename docs/.vuepress/mixins/languages.js to guide/.vuepress/mixins/languages.js</span>
+                                        <span class="sha">#de99b37</span>
+                                        <span class="message">Add files via upload</span>
                                     </div>
                                 </div>
                             </section>
@@ -2719,7 +2719,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.568690653063165 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.57798538416413 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3148,7 +3148,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 12 Jul 2021 21:17:00 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 12 Jul 2021 22:20:02 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
