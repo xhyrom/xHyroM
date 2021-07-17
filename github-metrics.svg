@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2074" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2052" class="">
     <defs>
         <style/>
     </defs>
@@ -2458,8 +2458,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#f83c12e</span>
-                                        <span class="message">deploy: 58dc9dcd00410a4ed5ed8aa0a77b9d40b14235a3</span>
+                                        <span class="sha">#a991440</span>
+                                        <span class="message">deploy: e381f8df20180204c80322e3d6d9308709ff5c36</span>
                                     </div>
                                 </div>
                             </section>
@@ -2477,8 +2477,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#58dc9dc</span>
-                                        <span class="message">deploy: e66a6754c5f202d8ebd9becbf0a6d299e8e0daba</span>
+                                        <span class="sha">#e381f8d</span>
+                                        <span class="message">deploy: 7cf44907cbe0797a9464eb44f67caf38b3395fe2</span>
                                     </div>
                                 </div>
                             </section>
@@ -2496,34 +2496,9 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e66a675</span>
-                                        <span class="message">Readme, Final testing started</span>
+                                        <span class="sha">#7cf4490</span>
+                                        <span class="message">argument choices lang</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#6121 Simpler Slash Commands</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by TechPro424 in <span class="repo">discordjs/discord.js</span></div>
-                                    <div class="comment"><i>
-I know that a similar request has already been created, but my suggested implementation is a bit different.
-The current method of making slash commands is a bit complicated (especially for beginners)
-Maybe make slash commands a bit simpler.
-For example, in the WOKCommands command handler, slash commands are extremely simple: You just specify <code>slash: true</code> in the command properties, along with <code>name</code>, <code>description</code>, etc.
-Here is the documentation for that command handler (for reference):
-https://docs.wornoffkeys.com/commands/slash-commands
-</i>
-WOKCommands is a command handler that makes it easy to create slash/normal commands. Djs is a library and it is therefore logical that there is no built-in handler. Discord.js has its own handler like (Commando) which is planned to be deprecated and replaced by sapphire. Djs are going to @discordjs/builders which will make it easier to create a slash command but it won't be the same as WOKCommands. Then we might start to get annoyed here that why do we have to have a message event and it's not like with WOKCommands. Djs is a wrapper and WOKCommands is a framework.
-</div>
                                 </div>
                             </section>
                         </div>
@@ -2540,8 +2515,27 @@ WOKCommands is a command handler that makes it easy to create slash/normal comma
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1e422ab</span>
-                                        <span class="message">deploy: 8288812bdfdd99e2557d8242a43a9a069a9b8ad8</span>
+                                        <span class="sha">#1d23191</span>
+                                        <span class="message">deploy: e1d238ac639243b20607dfb1b0ab8360e7bdb4d1</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e1d238a</span>
+                                        <span class="message">deploy: 67a8a27176d68f4d31b09aadb8ca6643f8dcca80</span>
                                     </div>
                                 </div>
                             </section>
@@ -2713,7 +2707,7 @@ WOKCommands is a command handler that makes it easy to create slash/normal comma
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.59583165628171 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.60574297636035 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3142,7 +3136,7 @@ WOKCommands is a command handler that makes it easy to create slash/normal comma
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 17 Jul 2021 17:23:00 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 17 Jul 2021 18:30:13 (timezone Europe/Bratislava) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
