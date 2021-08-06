@@ -2537,8 +2537,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a2b75a1</span>
-                                        <span class="message">deploy: 6ca6919bcebe8520437911cfda881c520405a36b</span>
+                                        <span class="sha">#ab56073</span>
+                                        <span class="message">deploy: 731f2b3017e9eb8c520505526c0ee4ec2a314d02</span>
                                     </div>
                                 </div>
                             </section>
@@ -2556,8 +2556,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6ca6919</span>
-                                        <span class="message">deploy: 436aedd703d09cb0c09ff8765ccfbdd7f1b08a8d</span>
+                                        <span class="sha">#731f2b3</span>
+                                        <span class="message">deploy: 92c0cff6f165e075274aab6f03722d5ac1278e88</span>
                                     </div>
                                 </div>
                             </section>
@@ -2575,27 +2575,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#436aedd</span>
-                                        <span class="message">🌻 NodeJS v12 support</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">CDN-Github/CDN-2</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7febc46</span>
-                                        <span class="message">New uptime url</span>
+                                        <span class="sha">#92c0cff</span>
+                                        <span class="message">docs</span>
                                     </div>
                                 </div>
                             </section>
@@ -2613,8 +2594,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#3a1c054</span>
-                                        <span class="message">deploy: 9006e30411cc13334b5da787d01b015327367044</span>
+                                        <span class="sha">#2d6d7fa</span>
+                                        <span class="message">deploy: 4924d531c3f5081388605f6d54a0b350659cf5d5</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Garlic-Team/GCommands</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4924d53</span>
+                                        <span class="message">deploy: e843e3bd6f1c7373472ba9b5d48e2dd0a1603868</span>
                                     </div>
                                 </div>
                             </section>
@@ -2782,7 +2782,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.825136378345384 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.83251915033613 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3250,7 +3250,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 06/08/2021, 15:25 (timezone Europe/Bratislava) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 06/08/2021, 16:15 (timezone Europe/Bratislava) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
