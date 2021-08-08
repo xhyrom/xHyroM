@@ -2512,8 +2512,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#699cc51</span>
-                                        <span class="message">deploy: 9573d0b74f98d5e6b2a1041048c4e243a21b4c40</span>
+                                        <span class="sha">#19ea10c</span>
+                                        <span class="message">deploy: 08e0d908b26a8cf1831b5406ab06a961d815b5ea</span>
                                     </div>
                                 </div>
                             </section>
@@ -2531,8 +2531,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9573d0b</span>
-                                        <span class="message">deploy: 60d23601d7c987020b3438107ec1308c21552aa7</span>
+                                        <span class="sha">#08e0d90</span>
+                                        <span class="message">deploy: 7a6c6972f0115310838be19b45d54e7c8c02e7f1</span>
                                     </div>
                                 </div>
                             </section>
@@ -2550,8 +2550,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#60d2360</span>
-                                        <span class="message">readme refactOR</span>
+                                        <span class="sha">#7a6c697</span>
+                                        <span class="message">readme fix</span>
                                     </div>
                                 </div>
                             </section>
@@ -2569,8 +2569,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#18ce8ff</span>
-                                        <span class="message">deploy: 3928ff6c037f13d00807479d1dd07727d646669a</span>
+                                        <span class="sha">#36d9003</span>
+                                        <span class="message">deploy: 7d1b68df24cbbb2ea7d6bdb807371c38622264b3</span>
                                     </div>
                                 </div>
                             </section>
@@ -2586,10 +2586,10 @@
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <span class="sha">#b257e49</span>
-                                        <span class="message">deploy: 04bf6b5aabc4ae367972cbd0b4aeda7478eeaca1</span>
+                                        <span class="sha">#7d1b68d</span>
+                                        <span class="message">deploy: 6cb5bb2a4d8219120172eeba7d7b01c9415fb056</span>
                                     </div>
                                 </div>
                             </section>
@@ -2796,7 +2796,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.26652325191845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27644923349506 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3225,7 +3225,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/08/2021, 17:19 (timezone Europe/Bratislava) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 08/08/2021, 18:26 (timezone Europe/Bratislava) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
