@@ -1,0 +1,16 @@
+name: Labeler
+on:
+  pull_request_review:
+  workflow_dispatch:
+jobs:
+  labelWhenApproved:
+    name: Label when approved
+    runs-on: ubuntu-latest
+    steps:
+    - name: Label when approved
+      uses: pullreminders/label-when-approved-action@master
+      env:
+        APPROVALS: "2"
+        GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        ADD_LABEL: "s:%20approved"
+        REMOVE_LABEL: "s:%20awaiting%20review"
