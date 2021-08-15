@@ -1,0 +1,13 @@
+name: Review
+on: [pull_request]
+jobs:
+  review:
+    name: Review
+    runs-on: ubuntu-latest
+    steps:
+      - name: Review
+        uses: Garlic-Team/Auto-Review@1.0.2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_TYPE: APPROVE
+          MESSAGE: 'Good Job 🐢 🧄'
