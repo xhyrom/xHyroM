@@ -16,6 +16,9 @@ jobs:
           # Options
           user: xHyroM
           template: markdown
+          filename: README.md
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          config_output: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
           plugin_achievements: yes
