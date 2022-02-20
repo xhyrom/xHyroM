@@ -24,6 +24,6 @@ ___
 
 ___
 
-<%- await embed(`achievements`) %>
+<%- await embed(`achievements`, { achievements: true, achievements_secrets: true, achievements_threshold: "C" }) %>
 
 ___
