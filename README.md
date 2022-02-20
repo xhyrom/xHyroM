@@ -1,6 +1,5 @@
 <p align="center">
-    <h1 align="center">Welcome to my github profile</h1>
-    <img style="margin-left: auto; margin-right: auto; display: block;" src="https://avatars.githubusercontent.com/u/64907994" width="192" />
+    <img src="https://avatars.githubusercontent.com/u/64907994" width="192" />
     <h1 align="center">My name is xHyroM 👋</h1>
 </p>
 

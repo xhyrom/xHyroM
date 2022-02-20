@@ -1,6 +1,5 @@
 <p align="center">
-    <h1 align="center">Welcome to my github profile</h1>
-    <img style="margin-left: auto; margin-right: auto; display: block;" src="https://avatars.githubusercontent.com/u/64907994" width="192" />
+    <img src="https://avatars.githubusercontent.com/u/56601352" width="192" alt="hyro's pfp" />
     <h1 align="center">My name is {{ LOGIN }} 👋</h1>
 </p>
 
@@ -22,3 +21,9 @@ ___
 ___
 
 <%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
+
+___
+
+<%- await embed(`achievements`) %>
+
+___
