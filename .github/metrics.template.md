@@ -16,7 +16,7 @@ ___
 
 ___
 
-<%- await embed(`isocalendar`, {isocalendar:true, isocalendar_duration:"full-year", config_display:"large"}) %>
+<%- await embed(`isocalendar`, {isocalendar:true, isocalendar_duration:"half-year", config_display:"large"}) %>
 
 ___
 
