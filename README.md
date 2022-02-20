@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/64907994" width="192" />
+    <img src="https://avatars.githubusercontent.com/u/56601352" width="192" />
     <h1 align="center">My name is xHyroM 👋</h1>
 </p>
 
