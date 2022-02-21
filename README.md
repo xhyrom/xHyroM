@@ -13,16 +13,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-fd2edfad1da75b2afa8613245bab4eee`
+  * [#0efaacf](https://github.com/xHyroM/Muploader/commit/0efaacf) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-PRISMJS-2404333
+* ⏺️ Created new branch snyk-fix-fd2edfad1da75b2afa8613245bab4eee in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
+* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-337198770819e0b66b0ed8844ef8f83c`
+  * [#4f889fd](https://github.com/xHyroM/Shortener/commit/4f889fd) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-PRISMJS-2404333
+* ⏺️ Created new branch snyk-fix-337198770819e0b66b0ed8844ef8f83c in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#bc24a60](https://github.com/Mr-Infinity-Bot/bot/commit/bc24a60) config command
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#8392263](https://github.com/Mr-Infinity-Bot/bot/commit/8392263) better tsconfig, antiinvites, guild settings
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#40993d0](https://github.com/Garlic-Team/gcommands/commit/40993d0) deploy: b7e832eedd841ab5348df9215dbacded8c3b6223
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#aed52db](https://github.com/Mr-Infinity-Bot/bot/commit/aed52db) script for sync bad links
-* 🔃 Merged [#2 fix](https://github.com/Hyro-Blobs/blobs/pull/2) in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs)
-  * 1 file changed `++2 --2`
 
 
 ___
