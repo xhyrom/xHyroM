@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10564` commits.  
+I contributed to `118` repositories and made `10568` commits.  
 
 ___
 
@@ -13,20 +13,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#07b5c06](https://github.com/Hyro-Blobs/blobs/commit/07b5c06) blob 2
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#5921456](https://github.com/Hyro-Blobs/blobs/commit/5921456) hyro_blob_2 to please shit up
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#f419ec5](https://github.com/Hyro-Blobs/blobs/commit/f419ec5) pelase shut up emoji
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#da5f0ab](https://github.com/Hyro-Blobs/blobs/commit/da5f0ab) i love you pepe emoji
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b124de2](https://github.com/xHyroM/covid19-stats/commit/b124de2) 2022/02/21 stats
-* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-fd2edfad1da75b2afa8613245bab4eee`
-  * [#0efaacf](https://github.com/xHyroM/Muploader/commit/0efaacf) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-PRISMJS-2404333
-* ⏺️ Created new branch snyk-fix-fd2edfad1da75b2afa8613245bab4eee in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
-* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-337198770819e0b66b0ed8844ef8f83c`
-  * [#4f889fd](https://github.com/xHyroM/Shortener/commit/4f889fd) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-PRISMJS-2404333
-* ⏺️ Created new branch snyk-fix-337198770819e0b66b0ed8844ef8f83c in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
 
 
 ___
