@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10593` commits.  
+I contributed to `118` repositories and made `10602` commits.  
 
 ___
 
@@ -13,14 +13,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#4b15974](https://github.com/xHyroM/covid19-stats/commit/4b15974) 2022/02/22 stats
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#769ab07](https://github.com/Mr-Infinity-Bot/bot/commit/769ab07) interface
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#e90d6ae](https://github.com/Mr-Infinity-Bot/bot/commit/e90d6ae) channel &amp; message actions
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#c2739bc](https://github.com/Mr-Infinity-Bot/bot/commit/c2739bc) eslint, config command (very good), tons of new features
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#20a9702](https://github.com/Garlic-Team/gcommands/commit/20a9702) deploy: 47a784087014a075c5e59bc35bc03c9f650b414d
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#bded529](https://github.com/Garlic-Team/gcommands/commit/bded529) deploy: aae4a4b586433537b4230176d83cf5200a5c3b9d
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#47a7840](https://github.com/Garlic-Team/gcommands/commit/47a7840) chore(deps): update dependency lru-cache to v7.4.0 (https://github.com/Garlic-Team/gcommands/pull/357)
+
+chore(deps): update dependency lru-cache to v7.4.0
+  * [#be7bf7c](https://github.com/Garlic-Team/gcommands/commit/be7bf7c) chore(deps): update dependency lru-cache to v7.4.0
+* 🔃 Merged [#357 chore(deps): update dependency lru-cache to v7.4.0](https://github.com/Garlic-Team/gcommands/pull/357) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#aae4a4b](https://github.com/Garlic-Team/gcommands/commit/aae4a4b) chore(deps): update dependency @prisma/client to v3.10.0 (https://github.com/Garlic-Team/gcommands/pull/358)
+
+chore(deps): update dependency @prisma/client to v3.10.0
+  * [#3a9bdcc](https://github.com/Garlic-Team/gcommands/commit/3a9bdcc) chore(deps): update dependency @prisma/client to v3.10.0
 
 
 ___
