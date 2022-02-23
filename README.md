@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10696` commits.  
+I contributed to `118` repositories and made `10697` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#4a86bdc](https://github.com/Mr-Infinity-Bot/bot/commit/4a86bdc) feat: channel type
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#fa71a6c](https://github.com/xHyroM/covid19-stats/commit/fa71a6c) 2022/02/23 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
@@ -24,8 +26,6 @@ ___
 
 chore(deps): update dependency lru-cache to v7.4.0
   * [#be7bf7c](https://github.com/Garlic-Team/gcommands/commit/be7bf7c) chore(deps): update dependency lru-cache to v7.4.0
-* 🔃 Merged [#357 chore(deps): update dependency lru-cache to v7.4.0](https://github.com/Garlic-Team/gcommands/pull/357) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
