@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10803` commits.  
+I contributed to `118` repositories and made `10804` commits.  
 
 ___
 
@@ -14,6 +14,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#ce85266](https://github.com/Mr-Infinity-Bot/bot/commit/ce85266) fix: config cmd
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#8687352](https://github.com/Mr-Infinity-Bot/bot/commit/8687352) tag command
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#cf92b6d](https://github.com/xHyroM/covid19-stats/commit/cf92b6d) 2022/02/24 stats
@@ -21,8 +23,6 @@ ___
   * [#91c2df6](https://github.com/Mr-Infinity-Bot/bot/commit/91c2df6) fix
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#cc8abab](https://github.com/Mr-Infinity-Bot/bot/commit/cc8abab) tags, modules, choices
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#33f7a79](https://github.com/Mr-Infinity-Bot/bot/commit/33f7a79) chore: eslint
 
 
 ___
