@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10801` commits.  
+I contributed to `118` repositories and made `10802` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#cf92b6d](https://github.com/xHyroM/covid19-stats/commit/cf92b6d) 2022/02/24 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#91c2df6](https://github.com/Mr-Infinity-Bot/bot/commit/91c2df6) fix
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -21,8 +23,6 @@ ___
   * [#33f7a79](https://github.com/Mr-Infinity-Bot/bot/commit/33f7a79) chore: eslint
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#68f1e0d](https://github.com/Mr-Infinity-Bot/bot/commit/68f1e0d) remove console.log
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#393fc6a](https://github.com/Mr-Infinity-Bot/bot/commit/393fc6a) feat: tag
 
 
 ___
