@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10908` commits.  
+I contributed to `118` repositories and made `10924` commits.  
 
 ___
 
@@ -14,6 +14,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#5400f3c](https://github.com/Mr-Infinity-Bot/bot/commit/5400f3c) fix
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#41f00af](https://github.com/Mr-Infinity-Bot/bot/commit/41f00af) welcome system
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#30e4996](https://github.com/Mr-Infinity-Bot/bot/commit/30e4996) antistickers
 * ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
   * [#ab766b3](https://github.com/Garlic-Team/hyttpo/commit/ab766b3) deploy: f6fd4e00bb19187bf88d6c03a9e9cc11e5f131b6
@@ -22,10 +26,6 @@ ___
 
 chore(deps): update dependency @types/node to v16.11.26
   * [#afdc3ff](https://github.com/Garlic-Team/hyttpo/commit/afdc3ff) chore(deps): update dependency @types/node to v16.11.26
-* 🔃 Merged [#45 chore(deps): update dependency @types/node to v16.11.26](https://github.com/Garlic-Team/hyttpo/pull/45) in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo)
-  * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
-  * [#e8994fa](https://github.com/Garlic-Team/hyttpo/commit/e8994fa) deploy: ff58a97d24ad90f750a1c600492599e2703e7b67
 
 
 ___
