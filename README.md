@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10889` commits.  
+I contributed to `118` repositories and made `10904` commits.  
 
 ___
 
@@ -13,16 +13,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#0749d6d](https://github.com/xHyroM/covid19-stats/commit/0749d6d) 2022/02/25 stats
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#ce85266](https://github.com/Mr-Infinity-Bot/bot/commit/ce85266) fix: config cmd
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#8687352](https://github.com/Mr-Infinity-Bot/bot/commit/8687352) tag command
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#cf92b6d](https://github.com/xHyroM/covid19-stats/commit/cf92b6d) 2022/02/24 stats
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#91c2df6](https://github.com/Mr-Infinity-Bot/bot/commit/91c2df6) fix
+* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
+  * [#ab766b3](https://github.com/Garlic-Team/hyttpo/commit/ab766b3) deploy: f6fd4e00bb19187bf88d6c03a9e9cc11e5f131b6
+* ➡️ Pushed 2 commits in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `master`
+  * [#f6fd4e0](https://github.com/Garlic-Team/hyttpo/commit/f6fd4e0) chore(deps): update dependency @types/node to v16.11.26
+
+chore(deps): update dependency @types/node to v16.11.26
+  * [#afdc3ff](https://github.com/Garlic-Team/hyttpo/commit/afdc3ff) chore(deps): update dependency @types/node to v16.11.26
+* 🔃 Merged [#45 chore(deps): update dependency @types/node to v16.11.26](https://github.com/Garlic-Team/hyttpo/pull/45) in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
+  * [#e8994fa](https://github.com/Garlic-Team/hyttpo/commit/e8994fa) deploy: ff58a97d24ad90f750a1c600492599e2703e7b67
+* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
+  * [#75102f6](https://github.com/Garlic-Team/hyttpo/commit/75102f6) deploy: e51db97be49e3e1ef46e8e9c71bb375ed3fb1971
 
 
 ___
