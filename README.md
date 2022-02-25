@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `10904` commits.  
+I contributed to `118` repositories and made `10908` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#30e4996](https://github.com/Mr-Infinity-Bot/bot/commit/30e4996) antistickers
 * ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
   * [#ab766b3](https://github.com/Garlic-Team/hyttpo/commit/ab766b3) deploy: f6fd4e00bb19187bf88d6c03a9e9cc11e5f131b6
 * ➡️ Pushed 2 commits in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `master`
@@ -24,8 +26,6 @@ chore(deps): update dependency @types/node to v16.11.26
   * 2 files changed `++8 --8`
 * ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
   * [#e8994fa](https://github.com/Garlic-Team/hyttpo/commit/e8994fa) deploy: ff58a97d24ad90f750a1c600492599e2703e7b67
-* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
-  * [#75102f6](https://github.com/Garlic-Team/hyttpo/commit/75102f6) deploy: e51db97be49e3e1ef46e8e9c71bb375ed3fb1971
 
 
 ___
