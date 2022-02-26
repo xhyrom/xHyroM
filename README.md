@@ -13,6 +13,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5a16dee](https://github.com/xHyroM/covid19-stats/commit/5a16dee) 2022/02/26 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -21,8 +22,6 @@ ___
   * [#41f00af](https://github.com/Mr-Infinity-Bot/bot/commit/41f00af) welcome system
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#30e4996](https://github.com/Mr-Infinity-Bot/bot/commit/30e4996) antistickers
-* ➡️ Pushed 1 commit in [Garlic-Team/hyttpo](https://github.com/Garlic-Team/hyttpo) on branch `docs`
-  * [#ab766b3](https://github.com/Garlic-Team/hyttpo/commit/ab766b3) deploy: f6fd4e00bb19187bf88d6c03a9e9cc11e5f131b6
 
 
 ___
