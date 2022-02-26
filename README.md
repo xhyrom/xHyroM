@@ -13,6 +13,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1 how about to change the title?](https://github.com/SlenkyDev/StopRussia.net.ua/issues/1) from [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
 * 🌟 Starred [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5a16dee](https://github.com/xHyroM/covid19-stats/commit/5a16dee) 2022/02/26 stats
@@ -20,8 +21,6 @@ ___
   * [#5400f3c](https://github.com/Mr-Infinity-Bot/bot/commit/5400f3c) fix
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#41f00af](https://github.com/Mr-Infinity-Bot/bot/commit/41f00af) welcome system
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#30e4996](https://github.com/Mr-Infinity-Bot/bot/commit/30e4996) antistickers
 
 
 ___
