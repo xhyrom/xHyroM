@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `11299` commits.  
+I contributed to `118` repositories and made `11300` commits.  
 
 ___
 
@@ -14,13 +14,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#bedc837](https://github.com/xHyroM/covid19-stats/commit/bedc837) 2022/03/02 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#90b8ed7](https://github.com/xHyroM/covid19-stats/commit/90b8ed7) 2022/03/01 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#67a0bdf](https://github.com/xHyroM/covid19-stats/commit/67a0bdf) 2022/02/28 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#d8aa0c2](https://github.com/xHyroM/covid19-stats/commit/d8aa0c2) 2022/02/27 stats
 * 💬 Commented on [#1 how about to change the title?](https://github.com/SlenkyDev/StopRussia.net.ua/issues/1) from [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
-* 🌟 Starred [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
 
 
 ___
