@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `118` repositories and made `11422` commits.  
+I contributed to `120` repositories and made `11422` commits.  
 
 ___
 
@@ -13,15 +13,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#bedc837](https://github.com/xHyroM/covid19-stats/commit/bedc837) 2022/03/02 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#90b8ed7](https://github.com/xHyroM/covid19-stats/commit/90b8ed7) 2022/03/01 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#67a0bdf](https://github.com/xHyroM/covid19-stats/commit/67a0bdf) 2022/02/28 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#d8aa0c2](https://github.com/xHyroM/covid19-stats/commit/d8aa0c2) 2022/02/27 stats
-* 💬 Commented on [#1 how about to change the title?](https://github.com/SlenkyDev/StopRussia.net.ua/issues/1) from [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#79be40c](https://github.com/Garlic-Team/gcommands/commit/79be40c) deploy: 5e65b6e5cf5ba552f43bfc015b411811d28aebe8
+* 🔃 Opened [#23 chore: update organization](https://github.com/SlenkyDev/StopRussia.net.ua/pull/23) in [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua)
+  * 4 files changed `++0 --203`
+* ➡️ Pushed 1 commit in [xHyroM/StopRussia.net.ua](https://github.com/xHyroM/StopRussia.net.ua) on branch `chore/organization`
+  * [#ea29d0b](https://github.com/xHyroM/StopRussia.net.ua/commit/ea29d0b) Delete dist directory
+* ⏺️ Created new branch chore/organization in [xHyroM/StopRussia.net.ua](https://github.com/xHyroM/StopRussia.net.ua)
+* 🍽️ Forked [SlenkyDev/StopRussia.net.ua](https://github.com/SlenkyDev/StopRussia.net.ua) to [xHyroM/StopRussia.net.ua](https://github.com/xHyroM/StopRussia.net.ua)
 
 
 ___
