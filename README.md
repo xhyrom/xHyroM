@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11472` commits.  
+I contributed to `120` repositories and made `11494` commits.  
 
 ___
 
@@ -14,15 +14,18 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#912b962](https://github.com/Mr-Infinity-Bot/bot/commit/912b962) feat: canvas welcome system
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#a8346cf](https://github.com/Garlic-Team/gcommands/commit/a8346cf) deploy: b50a1b2c38dd2c443a99b01e8ed80da7da207957
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#b50a1b2](https://github.com/Garlic-Team/gcommands/commit/b50a1b2) chore(deps): update dependency mongodb to v4.4.1
+
+chore(deps): update dependency mongodb to v4.4.1
+  * [#7421096](https://github.com/Garlic-Team/gcommands/commit/7421096) chore(deps): update dependency mongodb to v4.4.1
+* 🔃 Merged [#367 chore(deps): update dependency mongodb to v4.4.1](https://github.com/Garlic-Team/gcommands/pull/367) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++26 --26`
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#7819799](https://github.com/Mr-Infinity-Bot/bot/commit/7819799) info command
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#bedb0b5](https://github.com/Mr-Infinity-Bot/bot/commit/bedb0b5) add server.id
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#8c78ca0](https://github.com/Mr-Infinity-Bot/bot/commit/8c78ca0) eslint
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#beeb8ac](https://github.com/Mr-Infinity-Bot/bot/commit/beeb8ac) feat: verify system -&gt; done
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#5d1469e](https://github.com/Mr-Infinity-Bot/bot/commit/5d1469e) feat: verify system
 
 
 ___
