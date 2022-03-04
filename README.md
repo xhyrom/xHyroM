@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11573` commits.  
+I contributed to `120` repositories and made `11582` commits.  
 
 ___
 
@@ -13,16 +13,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/Mr-Infinity-Bot.github.io](https://github.com/Mr-Infinity-Bot/Mr-Infinity-Bot.github.io) on branch `gh-pages`
+  * [#d92a7d3](https://github.com/Mr-Infinity-Bot/Mr-Infinity-Bot.github.io/commit/d92a7d3) Update index.md
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#2db2ef1](https://github.com/Mr-Infinity-Bot/bot/commit/2db2ef1) searchTa
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#4fccd54](https://github.com/Mr-Infinity-Bot/bot/commit/4fccd54) custom_node_modules -&gt; forked node modules with some changes, run command
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#9bbc1ba](https://github.com/Mr-Infinity-Bot/bot/commit/9bbc1ba) fix: info user, role
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b2f91fd](https://github.com/Mr-Infinity-Bot/bot/commit/b2f91fd) info command, strike (not done), weather, shard types, upperSnakeCaseToPascalCase
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b049ec0](https://github.com/Mr-Infinity-Bot/bot/commit/b049ec0) help command, strike (not done), eval, ping, antijoin, extend command, markdown builder, searchComamnd
 
 
 ___
