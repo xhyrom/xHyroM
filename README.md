@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11558` commits.  
+I contributed to `120` repositories and made `11570` commits.  
 
 ___
 
@@ -14,6 +14,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#2db2ef1](https://github.com/Mr-Infinity-Bot/bot/commit/2db2ef1) searchTa
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#4fccd54](https://github.com/Mr-Infinity-Bot/bot/commit/4fccd54) custom_node_modules -&gt; forked node modules with some changes, run command
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#9bbc1ba](https://github.com/Mr-Infinity-Bot/bot/commit/9bbc1ba) fix: info user, role
@@ -21,8 +23,6 @@ ___
   * [#b2f91fd](https://github.com/Mr-Infinity-Bot/bot/commit/b2f91fd) info command, strike (not done), weather, shard types, upperSnakeCaseToPascalCase
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#b049ec0](https://github.com/Mr-Infinity-Bot/bot/commit/b049ec0) help command, strike (not done), eval, ping, antijoin, extend command, markdown builder, searchComamnd
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#0422015](https://github.com/xHyroM/covid19-stats/commit/0422015) 2022/03/04 stats
 
 
 ___
