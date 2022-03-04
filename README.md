@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11542` commits.  
+I contributed to `120` repositories and made `11543` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#b049ec0](https://github.com/Mr-Infinity-Bot/bot/commit/b049ec0) help command, strike (not done), eval, ping, antijoin, extend command, markdown builder, searchComamnd
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#0422015](https://github.com/xHyroM/covid19-stats/commit/0422015) 2022/03/04 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -24,8 +26,6 @@ ___
 
 chore(deps): update dependency mongodb to v4.4.1
   * [#7421096](https://github.com/Garlic-Team/gcommands/commit/7421096) chore(deps): update dependency mongodb to v4.4.1
-* 🔃 Merged [#367 chore(deps): update dependency mongodb to v4.4.1](https://github.com/Garlic-Team/gcommands/pull/367) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++26 --26`
 
 
 ___
