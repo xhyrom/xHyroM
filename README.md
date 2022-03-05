@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11633` commits.  
+I contributed to `120` repositories and made `11634` commits.  
 
 ___
 
@@ -13,16 +13,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#8e4ff9d](https://github.com/Mr-Infinity-Bot/bot/commit/8e4ff9d) Merge pull request #1 from Mr-Infinity-Bot/renovate/configure
+
+Configure Renovate
+  * [#35a727f](https://github.com/Mr-Infinity-Bot/bot/commit/35a727f) chore(deps): add renovate.json
+* 🔃 Merged [#1 Configure Renovate](https://github.com/Mr-Infinity-Bot/bot/pull/1) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
+  * 1 file changed `++5 --0`
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#24fd2dd](https://github.com/Mr-Infinity-Bot/bot/commit/24fd2dd) chore: eslintos
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#d5834a9](https://github.com/Mr-Infinity-Bot/bot/commit/d5834a9) guildDelete, remove everything about guild from db
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#eaeeccc](https://github.com/xHyroM/covid19-stats/commit/eaeeccc) 2022/03/05 stats
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#1ca0cc2](https://github.com/Mr-Infinity-Bot/bot/commit/1ca0cc2) ExtendedTextBasedChannel
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#7d2f542](https://github.com/Mr-Infinity-Bot/bot/commit/7d2f542) improve antispam
 
 
 ___
