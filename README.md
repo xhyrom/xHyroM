@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11634` commits.  
+I contributed to `121` repositories and made `11638` commits.  
 
 ___
 
@@ -13,17 +13,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#8e4ff9d](https://github.com/Mr-Infinity-Bot/bot/commit/8e4ff9d) Merge pull request #1 from Mr-Infinity-Bot/renovate/configure
-
-Configure Renovate
-  * [#35a727f](https://github.com/Mr-Infinity-Bot/bot/commit/35a727f) chore(deps): add renovate.json
-* 🔃 Merged [#1 Configure Renovate](https://github.com/Mr-Infinity-Bot/bot/pull/1) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-  * 1 file changed `++5 --0`
+* ⏺️ Created new branch master in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#24fd2dd](https://github.com/Mr-Infinity-Bot/bot/commit/24fd2dd) chore: eslintos
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#d5834a9](https://github.com/Mr-Infinity-Bot/bot/commit/d5834a9) guildDelete, remove everything about guild from db
+  * [#3dca74e](https://github.com/Mr-Infinity-Bot/bot/commit/3dca74e) update shard,clusterCount
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
+  * [#2f345d4](https://github.com/xHyroM/InfinityNextGen/commit/2f345d4) Update client.js
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
+  * [#8c3a9e1](https://github.com/xHyroM/InfinityNextGen/commit/8c3a9e1) Update index.js
 
 
 ___
