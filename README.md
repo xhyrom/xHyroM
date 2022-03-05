@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `120` repositories and made `11624` commits.  
+I contributed to `120` repositories and made `11631` commits.  
 
 ___
 
@@ -13,15 +13,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#eaeeccc](https://github.com/xHyroM/covid19-stats/commit/eaeeccc) 2022/03/05 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#d5b3b3c](https://github.com/Mr-Infinity-Bot/bot/commit/d5b3b3c) fix: run cmd
+  * [#1ca0cc2](https://github.com/Mr-Infinity-Bot/bot/commit/1ca0cc2) ExtendedTextBasedChannel
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#55cc5f0](https://github.com/Mr-Infinity-Bot/bot/commit/55cc5f0) fix: run cmd
+  * [#7d2f542](https://github.com/Mr-Infinity-Bot/bot/commit/7d2f542) improve antispam
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#43e3cee](https://github.com/Mr-Infinity-Bot/bot/commit/43e3cee) feat: strike command -&gt; done
-* ⏺️ Created new repository  [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/Mr-Infinity-Bot.github.io](https://github.com/Mr-Infinity-Bot/Mr-Infinity-Bot.github.io) on branch `gh-pages`
-  * [#d92a7d3](https://github.com/Mr-Infinity-Bot/Mr-Infinity-Bot.github.io/commit/d92a7d3) Update index.md
+  * [#6286e94](https://github.com/Mr-Infinity-Bot/bot/commit/6286e94) improve antispam
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#9143892](https://github.com/Mr-Infinity-Bot/bot/commit/9143892) fix detectedRaid
 
 
 ___
