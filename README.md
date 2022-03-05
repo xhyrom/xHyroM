@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `121` repositories and made `11677` commits.  
+I contributed to `121` repositories and made `11681` commits.  
 
 ___
 
@@ -13,19 +13,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status) on branch `master`
+  * [#8dacb19](https://github.com/Mr-Infinity-Bot/status/commit/8dacb19) Merge pull request #6 from Mr-Infinity-Bot/renovate/actions-setup-node-3.x
+
+Update actions/setup-node action to v3
+  * [#fdda62e](https://github.com/Mr-Infinity-Bot/status/commit/fdda62e) Update actions/setup-node action to v3
+* 🔃 Merged [#6 Update actions/setup-node action to v3](https://github.com/Mr-Infinity-Bot/status/pull/6) in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status) on branch `master`
+  * [#891db92](https://github.com/Mr-Infinity-Bot/status/commit/891db92) Merge pull request #5 from Mr-Infinity-Bot/renovate/actions-checkout-3.x
+
+Update actions/checkout action to v3
+  * [#18ff7c4](https://github.com/Mr-Infinity-Bot/status/commit/18ff7c4) Update actions/checkout action to v3
+* 🔃 Merged [#5 Update actions/checkout action to v3](https://github.com/Mr-Infinity-Bot/status/pull/5) in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
+  * 1 file changed `++1 --1`
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#3b44446](https://github.com/Mr-Infinity-Bot/bot/commit/3b44446) banMemberDetection -&gt; name + pfp
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#0346700](https://github.com/Mr-Infinity-Bot/bot/commit/0346700) audit log, error handling
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#a1631ca](https://github.com/Garlic-Team/gcommands-addons/commit/a1631ca) chore(deps): update typescript-eslint monorepo to v5.13.0
-
-chore(deps): update typescript-eslint monorepo to v5.13.0
-  * [#6b9351a](https://github.com/Garlic-Team/gcommands-addons/commit/6b9351a) chore(deps): update typescript-eslint monorepo to v5.13.0
-* 🔃 Merged [#25 chore(deps): update typescript-eslint monorepo to v5.13.0](https://github.com/Garlic-Team/gcommands-addons/pull/25) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-  * 2 files changed `++82 --82`
-* 🔃 Merged [#26 chore(deps): update dependency typescript to v4.6.2](https://github.com/Garlic-Team/gcommands-addons/pull/26) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-  * 12 files changed `++80 --70`
 
 
 ___
