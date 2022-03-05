@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `121` repositories and made `11638` commits.  
+I contributed to `121` repositories and made `11640` commits.  
 
 ___
 
@@ -13,13 +13,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status) on branch `master`
+  * [#052b2e9](https://github.com/Mr-Infinity-Bot/status/commit/052b2e9) Merge pull request #1 from Mr-Infinity-Bot/renovate/configure
+
+Configure Renovate
+  * [#6502806](https://github.com/Mr-Infinity-Bot/status/commit/6502806) Add renovate.json
+* 🔃 Merged [#1 Configure Renovate](https://github.com/Mr-Infinity-Bot/status/pull/1) in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
+  * 1 file changed `++5 --0`
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status) on branch `master`
+  * [#be3a97e](https://github.com/Mr-Infinity-Bot/status/commit/be3a97e) status page
 * ⏺️ Created new branch master in [Mr-Infinity-Bot/status](https://github.com/Mr-Infinity-Bot/status)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#3dca74e](https://github.com/Mr-Infinity-Bot/bot/commit/3dca74e) update shard,clusterCount
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
-  * [#2f345d4](https://github.com/xHyroM/InfinityNextGen/commit/2f345d4) Update client.js
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
-  * [#8c3a9e1](https://github.com/xHyroM/InfinityNextGen/commit/8c3a9e1) Update index.js
 
 
 ___
