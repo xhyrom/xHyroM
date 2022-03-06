@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11697` commits.  
+I contributed to `124` repositories and made `11705` commits.  
 
 ___
 
@@ -13,14 +13,25 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#de44939](https://github.com/Mr-Infinity-Bot/bot/commit/de44939) remove test.png
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
-  * [#339026e](https://github.com/Mr-Infinity-Bot/api/commit/339026e) readme
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#8d4cf0b](https://github.com/Mr-Infinity-Bot/bot/commit/8d4cf0b) chore: eslint, TODO: integrate new tensorflow api
-* ⏺️ Created new branch master in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api)
-* ⏺️ Created new repository  [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api)
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#a29ade1](https://github.com/Mr-Infinity-Bot/bot/commit/a29ade1) Merge pull request #5 from Mr-Infinity-Bot/renovate/discord-api-types-0.x
+
+chore(deps): update dependency discord-api-types to v0.27.3
+  * [#83be636](https://github.com/Mr-Infinity-Bot/bot/commit/83be636) chore(deps): update dependency discord-api-types to v0.27.3
+* 🔃 Merged [#5 chore(deps): update dependency discord-api-types to v0.27.3](https://github.com/Mr-Infinity-Bot/bot/pull/5) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
+  * 2 files changed `++9 --9`
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#5aea7cd](https://github.com/Mr-Infinity-Bot/bot/commit/5aea7cd) Merge pull request #3 from Mr-Infinity-Bot/renovate/babel-monorepo
+
+chore(deps): update dependency @babel/cli to v7.17.6
+  * [#d5687ad](https://github.com/Mr-Infinity-Bot/bot/commit/d5687ad) chore(deps): update dependency @babel/cli to v7.17.6
+* 🔃 Merged [#3 chore(deps): update dependency @babel/cli to v7.17.6](https://github.com/Mr-Infinity-Bot/bot/pull/3) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#50fb3a4](https://github.com/Mr-Infinity-Bot/bot/commit/50fb3a4) Merge pull request #8 from Mr-Infinity-Bot/renovate/eslint-config-prettier-8.x
+
+chore(deps): update dependency eslint-config-prettier to v8.5.0
+  * [#3d7e59f](https://github.com/Mr-Infinity-Bot/bot/commit/3d7e59f) chore(deps): update dependency eslint-config-prettier to v8.5.0
 
 
 ___
