@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11697` commits.  
+I contributed to `124` repositories and made `11704` commits.  
 
 ___
 
@@ -13,18 +13,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#5b24ddc](https://github.com/Garlic-Team/gcommands/commit/5b24ddc) deploy: bd885561172b532f2d64e37937c872a15c1751e5
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#bd88556](https://github.com/Garlic-Team/gcommands/commit/bd88556) chore(deps): update dependency lru-cache to v7.4.1
+* ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
+  * [#42036ce](https://github.com/xHyroM/DirectLinks/commit/42036ce) deploy: 5af12c3ce6034d12bfd39561fbbcc7f765d6a115
+* ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
+  * [#5af12c3](https://github.com/xHyroM/DirectLinks/commit/5af12c3) fix: json
+* ➡️ Pushed 2 commits in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
+  * [#449254b](https://github.com/xHyroM/DirectLinks/commit/449254b) Chrome for Windows XP
 
-chore(deps): update dependency lru-cache to v7.4.1
-  * [#8bf6bb4](https://github.com/Garlic-Team/gcommands/commit/8bf6bb4) chore(deps): update dependency lru-cache to v7.4.1
-* 🔃 Merged [#369 chore(deps): update dependency lru-cache to v7.4.1](https://github.com/Garlic-Team/gcommands/pull/369) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
-* 🔍 Reviewed [#8 fix: Edited yarn to pnpm on line 25](https://github.com/Garlic-Team/website/pull/8) in [Garlic-Team/website](https://github.com/Garlic-Team/website)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#e5c0173](https://github.com/xHyroM/covid19-stats/commit/e5c0173) 2022/03/07 stats
+Chrome for Windows XP
+  * [#5b5e085](https://github.com/xHyroM/DirectLinks/commit/5b5e085) Chrome for Windows XP
+* 🔃 Merged [#36 Chrome for Windows XP](https://github.com/xHyroM/DirectLinks/pull/36) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
+  * 1 file changed `++9 --1`
+* 🔍 Reviewed [#36 Chrome for Windows XP](https://github.com/xHyroM/DirectLinks/pull/36) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
 
 
 ___
