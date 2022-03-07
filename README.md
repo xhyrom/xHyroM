@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11718` commits.  
+I contributed to `124` repositories and made `11725` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#897de30](https://github.com/Mr-Infinity-Bot/bot/commit/897de30) currency cmd
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
   * [#56e72a7](https://github.com/Mr-Infinity-Bot/api/commit/56e72a7) chore: eslint
 * ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -21,8 +23,6 @@ ___
   * [#eef3adb](https://github.com/Mr-Infinity-Bot/api/commit/eef3adb) currency route
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
   * [#02e9b77](https://github.com/Mr-Infinity-Bot/api/commit/02e9b77) fix: toxic route
-* ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
-  * [#42036ce](https://github.com/xHyroM/DirectLinks/commit/42036ce) deploy: 5af12c3ce6034d12bfd39561fbbcc7f765d6a115
 
 
 ___
