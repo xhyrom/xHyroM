@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11725` commits.  
+I contributed to `124` repositories and made `11726` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
+  * [#3ea02bb](https://github.com/Mr-Infinity-Bot/api/commit/3ea02bb) graph for currency
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#897de30](https://github.com/Mr-Infinity-Bot/bot/commit/897de30) currency cmd
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
@@ -21,8 +23,6 @@ ___
   * [#b9cb6be](https://github.com/Mr-Infinity-Bot/bot/commit/b9cb6be) Merge branch &#39;master&#39; of https://github.com/Mr-Infinity-Bot/bot
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
   * [#eef3adb](https://github.com/Mr-Infinity-Bot/api/commit/eef3adb) currency route
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
-  * [#02e9b77](https://github.com/Mr-Infinity-Bot/api/commit/02e9b77) fix: toxic route
 
 
 ___
