@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11695` commits.  
+I contributed to `124` repositories and made `11696` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#e5c0173](https://github.com/xHyroM/covid19-stats/commit/e5c0173) 2022/03/07 stats
 * ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#a29ade1](https://github.com/Mr-Infinity-Bot/bot/commit/a29ade1) Merge pull request #5 from Mr-Infinity-Bot/renovate/discord-api-types-0.x
 
@@ -27,11 +29,6 @@ chore(deps): update dependency @babel/cli to v7.17.6
   * [#d5687ad](https://github.com/Mr-Infinity-Bot/bot/commit/d5687ad) chore(deps): update dependency @babel/cli to v7.17.6
 * 🔃 Merged [#3 chore(deps): update dependency @babel/cli to v7.17.6](https://github.com/Mr-Infinity-Bot/bot/pull/3) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
   * 2 files changed `++8 --8`
-* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#50fb3a4](https://github.com/Mr-Infinity-Bot/bot/commit/50fb3a4) Merge pull request #8 from Mr-Infinity-Bot/renovate/eslint-config-prettier-8.x
-
-chore(deps): update dependency eslint-config-prettier to v8.5.0
-  * [#3d7e59f](https://github.com/Mr-Infinity-Bot/bot/commit/3d7e59f) chore(deps): update dependency eslint-config-prettier to v8.5.0
 
 
 ___
