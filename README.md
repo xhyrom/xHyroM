@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11704` commits.  
+I contributed to `124` repositories and made `11706` commits.  
 
 ___
 
@@ -13,6 +13,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
+  * [#eef3adb](https://github.com/Mr-Infinity-Bot/api/commit/eef3adb) currency route
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
+  * [#02e9b77](https://github.com/Mr-Infinity-Bot/api/commit/02e9b77) fix: toxic route
 * ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
   * [#42036ce](https://github.com/xHyroM/DirectLinks/commit/42036ce) deploy: 5af12c3ce6034d12bfd39561fbbcc7f765d6a115
 * ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
@@ -22,9 +26,6 @@ ___
 
 Chrome for Windows XP
   * [#5b5e085](https://github.com/xHyroM/DirectLinks/commit/5b5e085) Chrome for Windows XP
-* 🔃 Merged [#36 Chrome for Windows XP](https://github.com/xHyroM/DirectLinks/pull/36) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
-  * 1 file changed `++9 --1`
-* 🔍 Reviewed [#36 Chrome for Windows XP](https://github.com/xHyroM/DirectLinks/pull/36) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
 
 
 ___
