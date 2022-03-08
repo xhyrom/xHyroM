@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11784` commits.  
+I contributed to `124` repositories and made `11790` commits.  
 
 ___
 
@@ -13,16 +13,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#929b2d4](https://github.com/Mr-Infinity-Bot/bot/commit/929b2d4) fix: currency command + support for charts
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
+  * [#33cf2c2](https://github.com/Mr-Infinity-Bot/api/commit/33cf2c2) better
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#eba84b1](https://github.com/xHyroM/covid19-stats/commit/eba84b1) 2022/03/08 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
   * [#3ea02bb](https://github.com/Mr-Infinity-Bot/api/commit/3ea02bb) graph for currency
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#897de30](https://github.com/Mr-Infinity-Bot/bot/commit/897de30) currency cmd
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
-  * [#56e72a7](https://github.com/Mr-Infinity-Bot/api/commit/56e72a7) chore: eslint
-* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b9cb6be](https://github.com/Mr-Infinity-Bot/bot/commit/b9cb6be) Merge branch &#39;master&#39; of https://github.com/Mr-Infinity-Bot/bot
 
 
 ___
