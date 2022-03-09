@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `11924` commits.  
+I contributed to `124` repositories and made `11937` commits.  
 
 ___
 
@@ -13,16 +13,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#6564ffe](https://github.com/Mr-Infinity-Bot/bot/commit/6564ffe) some fixes
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#97f982d](https://github.com/Mr-Infinity-Bot/bot/commit/97f982d) birthday command fix
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#53e904c](https://github.com/Mr-Infinity-Bot/bot/commit/53e904c) custom message in birthday system
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#dda32d2](https://github.com/Mr-Infinity-Bot/bot/commit/dda32d2) autocrossposting
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#ca754c7](https://github.com/Garlic-Team/gcommands/commit/ca754c7) deploy: e6476edfb62456e6766c0e60bc39fbb42fe11ce3
+  * [#6968177](https://github.com/Garlic-Team/gcommands/commit/6968177) deploy: 0c7731cd8bd3f533d373db411403a74c6b9715b4
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#0c7731c](https://github.com/Garlic-Team/gcommands/commit/0c7731c) fix(deps): discord-api-types back to 0.26.1
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#de97d8e](https://github.com/Garlic-Team/gcommands/commit/de97d8e) chore(deps): update dependency lru-cache to v7.4.2
+
+chore(deps): update dependency lru-cache to v7.4.2
+  * [#63ea8e7](https://github.com/Garlic-Team/gcommands/commit/63ea8e7) chore(deps): update dependency lru-cache to v7.4.2
+* 🔃 Merged [#372 chore(deps): update dependency lru-cache to v7.4.2](https://github.com/Garlic-Team/gcommands/pull/372) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#3196c8c](https://github.com/Garlic-Team/gcommands/commit/3196c8c) deploy: 77ee33bda951bae09f7253aed67e5ffbcd1848ab
 
 
 ___
