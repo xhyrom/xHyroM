@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `12039` commits.  
+I contributed to `124` repositories and made `12040` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#6763f1a](https://github.com/xHyroM/covid19-stats/commit/6763f1a) 2022/03/10 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#6968177](https://github.com/Garlic-Team/gcommands/commit/6968177) deploy: 0c7731cd8bd3f533d373db411403a74c6b9715b4
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -24,8 +26,6 @@ chore(deps): update dependency lru-cache to v7.4.2
   * [#63ea8e7](https://github.com/Garlic-Team/gcommands/commit/63ea8e7) chore(deps): update dependency lru-cache to v7.4.2
 * 🔃 Merged [#372 chore(deps): update dependency lru-cache to v7.4.2](https://github.com/Garlic-Team/gcommands/pull/372) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#3196c8c](https://github.com/Garlic-Team/gcommands/commit/3196c8c) deploy: 77ee33bda951bae09f7253aed67e5ffbcd1848ab
 
 
 ___
