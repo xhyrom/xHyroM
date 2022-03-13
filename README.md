@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12326` commits.  
+I contributed to `125` repositories and made `12329` commits.  
 
 ___
 
@@ -14,15 +14,21 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#642a8b2](https://github.com/Mr-Infinity-Bot/bot/commit/642a8b2) ecosys
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#e348566](https://github.com/Mr-Infinity-Bot/bot/commit/e348566) blackwords, temprole
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#323e7ee](https://github.com/xHyroM/covid19-stats/commit/323e7ee) 2022/03/13 stats
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#3a8719a](https://github.com/xHyroM/typing-test/commit/3a8719a) fix
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#e065e9c](https://github.com/xHyroM/typing-test/commit/e065e9c) asd
+  * [#aabf7aa](https://github.com/Mr-Infinity-Bot/bot/commit/aabf7aa) temp voice channels
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
+  * [#152348a](https://github.com/Garlic-Team/gcommands-addons/commit/152348a) chore(deps): update dependency gcommands to v9.1.0
+
+chore(deps): update dependency gcommands to v9.1.0
+  * [#26f0ba1](https://github.com/Garlic-Team/gcommands-addons/commit/26f0ba1) chore(deps): update dependency gcommands to v9.1.0
+* 🔃 Merged [#30 chore(deps): update dependency gcommands to v9.1.0](https://github.com/Garlic-Team/gcommands-addons/pull/30) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
+  * 12 files changed `++306 --846`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
+  * [#3806849](https://github.com/Garlic-Team/gcommands-addons/commit/3806849) chore(deps): update dependency eslint to v8.11.0
+
+chore(deps): update dependency eslint to v8.11.0
+  * [#7e7ef42](https://github.com/Garlic-Team/gcommands-addons/commit/7e7ef42) chore(deps): update dependency eslint to v8.11.0
+* 🔃 Merged [#24 chore(deps): update dependency eslint to v8.11.0](https://github.com/Garlic-Team/gcommands-addons/pull/24) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
+  * 2 files changed `++18 --35`
 
 
 ___
