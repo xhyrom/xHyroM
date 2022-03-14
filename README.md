@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12362` commits.  
+I contributed to `125` repositories and made `12375` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
+  * [#a4d2042](https://github.com/xHyroM/InfinityNextGen/commit/a4d2042) Update verifysystem.js
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#cc69189](https://github.com/Mr-Infinity-Bot/bot/commit/cc69189) fix: gw cmd
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -21,8 +23,6 @@ ___
   * [#4df1a56](https://github.com/xHyroM/typing-test/commit/4df1a56) Delete tsconfig.tsbuildinfo
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#46057cc](https://github.com/Mr-Infinity-Bot/bot/commit/46057cc) giveaway system, etc
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#aabf7aa](https://github.com/Mr-Infinity-Bot/bot/commit/aabf7aa) temp voice channels
 
 
 ___
