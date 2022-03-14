@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12316` commits.  
+I contributed to `125` repositories and made `12317` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
+  * [#4df1a56](https://github.com/xHyroM/typing-test/commit/4df1a56) Delete tsconfig.tsbuildinfo
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#46057cc](https://github.com/Mr-Infinity-Bot/bot/commit/46057cc) giveaway system, etc
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -24,11 +26,6 @@ chore(deps): update dependency gcommands to v9.1.0
   * [#26f0ba1](https://github.com/Garlic-Team/gcommands-addons/commit/26f0ba1) chore(deps): update dependency gcommands to v9.1.0
 * 🔃 Merged [#30 chore(deps): update dependency gcommands to v9.1.0](https://github.com/Garlic-Team/gcommands-addons/pull/30) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
   * 12 files changed `++306 --846`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#3806849](https://github.com/Garlic-Team/gcommands-addons/commit/3806849) chore(deps): update dependency eslint to v8.11.0
-
-chore(deps): update dependency eslint to v8.11.0
-  * [#7e7ef42](https://github.com/Garlic-Team/gcommands-addons/commit/7e7ef42) chore(deps): update dependency eslint to v8.11.0
 
 
 ___
