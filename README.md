@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12318` commits.  
+I contributed to `125` repositories and made `12328` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#cc69189](https://github.com/Mr-Infinity-Bot/bot/commit/cc69189) fix: gw cmd
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#1c5a310](https://github.com/xHyroM/covid19-stats/commit/1c5a310) 2022/03/14 stats
 * ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
@@ -21,11 +23,6 @@ ___
   * [#46057cc](https://github.com/Mr-Infinity-Bot/bot/commit/46057cc) giveaway system, etc
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#aabf7aa](https://github.com/Mr-Infinity-Bot/bot/commit/aabf7aa) temp voice channels
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#152348a](https://github.com/Garlic-Team/gcommands-addons/commit/152348a) chore(deps): update dependency gcommands to v9.1.0
-
-chore(deps): update dependency gcommands to v9.1.0
-  * [#26f0ba1](https://github.com/Garlic-Team/gcommands-addons/commit/26f0ba1) chore(deps): update dependency gcommands to v9.1.0
 
 
 ___
