@@ -13,14 +13,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-1a5b279c894d37e30021ddd5ca06f095`
+  * [#6da0543](https://github.com/xHyroM/github-bucket/commit/6da0543) fix: Dockerfile to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-DEBIAN11-GNUTLS28-2419151
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2388380
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2426309
+- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
+- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
+* ⏺️ Created new branch snyk-fix-1a5b279c894d37e30021ddd5ca06f095 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#ae0b482](https://github.com/xHyroM/covid19-stats/commit/ae0b482) 2022/03/17 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c9ae36f](https://github.com/xHyroM/covid19-stats/commit/c9ae36f) 2022/03/16 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8916e64](https://github.com/xHyroM/covid19-stats/commit/8916e64) 2022/03/15 stats
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
-  * [#a4d2042](https://github.com/xHyroM/InfinityNextGen/commit/a4d2042) Update verifysystem.js
 
 
 ___
