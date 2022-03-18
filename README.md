@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12793` commits.  
+I contributed to `125` repositories and made `12829` commits.  
 
 ___
 
@@ -21,8 +21,6 @@ ___
   * [#8916e64](https://github.com/xHyroM/covid19-stats/commit/8916e64) 2022/03/15 stats
 * ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
   * [#a4d2042](https://github.com/xHyroM/InfinityNextGen/commit/a4d2042) Update verifysystem.js
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#cc69189](https://github.com/Mr-Infinity-Bot/bot/commit/cc69189) fix: gw cmd
 
 
 ___
