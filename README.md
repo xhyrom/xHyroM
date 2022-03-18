@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12847` commits.  
+I contributed to `125` repositories and made `12848` commits.  
 
 ___
 
@@ -14,18 +14,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#78c6c67](https://github.com/Garlic-Team/gcommands/commit/78c6c67) deploy: 7c76b0b8e73d3da562e2ac33c6a64c3b66c999ef
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#c091126](https://github.com/Garlic-Team/gcommands/commit/c091126) deploy: ade18facbbe77bf83aba7711ea95e9e6b3040dfd
+  * [#3effeee](https://github.com/Garlic-Team/gcommands/commit/3effeee) deploy: 88ea7c37adf3364d4b9acd172a4cd16d73881ecd
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `v9`
+  * [#7ccb78d](https://github.com/Garlic-Team/gcommands/commit/7ccb78d) chore: up version
+* 🔃 Merged [#380 chore(deps): update dependency @types/keyv to v3.1.4](https://github.com/Garlic-Team/gcommands/pull/380) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#7c76b0b](https://github.com/Garlic-Team/gcommands/commit/7c76b0b) chore(deps): update dependency prettier to v2.6.0
+  * [#88ea7c3](https://github.com/Garlic-Team/gcommands/commit/88ea7c3) chore(deps): update dependency @types/keyv to v3.1.4
 
-chore(deps): update dependency prettier to v2.6.0
-  * [#fdea39b](https://github.com/Garlic-Team/gcommands/commit/fdea39b) chore(deps): update dependency prettier to v2.6.0
-* 🔃 Merged [#379 chore(deps): update dependency prettier to v2.6.0](https://github.com/Garlic-Team/gcommands/pull/379) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++13 --10`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#2371692](https://github.com/Garlic-Team/gcommands/commit/2371692) deploy: a0c8ebbc1da18acdc829c2bbcfbf28bd122bbcc2
+chore(deps): update dependency @types/keyv to v3.1.4
+  * [#2b719e4](https://github.com/Garlic-Team/gcommands/commit/2b719e4) chore(deps): update dependency @types/keyv to v3.1.4
+* ⏺️ Created new branch v9 in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
