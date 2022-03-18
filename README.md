@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12838` commits.  
+I contributed to `125` repositories and made `12847` commits.  
 
 ___
 
@@ -13,22 +13,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#fd8079f](https://github.com/xHyroM/covid19-stats/commit/fd8079f) 2022/03/18 stats
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-1a5b279c894d37e30021ddd5ca06f095`
-  * [#6da0543](https://github.com/xHyroM/github-bucket/commit/6da0543) fix: Dockerfile to reduce vulnerabilities
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#78c6c67](https://github.com/Garlic-Team/gcommands/commit/78c6c67) deploy: 7c76b0b8e73d3da562e2ac33c6a64c3b66c999ef
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#c091126](https://github.com/Garlic-Team/gcommands/commit/c091126) deploy: ade18facbbe77bf83aba7711ea95e9e6b3040dfd
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#7c76b0b](https://github.com/Garlic-Team/gcommands/commit/7c76b0b) chore(deps): update dependency prettier to v2.6.0
 
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-GNUTLS28-2419151
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2388380
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2426309
-- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
-- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
-* ⏺️ Created new branch snyk-fix-1a5b279c894d37e30021ddd5ca06f095 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#ae0b482](https://github.com/xHyroM/covid19-stats/commit/ae0b482) 2022/03/17 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#c9ae36f](https://github.com/xHyroM/covid19-stats/commit/c9ae36f) 2022/03/16 stats
+chore(deps): update dependency prettier to v2.6.0
+  * [#fdea39b](https://github.com/Garlic-Team/gcommands/commit/fdea39b) chore(deps): update dependency prettier to v2.6.0
+* 🔃 Merged [#379 chore(deps): update dependency prettier to v2.6.0](https://github.com/Garlic-Team/gcommands/pull/379) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++13 --10`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#2371692](https://github.com/Garlic-Team/gcommands/commit/2371692) deploy: a0c8ebbc1da18acdc829c2bbcfbf28bd122bbcc2
 
 
 ___
