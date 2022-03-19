@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `126` repositories and made `12889` commits.  
+I contributed to `126` repositories and made `12891` commits.  
 
 ___
 
@@ -14,13 +14,13 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#41beca9](https://github.com/xHyroM/aktdwb/commit/41beca9) delete footer
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#4589899](https://github.com/xHyroM/aktdwb/commit/4589899) subtitle
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#e21579c](https://github.com/xHyroM/aktdwb/commit/e21579c) pg
 * ⏺️ Created new branch master in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb)
 * ⏺️ Created new repository  [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb)
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#8264303](https://github.com/CDN-Github/CDN-2/commit/8264303) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#9ea8638](https://github.com/xHyroM/typing-test/commit/9ea8638) popppppppppppp
 
 
 ___
