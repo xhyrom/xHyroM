@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `126` repositories and made `12891` commits.  
+I contributed to `126` repositories and made `12895` commits.  
 
 ___
 
@@ -14,13 +14,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#420d19f](https://github.com/xHyroM/aktdwb/commit/420d19f) full center
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#5627540](https://github.com/xHyroM/aktdwb/commit/5627540) better center
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#9b22ec0](https://github.com/xHyroM/aktdwb/commit/9b22ec0) dont replace
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#439fecc](https://github.com/xHyroM/aktdwb/commit/439fecc) a
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#41beca9](https://github.com/xHyroM/aktdwb/commit/41beca9) delete footer
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#4589899](https://github.com/xHyroM/aktdwb/commit/4589899) subtitle
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#e21579c](https://github.com/xHyroM/aktdwb/commit/e21579c) pg
-* ⏺️ Created new branch master in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb)
-* ⏺️ Created new repository  [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb)
 
 
 ___
