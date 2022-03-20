@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `12895` commits.  
+I contributed to `124` repositories and made `12897` commits.  
 
 ___
 
@@ -13,16 +13,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#420d19f](https://github.com/xHyroM/aktdwb/commit/420d19f) full center
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#5627540](https://github.com/xHyroM/aktdwb/commit/5627540) better center
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#9b22ec0](https://github.com/xHyroM/aktdwb/commit/9b22ec0) dont replace
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#439fecc](https://github.com/xHyroM/aktdwb/commit/439fecc) a
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#41beca9](https://github.com/xHyroM/aktdwb/commit/41beca9) delete footer
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#597a189](https://github.com/xHyroM/covid19-stats/commit/597a189) 2022/03/20 stats
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#6ac5c14](https://github.com/Garlic-Team/gcommands/commit/6ac5c14) deploy: 53f6203f503b1973318725ca6d100e0f3ae9ea77
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#53f6203](https://github.com/Garlic-Team/gcommands/commit/53f6203) chore: on hold label
+* 💬 Commented on [#382 refactor: Plugins](https://github.com/Garlic-Team/gcommands/issues/382) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#381 refactor: Inhibitors](https://github.com/Garlic-Team/gcommands/pull/381) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
