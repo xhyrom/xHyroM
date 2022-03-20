@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `12900` commits.  
+I contributed to `124` repositories and made `12901` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#df1317d](https://github.com/Mr-Infinity-Bot/bot/commit/df1317d) per x configuration, delete from db after delete
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#3cfbd41](https://github.com/Mr-Infinity-Bot/bot/commit/3cfbd41) new things
 * ⏺️ Created new repository  [LendMarkNetwork/lmnet](https://github.com/LendMarkNetwork/lmnet)
@@ -23,8 +25,6 @@ ___
 
 fix: Edited yarn to pnpm on line 25
   * [#4a7aa71](https://github.com/Garlic-Team/website/commit/4a7aa71) fix: Edited yarn to pnpm on line 25
-* 🔃 Merged [#8 fix: Edited yarn to pnpm on line 25](https://github.com/Garlic-Team/website/pull/8) in [Garlic-Team/website](https://github.com/Garlic-Team/website)
-  * 1 file changed `++1 --1`
 
 
 ___
