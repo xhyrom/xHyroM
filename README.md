@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `12849` commits.  
+I contributed to `125` repositories and made `12850` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#26ef56c](https://github.com/xHyroM/covid19-stats/commit/26ef56c) 2022/03/21 stats
 * 🔃 Opened [#101 harmony - modals](https://github.com/advaith1/libs/pull/101) in [advaith1/libs](https://github.com/advaith1/libs)
   * 1 file changed `++1 --4`
 * ➡️ Pushed 1 commit in [xHyroM/libs](https://github.com/xHyroM/libs) on branch `main`
@@ -20,8 +22,6 @@ ___
 * 🍽️ Forked [advaith1/libs](https://github.com/advaith1/libs) to [xHyroM/libs](https://github.com/xHyroM/libs)
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#df1317d](https://github.com/Mr-Infinity-Bot/bot/commit/df1317d) per x configuration, delete from db after delete
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#3cfbd41](https://github.com/Mr-Infinity-Bot/bot/commit/3cfbd41) new things
 
 
 ___
