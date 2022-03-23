@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `125` repositories and made `13000` commits.  
+I contributed to `125` repositories and made `13001` commits.  
 
 ___
 
@@ -14,6 +14,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#4dade98](https://github.com/xHyroM/covid19-stats/commit/4dade98) 2022/03/23 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#a9f253f](https://github.com/xHyroM/covid19-stats/commit/a9f253f) 2022/03/22 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#26ef56c](https://github.com/xHyroM/covid19-stats/commit/26ef56c) 2022/03/21 stats
@@ -21,7 +23,6 @@ ___
   * 1 file changed `++1 --4`
 * ➡️ Pushed 1 commit in [xHyroM/libs](https://github.com/xHyroM/libs) on branch `main`
   * [#3c08a86](https://github.com/xHyroM/libs/commit/3c08a86) Update libs.ts
-* 🍽️ Forked [advaith1/libs](https://github.com/advaith1/libs) to [xHyroM/libs](https://github.com/xHyroM/libs)
 
 
 ___
