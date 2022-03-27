@@ -13,15 +13,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
+  * [#bd8be03](https://github.com/Garlic-Team/website/commit/bd8be03) fix: options -&gt; arguments
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
-  * [#4fe618a](https://github.com/xHyroM/GCommands/commit/4fe618a) fix: return raw
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
-  * [#a29a2b6](https://github.com/xHyroM/GCommands/commit/a29a2b6) chore: eslint, up version
-* 🔃 Opened [#391 feat(Command, Argument): localizations](https://github.com/Garlic-Team/gcommands/pull/391) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 3 files changed `++62 --2`
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
-  * [#706dcee](https://github.com/xHyroM/GCommands/commit/706dcee) feat: localizations
-* ⏺️ Created new branch feat/localizations in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
+  * [#70c3811](https://github.com/xHyroM/GCommands/commit/70c3811) chore: eslint
+* 💬 Commented on [#391 feat(Command, Argument): localizations](https://github.com/Garlic-Team/gcommands/issues/391) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#391 feat(Command, Argument): localizations](https://github.com/Garlic-Team/gcommands/issues/391) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#391 feat(Command, Argument): localizations](https://github.com/Garlic-Team/gcommands/issues/391) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
