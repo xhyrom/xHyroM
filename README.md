@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `13205` commits.  
+I contributed to `124` repositories and made `13212` commits.  
 
 ___
 
@@ -13,23 +13,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#085fd3c](https://github.com/xHyroM/covid19-stats/commit/085fd3c) 2022/03/26 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#34b568f](https://github.com/Garlic-Team/website/commit/34b568f) fix: missing ,
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#927e889](https://github.com/xHyroM/covid19-stats/commit/927e889) 2022/03/25 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#604137e](https://github.com/xHyroM/covid19-stats/commit/604137e) 2022/03/24 stats
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-298e2f5d8c720885e9071aa9d1db0095`
-  * [#23196ee](https://github.com/xHyroM/github-bucket/commit/23196ee) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-GNUTLS28-2419151
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2388380
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2426309
-- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
-- https://snyk.io/vuln/SNYK-DEBIAN11-UTILLINUX-2401081
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
+  * [#4fe618a](https://github.com/xHyroM/GCommands/commit/4fe618a) fix: return raw
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
+  * [#a29a2b6](https://github.com/xHyroM/GCommands/commit/a29a2b6) chore: eslint, up version
+* 🔃 Opened [#391 feat(Command, Argument): localizations](https://github.com/Garlic-Team/gcommands/pull/391) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 3 files changed `++62 --2`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/localizations`
+  * [#706dcee](https://github.com/xHyroM/GCommands/commit/706dcee) feat: localizations
+* ⏺️ Created new branch feat/localizations in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
 
 
 ___
