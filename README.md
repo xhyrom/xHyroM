@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `124` repositories and made `13381` commits.  
+I contributed to `124` repositories and made `13397` commits.  
 
 ___
 
@@ -14,15 +14,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#da9ac4c](https://github.com/CDN-Github/CDN-2/commit/da9ac4c) Added new url
+  * [#19792e7](https://github.com/CDN-Github/CDN-2/commit/19792e7) Added new url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#2fa7fe0](https://github.com/CDN-Github/CDN-2/commit/2fa7fe0) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#09ca4d3](https://github.com/xHyroM/covid19-stats/commit/09ca4d3) 2022/03/30 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#e0dc925](https://github.com/xHyroM/covid19-stats/commit/e0dc925) 2022/03/29 stats
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `master`
-  * [#8e466e1](https://github.com/xHyroM/InfinityNextGen/commit/8e466e1) Update verifysystem.js
+  * [#70968d8](https://github.com/CDN-Github/CDN-2/commit/70968d8) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#538ba9a](https://github.com/CDN-Github/CDN-2/commit/538ba9a) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#0eea281](https://github.com/CDN-Github/CDN-2/commit/0eea281) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#6dfa8d8](https://github.com/CDN-Github/CDN-2/commit/6dfa8d8) Added new url
 
 
 ___
