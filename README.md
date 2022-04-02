@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `123` repositories and made `13328` commits.  
+I contributed to `123` repositories and made `13329` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#eb85dcc](https://github.com/Mr-Infinity-Bot/bot/commit/eb85dcc) feat: ticket system + new things
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#2745a49](https://github.com/Garlic-Team/gcommands/commit/2745a49) deploy: e8f098ba9173a1ba92c4e8aadacd544755b07495
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
@@ -24,11 +26,6 @@ chore(deps): update dependency lru-cache to v7.7.3
   * [#3acee08](https://github.com/Garlic-Team/gcommands/commit/3acee08) chore(deps): update dependency lru-cache to v7.7.3
 * 🔃 Merged [#392 chore(deps): update dependency lru-cache to v7.7.3](https://github.com/Garlic-Team/gcommands/pull/392) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++16 --16`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#a982701](https://github.com/Garlic-Team/gcommands/commit/a982701) chore(deps): update typescript-eslint monorepo to v5.17.0
-
-chore(deps): update typescript-eslint monorepo to v5.17.0
-  * [#878c9e9](https://github.com/Garlic-Team/gcommands/commit/878c9e9) chore(deps): update typescript-eslint monorepo to v5.17.0
 
 
 ___
