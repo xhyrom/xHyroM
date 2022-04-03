@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `123` repositories and made `13342` commits.  
+I contributed to `123` repositories and made `13343` commits.  
 
 ___
 
@@ -13,6 +13,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#eb96a50](https://github.com/Mr-Infinity-Bot/bot/commit/eb96a50) feat: new things
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8e18ea6](https://github.com/xHyroM/covid19-stats/commit/8e18ea6) 2022/04/03 stats
 * 🌟 Starred [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains)
@@ -23,8 +25,6 @@ ___
 
 chore(deps): update dependency @babel/core to v7.17.8
   * [#b887b85](https://github.com/Garlic-Team/gcommands-addons/commit/b887b85) chore(deps): update dependency @babel/core to v7.17.8
-* 🔃 Merged [#31 chore(deps): update dependency @babel/core to v7.17.8](https://github.com/Garlic-Team/gcommands-addons/pull/31) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-  * 2 files changed `++72 --72`
 
 
 ___
