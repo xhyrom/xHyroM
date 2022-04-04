@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#c4f894c](https://github.com/xHyroM/xHyroM/commit/c4f894c) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#bf07639](https://github.com/xHyroM/xHyroM/commit/bf07639) Update metrics.template.md
 * ➡️ Pushed 2 commits in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -29,8 +31,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-WS-1296835
 * 🔃 Merged [#8 [Snyk] Security upgrade react-native from 0.66.4 to 0.68.0](https://github.com/xHyroM/covid19-stats/pull/8) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
   * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#1c3fdb2](https://github.com/Garlic-Team/gcommands-addons/commit/1c3fdb2) Merge branch &#39;master&#39; of https://github.com/Garlic-Team/gcommands-addons
 
 
 ___
