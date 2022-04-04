@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#eefb124](https://github.com/xHyroM/xHyroM/commit/eefb124) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#4ca8ec6](https://github.com/xHyroM/discord-datamining/commit/4ca8ec6) 2022/04/04 | Build 27d551c3758185d8bef3dbe56e97547384f81496
+  * [#a0b7bbb](https://github.com/xHyroM/discord-datamining/commit/a0b7bbb) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#b8da8d0](https://github.com/xHyroM/discord-datamining/commit/b8da8d0) 2022/04/04 | Build 27d551c3758185d8bef3dbe56e97547384f81496
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c4f894c](https://github.com/xHyroM/xHyroM/commit/c4f894c) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+  * [#a26d575](https://github.com/xHyroM/discord-datamining/commit/a26d575) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#03a19c5](https://github.com/xHyroM/discord-datamining/commit/03a19c5) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#e7b3533](https://github.com/xHyroM/discord-datamining/commit/e7b3533) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bf07639](https://github.com/xHyroM/xHyroM/commit/bf07639) Update metrics.template.md
+  * [#34725ef](https://github.com/xHyroM/xHyroM/commit/34725ef) linguist-detectable
 
 
 ___
