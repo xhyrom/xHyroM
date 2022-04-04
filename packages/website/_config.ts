@@ -6,8 +6,11 @@ import esbuild from "https://deno.land/x/lume@v1.7.2/plugins/esbuild.ts";
 
 const site = lume(
   {
-    src: './src'
-  }
+    src: './src',
+    server: {
+      page404: './404/',
+    }
+  },
 );
 
 site
