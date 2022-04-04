@@ -1,0 +1,12 @@
+body {
+    background-color: #131516;
+    color: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+    overflow-wrap: break-word;
+}
+
+a {
+    color: #34eb6e;
+}
