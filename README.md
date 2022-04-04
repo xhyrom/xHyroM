@@ -4,7 +4,7 @@
 </p>
 
 I joined GitHub on `15/10/2019`.  
-I contributed to `123` repositories and made `13351` commits.  
+I contributed to `123` repositories and made `13357` commits.  
 
 ___
 
@@ -13,19 +13,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#b3238e1](https://github.com/Garlic-Team/gcommands-addons/commit/b3238e1) chore: eslint
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#10cab7c](https://github.com/Garlic-Team/gcommands-addons/commit/10cab7c) feat(plugin-votes): more bot lists
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
-  * [#6cbc66d](https://github.com/Garlic-Team/gcommands-addons/commit/6cbc66d) chore(deps): update typescript-eslint monorepo to v5.17.0
+  * [#1c3fdb2](https://github.com/Garlic-Team/gcommands-addons/commit/1c3fdb2) Merge branch &#39;master&#39; of https://github.com/Garlic-Team/gcommands-addons
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
+  * [#86f6f9d](https://github.com/Garlic-Team/gcommands-addons/commit/86f6f9d) chore(deps): pin dependency @types/express to 4.17.13
 
-chore(deps): update typescript-eslint monorepo to v5.17.0
-  * [#8aaaf2d](https://github.com/Garlic-Team/gcommands-addons/commit/8aaaf2d) chore(deps): update typescript-eslint monorepo to v5.17.0
-* 🔃 Merged [#29 chore(deps): update typescript-eslint monorepo to v5.17.0](https://github.com/Garlic-Team/gcommands-addons/pull/29) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-  * 2 files changed `++98 --98`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#d655b6c](https://github.com/Garlic-Team/gcommands/commit/d655b6c) deploy: 658cf0745eef2fafc10ad18d8bf2320e93ed91fa
+chore(deps): pin dependency @types/express to 4.17.13
+  * [#f1cf250](https://github.com/Garlic-Team/gcommands-addons/commit/f1cf250) chore(deps): pin dependency @types/express to 4.17.13
+* 🔃 Merged [#35 chore(deps): pin dependency @types/express to 4.17.13](https://github.com/Garlic-Team/gcommands-addons/pull/35) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
+  * 2 files changed `++4 --4`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
+  * [#806ff19](https://github.com/Garlic-Team/gcommands-addons/commit/806ff19) fix: prismaio
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `master`
+  * [#c0d80a0](https://github.com/Garlic-Team/gcommands-addons/commit/c0d80a0) fix: plugin-votes, up version
 
 
 ___
