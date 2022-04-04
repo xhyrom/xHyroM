@@ -1,9 +1,13 @@
 ---
-title: hyro's website
+title: Hyro
 layout: layouts/base.njk
 ---
 
-# asd
+ asd
 &xyxc
 
 [Github](https://github.com/xHyroM)
+
+```js
+// Hello, I'm Hyro
+```

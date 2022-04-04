@@ -1,12 +1,17 @@
 body {
     background-color: #131516;
-    color: white;
+    color: #d0d0d0;
     max-width: 800px;
     margin: auto;
     padding: 15px;
     overflow-wrap: break-word;
 }
 
+.title {
+    font-size: 1.35em;
+    color: white;
+}
+
 a {
-    color: #34eb6e;
+    color: #26a9c7;
 }
