@@ -14,23 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c4f894c](https://github.com/xHyroM/xHyroM/commit/c4f894c) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#a0b7bbb](https://github.com/xHyroM/discord-datamining/commit/a0b7bbb) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#a26d575](https://github.com/xHyroM/discord-datamining/commit/a26d575) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#03a19c5](https://github.com/xHyroM/discord-datamining/commit/03a19c5) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#e7b3533](https://github.com/xHyroM/discord-datamining/commit/e7b3533) 2022/04/04 | Build cec85d8e7229295fa4a13960a0d416eadfdd9daa
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bf07639](https://github.com/xHyroM/xHyroM/commit/bf07639) Update metrics.template.md
-* ➡️ Pushed 2 commits in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#49ae575](https://github.com/xHyroM/covid19-stats/commit/49ae575) [Snyk] Security upgrade react-native from 0.66.4 to 0.68.0
-
-[Snyk] Security upgrade react-native from 0.66.4 to 0.68.0
-  * [#153c71f](https://github.com/xHyroM/covid19-stats/commit/153c71f) fix: other/application/package.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-- https://snyk.io/vuln/SNYK-JS-HERMESENGINE-2342071
-- https://snyk.io/vuln/SNYK-JS-SHELLQUOTE-1766506
-- https://snyk.io/vuln/SNYK-JS-WS-1296835
-* 🔃 Merged [#8 [Snyk] Security upgrade react-native from 0.66.4 to 0.68.0](https://github.com/xHyroM/covid19-stats/pull/8) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
-  * 1 file changed `++1 --1`
+  * [#34725ef](https://github.com/xHyroM/xHyroM/commit/34725ef) linguist-detectable
 
 
 ___
