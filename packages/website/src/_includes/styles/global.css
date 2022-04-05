@@ -9,6 +9,13 @@ body {
     overflow-wrap: break-word;
     font-family: 'Ubuntu Mono', monospace;
     font-size: 1.15em;
+    margin-bottom: 95px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1, h2, h3 {

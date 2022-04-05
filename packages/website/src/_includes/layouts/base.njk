@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang='en'>
   <head>
-    <meta charset='utf-8'>
+    <meta charset='utf-8' />
     <meta name='viewport' content='width=device-width, initial-scale=1.0' />
     <title>{{ title }}</title>
 
+    <link rel='icon' type='image/png' href='/static/favicon.png' />
     <link rel='stylesheet' href='/styles/base.css' />
-
   </head>
 
   <body>
-      {{ comp.navbar() | safe }}
+    {{ comp.navbar() | safe }}
 
     <main>
       {{ content | safe }}
     </main>
+
+    {{ comp.footer() | safe }}
   </body>
 </html>

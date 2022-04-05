@@ -2,23 +2,23 @@
 layout: layouts/base.njk
 ---
 
-<article class='post'>
-  <header class='post-header'>
-    <h1 class='post-title'>{{ title }}</h1>
+<article>
+  <header>
+    <h1>{{ title }}</h1>
 
-    <time class='post-date' datetime="{{ date | date('DATETIME') }}">
+    <time datetime="{{ date | date('DATETIME') }}">
       {{ date | date('HUMAN_DATE') }}
     </time>
   </header>
 
-  <div class='post-body'>
+  <div>
     {{ content | safe }}
   </div>
 </article>
 
 <hr>
 
-<nav class='post-navigation'>
+<nav>
   <ul>
     {%- set previousPost = search.previousPage(url, 'type=posts') %}
     {%- if previousPost %}
