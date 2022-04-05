@@ -1,0 +1,21 @@
+---
+title: Hyro
+layout: layouts/base.njk
+---
+
+<h1 class='title'>Blog Posts</h1>
+Here, you can find any of my <em>best</em> posts
+
+<ul class="postList">
+  {% for post in search.pages("type=posts", "date=desc", 3) %}
+    <li class='postList-post'>
+      <a href='{{ post.data.url }}' class='postList-title'{% if entry.data.url == url %} aria-current='page'{% endif %}>{{ post.data.title }}</a>
+      –
+      <em>
+        <time class='postList-date' datetime="{{ post.data.date | date('DATETIME') }}">
+          {{ post.data.date | date('HUMAN_DATE') }}
+        </time>
+      </em>
+    </li>
+  {% endfor %}
+</ul>
