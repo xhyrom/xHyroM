@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#fcdb4ea](https://github.com/xHyroM/xHyroM/commit/fcdb4ea) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#f7f9689](https://github.com/xHyroM/discord-datamining/commit/f7f9689) 2022/04/05 | Build 725a22a9d1346fa16456bf8f8e099bf2ae1c4d40
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#477d9e0](https://github.com/xHyroM/discord-datamining/commit/477d9e0) 2022/04/05 | Build c9f1e5320b01c06187ce67a5c9fec2650b249bcc
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#b8209c7](https://github.com/xHyroM/discord-datamining/commit/b8209c7) 2022/04/05 | Build c9f1e5320b01c06187ce67a5c9fec2650b249bcc
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#bcf5f2e](https://github.com/xHyroM/discord-datamining/commit/bcf5f2e) 2022/04/05 | Build 080ae3dbae4fcb251dc618ce8db11b4436bd5926
 
 
 ___
