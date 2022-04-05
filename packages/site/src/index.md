@@ -17,7 +17,7 @@ My socials:
 - [Twitter](https://twitter.com/hyrousek/)
 - [Instagram](https://www.instagram.com/hyro.dev/)
 
-If you need anything, feel free to contact me on discord. On other networks you might wait ~~only~~ few months.
+If you need anything, feel free to contact me on discord. On other socials you might wait ~~only~~ few months.
 Just join [Garlic Team](https://discord.gg/AjKJSBbGm2) to have a shared server with me.
 
 ```js
