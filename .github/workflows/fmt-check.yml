@@ -18,4 +18,6 @@ jobs:
         with:
           deno-version: 'v1.x'
       - name: Check deno format
-        run: deno fmt --check
+        run: | 
+          cd packages/site
+          deno fmt --check
