@@ -1,0 +1,27 @@
+name: Build page
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Deno environment
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run lume
+        run: |
+          cd ./packages/site
+          deno run -A https://deno.land/x/lume/ci.ts
+
+      - name: Deploy site
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: builded-site
+          folder: ./packages/site/_site
