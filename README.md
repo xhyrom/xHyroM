@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#3e118f9](https://github.com/xHyroM/xHyroM/commit/3e118f9) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#b7816e1](https://github.com/xHyroM/discord-datamining/commit/b7816e1) 2022/04/05 | Build 322d4378f602c94c87eb3878545acb883a12808f
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#ad6a1ef](https://github.com/xHyroM/discord-datamining/commit/ad6a1ef) 2022/04/05 | Build 322d4378f602c94c87eb3878545acb883a12808f
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#254cc2a](https://github.com/xHyroM/xHyroM/commit/254cc2a) website -&gt; site
+  * [#4e2abd8](https://github.com/xHyroM/xHyroM/commit/4e2abd8) fix fmt
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#b662487](https://github.com/xHyroM/xHyroM/commit/b662487) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+  * [#a9ff357](https://github.com/xHyroM/xHyroM/commit/a9ff357) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#5261f8b](https://github.com/Garlic-Team/gcommands/commit/5261f8b) deploy: f6470b25c700fb9d6da2460e38b90ef049383d6d
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#0b96eb1](https://github.com/Garlic-Team/gcommands/commit/0b96eb1) deploy: 6909f780bae12a21efbfa381e54184c874ef4d98
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#780e9dd](https://github.com/Garlic-Team/gcommands/commit/780e9dd) deploy: 69fb9506c6425878e6ce488d4273c16dc9897a62
 
 
 ___
