@@ -1,0 +1,13 @@
+title: Projects
+layout: layouts/projects.njk
+
+projects:
+  - name: GCommands
+    description: |
+      framework  
+      discord.js  
+  - name: Roles Bot
+    description: |
+      bot  
+      button roles  
+      discord  
