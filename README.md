@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#4e2abd8](https://github.com/xHyroM/xHyroM/commit/4e2abd8) fix fmt
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#a9ff357](https://github.com/xHyroM/xHyroM/commit/a9ff357) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
@@ -22,8 +24,6 @@ ___
   * [#0b96eb1](https://github.com/Garlic-Team/gcommands/commit/0b96eb1) deploy: 6909f780bae12a21efbfa381e54184c874ef4d98
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#780e9dd](https://github.com/Garlic-Team/gcommands/commit/780e9dd) deploy: 69fb9506c6425878e6ce488d4273c16dc9897a62
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#150232e](https://github.com/xHyroM/xHyroM/commit/150232e) fmt check worklow
 
 
 ___
