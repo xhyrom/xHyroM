@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#fcdb4ea](https://github.com/xHyroM/xHyroM/commit/fcdb4ea) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#f7f9689](https://github.com/xHyroM/discord-datamining/commit/f7f9689) 2022/04/05 | Build 725a22a9d1346fa16456bf8f8e099bf2ae1c4d40
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#2bd5222](https://github.com/xHyroM/covid19-stats/commit/2bd5222) 2022/04/05 stats
+  * [#d0e0831](https://github.com/xHyroM/discord-datamining/commit/d0e0831) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#477d9e0](https://github.com/xHyroM/discord-datamining/commit/477d9e0) 2022/04/05 | Build c9f1e5320b01c06187ce67a5c9fec2650b249bcc
+  * [#3a865df](https://github.com/xHyroM/discord-datamining/commit/3a865df) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#b8209c7](https://github.com/xHyroM/discord-datamining/commit/b8209c7) 2022/04/05 | Build c9f1e5320b01c06187ce67a5c9fec2650b249bcc
+  * [#ffb5161](https://github.com/xHyroM/discord-datamining/commit/ffb5161) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#4f1f42d](https://github.com/xHyroM/discord-datamining/commit/4f1f42d) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#11171a6](https://github.com/xHyroM/discord-datamining/commit/11171a6) 2022/04/05 | Build dfb02c212709d6a1eb9f078837d3cf21981a818d
 
 
 ___
