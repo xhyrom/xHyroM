@@ -4,6 +4,5 @@ description: This is a post on My Blog about leveraging agile frameworks.
 date: 2022-04-05
 ---
 
-Lorem impus sola dule
-> lol  
+Lorem impus sola dulea> lol  
 > lul
