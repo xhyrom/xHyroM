@@ -18,13 +18,13 @@ site
   .ignore("README.md")
   .ignore("scripts")
   .copy("info.txt", "./info.txt")
-  .copy("static", "./static")
+  .copy("static", ".")
   .use(resolveUrls())
   .use(codeHighlight())
   .use(postcss())
   .use(date())
   .use(esbuild({
-    extensions: [".js"],
+    extensions: [".js",".ts"],
   }))
   .scopedUpdates(
     (path) => path.endsWith(".css"),
