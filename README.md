@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#254cc2a](https://github.com/xHyroM/xHyroM/commit/254cc2a) website -&gt; site
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#b662487](https://github.com/xHyroM/xHyroM/commit/b662487) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#d0e0831](https://github.com/xHyroM/discord-datamining/commit/d0e0831) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#3a865df](https://github.com/xHyroM/discord-datamining/commit/3a865df) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#ffb5161](https://github.com/xHyroM/discord-datamining/commit/ffb5161) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#4f1f42d](https://github.com/xHyroM/discord-datamining/commit/4f1f42d) 2022/04/05 | Build aa8f80611723f9535f8e242c5c1ba13e3154f0b3
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#11171a6](https://github.com/xHyroM/discord-datamining/commit/11171a6) 2022/04/05 | Build dfb02c212709d6a1eb9f078837d3cf21981a818d
 
 
 ___
