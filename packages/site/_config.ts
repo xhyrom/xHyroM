@@ -4,6 +4,7 @@ import codeHighlight from "https://deno.land/x/lume@v1.7.2/plugins/code_highligh
 import resolveUrls from "https://deno.land/x/lume@v1.7.2/plugins/resolve_urls.ts";
 import esbuild from "https://deno.land/x/lume@v1.7.2/plugins/esbuild.ts";
 import date from "https://deno.land/x/lume@v1.7.2/plugins/date.ts";
+import { readingTime } from "./plugins/readingTime.ts";
 
 const site = lume(
   {
@@ -30,6 +31,16 @@ site
     (path) => path.endsWith(".css"),
     (path) => path.endsWith(".png") || path.endsWith(".jpg"),
   )
+  // Filters
+  .filter("readingTime", (pageOrContent) => {
+    if (!pageOrContent) {
+      throw new Error(
+        `Passed falsy value to readingTime filter: ${pageOrContent}`,
+      );
+    }
+
+    return readingTime(pageOrContent);
+  })
   .filter("slice", (arr, length) => arr.slice(0, length));
 
 export default site;

@@ -9,6 +9,8 @@ layout: layouts/base.njk
     <time datetime="{{ date | date('DATETIME') }}">
       {{ date | date('HUMAN_DATE') }}
     </time>
+    •
+    {{ content | default(content, true) | readingTime }} reading time
   </header>
 
   <div>
