@@ -1,5 +1,6 @@
 ---
 title: Hyro
+description: I'm Hyro. I mainly focus on the backend, but I also work with the frontend.
 layout: layouts/base.njk
 ---
 
@@ -19,7 +20,3 @@ My socials:
 
 If you need anything, feel free to contact me on discord. On other socials you might wait ~~only~~ few months.
 Just join [Garlic Team](https://discord.gg/AjKJSBbGm2) to have a shared server with me.
-
-```js
-wrap()
-```

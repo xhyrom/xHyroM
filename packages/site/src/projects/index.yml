@@ -1,4 +1,5 @@
 title: Projects
+description: You can check my projects here.
 layout: layouts/projects.njk
 
 projects:
