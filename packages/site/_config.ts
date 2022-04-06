@@ -24,7 +24,7 @@ site
   .use(postcss())
   .use(date())
   .use(esbuild({
-    extensions: [".js",".ts"],
+    extensions: [".js", ".ts"],
   }))
   .scopedUpdates(
     (path) => path.endsWith(".css"),

@@ -6,5 +6,5 @@ devHash.update("dev");
 export default {
   hash: Deno.env.get("GITHUB_SHA") || Deno.env.get("CF_PAGES_COMMIT_SHA") ||
     devHash.toString(),
-  date: new Date().toUTCString()
+  date: new Date().toUTCString(),
 };
