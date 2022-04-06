@@ -4,7 +4,7 @@ import { DateTimeFormatter } from "https://deno.land/std@0.119.0/datetime/format
 let template = [
   "---",
   "title: '{{title}}'",
-  "date: '{{date}}'",
+  "date: {{date}}",
   "---",
   "",
   "{{content}}",
