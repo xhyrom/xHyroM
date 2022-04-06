@@ -25,10 +25,8 @@ You can read more [here](https://lume.land)
 ---
 
 I chose [Lume](https://lume.land) because I wanted to try something new after a
-long time. I chose [Lume](https://lume.land) also because of
-[Deno](https://deno.land), because I think it's unnecessary to use
-[React](https://reactjs.org/) only for such a simple page.
-[NextJS](https://nextjs.org) is a [React](https://reactjs.org/) framework, and
+long time and because of [Deno](https://deno.land). I think it's unnecessary to use
+[React](https://reactjs.org/) only for such a simple page. [NextJS](https://nextjs.org) is a [React](https://reactjs.org/) framework, and
 such pages usually have a lot of other scripts after they are built that would
 just overwhelm this page. [Deno](https://deno.land) is also much easier to set
 up.
