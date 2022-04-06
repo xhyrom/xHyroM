@@ -14,16 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#70e87d3](https://github.com/xHyroM/covid19-stats/commit/70e87d3) 2022/04/06 stats
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-2f0cfa49bb72428aaa2a69a92b88a756`
+  * [#ea1bf96](https://github.com/xHyroM/github-bucket/commit/ea1bf96) fix: Dockerfile to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-1296898
+- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340908
+- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340922
+- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340922
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2426309
+* ⏺️ Created new branch snyk-fix-2f0cfa49bb72428aaa2a69a92b88a756 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#5a21fdc](https://github.com/xHyroM/discord-datamining/commit/5a21fdc) 2022/04/06 | Build ec03075c7eab4d1d62a9781517e7ee06ee1ffea3
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#9687d2f](https://github.com/xHyroM/discord-datamining/commit/9687d2f) 2022/04/06 | Build ec03075c7eab4d1d62a9781517e7ee06ee1ffea3
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#01982c3](https://github.com/xHyroM/discord-datamining/commit/01982c3) 2022/04/06 | Build a920ed130e2089cd04e9267afe9e9548f28991fa
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#4a6d069](https://github.com/xHyroM/discord-datamining/commit/4a6d069) 2022/04/06 | Build a920ed130e2089cd04e9267afe9e9548f28991fa
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#6e8edfa](https://github.com/xHyroM/discord-datamining/commit/6e8edfa) 2022/04/06 | Build ba07a9c3426b0f0a846f4d814b41ea982856e27a
 
 
 ___
