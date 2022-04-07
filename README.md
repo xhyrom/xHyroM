@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#52131c0](https://github.com/xHyroM/xHyroM/commit/52131c0) fix links
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#e35c781](https://github.com/xHyroM/xHyroM/commit/e35c781) how to try discord experiments
 * ➡️ Pushed 1 commit in [CDN-Github/xda-comments](https://github.com/CDN-Github/xda-comments) on branch `master`
   * [#a333187](https://github.com/CDN-Github/xda-comments/commit/a333187) ok
@@ -22,8 +24,6 @@ ___
   * [#0c082cb](https://github.com/xHyroM/discord-datamining/commit/0c082cb) location
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#68faf2d](https://github.com/xHyroM/discord-datamining/commit/68faf2d) remove _site
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#d3f370f](https://github.com/xHyroM/discord-datamining/commit/d3f370f) add latest script
 
 
 ___
