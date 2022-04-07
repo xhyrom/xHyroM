@@ -14,15 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#4663b6c](https://github.com/xHyroM/xHyroM/commit/4663b6c) Update metrics.template.md
-* ➡️ Pushed 1 commit in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
-  * [#63ad028](https://github.com/xHyroM/cf-workers-uploader/commit/63ad028) readme examples
-* ➡️ Pushed 1 commit in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
-  * [#97d23ee](https://github.com/xHyroM/cf-workers-uploader/commit/97d23ee) auth token
-* ➡️ Pushed 1 commit in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
-  * [#432ce82](https://github.com/xHyroM/cf-workers-uploader/commit/432ce82) update
-* ⏺️ Created new branch master in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader)
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#6f0c3d2](https://github.com/xHyroM/discord-datamining/commit/6f0c3d2) 2022/04/07 | Build f363ab6758be0cb02e9198dd465f1258edbaa2a8
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#895451f](https://github.com/xHyroM/discord-datamining/commit/895451f) readme
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#0948bb8](https://github.com/xHyroM/discord-datamining/commit/0948bb8) website
+* ➡️ Pushed 2 commits in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#935850e](https://github.com/xHyroM/discord-datamining/commit/935850e) new site
+  * [#96e546b](https://github.com/xHyroM/discord-datamining/commit/96e546b) new site
+* ➡️ Pushed 2 commits in [CDN-Github/xda-min](https://github.com/CDN-Github/xda-min) on branch `master`
+  * [#a956283](https://github.com/CDN-Github/xda-min/commit/a956283) a
+  * [#210ccf2](https://github.com/CDN-Github/xda-min/commit/210ccf2) you
 
 
 ___
