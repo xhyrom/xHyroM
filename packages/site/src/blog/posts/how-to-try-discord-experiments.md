@@ -12,10 +12,10 @@ If you want to try things that discord does that are not yet published you need 
 
 When we want to try the latest unreleased stuff, we need a different client than Canary. These things come to canary later.  
 You need to download Discord Development. Just open this link:  
-- https://discordapp.com/api/download/development?platform=win (Windows)
-- https://discordapp.com/api/download/development?platform=linux&format=deb (Linux, deb)
-- https://discordapp.com/api/download/development?platform=linux&format=tar.gz (Linux, tar.gz)
-- https://discordapp.com/api/download/development?platform=osx (Mac)
+- [https://discordapp.com/api/download/development?platform=win](https://discordapp.com/api/download/development?platform=win) (Windows)
+- [https://discordapp.com/api/download/development?platform=linux&format=deb](https://discordapp.com/api/download/development?platform=linux&format=deb) (Linux, deb)
+- [https://discordapp.com/api/download/development?platform=linux&format=tar.gz](https://discordapp.com/api/download/development?platform=linux&format=tar.gz) (Linux, tar.gz)
+- [https://discordapp.com/api/download/development?platform=osx](https://discordapp.com/api/download/development?platform=osx) (Mac)
 
 ## Open console, use script
 
