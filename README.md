@@ -14,18 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#e35c781](https://github.com/xHyroM/xHyroM/commit/e35c781) how to try discord experiments
+* ➡️ Pushed 1 commit in [CDN-Github/xda-comments](https://github.com/CDN-Github/xda-comments) on branch `master`
+  * [#a333187](https://github.com/CDN-Github/xda-comments/commit/a333187) ok
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#6f0c3d2](https://github.com/xHyroM/discord-datamining/commit/6f0c3d2) 2022/04/07 | Build f363ab6758be0cb02e9198dd465f1258edbaa2a8
+  * [#0c082cb](https://github.com/xHyroM/discord-datamining/commit/0c082cb) location
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#895451f](https://github.com/xHyroM/discord-datamining/commit/895451f) readme
+  * [#68faf2d](https://github.com/xHyroM/discord-datamining/commit/68faf2d) remove _site
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#0948bb8](https://github.com/xHyroM/discord-datamining/commit/0948bb8) website
-* ➡️ Pushed 2 commits in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#935850e](https://github.com/xHyroM/discord-datamining/commit/935850e) new site
-  * [#96e546b](https://github.com/xHyroM/discord-datamining/commit/96e546b) new site
-* ➡️ Pushed 2 commits in [CDN-Github/xda-min](https://github.com/CDN-Github/xda-min) on branch `master`
-  * [#a956283](https://github.com/CDN-Github/xda-min/commit/a956283) a
-  * [#210ccf2](https://github.com/CDN-Github/xda-min/commit/210ccf2) you
+  * [#d3f370f](https://github.com/xHyroM/discord-datamining/commit/d3f370f) add latest script
 
 
 ___
