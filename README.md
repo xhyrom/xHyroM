@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
+  * [#e6f302e](https://github.com/xHyroM/cf-workers-uploader/commit/e6f302e) style
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#7d8a6f6](https://github.com/xHyroM/aktdwb/commit/7d8a6f6) test
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#61734cd](https://github.com/xHyroM/aktdwb/commit/61734cd) fix
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#f6105f2](https://github.com/xHyroM/aktdwb/commit/f6105f2) test
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#07b5a42](https://github.com/xHyroM/aktdwb/commit/07b5a42) test
 
 
 ___
