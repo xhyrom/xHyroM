@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c05b0a9](https://github.com/xHyroM/xHyroM/commit/c05b0a9) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c885545](https://github.com/xHyroM/xHyroM/commit/c885545) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#7e07072](https://github.com/xHyroM/discord-datamining/commit/7e07072) 2022/04/08 | Build 229a30f0bbcc98048937956f85f140e59829b4ba
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#87c0b69](https://github.com/xHyroM/discord-datamining/commit/87c0b69) 2022/04/08 | Build 229a30f0bbcc98048937956f85f140e59829b4ba
-* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
-  * [#da0e805](https://github.com/xHyroM/roles-bot/commit/da0e805) asset prefix
+  * [#6cc0fc0](https://github.com/xHyroM/discord-datamining/commit/6cc0fc0) Update comments.yml
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#3ead2a6](https://github.com/Garlic-Team/gcommands/commit/3ead2a6) chore: remove github from funding
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#0c0493a](https://github.com/Garlic-Team/gcommands/commit/0c0493a) chore(deps): update dependency keyv to v4.2.2 (https://github.com/Garlic-Team/gcommands/pull/401)
+
+chore(deps): update dependency keyv to v4.2.2
+  * [#0e87704](https://github.com/Garlic-Team/gcommands/commit/0e87704) chore(deps): update dependency keyv to v4.2.2
+* 🔃 Merged [#401 chore(deps): update dependency keyv to v4.2.2](https://github.com/Garlic-Team/gcommands/pull/401) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#fb8d80b](https://github.com/Garlic-Team/gcommands/commit/fb8d80b) deploy: fbaacd3b7884978d9aaa153ae0563737a3c071fb
 
 
 ___
