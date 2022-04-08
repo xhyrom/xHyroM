@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#9c00bed](https://github.com/CDN-Github/CDN-2/commit/9c00bed) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#f5cda28](https://github.com/CDN-Github/CDN-2/commit/f5cda28) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#9194cfb](https://github.com/CDN-Github/CDN-2/commit/9194cfb) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#7c07a18](https://github.com/xHyroM/discord-datamining/commit/7c07a18) 2022/04/08 | Build e8caff1bfab3d57b18b3952afe63d264ccbf9c1c
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#9d95e9b](https://github.com/xHyroM/discord-datamining/commit/9d95e9b) 2022/04/08 | Build e8caff1bfab3d57b18b3952afe63d264ccbf9c1c
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#834b901](https://github.com/xHyroM/discord-datamining/commit/834b901) 2022/04/08 | Build e4f2640edd23e5705112b493dfd48dfc6bbd7125
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#bcde25d](https://github.com/xHyroM/discord-datamining/commit/bcde25d) 2022/04/08 | Build e4f2640edd23e5705112b493dfd48dfc6bbd7125
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#0ba81d9](https://github.com/xHyroM/discord-datamining/commit/0ba81d9) 2022/04/08 | Build daf299c17aa58654ab46a500d70b6dc6717307d7
 
 
 ___
