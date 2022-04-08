@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#c05b0a9](https://github.com/xHyroM/xHyroM/commit/c05b0a9) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#c885545](https://github.com/xHyroM/xHyroM/commit/c885545) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#7e07072](https://github.com/xHyroM/discord-datamining/commit/7e07072) 2022/04/08 | Build 229a30f0bbcc98048937956f85f140e59829b4ba
@@ -22,8 +24,6 @@ ___
   * [#87c0b69](https://github.com/xHyroM/discord-datamining/commit/87c0b69) 2022/04/08 | Build 229a30f0bbcc98048937956f85f140e59829b4ba
 * ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
   * [#da0e805](https://github.com/xHyroM/roles-bot/commit/da0e805) asset prefix
-* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
-  * [#6e9161c](https://github.com/xHyroM/roles-bot/commit/6e9161c) support for button style
 
 
 ___
