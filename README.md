@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#933469c](https://github.com/xHyroM/covid19-stats/commit/933469c) 2022/04/08 stats
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#9c00bed](https://github.com/CDN-Github/CDN-2/commit/9c00bed) Added new url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
@@ -22,8 +24,6 @@ ___
   * [#9194cfb](https://github.com/CDN-Github/CDN-2/commit/9194cfb) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#7c07a18](https://github.com/xHyroM/discord-datamining/commit/7c07a18) 2022/04/08 | Build e8caff1bfab3d57b18b3952afe63d264ccbf9c1c
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#9d95e9b](https://github.com/xHyroM/discord-datamining/commit/9d95e9b) 2022/04/08 | Build e8caff1bfab3d57b18b3952afe63d264ccbf9c1c
 
 
 ___
