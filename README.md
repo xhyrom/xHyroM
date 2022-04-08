@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#65b6a32](https://github.com/xHyroM/xHyroM/commit/65b6a32) fix typo
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#4730732](https://github.com/xHyroM/xHyroM/commit/4730732) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * 🌟 Starred [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
@@ -21,7 +23,6 @@ ___
   * 1 file changed `++3 --3`
 * ➡️ Pushed 1 commit in [xHyroM/personal-site](https://github.com/xHyroM/personal-site) on branch `main`
   * [#3bc573c](https://github.com/xHyroM/personal-site/commit/3bc573c) fix links
-* 🍽️ Forked [WalshyDev/personal-site](https://github.com/WalshyDev/personal-site) to [xHyroM/personal-site](https://github.com/xHyroM/personal-site)
 
 
 ___
