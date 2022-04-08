@@ -6,7 +6,7 @@ date: 2022-04-05
 
 After a long time, I decided to make a simpler website inspired by
 [WalshyDev](https://walshy.dev/). Instead of pure HTML I decided to use NextJS
-and React.\
+and React.  
 Once I started making the site in this framework, I was browsing the internet
 and came across [Lume](https://lume.land).
 

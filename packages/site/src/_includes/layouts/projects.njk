@@ -10,4 +10,20 @@ layout: layouts/base.njk
     <hr />
     
     {{ project.description | md | safe }}
+
+    <p>Stack:</p>
+    <ul>
+        {% for stack in project.stack %}
+            <li>{{ stack | safe }}</li>
+        {% endfor %}
+    </ul>
+
+    <p>Links:</p>
+    <ul>
+        {% for link in project.links %}
+            <li>
+                <a href='{{ link.url }}' target='_blank'>{{ link.type }}</a>
+            </li>
+        {% endfor %}
+    </ul>
 {% endfor %}
