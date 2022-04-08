@@ -15,18 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#c0a4295](https://github.com/xHyroM/aktdwb/commit/c0a4295) test
+  * [#7d8a6f6](https://github.com/xHyroM/aktdwb/commit/7d8a6f6) test
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#0bab0d1](https://github.com/xHyroM/aktdwb/commit/0bab0d1) test
+  * [#f87355d](https://github.com/xHyroM/aktdwb/commit/f87355d) test
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#c61b94c](https://github.com/xHyroM/aktdwb/commit/c61b94c) func
-* ➡️ Pushed 2 commits in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
-  * [#2394050](https://github.com/xHyroM/cf-workers-uploader/commit/2394050) using switch - case instead of if else (https://github.com/xHyroM/cf-workers-uploader/pull/1)
-
-using switch - case instead of if else
-  * [#c6afd25](https://github.com/xHyroM/cf-workers-uploader/commit/c6afd25) using switch - case instead of if else
-* 🔃 Merged [#1 using switch - case instead of if else](https://github.com/xHyroM/cf-workers-uploader/pull/1) in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader)
-  * 1 file changed `++16 --9`
+  * [#61734cd](https://github.com/xHyroM/aktdwb/commit/61734cd) fix
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#f6105f2](https://github.com/xHyroM/aktdwb/commit/f6105f2) test
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#07b5a42](https://github.com/xHyroM/aktdwb/commit/07b5a42) test
 
 
 ___
