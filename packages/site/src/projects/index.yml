@@ -18,7 +18,7 @@ projects:
         url: https://garlic.team.js.org/docs
   - name: Roles Bot
     description: |
-      Roles Bot is a simple [discord bot](https://discord.com) that runs using [Cloudflare Workers](https://workers.cloudflare.com). It serves as a ~~reaction~~ roles button. You can easily and freely set up as many panels as you want, with a maximum of 5x5 buttons (25 max).
+      Roles Bot is a simple [discord bot](https://discord.com) that runs using [Cloudflare Workers](https://workers.cloudflare.com). It serves as a ~~reaction~~ button roles. You can easily and freely set up as many panels as you want, with a maximum of 5x5 buttons (25 max).
     stack:
       - TypeScript
       - Cloudflare Workers
