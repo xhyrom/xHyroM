@@ -15,18 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#6cc0fc0](https://github.com/xHyroM/discord-datamining/commit/6cc0fc0) Update comments.yml
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#3ead2a6](https://github.com/Garlic-Team/gcommands/commit/3ead2a6) chore: remove github from funding
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#0c0493a](https://github.com/Garlic-Team/gcommands/commit/0c0493a) chore(deps): update dependency keyv to v4.2.2 (https://github.com/Garlic-Team/gcommands/pull/401)
-
-chore(deps): update dependency keyv to v4.2.2
-  * [#0e87704](https://github.com/Garlic-Team/gcommands/commit/0e87704) chore(deps): update dependency keyv to v4.2.2
-* 🔃 Merged [#401 chore(deps): update dependency keyv to v4.2.2](https://github.com/Garlic-Team/gcommands/pull/401) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#fb8d80b](https://github.com/Garlic-Team/gcommands/commit/fb8d80b) deploy: fbaacd3b7884978d9aaa153ae0563737a3c071fb
+  * [#0ff7341](https://github.com/xHyroM/discord-datamining/commit/0ff7341) 2022/04/08 | Build 12ade68f4abe8d1a7e52145f8388d25f23500f5f
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#ced6f22](https://github.com/xHyroM/discord-datamining/commit/ced6f22) 2022/04/08 | Build 12ade68f4abe8d1a7e52145f8388d25f23500f5f
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#d479eea](https://github.com/xHyroM/discord-datamining/commit/d479eea) 2022/04/08 | Build 34191aa43176fbec0e9ca31408349f3b556deac9
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#16978be](https://github.com/xHyroM/discord-datamining/commit/16978be) 2022/04/08 | Build 34191aa43176fbec0e9ca31408349f3b556deac9
+* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
+  * [#1bce5b1](https://github.com/xHyroM/discord-datamining/commit/1bce5b1) 2022/04/08 | Build 396e619b49baf36f8b00f41764fb4ff9487b65f1
 
 
 ___
