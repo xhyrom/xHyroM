@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#933469c](https://github.com/xHyroM/covid19-stats/commit/933469c) 2022/04/08 stats
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#9c00bed](https://github.com/CDN-Github/CDN-2/commit/9c00bed) Added new url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#f5cda28](https://github.com/CDN-Github/CDN-2/commit/f5cda28) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#9194cfb](https://github.com/CDN-Github/CDN-2/commit/9194cfb) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#7c07a18](https://github.com/xHyroM/discord-datamining/commit/7c07a18) 2022/04/08 | Build e8caff1bfab3d57b18b3952afe63d264ccbf9c1c
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#c0a4295](https://github.com/xHyroM/aktdwb/commit/c0a4295) test
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#0bab0d1](https://github.com/xHyroM/aktdwb/commit/0bab0d1) test
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#c61b94c](https://github.com/xHyroM/aktdwb/commit/c61b94c) func
+* ➡️ Pushed 2 commits in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader) on branch `master`
+  * [#2394050](https://github.com/xHyroM/cf-workers-uploader/commit/2394050) using switch - case instead of if else (https://github.com/xHyroM/cf-workers-uploader/pull/1)
+
+using switch - case instead of if else
+  * [#c6afd25](https://github.com/xHyroM/cf-workers-uploader/commit/c6afd25) using switch - case instead of if else
+* 🔃 Merged [#1 using switch - case instead of if else](https://github.com/xHyroM/cf-workers-uploader/pull/1) in [xHyroM/cf-workers-uploader](https://github.com/xHyroM/cf-workers-uploader)
+  * 1 file changed `++16 --9`
 
 
 ___
