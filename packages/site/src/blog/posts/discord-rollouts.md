@@ -1,5 +1,5 @@
 ---
-title: 'Discord Rollouts'
+title: 'New discord experiments (rollouts)'
 description: Post about discord rollouts
 date: 2022-04-06
 ---
@@ -9,6 +9,21 @@ application commands. They are currently working on very many other things like
 `App Discovery`, `Text In Voice`, `Guild Role Subscription`. Not to be left out
 on the activities they've been working on for an awfully long time, but when
 we'll see them completely nobody knows exactly.
+
+## Account Popouts
+
+This is a bit of an experiment, but it will show your profile when you click on
+your tag and you can edit your status there.
+
+![account popouts](/discord-account-popouts.png)
+
+## Account Pronouns
+
+This is also a minor experiment, but useful for a lot of people. It adds an
+additional pronouns field. They decided to do this probably because a lot of
+people were putting pronouns in about me.
+
+![account pronouns](/discord-account-pronouns.png)
 
 ## App Discovery
 
