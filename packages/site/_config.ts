@@ -1,5 +1,6 @@
 import lume from "https://deno.land/x/lume@v1.7.2/mod.ts";
 import postcss from "https://deno.land/x/lume@v1.7.2/plugins/postcss.ts";
+import parcelCss from "https://deno.land/x/lume@v1.7.2/plugins/parcel_css.ts";
 import codeHighlight from "https://deno.land/x/lume@v1.7.2/plugins/code_highlight.ts";
 import resolveUrls from "https://deno.land/x/lume@v1.7.2/plugins/resolve_urls.ts";
 import esbuild from "https://deno.land/x/lume@v1.7.2/plugins/esbuild.ts";
@@ -23,6 +24,7 @@ site
   .use(resolveUrls())
   .use(codeHighlight())
   .use(postcss())
+  .use(parcelCss())
   .use(date())
   .use(esbuild({
     options: {
