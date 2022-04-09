@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c663852](https://github.com/xHyroM/xHyroM/commit/c663852) workers for personal site
+  * [#de02d34](https://github.com/xHyroM/xHyroM/commit/de02d34) Delete asdasdqwe.md
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#4d46123](https://github.com/xHyroM/xHyroM/commit/4d46123) remove functions
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#d587a47](https://github.com/xHyroM/xHyroM/commit/d587a47) deno fmt
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#43da019](https://github.com/xHyroM/xHyroM/commit/43da019) add post
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bde6a52](https://github.com/xHyroM/xHyroM/commit/bde6a52) remove on push
+  * [#e1f25e7](https://github.com/xHyroM/xHyroM/commit/e1f25e7) New blog post asdasdqwe 🚀
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#a1260ad](https://github.com/CDN-Github/CDN-2/commit/a1260ad) Added new badge
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#80e3a59](https://github.com/CDN-Github/CDN-2/commit/80e3a59) Added new badge
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#3f52419](https://github.com/CDN-Github/CDN-2/commit/3f52419) Added new badge
 
 
 ___
