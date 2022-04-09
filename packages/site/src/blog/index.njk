@@ -9,7 +9,7 @@ Here, you can find any of my <em>best</em> posts
 
 <ul>
   {% for post in search.pages('type=posts', 'date=desc', 3) %}
-    <li class='postList-post'>
+    <li>
       <a href='{{ post.data.url }}' {% if entry.data.url == url %} aria-current='page'{% endif %}>{{ post.data.title }}</a>
       —
       <em>

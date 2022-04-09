@@ -1,8 +1,15 @@
 import { Router } from "itty-router";
+import { handleOptions } from "./handlers/handleOptions";
 import { errorHandler } from "./utils/errorHandler";
 import { numberPad } from "./utils/numberPad";
 import { postTemplate } from "./utils/postTemplate";
 import { sendResponse } from "./utils/sendResponse";
+
+const corsHeaders = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'GET,HEAD,POST,OPTIONS',
+  'Access-Control-Max-Age': '86400',
+};
 
 const router = Router();
 
@@ -106,8 +113,12 @@ router.put("/post", async (request) => {
   });
 });
 
-router.all("*", () =>
-  sendResponse(
+router.all("*", (request) => {
+  if (request.method === 'OPTIONS') {
+    return handleOptions();
+  }
+
+  return sendResponse(
     {
       status: 404,
       message: "Not Found",
@@ -115,7 +126,8 @@ router.all("*", () =>
     {
       status: 404,
     },
-  ));
+  );
+})
 
 addEventListener("fetch", (event) =>
   event.respondWith(

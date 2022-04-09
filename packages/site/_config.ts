@@ -24,7 +24,16 @@ site
   .use(codeHighlight())
   .use(postcss())
   .use(date())
-  .use(esbuild())
+  .use(esbuild({
+    options: {
+      bundle: true,
+      keepNames: true,
+      minify: false,
+      minifyWhitespace: true,
+      minifySyntax: true,
+      platform: "browser",
+    },
+  }))
   .scopedUpdates(
     (path) => path.endsWith(".css"),
     (path) => path.endsWith(".png") || path.endsWith(".jpg"),
