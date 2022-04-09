@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#736b009](https://github.com/xHyroM/xHyroM/commit/736b009) functions
+  * [#c663852](https://github.com/xHyroM/xHyroM/commit/c663852) workers for personal site
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#b9e2d3b](https://github.com/xHyroM/xHyroM/commit/b9e2d3b) fix
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#a3352ad](https://github.com/xHyroM/xHyroM/commit/a3352ad) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+  * [#4d46123](https://github.com/xHyroM/xHyroM/commit/4d46123) remove functions
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#b7874d0](https://github.com/xHyroM/xHyroM/commit/b7874d0) use env, no process.env
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#8cab0ed](https://github.com/xHyroM/xHyroM/commit/8cab0ed) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+  * [#d587a47](https://github.com/xHyroM/xHyroM/commit/d587a47) deno fmt
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#43da019](https://github.com/xHyroM/xHyroM/commit/43da019) add post
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#bde6a52](https://github.com/xHyroM/xHyroM/commit/bde6a52) remove on push
 
 
 ___
