@@ -19,7 +19,6 @@ site
   .ignore("README.md")
   .ignore("scripts")
   .copy("info.txt", "./info.txt")
-  .copy("functions", "functions")
   .copy("static", ".")
   .use(resolveUrls())
   .use(codeHighlight())
