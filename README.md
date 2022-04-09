@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#b7874d0](https://github.com/xHyroM/xHyroM/commit/b7874d0) use env, no process.env
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#8cab0ed](https://github.com/xHyroM/xHyroM/commit/8cab0ed) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
@@ -22,11 +24,6 @@ ___
   * [#bb4660a](https://github.com/xHyroM/xHyroM/commit/bb4660a) fix: delete funding
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8aceea4](https://github.com/xHyroM/covid19-stats/commit/8aceea4) 2022/04/09 stats
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#b02281c](https://github.com/Garlic-Team/gcommands/commit/b02281c) chore(deps): update dependency eslint to v8.13.0 )
-
-chore(deps): update dependency eslint to v8.13.0
-  * [#1a2ed68](https://github.com/Garlic-Team/gcommands/commit/1a2ed68) chore(deps): update dependency eslint to v8.13.0
 
 
 ___
