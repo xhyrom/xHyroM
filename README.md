@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#a3f113b](https://github.com/CDN-Github/CDN-2/commit/a3f113b) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#896dd0e](https://github.com/CDN-Github/CDN-2/commit/896dd0e) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#070dc07](https://github.com/CDN-Github/CDN-2/commit/070dc07) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#c663852](https://github.com/xHyroM/xHyroM/commit/c663852) workers for personal site
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#4d46123](https://github.com/xHyroM/xHyroM/commit/4d46123) remove functions
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#d587a47](https://github.com/xHyroM/xHyroM/commit/d587a47) deno fmt
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#43da019](https://github.com/xHyroM/xHyroM/commit/43da019) add post
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bde6a52](https://github.com/xHyroM/xHyroM/commit/bde6a52) remove on push
+  * [#fa8882c](https://github.com/xHyroM/xHyroM/commit/fa8882c) working on createPost (frontend)
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#16073b4](https://github.com/xHyroM/xHyroM/commit/16073b4) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 
 
 ___
