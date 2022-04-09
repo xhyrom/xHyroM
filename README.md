@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#de02d34](https://github.com/xHyroM/xHyroM/commit/de02d34) Delete asdasdqwe.md
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#e1f25e7](https://github.com/xHyroM/xHyroM/commit/e1f25e7) New blog post asdasdqwe 🚀
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#a1260ad](https://github.com/CDN-Github/CDN-2/commit/a1260ad) Added new badge
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#80e3a59](https://github.com/CDN-Github/CDN-2/commit/80e3a59) Added new badge
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#3f52419](https://github.com/CDN-Github/CDN-2/commit/3f52419) Added new badge
-* 🍽️ Forked [MadeByIToncek/SwissKnife](https://github.com/MadeByIToncek/SwissKnife) to [xHyroM/SwissKnife](https://github.com/xHyroM/SwissKnife)
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#a3f113b](https://github.com/CDN-Github/CDN-2/commit/a3f113b) Removed uptime url
 
 
 ___
