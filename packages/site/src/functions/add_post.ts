@@ -6,7 +6,7 @@ export async function onRequestGet({ env }) {
     const info = JSON.stringify(data);
 
     return new Response(JSON.stringify({
-        name: env.admin_name,
+        test: typeof admin_name,
         info
     }));
 }
