@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Closed [#19 fix(Tsukabi): remove](https://github.com/discordjs/docgen/pull/19) in [discordjs/docgen](https://github.com/discordjs/docgen)
+  * 2 files changed `++1 --3`
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#92eb618](https://github.com/xHyroM/discord-datamining/commit/92eb618) 2022/04/09 | Build c05ebe34098c5f41ade01fe7922e123ec0b4c27c
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#c29856b](https://github.com/xHyroM/discord-datamining/commit/c29856b) 2022/04/09 | Build 4a0b42435e1041dbaa5fb6ffe9605a3ca5d4fcfd
 * ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
   * [#17950d8](https://github.com/xHyroM/discord-datamining/commit/17950d8) 2022/04/09 | Build 4a0b42435e1041dbaa5fb6ffe9605a3ca5d4fcfd
-* ➡️ Pushed 1 commit in [xHyroM/discord-datamining](https://github.com/xHyroM/discord-datamining) on branch `master`
-  * [#597b6e0](https://github.com/xHyroM/discord-datamining/commit/597b6e0) 2022/04/09 | Build 929ab30ddf17ae94cbb01be60058f24212edae81
 
 
 ___
