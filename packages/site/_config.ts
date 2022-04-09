@@ -17,16 +17,14 @@ const site = lume(
 
 site
   .ignore("README.md")
-  .ignore("scripts")
   .copy("info.txt", "./info.txt")
   .copy("static", ".")
+  .loadAssets([".ts"])
   .use(resolveUrls())
   .use(codeHighlight())
   .use(postcss())
   .use(date())
-  .use(esbuild({
-    extensions: [".js", ".ts"],
-  }))
+  .use(esbuild())
   .scopedUpdates(
     (path) => path.endsWith(".css"),
     (path) => path.endsWith(".png") || path.endsWith(".jpg"),
