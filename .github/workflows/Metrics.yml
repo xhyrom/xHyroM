@@ -40,4 +40,4 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_projects: yes
           plugin_projects_limit: 4
-          repositories_skipped: discord-assets, xeon
+          repositories_skipped: discord-datamining, xeon
