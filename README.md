@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#736b009](https://github.com/xHyroM/xHyroM/commit/736b009) functions
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#b9e2d3b](https://github.com/xHyroM/xHyroM/commit/b9e2d3b) fix
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#a3352ad](https://github.com/xHyroM/xHyroM/commit/a3352ad) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
@@ -22,8 +24,6 @@ ___
   * [#b7874d0](https://github.com/xHyroM/xHyroM/commit/b7874d0) use env, no process.env
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#8cab0ed](https://github.com/xHyroM/xHyroM/commit/8cab0ed) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#b770a19](https://github.com/xHyroM/xHyroM/commit/b770a19) fix: discord-datamining skip
 
 
 ___
