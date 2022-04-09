@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#8cab0ed](https://github.com/xHyroM/xHyroM/commit/8cab0ed) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#b770a19](https://github.com/xHyroM/xHyroM/commit/b770a19) fix: discord-datamining skip
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update dependency eslint to v8.13.0
   * [#1a2ed68](https://github.com/Garlic-Team/gcommands/commit/1a2ed68) chore(deps): update dependency eslint to v8.13.0
-* 🔃 Merged [#404 chore(deps): update dependency eslint to v8.13.0](https://github.com/Garlic-Team/gcommands/pull/404) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
