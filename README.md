@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#b67715d](https://github.com/xHyroM/xHyroM/commit/b67715d) minify for css
-* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#feaadbe](https://github.com/xHyroM/xHyroM/commit/feaadbe) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#de02d34](https://github.com/xHyroM/xHyroM/commit/de02d34) Delete asdasdqwe.md
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#e1f25e7](https://github.com/xHyroM/xHyroM/commit/e1f25e7) New blog post asdasdqwe 🚀
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#a1260ad](https://github.com/CDN-Github/CDN-2/commit/a1260ad) Added new badge
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#44400b9](https://github.com/Garlic-Team/gcommands/commit/44400b9) deploy: 9db38d7f98a1691a279151bdf99f4062ec18afa7
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#9db38d7](https://github.com/Garlic-Team/gcommands/commit/9db38d7) refactor: use node: protocol
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
+  * [#3956ba0](https://github.com/Garlic-Team/website/commit/3956ba0) assets -&gt; public
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
+  * [#9cf48ab](https://github.com/Garlic-Team/website/commit/9cf48ab) new assets for jsdocs
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#6d88185](https://github.com/Garlic-Team/gcommands/commit/6d88185) deploy: fb22ec20367ee38c7ad4466b704c5c3f5aec5423
 
 
 ___
