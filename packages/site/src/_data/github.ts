@@ -36,7 +36,7 @@ export default {
         fork: repository.fork ? "yes" : "no",
       },
       description: repository.description,
-      url: repository.url,
+      url: repository.svn_url,
     })
   ) as Repository[],
 };
