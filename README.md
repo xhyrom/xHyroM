@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#8dc10a0](https://github.com/xHyroM/xHyroM/commit/8dc10a0) deno fmt
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#2047b62](https://github.com/xHyroM/xHyroM/commit/2047b62) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#d98b9ad](https://github.com/Garlic-Team/gcommands/commit/d98b9ad) deploy: ed3dee690ea611ec28944dc5eb9a4f2fc7a4cacb
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#ed3dee6](https://github.com/Garlic-Team/gcommands/commit/ed3dee6) refactor: use MessageButtonStyle
 * 🔃 Opened [#7766 feat: add support for localized slash commands (v13 backport)](https://github.com/discordjs/discord.js/pull/7766) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
   * 6 files changed `++171 --24`
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
-  * [#e0fb84c](https://github.com/xHyroM/discord.js/commit/e0fb84c) feat: add support for localized slash commands (v13 backport)
-* ⏺️ Created new branch backport/localized-commands in [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
-* 🍽️ Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#44400b9](https://github.com/Garlic-Team/gcommands/commit/44400b9) deploy: 9db38d7f98a1691a279151bdf99f4062ec18afa7
 
 
 ___
