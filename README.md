@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#7c7afc8](https://github.com/xHyroM/xHyroM/commit/7c7afc8) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#a452528](https://github.com/xHyroM/xHyroM/commit/a452528) use svn_url
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -21,8 +23,6 @@ ___
 * 💼 Added [KoblizekXD](https://github.com/KoblizekXD) as collaborator in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#d10813b](https://github.com/xHyroM/covid19-stats/commit/d10813b) 2022/04/10 stats
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bf06e50](https://github.com/xHyroM/xHyroM/commit/bf06e50) deno fm
 
 
 ___
