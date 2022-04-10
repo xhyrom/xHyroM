@@ -6,6 +6,7 @@ import resolveUrls from "https://deno.land/x/lume@v1.7.2/plugins/resolve_urls.ts
 import esbuild from "https://deno.land/x/lume@v1.7.2/plugins/esbuild.ts";
 import date from "https://deno.land/x/lume@v1.7.2/plugins/date.ts";
 import { readingTime } from "./plugins/readingTime.ts";
+import { htmlMinifier } from "./plugins/htmlMinifier.ts";
 
 const site = lume(
   {
@@ -36,6 +37,7 @@ site
       platform: "browser",
     },
   }))
+  .use(htmlMinifier())
   .scopedUpdates(
     (path) => path.endsWith(".css"),
     (path) => path.endsWith(".png") || path.endsWith(".jpg"),
