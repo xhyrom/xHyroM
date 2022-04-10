@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/xda-comments](https://github.com/CDN-Github/xda-comments) on branch `master`
+  * [#5debd81](https://github.com/CDN-Github/xda-comments/commit/5debd81) fix: build for nodejs v12
+* 💬 Commented on [#7767 fix(WebhookClient): Updated webhook url to include old url](https://github.com/discordjs/discord.js/issues/7767) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 2 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#7c7afc8](https://github.com/xHyroM/xHyroM/commit/7c7afc8) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#a452528](https://github.com/xHyroM/xHyroM/commit/a452528) use svn_url
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#7e3b114](https://github.com/Mr-Infinity-Bot/bot/commit/7e3b114) new bad domains
-* 💼 Added [KoblizekXD](https://github.com/KoblizekXD) as collaborator in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#d10813b](https://github.com/xHyroM/covid19-stats/commit/d10813b) 2022/04/10 stats
 
 
 ___
