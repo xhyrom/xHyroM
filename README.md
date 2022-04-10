@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#7766 feat: add support for localized slash commands (v13 backport)](https://github.com/discordjs/discord.js/pull/7766) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+  * 6 files changed `++171 --24`
+* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
+  * [#e0fb84c](https://github.com/xHyroM/discord.js/commit/e0fb84c) feat: add support for localized slash commands (v13 backport)
+* ⏺️ Created new branch backport/localized-commands in [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
+* 🍽️ Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#44400b9](https://github.com/Garlic-Team/gcommands/commit/44400b9) deploy: 9db38d7f98a1691a279151bdf99f4062ec18afa7
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#9db38d7](https://github.com/Garlic-Team/gcommands/commit/9db38d7) refactor: use node: protocol
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#3956ba0](https://github.com/Garlic-Team/website/commit/3956ba0) assets -&gt; public
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#9cf48ab](https://github.com/Garlic-Team/website/commit/9cf48ab) new assets for jsdocs
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#6d88185](https://github.com/Garlic-Team/gcommands/commit/6d88185) deploy: fb22ec20367ee38c7ad4466b704c5c3f5aec5423
 
 
 ___
