@@ -1,8 +1,6 @@
 /// <reference lib="dom" />
 
-export const clearForm = (form: HTMLFormElement) => {
-  form.reset();
-};
+import { clearForm } from './clearForm.ts';
 
 export const createPostForm = (
   event: any,

@@ -26,3 +26,28 @@ layout: layouts/base.njk
         {% endfor %}
     </ul>
 {% endfor %}
+
+<h1>GitHub Repositories</h1>
+
+{% for repository in github.repositories %}
+    <h3>{{ repository.name }}</h3>
+    <hr />
+
+    {{ repository.description }}
+
+    <p>Stats:</p>
+    <ul>
+        {% for name, value in repository.stats %}
+            <li>
+                {{ name }}: {{ value }}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <p>Links:</p>
+    <ul>
+        <li>
+            <a href='{{ repository.url }}' target='_blank'>GitHub</a>
+        </li>
+    </ul>
+{% endfor %}
