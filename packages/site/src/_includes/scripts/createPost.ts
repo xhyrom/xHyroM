@@ -1,6 +1,6 @@
 /// <reference lib="dom" />
 
-import { clearForm } from './clearForm.ts';
+import { clearForm } from "./clearForm.ts";
 
 export const createPostForm = (
   event: any,
