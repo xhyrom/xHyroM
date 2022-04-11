@@ -14,21 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-99145670ee8f1bc1ae9844748d41382a`
-  * [#b938854](https://github.com/xHyroM/github-bucket/commit/b938854) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-1296898
-- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340908
-- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340922
-- https://snyk.io/vuln/SNYK-DEBIAN11-GLIBC-2340922
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2426309
-* ⏺️ Created new branch snyk-fix-99145670ee8f1bc1ae9844748d41382a in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
-* 🌟 Starred [lumeland/lume](https://github.com/lumeland/lume)
-* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
-  * [#6ec3bb4](https://github.com/xHyroM/roles-bot/commit/6ec3bb4) privacy policy &amp; tos
-* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
-  * [#7b8256f](https://github.com/xHyroM/roles-bot/commit/7b8256f) resolveEmoji utils
+* 🔃 Closed [#10 [Snyk] Security upgrade node from 17.4-slim to 17.7.1-slim](https://github.com/xHyroM/github-bucket/pull/10) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+  * 1 file changed `++1 --1`
+* 🔃 Closed [#11 [Snyk] Security upgrade node from 17.4-slim to current-bullseye-slim](https://github.com/xHyroM/github-bucket/pull/11) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+  * 1 file changed `++1 --1`
 
 
 ___
