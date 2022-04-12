@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#940dcf6](https://github.com/xHyroM/xHyroM/commit/940dcf6) new lume version
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c3c1fd0](https://github.com/xHyroM/covid19-stats/commit/c3c1fd0) 2022/04/12 stats
 * ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
   * [#baca714](https://github.com/xHyroM/discord.js/commit/baca714) chore: remove or not
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#6804888](https://github.com/xHyroM/covid19-stats/commit/6804888) 2022/04/11 stats
-* 🔃 Closed [#10 [Snyk] Security upgrade node from 17.4-slim to 17.7.1-slim](https://github.com/xHyroM/github-bucket/pull/10) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
-  * 1 file changed `++1 --1`
 
 
 ___
