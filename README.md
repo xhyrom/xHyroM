@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#7766 feat: add support for localized slash commands (v13 backport)](https://github.com/discordjs/discord.js/issues/7766) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 4 commits in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
   * [#bbd21cb](https://github.com/xHyroM/discord.js/commit/bbd21cb) Merge branch &#39;v13&#39; into backport/localized-commands
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,8 +23,6 @@ ___
   * [#940dcf6](https://github.com/xHyroM/xHyroM/commit/940dcf6) new lume version
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c3c1fd0](https://github.com/xHyroM/covid19-stats/commit/c3c1fd0) 2022/04/12 stats
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
-  * [#baca714](https://github.com/xHyroM/discord.js/commit/baca714) chore: remove or not
 
 
 ___
