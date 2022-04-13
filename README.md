@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 4 commits in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
+  * [#bbd21cb](https://github.com/xHyroM/discord.js/commit/bbd21cb) Merge branch &#39;v13&#39; into backport/localized-commands
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#2364236](https://github.com/xHyroM/covid19-stats/commit/2364236) 2022/04/13 stats
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#c3c1fd0](https://github.com/xHyroM/covid19-stats/commit/c3c1fd0) 2022/04/12 stats
 * ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
   * [#baca714](https://github.com/xHyroM/discord.js/commit/baca714) chore: remove or not
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#6804888](https://github.com/xHyroM/covid19-stats/commit/6804888) 2022/04/11 stats
 
 
 ___
