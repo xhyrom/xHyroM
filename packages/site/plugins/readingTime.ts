@@ -1,4 +1,4 @@
-import type { Page } from "https://deno.land/x/lume@v1.7.2/core.ts";
+import type { Page } from "https://deno.land/x/lume@v1.7.3/core.ts";
 
 export const readingTime = (
   pageOrContent: Page | string,
