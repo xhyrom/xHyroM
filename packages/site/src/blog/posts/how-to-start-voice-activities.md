@@ -1,6 +1,6 @@
 ---
 title: 'How to start voice activities'
-description: How to start voice activities
+description: Post about how to start voice activities in channel
 date: 2022-04-14
 templateEngine: njk,md
 ---
