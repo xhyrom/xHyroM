@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#e87303c](https://github.com/CDN-Github/CDN-2/commit/e87303c) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#8ad4df4](https://github.com/xHyroM/discord-activities/commit/8ad4df4) Update README.md
+  * [#dae262b](https://github.com/xHyroM/discord-activities/commit/dae262b) fix: remove comments
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#edf31ce](https://github.com/xHyroM/discord-activities/commit/edf31ce) readme
-* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#0b82763](https://github.com/xHyroM/discord-activities/commit/0b82763) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#0e0aae5](https://github.com/xHyroM/discord-activities/commit/0e0aae5) saving fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#05bc77d](https://github.com/xHyroM/discord-activities/commit/05bc77d) fix
+  * [#45a638f](https://github.com/xHyroM/discord-activities/commit/45a638f) plugins
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#972bcf4](https://github.com/xHyroM/xHyroM/commit/972bcf4) description
+* ➡️ Pushed 3 commits in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#2c1f839](https://github.com/xHyroM/xHyroM/commit/2c1f839) start voice activities post
+  * [#603bed7](https://github.com/xHyroM/xHyroM/commit/603bed7) Merge branch &#39;master&#39; of https://github.com/xHyroM/xHyroM
+  * [#ccbc7fb](https://github.com/xHyroM/xHyroM/commit/ccbc7fb) start voice activities post
 
 
 ___
