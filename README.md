@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#7798 docs(ApplicationCommand): Fix ApplicationCommandOptionChoice (v13)](https://github.com/discordjs/discord.js/issues/7798) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
   * [#1811e96](https://github.com/xHyroM/roles-bot/commit/1811e96) fix path
 * ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
@@ -22,8 +23,6 @@ ___
   * [#4ee047e](https://github.com/xHyroM/roles-bot/commit/4ee047e) feat: support for select menus
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3bb397a](https://github.com/xHyroM/covid19-stats/commit/3bb397a) 2022/04/14 stats
-* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
-  * [#1f23b25](https://github.com/xHyroM/roles-bot/commit/1f23b25) Allow empty message
 
 
 ___
