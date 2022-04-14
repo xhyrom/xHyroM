@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#8ad4df4](https://github.com/xHyroM/discord-activities/commit/8ad4df4) Update README.md
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#edf31ce](https://github.com/xHyroM/discord-activities/commit/edf31ce) readme
+* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#0b82763](https://github.com/xHyroM/discord-activities/commit/0b82763) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#0e0aae5](https://github.com/xHyroM/discord-activities/commit/0e0aae5) saving fix
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#05bc77d](https://github.com/xHyroM/discord-activities/commit/05bc77d) fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#f373102](https://github.com/xHyroM/discord-activities/commit/f373102) fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#fb715bd](https://github.com/xHyroM/discord-activities/commit/fb715bd) fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#96162c6](https://github.com/xHyroM/discord-activities/commit/96162c6) fix
 
 
 ___
