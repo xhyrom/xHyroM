@@ -14,11 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#2841552](https://github.com/CDN-Github/CDN-2/commit/2841552) Added new url
-* 🔃 Opened [#9 [Snyk] Security upgrade sqlite3 from 5.0.1 to 5.0.3](https://github.com/Garlic-Team/animals-api/pull/9) in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api) on branch `snyk-fix-15dad9f4f563609096753b6fb7dac925`
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#3bb397a](https://github.com/xHyroM/covid19-stats/commit/3bb397a) 2022/04/14 stats
+* ➡️ Pushed 1 commit in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot) on branch `master`
+  * [#1f23b25](https://github.com/xHyroM/roles-bot/commit/1f23b25) Allow empty message
+* ➡️ Pushed 2 commits in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api) on branch `main`
+  * [#9fcc03a](https://github.com/Garlic-Team/animals-api/commit/9fcc03a) Merge pull request #9 from Garlic-Team/snyk-fix-15dad9f4f563609096753b6fb7dac925
+
+[Snyk] Security upgrade sqlite3 from 5.0.1 to 5.0.3
   * [#bc6a480](https://github.com/Garlic-Team/animals-api/commit/bc6a480) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
 The following vulnerabilities are fixed with an upgrade:
@@ -28,8 +31,8 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-TAR-1579147
 - https://snyk.io/vuln/SNYK-JS-TAR-1579152
 - https://snyk.io/vuln/SNYK-JS-TAR-1579155
-* ⏺️ Created new branch snyk-fix-15dad9f4f563609096753b6fb7dac925 in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api)
-* 💬 Commented on [#7766 feat: add support for localized slash commands (v13 backport)](https://github.com/discordjs/discord.js/issues/7766) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+* 🔃 Merged [#9 [Snyk] Security upgrade sqlite3 from 5.0.1 to 5.0.3](https://github.com/Garlic-Team/animals-api/pull/9) in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api)
+  * 1 file changed `++1 --1`
 
 
 ___
