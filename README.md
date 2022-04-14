@@ -14,12 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#230 Add support for emojis right after count](https://github.com/countr/countr/issues/230) from [countr/countr](https://github.com/countr/countr)
-* 🔃 Opened [#3 refactor: import native modules from `node:`](https://github.com/S222em/hue.ts/pull/3) in [S222em/hue.ts](https://github.com/S222em/hue.ts)
-  * 5 files changed `++27 --17`
-* ⏺️ Created new branch refactor/import-native-modules-from-node in [xHyroM/hue.ts](https://github.com/xHyroM/hue.ts)
-* ➡️ Pushed 1 commit in [xHyroM/hue.ts](https://github.com/xHyroM/hue.ts) on branch `refactor/use-undici`
-  * [#2e080d3](https://github.com/xHyroM/hue.ts/commit/2e080d3) fix: use node: protocol
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#8ad4df4](https://github.com/xHyroM/discord-activities/commit/8ad4df4) Update README.md
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#edf31ce](https://github.com/xHyroM/discord-activities/commit/edf31ce) readme
+* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#0b82763](https://github.com/xHyroM/discord-activities/commit/0b82763) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#0e0aae5](https://github.com/xHyroM/discord-activities/commit/0e0aae5) saving fix
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#05bc77d](https://github.com/xHyroM/discord-activities/commit/05bc77d) fix
 
 
 ___
