@@ -14,15 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#9 [Snyk] Security upgrade sqlite3 from 5.0.1 to 5.0.3](https://github.com/Garlic-Team/animals-api/pull/9) in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 1 commit in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api) on branch `snyk-fix-15dad9f4f563609096753b6fb7dac925`
+  * [#bc6a480](https://github.com/Garlic-Team/animals-api/commit/bc6a480) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-TAR-1536528
+- https://snyk.io/vuln/SNYK-JS-TAR-1536531
+- https://snyk.io/vuln/SNYK-JS-TAR-1536758
+- https://snyk.io/vuln/SNYK-JS-TAR-1579147
+- https://snyk.io/vuln/SNYK-JS-TAR-1579152
+- https://snyk.io/vuln/SNYK-JS-TAR-1579155
+* ⏺️ Created new branch snyk-fix-15dad9f4f563609096753b6fb7dac925 in [Garlic-Team/animals-api](https://github.com/Garlic-Team/animals-api)
 * 💬 Commented on [#7766 feat: add support for localized slash commands (v13 backport)](https://github.com/discordjs/discord.js/issues/7766) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 4 commits in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `backport/localized-commands`
   * [#bbd21cb](https://github.com/xHyroM/discord.js/commit/bbd21cb) Merge branch &#39;v13&#39; into backport/localized-commands
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#2364236](https://github.com/xHyroM/covid19-stats/commit/2364236) 2022/04/13 stats
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#940dcf6](https://github.com/xHyroM/xHyroM/commit/940dcf6) new lume version
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#c3c1fd0](https://github.com/xHyroM/covid19-stats/commit/c3c1fd0) 2022/04/12 stats
 
 
 ___
