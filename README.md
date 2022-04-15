@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#b71a49f](https://github.com/CDN-Github/CDN-2/commit/b71a49f) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#deb7599](https://github.com/CDN-Github/CDN-2/commit/deb7599) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#679a7d9](https://github.com/CDN-Github/CDN-2/commit/679a7d9) Added new url
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
   * [#fc62951](https://github.com/LendMarkNetwork/wiki/commit/fc62951) gitattributes
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
   * [#fd0c212](https://github.com/LendMarkNetwork/wiki/commit/fd0c212) css for docs
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#2c9530c](https://github.com/LendMarkNetwork/wiki/commit/2c9530c) page_css
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#fe6dc50](https://github.com/LendMarkNetwork/wiki/commit/fe6dc50) tab
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#b16f943](https://github.com/LendMarkNetwork/wiki/commit/b16f943) remove codeowners
 
 
 ___
