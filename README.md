@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#132618e](https://github.com/CDN-Github/CDN-2/commit/132618e) Added new url
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#186e02b](https://github.com/LendMarkNetwork/wiki/commit/186e02b) workers for autobuild
-* ⏺️ Created new branch master in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki)
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#0360bed](https://github.com/xHyroM/discord-activities/commit/0360bed) find prop only in constructor
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#90cd595](https://github.com/xHyroM/discord-activities/commit/90cd595) update
+  * [#fe6dc50](https://github.com/LendMarkNetwork/wiki/commit/fe6dc50) tab
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#b16f943](https://github.com/LendMarkNetwork/wiki/commit/b16f943) remove codeowners
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#ea4c555](https://github.com/LendMarkNetwork/wiki/commit/ea4c555) code owners
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#14cda1e](https://github.com/LendMarkNetwork/wiki/commit/14cda1e) use deno deploy
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#b0a2273](https://github.com/LendMarkNetwork/wiki/commit/b0a2273) use deno deploy
 
 
 ___
