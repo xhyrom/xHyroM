@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new repository  [CDN-Github/powercord-discord-voice-activities](https://github.com/CDN-Github/powercord-discord-voice-activities)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#52b194d](https://github.com/xHyroM/covid19-stats/commit/52b194d) 2022/04/15 stats
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#2319328](https://github.com/xHyroM/xHyroM/commit/2319328) add plugins
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#1525d9d](https://github.com/xHyroM/discord-activities/commit/1525d9d) powercord plugin
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#db95d5a](https://github.com/xHyroM/discord-activities/commit/db95d5a) betterdiscord plugin
+  * [#83cf683](https://github.com/xHyroM/discord-activities/commit/83cf683) use gitmodules
+* ➡️ Pushed 1 commit in [CDN-Github/discord-voice-activities](https://github.com/CDN-Github/discord-voice-activities) on branch `main`
+  * [#033e2a5](https://github.com/CDN-Github/discord-voice-activities/commit/033e2a5) Update README.md
+* ➡️ Pushed 1 commit in [CDN-Github/powercord-discord-voice-activities](https://github.com/CDN-Github/powercord-discord-voice-activities) on branch `main`
+  * [#0bcfd2d](https://github.com/CDN-Github/powercord-discord-voice-activities/commit/0bcfd2d) Create README.md
+* ➡️ Pushed 1 commit in [CDN-Github/powercord-discord-voice-activities](https://github.com/CDN-Github/powercord-discord-voice-activities) on branch `main`
+  * [#cd83d39](https://github.com/CDN-Github/powercord-discord-voice-activities/commit/cd83d39) Create LICENSE
+* ⏺️ Created new branch main in [CDN-Github/powercord-discord-voice-activities](https://github.com/CDN-Github/powercord-discord-voice-activities)
 
 
 ___
