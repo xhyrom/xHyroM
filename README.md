@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#fc62951](https://github.com/LendMarkNetwork/wiki/commit/fc62951) gitattributes
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#fd0c212](https://github.com/LendMarkNetwork/wiki/commit/fd0c212) css for docs
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#2c9530c](https://github.com/LendMarkNetwork/wiki/commit/2c9530c) page_css
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
   * [#fe6dc50](https://github.com/LendMarkNetwork/wiki/commit/fe6dc50) tab
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
   * [#b16f943](https://github.com/LendMarkNetwork/wiki/commit/b16f943) remove codeowners
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#ea4c555](https://github.com/LendMarkNetwork/wiki/commit/ea4c555) code owners
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#14cda1e](https://github.com/LendMarkNetwork/wiki/commit/14cda1e) use deno deploy
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#b0a2273](https://github.com/LendMarkNetwork/wiki/commit/b0a2273) use deno deploy
 
 
 ___
