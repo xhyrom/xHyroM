@@ -16,6 +16,8 @@ var appIds = [{{ other.appIds | safe }}]
 window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getEnabledAppIds !== undefined) {return m.default.getEnabledAppIds = () => appIds}}}]);
 ```
 
+Or, if you have [BetterDiscord](https://betterdiscord.app) or [Powercord](https://powercord.dev) you can download [the plugin](https://github.com/xHyroM/discord-activities/tree/master/plugins).
+
 > Application Ids are only updated when this page is built, so if you are sure there is a new activity you can copy the id in [this table](https://github.com/xHyroM/discord-activities/blob/master/activities.md)
 
 Then all you have to do is go to the voice channel, click on the rocket and start playing. Other people can already join using the Join Activity button.
