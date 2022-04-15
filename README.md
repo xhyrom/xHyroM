@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#0360bed](https://github.com/xHyroM/discord-activities/commit/0360bed) find prop only in constructor
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#90cd595](https://github.com/xHyroM/discord-activities/commit/90cd595) update
+* ➡️ Pushed 1 commit in [CDN-Github/discord-voice-activities](https://github.com/CDN-Github/discord-voice-activities) on branch `main`
+  * [#80f8b32](https://github.com/CDN-Github/discord-voice-activities/commit/80f8b32) inject
 * ➡️ Pushed 1 commit in [LendMarkNetwork/lendnet](https://github.com/LendMarkNetwork/lendnet) on branch `main`
   * [#a1fd7f4](https://github.com/LendMarkNetwork/lendnet/commit/a1fd7f4) asdô
 * ➡️ Pushed 1 commit in [LendMarkNetwork/lendnet](https://github.com/LendMarkNetwork/lendnet) on branch `main`
   * [#a6940aa](https://github.com/LendMarkNetwork/lendnet/commit/a6940aa) jou
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#495a3e4](https://github.com/CDN-Github/CDN-2/commit/495a3e4) Added new badge
-* ⏺️ Created new repository  [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki)
-* 📦 Released **1.1** of [LendMarkNetwork/SpaceWars](https://github.com/LendMarkNetwork/SpaceWars)
 
 
 ___
