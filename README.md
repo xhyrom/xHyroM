@@ -14,11 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [LendMarkNetwork/lendnet](https://github.com/LendMarkNetwork/lendnet) on branch `main`
+  * [#a1fd7f4](https://github.com/LendMarkNetwork/lendnet/commit/a1fd7f4) asdô
+* ➡️ Pushed 1 commit in [LendMarkNetwork/lendnet](https://github.com/LendMarkNetwork/lendnet) on branch `main`
+  * [#a6940aa](https://github.com/LendMarkNetwork/lendnet/commit/a6940aa) jou
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#495a3e4](https://github.com/CDN-Github/CDN-2/commit/495a3e4) Added new badge
+* ⏺️ Created new repository  [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki)
 * 📦 Released **1.1** of [LendMarkNetwork/SpaceWars](https://github.com/LendMarkNetwork/SpaceWars)
-* ⏺️ Created new tag 1.1 in [LendMarkNetwork/SpaceWars](https://github.com/LendMarkNetwork/SpaceWars)
-* 📦 Released **1.0.0** of [LendMarkNetwork/SpaceWars](https://github.com/LendMarkNetwork/SpaceWars)
-* ➡️ Pushed 1 commit in [LendMarkNetwork/SpaceWars](https://github.com/LendMarkNetwork/SpaceWars) on branch `main`
-  * [#5009231](https://github.com/LendMarkNetwork/SpaceWars/commit/5009231) Update maven.yml
 
 
 ___
