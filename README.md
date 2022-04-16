@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🍽️ Forked [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) to [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#b71a49f](https://github.com/CDN-Github/CDN-2/commit/b71a49f) Added new url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#deb7599](https://github.com/CDN-Github/CDN-2/commit/deb7599) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#679a7d9](https://github.com/CDN-Github/CDN-2/commit/679a7d9) Added new url
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#fc62951](https://github.com/LendMarkNetwork/wiki/commit/fc62951) gitattributes
+* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
+  * [#c7cf9b1](https://github.com/xHyroM/powercord-installer/commit/c7cf9b1) CI: Prepare release &#39;v1.0.0
+* ➡️ Pushed 2 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
+  * [#c7cf9b1](https://github.com/xHyroM/powercord-installer/commit/c7cf9b1) CI: Prepare release &#39;v1.0.0
+  * [#02f92db](https://github.com/xHyroM/powercord-installer/commit/02f92db) Update package.json
+* ⏺️ Created new tag v1.0.0 in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
+  * [#02f92db](https://github.com/xHyroM/powercord-installer/commit/02f92db) Update package.json
 
 
 ___
