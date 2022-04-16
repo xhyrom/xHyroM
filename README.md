@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🍽️ Forked [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) to [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#b71a49f](https://github.com/CDN-Github/CDN-2/commit/b71a49f) Added new url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#679a7d9](https://github.com/CDN-Github/CDN-2/commit/679a7d9) Added new url
 * ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
   * [#fc62951](https://github.com/LendMarkNetwork/wiki/commit/fc62951) gitattributes
-* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
-  * [#fd0c212](https://github.com/LendMarkNetwork/wiki/commit/fd0c212) css for docs
 
 
 ___
