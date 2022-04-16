@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/powercord-injector](https://github.com/xHyroM/powercord-injector) on branch `master`
-  * [#243347d](https://github.com/xHyroM/powercord-injector/commit/243347d) fix path
-* ➡️ Pushed 1 commit in [xHyroM/powercord-injector](https://github.com/xHyroM/powercord-injector) on branch `master`
-  * [#9b26ad5](https://github.com/xHyroM/powercord-injector/commit/9b26ad5) fix path
-* ➡️ Pushed 1 commit in [xHyroM/powercord-injector](https://github.com/xHyroM/powercord-injector) on branch `master`
-  * [#4f5990a](https://github.com/xHyroM/powercord-injector/commit/4f5990a) injectors -&gt; new injectors
-* ➡️ Pushed 1 commit in [xHyroM/powercord-injector](https://github.com/xHyroM/powercord-injector) on branch `master`
-  * [#88666a3](https://github.com/xHyroM/powercord-injector/commit/88666a3) README
-* ⏺️ Created new branch master in [xHyroM/powercord-injector](https://github.com/xHyroM/powercord-injector)
+* 📦 Released **v1.1.0** of [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* ➡️ Pushed 3 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
+  * [#844872c](https://github.com/xHyroM/powercord-installer/commit/844872c) CI: Prepare release &#39;v1.1.0
+  * [#50ac058](https://github.com/xHyroM/powercord-installer/commit/50ac058) readme warning
+  * [#e9cb095](https://github.com/xHyroM/powercord-installer/commit/e9cb095) injectors for stable, development, canary, ptb
+* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
+  * [#844872c](https://github.com/xHyroM/powercord-installer/commit/844872c) CI: Prepare release &#39;v1.1.0
+* ⏺️ Created new tag v1.1.0 in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
+  * [#50ac058](https://github.com/xHyroM/powercord-installer/commit/50ac058) readme warning
 
 
 ___
