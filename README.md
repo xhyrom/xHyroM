@@ -14,14 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🔃 Opened [#7805 fix(Activity): platform type](https://github.com/discordjs/discord.js/pull/7805) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-  * 2 files changed `++2 --12`
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/activity-types`
-  * [#8e53acd](https://github.com/xHyroM/discord.js/commit/8e53acd) fix(Activity): platform type
-* ⏺️ Created new branch fix/activity-types in [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
-* 💬 Commented on [#7804 refactor(ApplicationCommand): remove *Localized and better locale docs](https://github.com/discordjs/discord.js/issues/7804) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
-  * [#4a949f7](https://github.com/xHyroM/discord.js/commit/4a949f7) chore: eslint
+* 💬 Commented on [#1 Trojan ._.](https://github.com/xHyroM/powercord-installer/issues/1) from [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* #️⃣ Opened [#1 Trojan ._.](https://github.com/xHyroM/powercord-installer/issues/1) in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* 📦 Released **v1.0.2** of [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
+  * [#4f8ce25](https://github.com/xHyroM/powercord-installer/commit/4f8ce25) CI: Prepare release &#39;v1.0.2
+* ➡️ Pushed 3 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
+  * [#4f8ce25](https://github.com/xHyroM/powercord-installer/commit/4f8ce25) CI: Prepare release &#39;v1.0.2
+  * [#6fb7588](https://github.com/xHyroM/powercord-installer/commit/6fb7588) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
+  * [#806012e](https://github.com/xHyroM/powercord-installer/commit/806012e) fix
 
 
 ___
