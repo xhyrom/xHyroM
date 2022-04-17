@@ -14,16 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `docs/application-command-fix-and-improve-backport-v13`
-  * [#ff9b686](https://github.com/xHyroM/discord.js/commit/ff9b686) docs: fix guildLocale type
-* 🔃 Opened [#7807 docs: fix and improve localization docs (v13 backport)](https://github.com/discordjs/discord.js/pull/7807) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-  * 79 files changed `++2108 --404`
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `docs/application-command-fix-and-improve-backport-v13`
-  * [#ccd0e6c](https://github.com/xHyroM/discord.js/commit/ccd0e6c) docs: fix and improve localization docs
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#6ce68d5](https://github.com/xHyroM/xHyroM/commit/6ce68d5) branches
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#219ffff](https://github.com/CDN-Github/CDN-2/commit/219ffff) Added new url
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#183a8ad](https://github.com/Garlic-Team/gcommands/commit/183a8ad) deploy: 038d9c4117e90d14644fbb2ecd7f69e47dc80828
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#038d9c4](https://github.com/Garlic-Team/gcommands/commit/038d9c4) fix: add missing nameLocalizations for ArgumentChoice
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
+  * [#65713f8](https://github.com/Garlic-Team/gcommands-cli/commit/65713f8) chore(deps): update dependency typescript to v4.6.3
+
+chore(deps): update dependency typescript to v4.6.3
+  * [#d144cb4](https://github.com/Garlic-Team/gcommands-cli/commit/d144cb4) chore(deps): update dependency typescript to v4.6.3
+* 🔃 Merged [#24 chore(deps): update dependency typescript to v4.6.3](https://github.com/Garlic-Team/gcommands-cli/pull/24) in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `modmail`
+  * [#d796b41](https://github.com/Garlic-Team/other-stuff/commit/d796b41) chore(deps): update dependency eslint to v8.13.0 (modmail)
+
+chore(deps): update dependency eslint to v8.13.0 (modmail)
+  * [#47b83e3](https://github.com/Garlic-Team/other-stuff/commit/47b83e3) chore(deps): update dependency eslint to v8.13.0
 
 
 ___
