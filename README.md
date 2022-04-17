@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#047a200](https://github.com/xHyroM/covid19-stats/commit/047a200) 2022/04/17 stats
 * 📦 Released **v1.1.2** of [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
 * ➡️ Pushed 3 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
   * [#3e8799a](https://github.com/xHyroM/powercord-installer/commit/3e8799a) CI: Prepare release &#39;v1.1.2
@@ -22,8 +24,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
   * [#3e8799a](https://github.com/xHyroM/powercord-installer/commit/3e8799a) CI: Prepare release &#39;v1.1.2
 * ⏺️ Created new tag v1.1.2 in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
-* ➡️ Pushed 2 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
-  * [#9b3e2eb](https://github.com/xHyroM/powercord-installer/commit/9b3e2eb) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
 
 
 ___
