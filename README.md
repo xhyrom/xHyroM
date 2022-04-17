@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 📦 Released **v1.1.0** of [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* 📦 Released **v1.1.2** of [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
 * ➡️ Pushed 3 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `release`
-  * [#844872c](https://github.com/xHyroM/powercord-installer/commit/844872c) CI: Prepare release &#39;v1.1.0
-  * [#50ac058](https://github.com/xHyroM/powercord-installer/commit/50ac058) readme warning
-  * [#e9cb095](https://github.com/xHyroM/powercord-installer/commit/e9cb095) injectors for stable, development, canary, ptb
+  * [#3e8799a](https://github.com/xHyroM/powercord-installer/commit/3e8799a) CI: Prepare release &#39;v1.1.2
+  * [#9b3e2eb](https://github.com/xHyroM/powercord-installer/commit/9b3e2eb) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
+  * [#669779a](https://github.com/xHyroM/powercord-installer/commit/669779a) remove git-clone pkg
 * ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
-  * [#844872c](https://github.com/xHyroM/powercord-installer/commit/844872c) CI: Prepare release &#39;v1.1.0
-* ⏺️ Created new tag v1.1.0 in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
-* ➡️ Pushed 1 commit in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
-  * [#50ac058](https://github.com/xHyroM/powercord-installer/commit/50ac058) readme warning
+  * [#3e8799a](https://github.com/xHyroM/powercord-installer/commit/3e8799a) CI: Prepare release &#39;v1.1.2
+* ⏺️ Created new tag v1.1.2 in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer)
+* ➡️ Pushed 2 commits in [xHyroM/powercord-installer](https://github.com/xHyroM/powercord-installer) on branch `development`
+  * [#9b3e2eb](https://github.com/xHyroM/powercord-installer/commit/9b3e2eb) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
 
 
 ___
