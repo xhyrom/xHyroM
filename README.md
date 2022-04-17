@@ -14,22 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#183a8ad](https://github.com/Garlic-Team/gcommands/commit/183a8ad) deploy: 038d9c4117e90d14644fbb2ecd7f69e47dc80828
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#038d9c4](https://github.com/Garlic-Team/gcommands/commit/038d9c4) fix: add missing nameLocalizations for ArgumentChoice
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
-  * [#65713f8](https://github.com/Garlic-Team/gcommands-cli/commit/65713f8) chore(deps): update dependency typescript to v4.6.3
-
-chore(deps): update dependency typescript to v4.6.3
-  * [#d144cb4](https://github.com/Garlic-Team/gcommands-cli/commit/d144cb4) chore(deps): update dependency typescript to v4.6.3
-* 🔃 Merged [#24 chore(deps): update dependency typescript to v4.6.3](https://github.com/Garlic-Team/gcommands-cli/pull/24) in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli)
-  * 2 files changed `++8 --8`
-* ➡️ Pushed 2 commits in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `modmail`
-  * [#d796b41](https://github.com/Garlic-Team/other-stuff/commit/d796b41) chore(deps): update dependency eslint to v8.13.0 (modmail)
-
-chore(deps): update dependency eslint to v8.13.0 (modmail)
-  * [#47b83e3](https://github.com/Garlic-Team/other-stuff/commit/47b83e3) chore(deps): update dependency eslint to v8.13.0
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
+  * [#d15e8d8](https://github.com/Garlic-Team/gcommands-templates/commit/d15e8d8) remove async
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
+  * [#c3959ca](https://github.com/Garlic-Team/gcommands-templates/commit/c3959ca) prettier format
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
+  * [#c5f099e](https://github.com/Garlic-Team/gcommands-templates/commit/c5f099e) latest gcommands, new commands, eslint, readme
+* 📦 Released **v1.1.3** of [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
+* ➡️ Pushed 3 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `release`
+  * [#834ed93](https://github.com/Garlic-Team/powercord-installer/commit/834ed93) CI: Prepare release &#39;v1.1.3
+  * [#075e7ec](https://github.com/Garlic-Team/powercord-installer/commit/075e7ec) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
+  * [#5b933fb](https://github.com/Garlic-Team/powercord-installer/commit/5b933fb) change urls
 
 
 ___
