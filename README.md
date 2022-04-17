@@ -14,19 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#fca072a](https://github.com/Garlic-Team/gcommands/commit/fca072a) deploy: db95c87d7a226c99cc4b3aa829aa340db9dddd56
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#db95c87](https://github.com/Garlic-Team/gcommands/commit/db95c87) chore: add contributors
-* ➡️ Pushed 1 commit in [xHyroM/message-scraper](https://github.com/xHyroM/message-scraper) on branch `master`
-  * [#18a106c](https://github.com/xHyroM/message-scraper/commit/18a106c) add contributors, eta, scraper
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#939e526](https://github.com/Garlic-Team/gcommands/commit/939e526) deploy: eadc780679286a60505c7825cfd8abac32d6f75d
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#eadc780](https://github.com/Garlic-Team/gcommands/commit/eadc780) chore(deps): update dependency @discordjs/ts-docgen to v0.4.1
-
-chore(deps): update dependency @discordjs/ts-docgen to v0.4.1
-  * [#db4c93b](https://github.com/Garlic-Team/gcommands/commit/db4c93b) chore(deps): update dependency @discordjs/ts-docgen to v0.4.1
+* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `docs/application-command-fix-and-improve-backport-v13`
+  * [#ff9b686](https://github.com/xHyroM/discord.js/commit/ff9b686) docs: fix guildLocale type
+* 🔃 Opened [#7807 docs: fix and improve localization docs (v13 backport)](https://github.com/discordjs/discord.js/pull/7807) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+  * 79 files changed `++2108 --404`
+* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `docs/application-command-fix-and-improve-backport-v13`
+  * [#ccd0e6c](https://github.com/xHyroM/discord.js/commit/ccd0e6c) docs: fix and improve localization docs
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#6ce68d5](https://github.com/xHyroM/xHyroM/commit/6ce68d5) branches
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#219ffff](https://github.com/CDN-Github/CDN-2/commit/219ffff) Added new url
 
 
 ___
