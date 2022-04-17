@@ -14,17 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
-  * [#d15e8d8](https://github.com/Garlic-Team/gcommands-templates/commit/d15e8d8) remove async
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
-  * [#c3959ca](https://github.com/Garlic-Team/gcommands-templates/commit/c3959ca) prettier format
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-templates](https://github.com/Garlic-Team/gcommands-templates) on branch `ts`
-  * [#c5f099e](https://github.com/Garlic-Team/gcommands-templates/commit/c5f099e) latest gcommands, new commands, eslint, readme
-* 📦 Released **v1.1.3** of [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-* ➡️ Pushed 3 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `release`
-  * [#834ed93](https://github.com/Garlic-Team/powercord-installer/commit/834ed93) CI: Prepare release &#39;v1.1.3
-  * [#075e7ec](https://github.com/Garlic-Team/powercord-installer/commit/075e7ec) Merge branch &#39;development&#39; of https://github.com/xHyroM/powercord-installer into development
-  * [#5b933fb](https://github.com/Garlic-Team/powercord-installer/commit/5b933fb) change urls
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/use-regex-for-validating-command-name-and-command-description`
+  * [#42b4a9e](https://github.com/xHyroM/GCommands/commit/42b4a9e) docs: improve jsdocs in regexes
+* #️⃣ Opened [#412 Improve JSDocs](https://github.com/Garlic-Team/gcommands/issues/412) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 🔃 Opened [#411 fix: command &amp; option name regex validating](https://github.com/Garlic-Team/gcommands/pull/411) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 3 files changed `++12 --20`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/use-regex-for-validating-command-name-and-command-description`
+  * [#f97440c](https://github.com/xHyroM/GCommands/commit/f97440c) fix: command &amp; option name regex validating
+* ⏺️ Created new branch fix/use-regex-for-validating-command-name-and-command-description in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
 
 
 ___
