@@ -44,6 +44,17 @@ layout: layouts/base.njk
         {% endfor %}
     </ul>
 
+    <details>
+        <summary>Branches:</summary>
+        <ol>
+            {% for branch in repository.branches %}
+                <li>
+                    <a href='{{ branch.url }}'>{{ branch.name }}</a>
+                </li>
+            {% endfor %}
+        </ol>
+    </details>
+
     <p>Links:</p>
     <ul>
         <li>
