@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#5ad8884](https://github.com/xHyroM/aktdwb/commit/5ad8884) for google search
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#9c30a17](https://github.com/xHyroM/covid19-stats/commit/9c30a17) 2022/04/18 stats
 * ➡️ Pushed 4 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
@@ -26,8 +28,6 @@ fix(readme): links
 * 🔃 Merged [#2 fix(readme): links](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
   * 1 file changed `++11 --11`
 * 🔍 Reviewed [#2 Fix links in `README.md`](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#da72cff](https://github.com/xHyroM/aktdwb/commit/da72cff) Update send.ts
 
 
 ___
