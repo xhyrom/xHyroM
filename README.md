@@ -14,20 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#9c30a17](https://github.com/xHyroM/covid19-stats/commit/9c30a17) 2022/04/18 stats
+* ➡️ Pushed 4 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
+  * [#73e1b68](https://github.com/Garlic-Team/powercord-installer/commit/73e1b68) fix(readme): links (https://github.com/Garlic-Team/powercord-installer/pull/2)
+
+fix(readme): links
+  * [#d7e92b7](https://github.com/Garlic-Team/powercord-installer/commit/d7e92b7) Correct the link to the original project
+  * [#cb0b4bb](https://github.com/Garlic-Team/powercord-installer/commit/cb0b4bb) Fix the repository clone command
+  * [#fbecd45](https://github.com/Garlic-Team/powercord-installer/commit/fbecd45) Update repo owner (`xHyroM` –&gt; `Garlic-Team`)
+* 🔃 Merged [#2 fix(readme): links](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
+  * 1 file changed `++11 --11`
+* 🔍 Reviewed [#2 Fix links in `README.md`](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#da72cff](https://github.com/xHyroM/aktdwb/commit/da72cff) Update send.ts
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#2513dfd](https://github.com/Garlic-Team/gcommands/commit/2513dfd) deploy: db30ae868d678caadf5f7dcfdab4ead908a692a8
-* ➡️ Pushed 3 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#db30ae8](https://github.com/Garlic-Team/gcommands/commit/db30ae8) fix: command &amp; option name regex validating (https://github.com/Garlic-Team/gcommands/pull/411)
-
-fix: command &amp; option name regex validating
-  * [#42b4a9e](https://github.com/Garlic-Team/gcommands/commit/42b4a9e) docs: improve jsdocs in regexes
-  * [#f97440c](https://github.com/Garlic-Team/gcommands/commit/f97440c) fix: command &amp; option name regex validating
-* 🔃 Merged [#411 fix: command &amp; option name regex validating](https://github.com/Garlic-Team/gcommands/pull/411) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 3 files changed `++38 --20`
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#725a443](https://github.com/xHyroM/discord-activities/commit/725a443) fix meta
 
 
 ___
