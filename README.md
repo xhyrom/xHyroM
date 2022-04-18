@@ -14,18 +14,24 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#15787 Rule Change: (fill in)](https://github.com/eslint/eslint/issues/15787) in [eslint/eslint](https://github.com/eslint/eslint)
-* 🔃 Opened [#413 feat: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++112 --2`
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#da6ae0c](https://github.com/xHyroM/GCommands/commit/da6ae0c) feat: jsdocs for GClient
-* ⏺️ Created new branch feat/improve-jsdocs in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
-* ➡️ Pushed 3 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#db30ae8](https://github.com/xHyroM/GCommands/commit/db30ae8) fix: command &amp; option name regex validating (https://github.com/Garlic-Team/gcommands/pull/411)
+  * [#9f09ea3](https://github.com/xHyroM/GCommands/commit/9f09ea3) chore: make requested changes
 
-fix: command &amp; option name regex validating
-  * [#42b4a9e](https://github.com/xHyroM/GCommands/commit/42b4a9e) docs: improve jsdocs in regexes
-  * [#f97440c](https://github.com/xHyroM/GCommands/commit/f97440c) fix: command &amp; option name regex validating
+Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#8623c55](https://github.com/xHyroM/GCommands/commit/8623c55) chore: make requested changes
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#80dba58](https://github.com/xHyroM/GCommands/commit/80dba58) chore: make requested changes
+
+Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#d5cc83f](https://github.com/xHyroM/GCommands/commit/d5cc83f) chore: make requested changes
+
+Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#3cde507](https://github.com/xHyroM/GCommands/commit/3cde507) chore: make requested changes
+
+Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
 
 
 ___
