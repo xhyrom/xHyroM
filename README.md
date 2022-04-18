@@ -14,22 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#bd9180b](https://github.com/CDN-Github/CDN-2/commit/bd9180b) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#9f09ea3](https://github.com/xHyroM/GCommands/commit/9f09ea3) chore: make requested changes
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#029e1b2](https://github.com/Garlic-Team/gcommands/commit/029e1b2) deploy: 51ecba05441509352a210f8b7943c77527b98960
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#51ecba0](https://github.com/Garlic-Team/gcommands/commit/51ecba0) chore: github workflows update
+* ➡️ Pushed 5 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#fffb381](https://github.com/xHyroM/GCommands/commit/fffb381) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#80d68c0](https://github.com/Garlic-Team/gcommands/commit/80d68c0) deploy: 1bba37957d999f1a64deb741975fdeb0af7e1499
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#1bba379](https://github.com/Garlic-Team/gcommands/commit/1bba379) fix: add {duration} variable (https://github.com/Garlic-Team/gcommands/pull/415)
 
-Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#8623c55](https://github.com/xHyroM/GCommands/commit/8623c55) chore: make requested changes
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#80dba58](https://github.com/xHyroM/GCommands/commit/80dba58) chore: make requested changes
-
-Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#d5cc83f](https://github.com/xHyroM/GCommands/commit/d5cc83f) chore: make requested changes
-
-Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
+fix: add {duration} variable
+  * [#35ddf60](https://github.com/Garlic-Team/gcommands/commit/35ddf60) fix: add {duration} variable
 
 
 ___
