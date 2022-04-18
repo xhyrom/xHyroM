@@ -14,6 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#15787 Rule Change: (fill in)](https://github.com/eslint/eslint/issues/15787) in [eslint/eslint](https://github.com/eslint/eslint)
+* 🔃 Opened [#413 feat: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++112 --2`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#da6ae0c](https://github.com/xHyroM/GCommands/commit/da6ae0c) feat: jsdocs for GClient
 * ⏺️ Created new branch feat/improve-jsdocs in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
 * ➡️ Pushed 3 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
   * [#db30ae8](https://github.com/xHyroM/GCommands/commit/db30ae8) fix: command &amp; option name regex validating (https://github.com/Garlic-Team/gcommands/pull/411)
@@ -21,12 +26,6 @@ ___
 fix: command &amp; option name regex validating
   * [#42b4a9e](https://github.com/xHyroM/GCommands/commit/42b4a9e) docs: improve jsdocs in regexes
   * [#f97440c](https://github.com/xHyroM/GCommands/commit/f97440c) fix: command &amp; option name regex validating
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#cee709a](https://github.com/Mr-Infinity-Bot/bot/commit/cee709a) feat: add format, extendec commaand context
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#5c7b619](https://github.com/xHyroM/aktdwb/commit/5c7b619) a
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#7a74c9a](https://github.com/xHyroM/covid19-stats/commit/7a74c9a) Create LICENSE
 
 
 ___
