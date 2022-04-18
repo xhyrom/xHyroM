@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#da72cff](https://github.com/xHyroM/aktdwb/commit/da72cff) Update send.ts
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#2513dfd](https://github.com/Garlic-Team/gcommands/commit/2513dfd) deploy: db30ae868d678caadf5f7dcfdab4ead908a692a8
 * ➡️ Pushed 3 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -26,8 +28,6 @@ fix: command &amp; option name regex validating
   * 3 files changed `++38 --20`
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#725a443](https://github.com/xHyroM/discord-activities/commit/725a443) fix meta
-* ➡️ Pushed 8 commits in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
-  * [#7a7d4aa](https://github.com/xHyroM/discord.js/commit/7a7d4aa) Merge branch &#39;main&#39; into fix/equal-localizations
 
 
 ___
