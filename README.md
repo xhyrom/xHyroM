@@ -14,19 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch fix/allow-dm-commands in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
+  * [#eca5cda](https://github.com/Garlic-Team/gcommands-cli/commit/eca5cda) chore: fix release
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
+  * [#3310dd0](https://github.com/Garlic-Team/gcommands-cli/commit/3310dd0) Update release.yml
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#90d1349](https://github.com/xHyroM/GCommands/commit/90d1349) feat: jsdocs for Util.ts
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#029e1b2](https://github.com/Garlic-Team/gcommands/commit/029e1b2) deploy: 51ecba05441509352a210f8b7943c77527b98960
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#51ecba0](https://github.com/Garlic-Team/gcommands/commit/51ecba0) chore: github workflows update
-* ➡️ Pushed 5 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#fffb381](https://github.com/xHyroM/GCommands/commit/fffb381) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#80d68c0](https://github.com/Garlic-Team/gcommands/commit/80d68c0) deploy: 1bba37957d999f1a64deb741975fdeb0af7e1499
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#1bba379](https://github.com/Garlic-Team/gcommands/commit/1bba379) fix: add {duration} variable (https://github.com/Garlic-Team/gcommands/pull/415)
-
-fix: add {duration} variable
-  * [#35ddf60](https://github.com/Garlic-Team/gcommands/commit/35ddf60) fix: add {duration} variable
 
 
 ___
