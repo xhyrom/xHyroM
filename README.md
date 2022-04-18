@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch fix/allow-dm-commands in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
-  * [#eca5cda](https://github.com/Garlic-Team/gcommands-cli/commit/eca5cda) chore: fix release
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-cli](https://github.com/Garlic-Team/gcommands-cli) on branch `master`
-  * [#3310dd0](https://github.com/Garlic-Team/gcommands-cli/commit/3310dd0) Update release.yml
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#90d1349](https://github.com/xHyroM/GCommands/commit/90d1349) feat: jsdocs for Util.ts
+  * [#91d70e0](https://github.com/xHyroM/GCommands/commit/91d70e0) fix: typo
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#029e1b2](https://github.com/Garlic-Team/gcommands/commit/029e1b2) deploy: 51ecba05441509352a210f8b7943c77527b98960
+  * [#1f62802](https://github.com/Garlic-Team/gcommands/commit/1f62802) deploy: f89fd257818094196503186dfe8a33f5c85e4f3c
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#f89fd25](https://github.com/Garlic-Team/gcommands/commit/f89fd25) chore: add template
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#488fbe7](https://github.com/xHyroM/GCommands/commit/488fbe7) fix: update deprecated message in checkIfSubOrGroup
 
 
 ___
