@@ -14,20 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#5ad8884](https://github.com/xHyroM/aktdwb/commit/5ad8884) for google search
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#9c30a17](https://github.com/xHyroM/covid19-stats/commit/9c30a17) 2022/04/18 stats
-* ➡️ Pushed 4 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
-  * [#73e1b68](https://github.com/Garlic-Team/powercord-installer/commit/73e1b68) fix(readme): links (https://github.com/Garlic-Team/powercord-installer/pull/2)
+* ⏺️ Created new branch feat/improve-jsdocs in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
+* ➡️ Pushed 3 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
+  * [#db30ae8](https://github.com/xHyroM/GCommands/commit/db30ae8) fix: command &amp; option name regex validating (https://github.com/Garlic-Team/gcommands/pull/411)
 
-fix(readme): links
-  * [#d7e92b7](https://github.com/Garlic-Team/powercord-installer/commit/d7e92b7) Correct the link to the original project
-  * [#cb0b4bb](https://github.com/Garlic-Team/powercord-installer/commit/cb0b4bb) Fix the repository clone command
-  * [#fbecd45](https://github.com/Garlic-Team/powercord-installer/commit/fbecd45) Update repo owner (`xHyroM` –&gt; `Garlic-Team`)
-* 🔃 Merged [#2 fix(readme): links](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-  * 1 file changed `++11 --11`
-* 🔍 Reviewed [#2 Fix links in `README.md`](https://github.com/Garlic-Team/powercord-installer/pull/2) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
+fix: command &amp; option name regex validating
+  * [#42b4a9e](https://github.com/xHyroM/GCommands/commit/42b4a9e) docs: improve jsdocs in regexes
+  * [#f97440c](https://github.com/xHyroM/GCommands/commit/f97440c) fix: command &amp; option name regex validating
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#cee709a](https://github.com/Mr-Infinity-Bot/bot/commit/cee709a) feat: add format, extendec commaand context
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#5c7b619](https://github.com/xHyroM/aktdwb/commit/5c7b619) a
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#7a74c9a](https://github.com/xHyroM/covid19-stats/commit/7a74c9a) Create LICENSE
 
 
 ___
