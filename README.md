@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#bd9180b](https://github.com/CDN-Github/CDN-2/commit/bd9180b) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#9f09ea3](https://github.com/xHyroM/GCommands/commit/9f09ea3) chore: make requested changes
 
@@ -26,10 +28,6 @@ Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
 Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#d5cc83f](https://github.com/xHyroM/GCommands/commit/d5cc83f) chore: make requested changes
-
-Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#3cde507](https://github.com/xHyroM/GCommands/commit/3cde507) chore: make requested changes
 
 Co-authored-by: Gabe616 &lt;60316309+Gabe616@users.noreply.github.com&gt;
 
