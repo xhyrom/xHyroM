@@ -14,29 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#1 How about reading the license?](https://github.com/RapidFuge/discom/issues/1) in [RapidFuge/discom](https://github.com/RapidFuge/discom)
-* #️⃣ Opened [#1 How about reading the license?](https://github.com/RapidFuge/discom/issues/1) in [RapidFuge/discom](https://github.com/RapidFuge/discom)
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#c4459d6](https://github.com/Garlic-Team/website/commit/c4459d6) fix: add messageSupport
-* ➡️ Pushed 12 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#9e57be3](https://github.com/xHyroM/GCommands/commit/9e57be3) chore: fix autolabeler
-  * [#be53a71](https://github.com/xHyroM/GCommands/commit/be53a71) chore: update deprecation message
-  * [#e69f7ee](https://github.com/xHyroM/GCommands/commit/e69f7ee) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1 (https://github.com/Garlic-Team/gcommands/pull/418)
-
-chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
-  * [#386a75a](https://github.com/xHyroM/GCommands/commit/386a75a) chore(license): better readability
-  * [#3682ecc](https://github.com/xHyroM/GCommands/commit/3682ecc) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
-  * [#f89fd25](https://github.com/xHyroM/GCommands/commit/f89fd25) chore: add template
-  * [#78aa9ef](https://github.com/xHyroM/GCommands/commit/78aa9ef) chore: disable releaser
-  * [#01a30b6](https://github.com/xHyroM/GCommands/commit/01a30b6) chore: add typings label
-  * [#a429e9b](https://github.com/xHyroM/GCommands/commit/a429e9b) chore: release-drafter
-  * [#51ecba0](https://github.com/xHyroM/GCommands/commit/51ecba0) chore: github workflows update
-  * [#1bba379](https://github.com/xHyroM/GCommands/commit/1bba379) fix: add {duration} variable (https://github.com/Garlic-Team/gcommands/pull/415)
-
-fix: add {duration} variable
-  * [#35ddf60](https://github.com/xHyroM/GCommands/commit/35ddf60) fix: add {duration} variable
-* ➡️ Pushed 11 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#d0de851](https://github.com/xHyroM/GCommands/commit/d0de851) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
+* ➡️ Pushed 1 commit in [xHyroM/LobbyEffects](https://github.com/xHyroM/LobbyEffects) on branch `main`
+  * [#3033082](https://github.com/xHyroM/LobbyEffects/commit/3033082) Update LICENSE
+* ➡️ Pushed 1 commit in [xHyroM/exam-solvers](https://github.com/xHyroM/exam-solvers) on branch `main`
+  * [#aff682f](https://github.com/xHyroM/exam-solvers/commit/aff682f) Update LICENSE
+* ➡️ Pushed 1 commit in [xHyroM/is-img](https://github.com/xHyroM/is-img) on branch `master`
+  * [#e7de1b6](https://github.com/xHyroM/is-img/commit/e7de1b6) Update LICENSE
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `main`
+  * [#a29f0c6](https://github.com/xHyroM/NexusBlock/commit/a29f0c6) Update LICENSE
+* ➡️ Pushed 1 commit in [xHyroM/denyard](https://github.com/xHyroM/denyard) on branch `master`
+  * [#3d9450f](https://github.com/xHyroM/denyard/commit/3d9450f) Update LICENSE
 
 
 ___
