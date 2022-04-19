@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
+  * [#c4459d6](https://github.com/Garlic-Team/website/commit/c4459d6) fix: add messageSupport
 * ➡️ Pushed 12 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
   * [#9e57be3](https://github.com/xHyroM/GCommands/commit/9e57be3) chore: fix autolabeler
   * [#be53a71](https://github.com/xHyroM/GCommands/commit/be53a71) chore: update deprecation message
@@ -36,8 +38,6 @@ fix: add {duration} variable
 * ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
   * [#e4d850c](https://github.com/xHyroM/discord.js/commit/e4d850c) fix: check for snake_case
 * 💬 Commented on [#419 feat: support for dynamic prefix &amp; multiple prefixes](https://github.com/Garlic-Team/gcommands/issues/419) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#1b26d6f](https://github.com/Garlic-Team/gcommands/commit/1b26d6f) deploy: 9e57be33ccdfc0ad8dfa5b71b2992aea6668a194
 
 
 ___
