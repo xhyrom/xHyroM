@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#eac6edd](https://github.com/xHyroM/covid19-stats/commit/eac6edd) 2022/04/19 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#b228112](https://github.com/Garlic-Team/gcommands/commit/b228112) deploy: be53a714294a50a856826573db72bda2c57e93a7
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -22,11 +24,6 @@ ___
   * [#d09a01c](https://github.com/Garlic-Team/website/commit/d09a01c) fix: remove
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#b1bc10f](https://github.com/Garlic-Team/gcommands/commit/b1bc10f) deploy: e69f7ee4a324733444c7a2247a6c29c07302bdb7
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#e69f7ee](https://github.com/Garlic-Team/gcommands/commit/e69f7ee) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1 (https://github.com/Garlic-Team/gcommands/pull/418)
-
-chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
-  * [#3682ecc](https://github.com/Garlic-Team/gcommands/commit/3682ecc) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
 
 
 ___
