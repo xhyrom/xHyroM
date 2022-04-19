@@ -14,15 +14,30 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch feat/allow-function-in-messagePrefix in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#eac6edd](https://github.com/xHyroM/covid19-stats/commit/eac6edd) 2022/04/19 stats
+* ➡️ Pushed 12 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
+  * [#9e57be3](https://github.com/xHyroM/GCommands/commit/9e57be3) chore: fix autolabeler
+  * [#be53a71](https://github.com/xHyroM/GCommands/commit/be53a71) chore: update deprecation message
+  * [#e69f7ee](https://github.com/xHyroM/GCommands/commit/e69f7ee) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1 (https://github.com/Garlic-Team/gcommands/pull/418)
+
+chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
+  * [#386a75a](https://github.com/xHyroM/GCommands/commit/386a75a) chore(license): better readability
+  * [#3682ecc](https://github.com/xHyroM/GCommands/commit/3682ecc) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
+  * [#f89fd25](https://github.com/xHyroM/GCommands/commit/f89fd25) chore: add template
+  * [#78aa9ef](https://github.com/xHyroM/GCommands/commit/78aa9ef) chore: disable releaser
+  * [#01a30b6](https://github.com/xHyroM/GCommands/commit/01a30b6) chore: add typings label
+  * [#a429e9b](https://github.com/xHyroM/GCommands/commit/a429e9b) chore: release-drafter
+  * [#51ecba0](https://github.com/xHyroM/GCommands/commit/51ecba0) chore: github workflows update
+  * [#1bba379](https://github.com/xHyroM/GCommands/commit/1bba379) fix: add {duration} variable (https://github.com/Garlic-Team/gcommands/pull/415)
+
+fix: add {duration} variable
+  * [#35ddf60](https://github.com/xHyroM/GCommands/commit/35ddf60) fix: add {duration} variable
+* ➡️ Pushed 11 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#d0de851](https://github.com/xHyroM/GCommands/commit/d0de851) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
+* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
+  * [#e4d850c](https://github.com/xHyroM/discord.js/commit/e4d850c) fix: check for snake_case
+* 💬 Commented on [#419 feat: support for dynamic prefix &amp; multiple prefixes](https://github.com/Garlic-Team/gcommands/issues/419) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#b228112](https://github.com/Garlic-Team/gcommands/commit/b228112) deploy: be53a714294a50a856826573db72bda2c57e93a7
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#be53a71](https://github.com/Garlic-Team/gcommands/commit/be53a71) chore: update deprecation message
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#d09a01c](https://github.com/Garlic-Team/website/commit/d09a01c) fix: remove
+  * [#1b26d6f](https://github.com/Garlic-Team/gcommands/commit/1b26d6f) deploy: 9e57be33ccdfc0ad8dfa5b71b2992aea6668a194
 
 
 ___
