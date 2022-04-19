@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/LobbyEffects](https://github.com/xHyroM/LobbyEffects) on branch `main`
-  * [#3033082](https://github.com/xHyroM/LobbyEffects/commit/3033082) Update LICENSE
-* ➡️ Pushed 1 commit in [xHyroM/exam-solvers](https://github.com/xHyroM/exam-solvers) on branch `main`
-  * [#aff682f](https://github.com/xHyroM/exam-solvers/commit/aff682f) Update LICENSE
-* ➡️ Pushed 1 commit in [xHyroM/is-img](https://github.com/xHyroM/is-img) on branch `master`
-  * [#e7de1b6](https://github.com/xHyroM/is-img/commit/e7de1b6) Update LICENSE
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `main`
-  * [#a29f0c6](https://github.com/xHyroM/NexusBlock/commit/a29f0c6) Update LICENSE
-* ➡️ Pushed 1 commit in [xHyroM/denyard](https://github.com/xHyroM/denyard) on branch `master`
-  * [#3d9450f](https://github.com/xHyroM/denyard/commit/3d9450f) Update LICENSE
+* ➡️ Pushed 2 commits in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
+  * [#61e0616](https://github.com/Garlic-Team/youfline/commit/61e0616) chore: renovate
+
+Configure Renovate
+  * [#aee8760](https://github.com/Garlic-Team/youfline/commit/aee8760) Add renovate.json
+* 🔃 Merged [#1 Configure Renovate](https://github.com/Garlic-Team/youfline/pull/1) in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline)
+  * 1 file changed `++5 --0`
+* ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
+  * [#b9deea2](https://github.com/Garlic-Team/youfline/commit/b9deea2) keep
+* ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
+  * [#ff80803](https://github.com/Garlic-Team/youfline/commit/ff80803) Create LICENSE
+* ⏺️ Created new branch master in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline)
 
 
 ___
