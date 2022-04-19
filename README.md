@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch feat/allow-function-in-messagePrefix in [xHyroM/GCommands](https://github.com/xHyroM/GCommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#eac6edd](https://github.com/xHyroM/covid19-stats/commit/eac6edd) 2022/04/19 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
@@ -22,8 +23,6 @@ ___
   * [#be53a71](https://github.com/Garlic-Team/gcommands/commit/be53a71) chore: update deprecation message
 * ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
   * [#d09a01c](https://github.com/Garlic-Team/website/commit/d09a01c) fix: remove
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#b1bc10f](https://github.com/Garlic-Team/gcommands/commit/b1bc10f) deploy: e69f7ee4a324733444c7a2247a6c29c07302bdb7
 
 
 ___
