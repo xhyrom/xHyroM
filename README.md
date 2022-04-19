@@ -14,14 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#91d70e0](https://github.com/xHyroM/GCommands/commit/91d70e0) fix: typo
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#1f62802](https://github.com/Garlic-Team/gcommands/commit/1f62802) deploy: f89fd257818094196503186dfe8a33f5c85e4f3c
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#f89fd25](https://github.com/Garlic-Team/gcommands/commit/f89fd25) chore: add template
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#488fbe7](https://github.com/xHyroM/GCommands/commit/488fbe7) fix: update deprecated message in checkIfSubOrGroup
+  * [#b1bc10f](https://github.com/Garlic-Team/gcommands/commit/b1bc10f) deploy: e69f7ee4a324733444c7a2247a6c29c07302bdb7
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#e69f7ee](https://github.com/Garlic-Team/gcommands/commit/e69f7ee) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1 (https://github.com/Garlic-Team/gcommands/pull/418)
+
+chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
+  * [#3682ecc](https://github.com/Garlic-Team/gcommands/commit/3682ecc) chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
+* 🔃 Merged [#418 chore(deps): update kentaro-m/auto-assign-action action to v1.2.1](https://github.com/Garlic-Team/gcommands/pull/418) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++1 --1`
+* 🔍 Reviewed [#418 chore(deps): update kentaro-m/auto-assign-action action to v1.2.1](https://github.com/Garlic-Team/gcommands/pull/418) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#72be24d](https://github.com/Garlic-Team/gcommands/commit/72be24d) deploy: 386a75a30be42a2a96db147a5039ed138f5411a7
 
 
 ___
