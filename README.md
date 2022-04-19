@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#1 How about reading the license?](https://github.com/RapidFuge/discom/issues/1) in [RapidFuge/discom](https://github.com/RapidFuge/discom)
+* #️⃣ Opened [#1 How about reading the license?](https://github.com/RapidFuge/discom/issues/1) in [RapidFuge/discom](https://github.com/RapidFuge/discom)
 * ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
   * [#c4459d6](https://github.com/Garlic-Team/website/commit/c4459d6) fix: add messageSupport
 * ➡️ Pushed 12 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
@@ -35,9 +37,6 @@ fix: add {duration} variable
   * [#35ddf60](https://github.com/xHyroM/GCommands/commit/35ddf60) fix: add {duration} variable
 * ➡️ Pushed 11 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#d0de851](https://github.com/xHyroM/GCommands/commit/d0de851) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
-  * [#e4d850c](https://github.com/xHyroM/discord.js/commit/e4d850c) fix: check for snake_case
-* 💬 Commented on [#419 feat: support for dynamic prefix &amp; multiple prefixes](https://github.com/Garlic-Team/gcommands/issues/419) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
