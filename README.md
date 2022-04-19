@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
+  * [#d09a01c](https://github.com/Garlic-Team/website/commit/d09a01c) fix: remove
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#b1bc10f](https://github.com/Garlic-Team/gcommands/commit/b1bc10f) deploy: e69f7ee4a324733444c7a2247a6c29c07302bdb7
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -24,8 +26,6 @@ chore(deps): update kentaro-m/auto-assign-action action to v1.2.1
 * 🔃 Merged [#418 chore(deps): update kentaro-m/auto-assign-action action to v1.2.1](https://github.com/Garlic-Team/gcommands/pull/418) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#418 chore(deps): update kentaro-m/auto-assign-action action to v1.2.1](https://github.com/Garlic-Team/gcommands/pull/418) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#72be24d](https://github.com/Garlic-Team/gcommands/commit/72be24d) deploy: 386a75a30be42a2a96db147a5039ed138f5411a7
 
 
 ___
