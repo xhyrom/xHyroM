@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#b9918e5](https://github.com/xHyroM/covid19-stats/commit/b9918e5) 2022/04/20 stats
 * ➡️ Pushed 55 commits in [BelKed/discord-assets](https://github.com/BelKed/discord-assets) on branch `add-commit-hash`
   * [#1c114e3](https://github.com/BelKed/discord-assets/commit/1c114e3) 2022/04/19 | Build 383f3dac740c3c7ddac580f68e1a840f68b8b024
   * [#4dcd6cc](https://github.com/BelKed/discord-assets/commit/4dcd6cc) 2022/04/19 | Build 383f3dac740c3c7ddac580f68e1a840f68b8b024
@@ -41,8 +43,6 @@ ___
   * [#c5e7698](https://github.com/xHyroM/GCommands/commit/c5e7698) Merge branch &#39;Garlic-Team:next&#39; into fix/allow-dm-commands
 * ➡️ Pushed 14 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/allow-function-in-messagePrefix`
   * [#b946ed4](https://github.com/xHyroM/GCommands/commit/b946ed4) Merge branch &#39;Garlic-Team:next&#39; into feat/allow-function-in-messagePrefix
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#5335f28](https://github.com/xHyroM/GCommands/commit/5335f28) chore(license): update
 
 
 ___
