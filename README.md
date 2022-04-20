@@ -14,6 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
+  * [#84d92dc](https://github.com/Garlic-Team/youfline/commit/84d92dc) chore(deps): pin dependencies (https://github.com/Garlic-Team/youfline/pull/3)
+
+Pin dependencies
+  * [#23f9727](https://github.com/Garlic-Team/youfline/commit/23f9727) Pin dependencies
+* 🔃 Merged [#3 Pin dependencies](https://github.com/Garlic-Team/youfline/pull/3) in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline)
+  * 2 files changed `++10 --10`
+* ➡️ Pushed 2 commits in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
+  * [#c887748](https://github.com/Garlic-Team/youfline/commit/c887748) Merge branch &#39;master&#39; of https://github.com/Garlic-Team/youfline
 * 💬 Commented on [#421 Use @sapphire/shapeshift](https://github.com/Garlic-Team/gcommands/issues/421) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 3 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
   * [#ea668d6](https://github.com/Garlic-Team/gcommands/commit/ea668d6) fix(Argument): choice value should allow numbers (https://github.com/Garlic-Team/gcommands/pull/420)
@@ -21,16 +30,6 @@ ___
 fix: Argument choice value should allow numbers
   * [#e44dee3](https://github.com/Garlic-Team/gcommands/commit/e44dee3) Remove random number() in nameLocalizations
   * [#c3b85e3](https://github.com/Garlic-Team/gcommands/commit/c3b85e3) fix: Argument choice value should allow numbers
-* 🔃 Merged [#420 fix: Argument choice value should allow numbers](https://github.com/Garlic-Team/gcommands/pull/420) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++2 --2`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#6a22fc4](https://github.com/Garlic-Team/gcommands/commit/6a22fc4) deploy: 1188eb56fae2270042ad873014c63ad4b187a43d
-* ➡️ Pushed 3 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#1188eb5](https://github.com/Garlic-Team/gcommands/commit/1188eb5) fix(MessageCommandHandler): optional chaining on nullable property (https://github.com/Garlic-Team/gcommands/pull/416)
-
-fix(MessageCommandHandler): optional chaining on nullable property
-  * [#c5e7698](https://github.com/Garlic-Team/gcommands/commit/c5e7698) Merge branch &#39;Garlic-Team:next&#39; into fix/allow-dm-commands
-  * [#74e77a7](https://github.com/Garlic-Team/gcommands/commit/74e77a7) fix(MessageCommandHandler): optional chaining on nullable property
 
 
 ___
