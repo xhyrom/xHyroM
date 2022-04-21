@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#8a5507b](https://github.com/xHyroM/covid19-stats/commit/8a5507b) 2022/04/21 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#66c4212](https://github.com/Garlic-Team/gcommands/commit/66c4212) deploy: 2bdf5712acdeec6815b04f19b54710746d5bc6da
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -24,8 +26,6 @@ chore(deps): update dependency lint-staged to v12.4.0
 * 🔃 Merged [#422 chore(deps): update dependency lint-staged to v12.4.0](https://github.com/Garlic-Team/gcommands/pull/422) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++12223 --12223`
 * 🔍 Reviewed [#422 chore(deps): update dependency lint-staged to v12.4.0](https://github.com/Garlic-Team/gcommands/pull/422) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 🔃 Opened [#24 [Snyk] Security upgrade next-auth from 4.0.6 to 4.3.2](https://github.com/xHyroM/Uptimo/pull/24) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-  * 2 files changed `++11 --21`
 
 
 ___
