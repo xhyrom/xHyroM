@@ -14,14 +14,25 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `fix/equal-localizations`
-  * [#2c06167](https://github.com/xHyroM/discord.js/commit/2c06167) chore: requested changes
-* 🍽️ Forked [Jozo233/mc-localhost](https://github.com/Jozo233/mc-localhost) to [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost)
-* 💬 Commented on [#419 feat: support for dynamic prefix &amp; multiple prefixes](https://github.com/Garlic-Team/gcommands/issues/419) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#cc016ea](https://github.com/Garlic-Team/gcommands/commit/cc016ea) deploy: e201d837c9d23b76fa7a25a7ed9391f1d61d0fd8
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#e201d83](https://github.com/Garlic-Team/gcommands/commit/e201d83) fix(MessageCommandHandler): toString
+* 🔃 Opened [#24 [Snyk] Security upgrade next-auth from 4.0.6 to 4.3.2](https://github.com/xHyroM/Uptimo/pull/24) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
+  * 2 files changed `++11 --21`
+* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-80944eff7e3fa24eb5e6d8549e227efb`
+  * [#fd26433](https://github.com/xHyroM/Uptimo/commit/fd26433) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2769574
+* 🔃 Opened [#16 [Snyk] Security upgrade node from 17.8-slim to 17.9-slim](https://github.com/xHyroM/github-bucket/pull/16) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch snyk-fix-80944eff7e3fa24eb5e6d8549e227efb in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-307801151d9dbce0827f04a97dd74d12`
+  * [#cd3cf40](https://github.com/xHyroM/github-bucket/commit/cd3cf40) fix: Dockerfile to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-DEBIAN11-GZIP-2444256
+- https://snyk.io/vuln/SNYK-DEBIAN11-NCURSES-2767191
+- https://snyk.io/vuln/SNYK-DEBIAN11-NCURSES-2767191
+- https://snyk.io/vuln/SNYK-DEBIAN11-XZUTILS-2444276
+- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
 
 
 ___
