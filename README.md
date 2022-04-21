@@ -14,25 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#66c4212](https://github.com/Garlic-Team/gcommands/commit/66c4212) deploy: 2bdf5712acdeec6815b04f19b54710746d5bc6da
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#2bdf571](https://github.com/Garlic-Team/gcommands/commit/2bdf571) chore(deps): update dependency lint-staged to v12.4.0 (https://github.com/Garlic-Team/gcommands/pull/422)
+
+chore(deps): update dependency lint-staged to v12.4.0
+  * [#fbc2781](https://github.com/Garlic-Team/gcommands/commit/fbc2781) chore(deps): update dependency lint-staged to v12.4.0
+* 🔃 Merged [#422 chore(deps): update dependency lint-staged to v12.4.0](https://github.com/Garlic-Team/gcommands/pull/422) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++12223 --12223`
+* 🔍 Reviewed [#422 chore(deps): update dependency lint-staged to v12.4.0](https://github.com/Garlic-Team/gcommands/pull/422) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔃 Opened [#24 [Snyk] Security upgrade next-auth from 4.0.6 to 4.3.2](https://github.com/xHyroM/Uptimo/pull/24) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
   * 2 files changed `++11 --21`
-* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-80944eff7e3fa24eb5e6d8549e227efb`
-  * [#fd26433](https://github.com/xHyroM/Uptimo/commit/fd26433) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2769574
-* 🔃 Opened [#16 [Snyk] Security upgrade node from 17.8-slim to 17.9-slim](https://github.com/xHyroM/github-bucket/pull/16) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch snyk-fix-80944eff7e3fa24eb5e6d8549e227efb in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-307801151d9dbce0827f04a97dd74d12`
-  * [#cd3cf40](https://github.com/xHyroM/github-bucket/commit/cd3cf40) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-GZIP-2444256
-- https://snyk.io/vuln/SNYK-DEBIAN11-NCURSES-2767191
-- https://snyk.io/vuln/SNYK-DEBIAN11-NCURSES-2767191
-- https://snyk.io/vuln/SNYK-DEBIAN11-XZUTILS-2444276
-- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
 
 
 ___
