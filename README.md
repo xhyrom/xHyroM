@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#b63de49](https://github.com/xHyroM/covid19-stats/commit/b63de49) 2022/04/22 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
   * [#53f751f](https://github.com/Garlic-Team/youfline/commit/53f751f) fix: lejtlimit fix
 * ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
@@ -22,11 +24,6 @@ ___
   * [#8a5507b](https://github.com/xHyroM/covid19-stats/commit/8a5507b) 2022/04/21 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#66c4212](https://github.com/Garlic-Team/gcommands/commit/66c4212) deploy: 2bdf5712acdeec6815b04f19b54710746d5bc6da
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#2bdf571](https://github.com/Garlic-Team/gcommands/commit/2bdf571) chore(deps): update dependency lint-staged to v12.4.0 (https://github.com/Garlic-Team/gcommands/pull/422)
-
-chore(deps): update dependency lint-staged to v12.4.0
-  * [#fbc2781](https://github.com/Garlic-Team/gcommands/commit/fbc2781) chore(deps): update dependency lint-staged to v12.4.0
 
 
 ___
