@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#f28cb21](https://github.com/CDN-Github/CDN-2/commit/f28cb21) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#a6aa516](https://github.com/xHyroM/covid19-stats/commit/a6aa516) 2022/04/23 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#53f751f](https://github.com/Garlic-Team/youfline/commit/53f751f) fix: lejtlimit fix
 * ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
   * [#f00af99](https://github.com/Garlic-Team/youfline/commit/f00af99) fix: idk
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#8a5507b](https://github.com/xHyroM/covid19-stats/commit/8a5507b) 2022/04/21 stats
 
 
 ___
