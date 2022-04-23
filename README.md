@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#a6aa516](https://github.com/xHyroM/covid19-stats/commit/a6aa516) 2022/04/23 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b63de49](https://github.com/xHyroM/covid19-stats/commit/b63de49) 2022/04/22 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/youfline](https://github.com/Garlic-Team/youfline) on branch `master`
   * [#53f751f](https://github.com/Garlic-Team/youfline/commit/53f751f) fix: lejtlimit fix
@@ -22,8 +24,6 @@ ___
   * [#f00af99](https://github.com/Garlic-Team/youfline/commit/f00af99) fix: idk
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8a5507b](https://github.com/xHyroM/covid19-stats/commit/8a5507b) 2022/04/21 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#66c4212](https://github.com/Garlic-Team/gcommands/commit/66c4212) deploy: 2bdf5712acdeec6815b04f19b54710746d5bc6da
 
 
 ___
