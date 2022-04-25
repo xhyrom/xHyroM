@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#3aef2e7](https://github.com/xHyroM/covid19-stats/commit/3aef2e7) 2022/04/25 stats
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#92d33a4](https://github.com/CDN-Github/CDN-2/commit/92d33a4) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#5946639](https://github.com/xHyroM/aktdwb/commit/5946639) sitemap
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#8c9f622](https://github.com/xHyroM/aktdwb/commit/8c9f622) sitemap
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#65922ed](https://github.com/xHyroM/aktdwb/commit/65922ed) sitemap
 
 
 ___
