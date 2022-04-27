@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#7 [Snyk] Security upgrade ejs from 3.1.6 to 3.1.7](https://github.com/xHyroM/InfinityNextGen/pull/7) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 2 files changed `++152 --35`
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-32a6264a974aa722cb344bb53e01948b`
+  * [#c5de6e3](https://github.com/xHyroM/InfinityNextGen/commit/c5de6e3) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-EJS-2803307
+* ⏺️ Created new branch snyk-fix-32a6264a974aa722cb344bb53e01948b in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#15416fe](https://github.com/xHyroM/covid19-stats/commit/15416fe) 2022/04/26 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3aef2e7](https://github.com/xHyroM/covid19-stats/commit/3aef2e7) 2022/04/25 stats
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#92d33a4](https://github.com/CDN-Github/CDN-2/commit/92d33a4) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#5ae5751](https://github.com/xHyroM/aktdwb/commit/5ae5751) sitemap
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#5946639](https://github.com/xHyroM/aktdwb/commit/5946639) sitemap
 
 
 ___
