@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#ae66788](https://github.com/xHyroM/covid19-stats/commit/ae66788) 2022/04/28 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#c335cae](https://github.com/Garlic-Team/gcommands/commit/c335cae) deploy: d16906701132abd781a2c1e41a7345eda9e79155
 * ➡️ Pushed 3 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -27,8 +29,6 @@ Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
 * 🔃 Merged [#430 fix(CommandContext): Add this.interaction to safeReply](https://github.com/Garlic-Team/gcommands/pull/430) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#430 fix(CommandContext): Add this.interaction to safeReply](https://github.com/Garlic-Team/gcommands/pull/430) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#3265031](https://github.com/Garlic-Team/gcommands/commit/3265031) deploy: 68df8c95cd7650693466a01bc85ed91187c3eca7
 
 
 ___
