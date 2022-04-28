@@ -14,13 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#4958c21](https://github.com/CDN-Github/CDN-2/commit/4958c21) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#2cbf3e0](https://github.com/CDN-Github/CDN-2/commit/2cbf3e0) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#760c6b3](https://github.com/CDN-Github/CDN-2/commit/760c6b3) Removed uptime url
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/command-permissions-v2`
   * [#5180fa6](https://github.com/xHyroM/GCommands/commit/5180fa6) fix: default member permissions
 * 💬 Commented on [#427 refactor: use @sapphire/shapeshift](https://github.com/Garlic-Team/gcommands/issues/427) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/command-permissions-v2`
-  * [#df4aad3](https://github.com/xHyroM/GCommands/commit/df4aad3) chore: remove useless import
-* 🔃 Closed [#425 fix(deps): update dependency discord-api-types to ^0.32.0](https://github.com/Garlic-Team/gcommands/pull/425) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++42 --11`
 
 
 ___
