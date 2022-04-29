@@ -14,15 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-b18f444114b364b34335ff9992da7984`
+  * [#61ba9f5](https://github.com/Garlic-Team/InviteManager/commit/61ba9f5) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-SQLITE3-2388645
+* ⏺️ Created new branch snyk-fix-b18f444114b364b34335ff9992da7984 in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#4958c21](https://github.com/CDN-Github/CDN-2/commit/4958c21) Added new url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#2cbf3e0](https://github.com/CDN-Github/CDN-2/commit/2cbf3e0) Removed uptime url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#760c6b3](https://github.com/CDN-Github/CDN-2/commit/760c6b3) Removed uptime url
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/command-permissions-v2`
-  * [#5180fa6](https://github.com/xHyroM/GCommands/commit/5180fa6) fix: default member permissions
-* 💬 Commented on [#427 refactor: use @sapphire/shapeshift](https://github.com/Garlic-Team/gcommands/issues/427) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
