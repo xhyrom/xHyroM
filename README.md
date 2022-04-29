@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 🔍 Reviewed [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#699f13b](https://github.com/xHyroM/covid19-stats/commit/699f13b) 2022/04/29 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-b18f444114b364b34335ff9992da7984`
@@ -22,10 +24,6 @@ ___
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-SQLITE3-2388645
 * ⏺️ Created new branch snyk-fix-b18f444114b364b34335ff9992da7984 in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#4958c21](https://github.com/CDN-Github/CDN-2/commit/4958c21) Added new url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#2cbf3e0](https://github.com/CDN-Github/CDN-2/commit/2cbf3e0) Removed uptime url
 
 
 ___
