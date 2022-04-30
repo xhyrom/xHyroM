@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `tiktokbot`
-  * [#44fdf2c](https://github.com/Garlic-Team/other-stuff/commit/44fdf2c) Update index.js
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#b750a04](https://github.com/xHyroM/covid19-stats/commit/b750a04) 2022/04/30 stats
 * 💬 Commented on [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔍 Reviewed [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#699f13b](https://github.com/xHyroM/covid19-stats/commit/699f13b) 2022/04/29 stats
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#bf37976](https://github.com/Garlic-Team/gcommands/commit/bf37976) deploy: 6134924f07666082893423847a71fba699eb4049
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#6134924](https://github.com/Garlic-Team/gcommands/commit/6134924) chore: fix autolabeler
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#e9eb807](https://github.com/Garlic-Team/gcommands/commit/e9eb807) deploy: b9246892b505316aab397eaadc0867501cffa6ae
 
 
 ___
