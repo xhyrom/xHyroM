@@ -14,14 +14,23 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 🔍 Reviewed [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#75e958f](https://github.com/xHyroM/GCommands/commit/75e958f) feat: jsdocs for GClient
+* ➡️ Pushed 7 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#b6b2552](https://github.com/xHyroM/GCommands/commit/b6b2552) Merge branch &#39;next&#39; into feat/improve-jsdocs
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#bf37976](https://github.com/Garlic-Team/gcommands/commit/bf37976) deploy: 6134924f07666082893423847a71fba699eb4049
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#6134924](https://github.com/Garlic-Team/gcommands/commit/6134924) chore: fix autolabeler
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#e9eb807](https://github.com/Garlic-Team/gcommands/commit/e9eb807) deploy: b9246892b505316aab397eaadc0867501cffa6ae
+  * [#9f9d391](https://github.com/Garlic-Team/gcommands/commit/9f9d391) deploy: 802b8fa060e8b815e5f78c60ab608bef6513e403
+* ➡️ Pushed 6 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#802b8fa](https://github.com/Garlic-Team/gcommands/commit/802b8fa) feat: support for command permissions v2 (https://github.com/Garlic-Team/gcommands/pull/432)
+
+feat: support for command permissions v2
+  * [#5ed20e4](https://github.com/Garlic-Team/gcommands/commit/5ed20e4) fix: runInhibitor
+  * [#a4f3447](https://github.com/Garlic-Team/gcommands/commit/a4f3447) chore: requested changes
+  * [#5180fa6](https://github.com/Garlic-Team/gcommands/commit/5180fa6) fix: default member permissions
+  * [#df4aad3](https://github.com/Garlic-Team/gcommands/commit/df4aad3) chore: remove useless import
+  * [#f656b3e](https://github.com/Garlic-Team/gcommands/commit/f656b3e) feat: support for command permissions v2
+* 🔃 Merged [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 5 files changed `++89 --48`
 
 
 ___
