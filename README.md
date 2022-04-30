@@ -14,16 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+* 🔍 Reviewed [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+* 🔍 Reviewed [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#bb0391b](https://github.com/xHyroM/GCommands/commit/bb0391b) feat: jsdocs for loaders
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#e85e3d8](https://github.com/xHyroM/GCommands/commit/e85e3d8) feat: jsdocs for Util
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#75e958f](https://github.com/xHyroM/GCommands/commit/75e958f) feat: jsdocs for GClient
-* ➡️ Pushed 7 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#b6b2552](https://github.com/xHyroM/GCommands/commit/b6b2552) Merge branch &#39;next&#39; into feat/improve-jsdocs
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#9f9d391](https://github.com/Garlic-Team/gcommands/commit/9f9d391) deploy: 802b8fa060e8b815e5f78c60ab608bef6513e403
 
 
 ___
