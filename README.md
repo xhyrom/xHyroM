@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#b750a04](https://github.com/xHyroM/covid19-stats/commit/b750a04) 2022/04/30 stats
 * 💬 Commented on [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔍 Reviewed [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -23,7 +25,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-SQLITE3-2388645
-* ⏺️ Created new branch snyk-fix-b18f444114b364b34335ff9992da7984 in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
 
 
 ___
