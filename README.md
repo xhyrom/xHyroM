@@ -14,17 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `tiktokbot`
+  * [#44fdf2c](https://github.com/Garlic-Team/other-stuff/commit/44fdf2c) Update index.js
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b750a04](https://github.com/xHyroM/covid19-stats/commit/b750a04) 2022/04/30 stats
 * 💬 Commented on [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔍 Reviewed [#432 feat: support for command permissions v2](https://github.com/Garlic-Team/gcommands/pull/432) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#699f13b](https://github.com/xHyroM/covid19-stats/commit/699f13b) 2022/04/29 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-b18f444114b364b34335ff9992da7984`
-  * [#61ba9f5](https://github.com/Garlic-Team/InviteManager/commit/61ba9f5) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-SQLITE3-2388645
 
 
 ___
