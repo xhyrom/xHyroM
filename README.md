@@ -14,12 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🍽️ Forked [Garlic-Team/website](https://github.com/Garlic-Team/website) to [xHyroM/garlicteamwebsite](https://github.com/xHyroM/garlicteamwebsite)
-* 💬 Commented on [#437 feat(Command): Add category command option](https://github.com/Garlic-Team/gcommands/issues/437) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#b99d054](https://github.com/xHyroM/covid19-stats/commit/b99d054) 2022/05/01 stats
-* 💬 Commented on [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-* 🔍 Reviewed [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 🔃 Closed [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/pull/439) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++1 --1`
+* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
