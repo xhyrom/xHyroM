@@ -14,12 +14,25 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 🔃 Closed [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/pull/439) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++1 --1`
-* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#439 fix: regexp](https://github.com/Garlic-Team/gcommands/issues/439) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#f42a19d](https://github.com/Garlic-Team/gcommands/commit/f42a19d) deploy: 15ee974d0343d5fa82a333bfeb6099f31af6329f
+* ➡️ Pushed 8 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#15ee974](https://github.com/Garlic-Team/gcommands/commit/15ee974) fix: regexp for command validation (https://github.com/Garlic-Team/gcommands/pull/439)
+
+fix: regexp for command validation
+  * [#c2f1038](https://github.com/Garlic-Team/gcommands/commit/c2f1038) docs: jsdocs
+  * [#bbf9387](https://github.com/Garlic-Team/gcommands/commit/bbf9387) chore: requested changes
+  * [#3fe5e3d](https://github.com/Garlic-Team/gcommands/commit/3fe5e3d) fix: space
+  * [#3f247f3](https://github.com/Garlic-Team/gcommands/commit/3f247f3) docs: update jsdocs
+  * [#cd3c13f](https://github.com/Garlic-Team/gcommands/commit/cd3c13f) chore: make changes
+  * [#8f0777f](https://github.com/Garlic-Team/gcommands/commit/8f0777f) Update regexes.ts
+  * [#903c7a6](https://github.com/Garlic-Team/gcommands/commit/903c7a6) fix: regexp
+* 🔃 Merged [#439 fix: regexp for command validation](https://github.com/Garlic-Team/gcommands/pull/439) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++2 --2`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/validation-for-context-menus`
+  * [#c2f1038](https://github.com/xHyroM/GCommands/commit/c2f1038) docs: jsdocs
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/validation-for-context-menus`
+  * [#bbf9387](https://github.com/xHyroM/GCommands/commit/bbf9387) chore: requested changes
 
 
 ___
