@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#b99d054](https://github.com/xHyroM/covid19-stats/commit/b99d054) 2022/05/01 stats
 * 💬 Commented on [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * 🔍 Reviewed [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * 🔍 Reviewed [#7861 feat(builders): add new command permissions v2](https://github.com/discordjs/discord.js/pull/7861) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#bb0391b](https://github.com/xHyroM/GCommands/commit/bb0391b) feat: jsdocs for loaders
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#e85e3d8](https://github.com/xHyroM/GCommands/commit/e85e3d8) feat: jsdocs for Util
 
 
 ___
