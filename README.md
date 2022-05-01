@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
+  * [#3d34d79](https://github.com/xHyroM/aktdwb/commit/3d34d79) Update _app.tsx
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#f42a19d](https://github.com/Garlic-Team/gcommands/commit/f42a19d) deploy: 15ee974d0343d5fa82a333bfeb6099f31af6329f
 * ➡️ Pushed 8 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -31,8 +33,6 @@ fix: regexp for command validation
   * 1 file changed `++2 --2`
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/validation-for-context-menus`
   * [#c2f1038](https://github.com/xHyroM/GCommands/commit/c2f1038) docs: jsdocs
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/validation-for-context-menus`
-  * [#bbf9387](https://github.com/xHyroM/GCommands/commit/bbf9387) chore: requested changes
 
 
 ___
