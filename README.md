@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#277f215](https://github.com/xHyroM/covid19-stats/commit/277f215) 2022/05/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#abde74d](https://github.com/Garlic-Team/gcommands/commit/abde74d) deploy: c81ee7bee86568d42ffddc91c53808772c41801a
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -24,8 +26,6 @@ chore(deps): update dependency @types/node to v16.11.33
 * 🔃 Merged [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
 * 🔍 Reviewed [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#3d34d79](https://github.com/xHyroM/aktdwb/commit/3d34d79) Update _app.tsx
 
 
 ___
