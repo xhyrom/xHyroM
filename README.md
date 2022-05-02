@@ -14,17 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#438 chore(SECURITY): add security policy](https://github.com/Garlic-Team/gcommands/issues/438) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/issues/437) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#277f215](https://github.com/xHyroM/covid19-stats/commit/277f215) 2022/05/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#abde74d](https://github.com/Garlic-Team/gcommands/commit/abde74d) deploy: c81ee7bee86568d42ffddc91c53808772c41801a
+  * [#21d906d](https://github.com/Garlic-Team/gcommands/commit/21d906d) deploy: b4925828c646540bdd7ad89ece31270f41b142bc
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#c81ee7b](https://github.com/Garlic-Team/gcommands/commit/c81ee7b) chore(deps): update dependency @types/node to v16.11.33 (https://github.com/Garlic-Team/gcommands/pull/440)
+  * [#b492582](https://github.com/Garlic-Team/gcommands/commit/b492582) chore(deps): update typescript-eslint monorepo to v5.22.0
 
-chore(deps): update dependency @types/node to v16.11.33
-  * [#ba30bf8](https://github.com/Garlic-Team/gcommands/commit/ba30bf8) chore(deps): update dependency @types/node to v16.11.33
+chore(deps): update typescript-eslint monorepo to v5.22.0
+  * [#186bf2c](https://github.com/Garlic-Team/gcommands/commit/186bf2c) chore(deps): update typescript-eslint monorepo to v5.22.0
+* 🔃 Merged [#441 chore(deps): update typescript-eslint monorepo to v5.22.0](https://github.com/Garlic-Team/gcommands/pull/441) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++82 --82`
+* 🔍 Reviewed [#441 chore(deps): update typescript-eslint monorepo to v5.22.0](https://github.com/Garlic-Team/gcommands/pull/441) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#438 chore(SECURITY): add security policy](https://github.com/Garlic-Team/gcommands/issues/438) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
