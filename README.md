@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/issues/437) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#277f215](https://github.com/xHyroM/covid19-stats/commit/277f215) 2022/05/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
@@ -25,7 +26,6 @@ chore(deps): update dependency @types/node to v16.11.33
   * [#ba30bf8](https://github.com/Garlic-Team/gcommands/commit/ba30bf8) chore(deps): update dependency @types/node to v16.11.33
 * 🔃 Merged [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
-* 🔍 Reviewed [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
