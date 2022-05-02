@@ -14,25 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#abde74d](https://github.com/Garlic-Team/gcommands/commit/abde74d) deploy: c81ee7bee86568d42ffddc91c53808772c41801a
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#c81ee7b](https://github.com/Garlic-Team/gcommands/commit/c81ee7b) chore(deps): update dependency @types/node to v16.11.33 (https://github.com/Garlic-Team/gcommands/pull/440)
+
+chore(deps): update dependency @types/node to v16.11.33
+  * [#ba30bf8](https://github.com/Garlic-Team/gcommands/commit/ba30bf8) chore(deps): update dependency @types/node to v16.11.33
+* 🔃 Merged [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* 🔍 Reviewed [#440 chore(deps): update dependency @types/node to v16.11.33](https://github.com/Garlic-Team/gcommands/pull/440) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#3d34d79](https://github.com/xHyroM/aktdwb/commit/3d34d79) Update _app.tsx
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#f42a19d](https://github.com/Garlic-Team/gcommands/commit/f42a19d) deploy: 15ee974d0343d5fa82a333bfeb6099f31af6329f
-* ➡️ Pushed 8 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#15ee974](https://github.com/Garlic-Team/gcommands/commit/15ee974) fix: regexp for command validation (https://github.com/Garlic-Team/gcommands/pull/439)
-
-fix: regexp for command validation
-  * [#c2f1038](https://github.com/Garlic-Team/gcommands/commit/c2f1038) docs: jsdocs
-  * [#bbf9387](https://github.com/Garlic-Team/gcommands/commit/bbf9387) chore: requested changes
-  * [#3fe5e3d](https://github.com/Garlic-Team/gcommands/commit/3fe5e3d) fix: space
-  * [#3f247f3](https://github.com/Garlic-Team/gcommands/commit/3f247f3) docs: update jsdocs
-  * [#cd3c13f](https://github.com/Garlic-Team/gcommands/commit/cd3c13f) chore: make changes
-  * [#8f0777f](https://github.com/Garlic-Team/gcommands/commit/8f0777f) Update regexes.ts
-  * [#903c7a6](https://github.com/Garlic-Team/gcommands/commit/903c7a6) fix: regexp
-* 🔃 Merged [#439 fix: regexp for command validation](https://github.com/Garlic-Team/gcommands/pull/439) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++2 --2`
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/validation-for-context-menus`
-  * [#c2f1038](https://github.com/xHyroM/GCommands/commit/c2f1038) docs: jsdocs
 
 
 ___
