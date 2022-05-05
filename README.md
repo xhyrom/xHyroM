@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
+  * [#7a9e18d](https://github.com/xHyroM/typing-test/commit/7a9e18d) new words
 * 💬 Commented on [#438 chore(SECURITY): add security policy](https://github.com/Garlic-Team/gcommands/issues/438) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#e1dd3a8](https://github.com/xHyroM/covid19-stats/commit/e1dd3a8) 2022/05/05 stats
@@ -21,8 +23,6 @@ ___
   * [#740dd4d](https://github.com/xHyroM/covid19-stats/commit/740dd4d) 2022/05/04 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#242605c](https://github.com/xHyroM/covid19-stats/commit/242605c) 2022/05/03 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#21d906d](https://github.com/Garlic-Team/gcommands/commit/21d906d) deploy: b4925828c646540bdd7ad89ece31270f41b142bc
 
 
 ___
