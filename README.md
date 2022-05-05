@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#e1dd3a8](https://github.com/xHyroM/covid19-stats/commit/e1dd3a8) 2022/05/05 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#740dd4d](https://github.com/xHyroM/covid19-stats/commit/740dd4d) 2022/05/04 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#242605c](https://github.com/xHyroM/covid19-stats/commit/242605c) 2022/05/03 stats
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update typescript-eslint monorepo to v5.22.0
   * [#186bf2c](https://github.com/Garlic-Team/gcommands/commit/186bf2c) chore(deps): update typescript-eslint monorepo to v5.22.0
-* 🔃 Merged [#441 chore(deps): update typescript-eslint monorepo to v5.22.0](https://github.com/Garlic-Team/gcommands/pull/441) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++82 --82`
 
 
 ___
