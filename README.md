@@ -14,14 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Closed [#832 feat(faq): Auto Stage Speaker](https://github.com/discordjs/guide/pull/832) in [discordjs/guide](https://github.com/discordjs/guide)
+  * 1 file changed `++4 --0`
+* 💬 Commented on [#832 feat(faq): Auto Stage Speaker](https://github.com/discordjs/guide/issues/832) from [discordjs/guide](https://github.com/discordjs/guide)
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#f5c064b](https://github.com/Garlic-Team/gcommands/commit/f5c064b) deploy: 6fec8f76711214090f6057322e3a852031b5bf4c
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
   * [#6fec8f7](https://github.com/Garlic-Team/gcommands/commit/6fec8f7) fix: use nullish
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#f9e3a8a](https://github.com/Garlic-Team/gcommands/commit/f9e3a8a) deploy: 2d7ec3b22a04e9c8236de5aed1ab4c6e7933c343
-* 💬 Commented on [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/issues/437) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#438 chore(SECURITY): add security policy](https://github.com/Garlic-Team/gcommands/issues/438) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
