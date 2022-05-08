@@ -14,15 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#65ce90e](https://github.com/xHyroM/covid19-stats/commit/65ce90e) 2022/05/08 stats
-* 🔃 Closed [#832 feat(faq): Auto Stage Speaker](https://github.com/discordjs/guide/pull/832) in [discordjs/guide](https://github.com/discordjs/guide)
-  * 1 file changed `++4 --0`
-* 💬 Commented on [#832 feat(faq): Auto Stage Speaker](https://github.com/discordjs/guide/issues/832) from [discordjs/guide](https://github.com/discordjs/guide)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#f5c064b](https://github.com/Garlic-Team/gcommands/commit/f5c064b) deploy: 6fec8f76711214090f6057322e3a852031b5bf4c
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#6fec8f7](https://github.com/Garlic-Team/gcommands/commit/6fec8f7) fix: use nullish
+* #️⃣ Closed [#1 Command Permissions](https://github.com/Mr-Infinity-Bot/bucket/issues/1) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
+* 💬 Commented on [#1 Command Permissions](https://github.com/Mr-Infinity-Bot/bucket/issues/1) from [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
+* #️⃣ Closed [#2 Remove threads in temp voice channels](https://github.com/Mr-Infinity-Bot/bucket/issues/2) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
+* 💬 Commented on [#2 Remove threads in temp voice channels](https://github.com/Mr-Infinity-Bot/bucket/issues/2) from [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
+* #️⃣ Closed [#3 Autoroles](https://github.com/Mr-Infinity-Bot/bucket/issues/3) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
 
 
 ___
