@@ -14,11 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#1 Command Permissions](https://github.com/Mr-Infinity-Bot/bucket/issues/1) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
-* 💬 Commented on [#1 Command Permissions](https://github.com/Mr-Infinity-Bot/bucket/issues/1) from [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
-* #️⃣ Closed [#2 Remove threads in temp voice channels](https://github.com/Mr-Infinity-Bot/bucket/issues/2) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
-* 💬 Commented on [#2 Remove threads in temp voice channels](https://github.com/Mr-Infinity-Bot/bucket/issues/2) from [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
-* #️⃣ Closed [#3 Autoroles](https://github.com/Mr-Infinity-Bot/bucket/issues/3) in [Mr-Infinity-Bot/bucket](https://github.com/Mr-Infinity-Bot/bucket)
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#5360ba4](https://github.com/Mr-Infinity-Bot/bot/commit/5360ba4) ffmpeg static, opusscript
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#e068096](https://github.com/Mr-Infinity-Bot/bot/commit/e068096) permissions check
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#1f6de04](https://github.com/Mr-Infinity-Bot/bot/commit/1f6de04) build
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#625dc44](https://github.com/Mr-Infinity-Bot/bot/commit/625dc44) settings optional chaining
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#ac353ad](https://github.com/Mr-Infinity-Bot/bot/commit/ac353ad) remove guild id
 
 
 ___
