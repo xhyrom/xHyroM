@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#b2538d2](https://github.com/Mr-Infinity-Bot/bot/commit/b2538d2) fix, npm
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#1af5f8a](https://github.com/Mr-Infinity-Bot/bot/commit/1af5f8a) addradio
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#60b4d8d](https://github.com/Mr-Infinity-Bot/bot/commit/60b4d8d) antitoxic fix
@@ -22,15 +24,6 @@ ___
   * [#dfaa937](https://github.com/Mr-Infinity-Bot/bot/commit/dfaa937) optional číning
 * 🔃 Opened [#17 [Snyk] Security upgrade node from 17.8-slim to 17.9.0-slim](https://github.com/xHyroM/github-bucket/pull/17) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
   * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-314febcbb748a90a5e0600403bf09d52`
-  * [#8e69b7f](https://github.com/xHyroM/github-bucket/commit/8e69b7f) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-GZIP-2444256
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2807596
-- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808697
-- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808704
-- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
 
 
 ___
