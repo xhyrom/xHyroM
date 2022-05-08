@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#1af5f8a](https://github.com/Mr-Infinity-Bot/bot/commit/1af5f8a) addradio
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#60b4d8d](https://github.com/Mr-Infinity-Bot/bot/commit/60b4d8d) antitoxic fix
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#dfaa937](https://github.com/Mr-Infinity-Bot/bot/commit/dfaa937) optional číning
@@ -29,7 +31,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808697
 - https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808704
 - https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
-* ⏺️ Created new branch snyk-fix-314febcbb748a90a5e0600403bf09d52 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 
 
 ___
