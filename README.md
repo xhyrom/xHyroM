@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#bdf6136](https://github.com/Mr-Infinity-Bot/bot/commit/bdf6136) bug fixes
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#3ca7030](https://github.com/Mr-Infinity-Bot/bot/commit/3ca7030) npm command, lint, prettier
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c264ddc](https://github.com/xHyroM/covid19-stats/commit/c264ddc) 2022/05/09 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#b2538d2](https://github.com/Mr-Infinity-Bot/bot/commit/b2538d2) fix, npm
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#1af5f8a](https://github.com/Mr-Infinity-Bot/bot/commit/1af5f8a) addradio
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#60b4d8d](https://github.com/Mr-Infinity-Bot/bot/commit/60b4d8d) antitoxic fix
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#dfaa937](https://github.com/Mr-Infinity-Bot/bot/commit/dfaa937) optional číning
 
 
 ___
