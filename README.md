@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
+  * [#db15532](https://github.com/xHyroM/typing-test/commit/db15532) asd
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#2a13897](https://github.com/Garlic-Team/gcommands/commit/2a13897) deploy: dbb7203943bac4b1c4c004fed75e35297a8b333a
 * 🔃 Merged [#445 chore(deps): pin dependency eslint-plugin-import to 2.26.0](https://github.com/Garlic-Team/gcommands/pull/445) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
@@ -24,8 +26,6 @@ ___
 chore(deps): pin dependency eslint-plugin-import to 2.26.0
   * [#7cdadaa](https://github.com/Garlic-Team/gcommands/commit/7cdadaa) chore(deps): pin dependency eslint-plugin-import to 2.26.0
 * 🔍 Reviewed [#445 chore(deps): pin dependency eslint-plugin-import to 2.26.0](https://github.com/Garlic-Team/gcommands/pull/445) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#1fd9c61](https://github.com/Garlic-Team/gcommands/commit/1fd9c61) deploy: d5e8b15422fae0a5109bae30258e16e6f680bc36
 
 
 ___
