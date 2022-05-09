@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#bdf6136](https://github.com/Mr-Infinity-Bot/bot/commit/bdf6136) bug fixes
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#3ca7030](https://github.com/Mr-Infinity-Bot/bot/commit/3ca7030) npm command, lint, prettier
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#c264ddc](https://github.com/xHyroM/covid19-stats/commit/c264ddc) 2022/05/09 stats
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b2538d2](https://github.com/Mr-Infinity-Bot/bot/commit/b2538d2) fix, npm
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#1af5f8a](https://github.com/Mr-Infinity-Bot/bot/commit/1af5f8a) addradio
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#2a13897](https://github.com/Garlic-Team/gcommands/commit/2a13897) deploy: dbb7203943bac4b1c4c004fed75e35297a8b333a
+* 🔃 Merged [#445 chore(deps): pin dependency eslint-plugin-import to 2.26.0](https://github.com/Garlic-Team/gcommands/pull/445) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++2 --2`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#dbb7203](https://github.com/Garlic-Team/gcommands/commit/dbb7203) chore(deps): pin dependency eslint-plugin-import to 2.26.0 (https://github.com/Garlic-Team/gcommands/pull/445)
+
+chore(deps): pin dependency eslint-plugin-import to 2.26.0
+  * [#7cdadaa](https://github.com/Garlic-Team/gcommands/commit/7cdadaa) chore(deps): pin dependency eslint-plugin-import to 2.26.0
+* 🔍 Reviewed [#445 chore(deps): pin dependency eslint-plugin-import to 2.26.0](https://github.com/Garlic-Team/gcommands/pull/445) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#1fd9c61](https://github.com/Garlic-Team/gcommands/commit/1fd9c61) deploy: d5e8b15422fae0a5109bae30258e16e6f680bc36
 
 
 ___
