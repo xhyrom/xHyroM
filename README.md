@@ -18,8 +18,6 @@ ___
   * [#060f86c](https://github.com/xHyroM/covid19-stats/commit/060f86c) 2022/05/11 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#613f8fa](https://github.com/xHyroM/covid19-stats/commit/613f8fa) 2022/05/10 stats
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#db15532](https://github.com/xHyroM/typing-test/commit/db15532) asd
 
 
 ___
