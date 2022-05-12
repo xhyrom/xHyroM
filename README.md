@@ -14,12 +14,34 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b79bbac](https://github.com/Mr-Infinity-Bot/bot/commit/b79bbac) fix: removeFromVerification
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#90e47f3](https://github.com/xHyroM/covid19-stats/commit/90e47f3) 2022/05/12 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#060f86c](https://github.com/xHyroM/covid19-stats/commit/060f86c) 2022/05/11 stats
+* ➡️ Pushed 24 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#0e01aa3](https://github.com/Garlic-Team/gcommands/commit/0e01aa3) chore: tabs
+  * [#64d9e1b](https://github.com/Garlic-Team/gcommands/commit/64d9e1b) chore: tabs
+  * [#10c1b8f](https://github.com/Garlic-Team/gcommands/commit/10c1b8f) Merge branch &#39;next&#39; into patch-2
+  * [#083d735](https://github.com/Garlic-Team/gcommands/commit/083d735) fix(Component): unimportant fix
+  * [#50f1da3](https://github.com/Garlic-Team/gcommands/commit/50f1da3) feat(Listener): changes revert
+  * [#d821887](https://github.com/Garlic-Team/gcommands/commit/d821887) feat(Component): changes revert
+  * [#049cf94](https://github.com/Garlic-Team/gcommands/commit/049cf94) feat(Command): changes revert
+  * [#c37292a](https://github.com/Garlic-Team/gcommands/commit/c37292a) feat(Component): edit options option
+  * [#b246561](https://github.com/Garlic-Team/gcommands/commit/b246561) feat(Listener): edit options option
+  * [#115ded2](https://github.com/Garlic-Team/gcommands/commit/115ded2) feat(Command): edit options option
+  * [#c890545](https://github.com/Garlic-Team/gcommands/commit/c890545) feat(Plugin): edit options option
+  * [#d3b3a1f](https://github.com/Garlic-Team/gcommands/commit/d3b3a1f) feat(Listener): edited options option
+  * [#2b5922f](https://github.com/Garlic-Team/gcommands/commit/2b5922f) feat(Component): edited options option
+  * [#2b0e431](https://github.com/Garlic-Team/gcommands/commit/2b0e431) feat(Command): edited options option
+  * [#830839a](https://github.com/Garlic-Team/gcommands/commit/830839a) feat(Plugin): add options option
+  * [#6a43228](https://github.com/Garlic-Team/gcommands/commit/6a43228) feat(Listener): add options option
+  * [#12af45f](https://github.com/Garlic-Team/gcommands/commit/12af45f) feat(Component): add options option
+  * [#ec16e46](https://github.com/Garlic-Team/gcommands/commit/ec16e46) feat(Command): add options option
+  * [#8258e05](https://github.com/Garlic-Team/gcommands/commit/8258e05) feat(Command): Add defaults
+  * [#abee5f1](https://github.com/Garlic-Team/gcommands/commit/abee5f1) feat(Command): Add category command option
+* 🔃 Merged [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/pull/437) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 4 files changed `++13 --0`
+* ➡️ Pushed 1 commit in [SebestikCZ/GCommands](https://github.com/SebestikCZ/GCommands) on branch `patch-2`
+  * [#836caa0](https://github.com/SebestikCZ/GCommands/commit/836caa0) chore: i want space
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#32c5bcf](https://github.com/Garlic-Team/gcommands/commit/32c5bcf) deploy: 7e190873278ca699bb6d9665b07b3e22cd98dfa6
+* 🔍 Reviewed [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/pull/437) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
