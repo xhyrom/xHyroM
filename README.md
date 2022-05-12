@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#b79bbac](https://github.com/Mr-Infinity-Bot/bot/commit/b79bbac) fix: removeFromVerification
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#90e47f3](https://github.com/xHyroM/covid19-stats/commit/90e47f3) 2022/05/12 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
