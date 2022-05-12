@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#60ce30c](https://github.com/Garlic-Team/gcommands/commit/60ce30c) deploy: c40884588644f94e0dd60043d2c8ea9d322ab5af
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#c408845](https://github.com/Garlic-Team/gcommands/commit/c408845) fix: zod :))
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#5ae8605](https://github.com/Mr-Infinity-Bot/bot/commit/5ae8605) fix: radios duplication
 * ➡️ Pushed 24 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
   * [#0e01aa3](https://github.com/Garlic-Team/gcommands/commit/0e01aa3) chore: tabs
   * [#64d9e1b](https://github.com/Garlic-Team/gcommands/commit/64d9e1b) chore: tabs
@@ -37,11 +43,6 @@ ___
   * [#abee5f1](https://github.com/Garlic-Team/gcommands/commit/abee5f1) feat(Command): Add category command option
 * 🔃 Merged [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/pull/437) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 4 files changed `++13 --0`
-* ➡️ Pushed 1 commit in [SebestikCZ/GCommands](https://github.com/SebestikCZ/GCommands) on branch `patch-2`
-  * [#836caa0](https://github.com/SebestikCZ/GCommands/commit/836caa0) chore: i want space
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#32c5bcf](https://github.com/Garlic-Team/gcommands/commit/32c5bcf) deploy: 7e190873278ca699bb6d9665b07b3e22cd98dfa6
-* 🔍 Reviewed [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/pull/437) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
