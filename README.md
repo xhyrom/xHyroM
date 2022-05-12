@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#65d7ae9](https://github.com/Mr-Infinity-Bot/bot/commit/65d7ae9) feat: custom button color in verify system
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#60ce30c](https://github.com/Garlic-Team/gcommands/commit/60ce30c) deploy: c40884588644f94e0dd60043d2c8ea9d322ab5af
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -41,8 +43,6 @@ ___
   * [#ec16e46](https://github.com/Garlic-Team/gcommands/commit/ec16e46) feat(Command): add options option
   * [#8258e05](https://github.com/Garlic-Team/gcommands/commit/8258e05) feat(Command): Add defaults
   * [#abee5f1](https://github.com/Garlic-Team/gcommands/commit/abee5f1) feat(Command): Add category command option
-* 🔃 Merged [#437 feat: add options option to structures](https://github.com/Garlic-Team/gcommands/pull/437) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 4 files changed `++13 --0`
 
 
 ___
