@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#d538a62](https://github.com/Mr-Infinity-Bot/bot/commit/d538a62) fix: local
 * 💬 Commented on [#456 Deprecate prefix commands](https://github.com/Garlic-Team/gcommands/issues/456) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#85feaa0](https://github.com/xHyroM/covid19-stats/commit/85feaa0) 2022/05/13 stats
@@ -21,8 +23,6 @@ ___
   * [#65d7ae9](https://github.com/Mr-Infinity-Bot/bot/commit/65d7ae9) feat: custom button color in verify system
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#60ce30c](https://github.com/Garlic-Team/gcommands/commit/60ce30c) deploy: c40884588644f94e0dd60043d2c8ea9d322ab5af
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#c408845](https://github.com/Garlic-Team/gcommands/commit/c408845) fix: zod :))
 
 
 ___
