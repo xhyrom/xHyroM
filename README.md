@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#08b1d0e](https://github.com/Mr-Infinity-Bot/bot/commit/08b1d0e) feat: server statistics
 * 💬 Commented on [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔍 Reviewed [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
@@ -24,8 +26,6 @@ Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
   * [#a466b9b](https://github.com/xHyroM/GCommands/commit/a466b9b) chore: make changes
 
 Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#47b176d](https://github.com/xHyroM/covid19-stats/commit/47b176d) 2022/05/14 stats
 
 
 ___
