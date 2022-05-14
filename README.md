@@ -14,6 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#248e2f9](https://github.com/Garlic-Team/gcommands/commit/248e2f9) deploy: 86659724bd6b3a1eeb7915cf157d3c0e42de3180
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#8665972](https://github.com/Garlic-Team/gcommands/commit/8665972) chore(deps): update dependency @types/node to v16.11.35
+
+chore(deps): update dependency @types/node to v16.11.35
+  * [#2ee0da1](https://github.com/Garlic-Team/gcommands/commit/2ee0da1) chore(deps): update dependency @types/node to v16.11.35
+* 🔃 Merged [#454 chore(deps): update dependency @types/node to v16.11.35](https://github.com/Garlic-Team/gcommands/pull/454) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 * 🔃 Opened [#7 [Snyk] Security upgrade @discordjs/opus from 0.3.3 to 0.5.2](https://github.com/xHyroM/BlobRadio/pull/7) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
   * 2 files changed `++187 --621`
 * ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-d9f94866635d634fb7f90a138ffb85b6`
@@ -21,11 +30,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-* ⏺️ Created new branch snyk-fix-d9f94866635d634fb7f90a138ffb85b6 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#c684775](https://github.com/Garlic-Team/gcommands/commit/c684775) deploy: 74c8f52329b1e635b8d1e647243ec185988913b2
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#412bfe1](https://github.com/Garlic-Team/gcommands/commit/412bfe1) deploy: 2e04d6da06860d1851f6a82e461b2a2659b34828
 
 
 ___
