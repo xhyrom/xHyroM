@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#a42ca5f](https://github.com/Mr-Infinity-Bot/bot/commit/a42ca5f) feat: new counts
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#4dad82c](https://github.com/xHyroM/GCommands/commit/4dad82c) chore: requested changes
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#08b1d0e](https://github.com/Mr-Infinity-Bot/bot/commit/08b1d0e) feat: server statistics
 * 💬 Commented on [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔍 Reviewed [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#431d716](https://github.com/xHyroM/GCommands/commit/431d716) chore: make changes
-
-Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
 
 
 ___
