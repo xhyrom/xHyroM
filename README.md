@@ -14,13 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 🔍 Reviewed [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#431d716](https://github.com/xHyroM/GCommands/commit/431d716) chore: make changes
+
+Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#a466b9b](https://github.com/xHyroM/GCommands/commit/a466b9b) chore: make changes
+
+Co-authored-by: S222em &lt;68066476+S222em@users.noreply.github.com&gt;
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#47b176d](https://github.com/xHyroM/covid19-stats/commit/47b176d) 2022/05/14 stats
-* 💬 Commented on [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/issues/413) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#4602ec3](https://github.com/Garlic-Team/gcommands/commit/4602ec3) deploy: 0a4a9d1560c32917b053ac08c6cbbfd2623c05e9
-* 🔃 Merged [#459 fix: types CacheType should not be undefined](https://github.com/Garlic-Team/gcommands/pull/459) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 4 files changed `++4 --4`
 
 
 ___
