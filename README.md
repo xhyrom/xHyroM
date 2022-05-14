@@ -14,19 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#3fe60ff](https://github.com/Mr-Infinity-Bot/bot/commit/3fe60ff) chore(gitignore): tsconfig.tsbuildinfo
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#44578aa](https://github.com/Mr-Infinity-Bot/bot/commit/44578aa) chore: remove tsconfig.tsbuildinfo
-* 🔃 Closed [#13 chore(deps): update dependency discord-api-types to v0.32.1](https://github.com/Mr-Infinity-Bot/bot/pull/13) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-  * 2 files changed `++22 --8`
-* ➡️ Pushed 2 commits in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#d734794](https://github.com/Mr-Infinity-Bot/bot/commit/d734794) chore(deps): update dependency eslint to v8.15.0
-
-chore(deps): update dependency eslint to v8.15.0
-  * [#4b3bf1c](https://github.com/Mr-Infinity-Bot/bot/commit/4b3bf1c) chore(deps): update dependency eslint to v8.15.0
-* 🔃 Merged [#7 chore(deps): update dependency eslint to v8.15.0](https://github.com/Mr-Infinity-Bot/bot/pull/7) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-  * 2 files changed `++48 --63`
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#47b176d](https://github.com/xHyroM/covid19-stats/commit/47b176d) 2022/05/14 stats
+* 💬 Commented on [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/issues/413) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#4602ec3](https://github.com/Garlic-Team/gcommands/commit/4602ec3) deploy: 0a4a9d1560c32917b053ac08c6cbbfd2623c05e9
+* 🔃 Merged [#459 fix: types CacheType should not be undefined](https://github.com/Garlic-Team/gcommands/pull/459) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 4 files changed `++4 --4`
 
 
 ___
