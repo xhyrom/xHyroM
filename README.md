@@ -14,22 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#7 [Snyk] Security upgrade @discordjs/opus from 0.3.3 to 0.5.2](https://github.com/xHyroM/BlobRadio/pull/7) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+  * 2 files changed `++187 --621`
+* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-d9f94866635d634fb7f90a138ffb85b6`
+  * [#9ceb664](https://github.com/xHyroM/BlobRadio/commit/9ceb664) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+* ⏺️ Created new branch snyk-fix-d9f94866635d634fb7f90a138ffb85b6 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#c684775](https://github.com/Garlic-Team/gcommands/commit/c684775) deploy: 74c8f52329b1e635b8d1e647243ec185988913b2
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
   * [#412bfe1](https://github.com/Garlic-Team/gcommands/commit/412bfe1) deploy: 2e04d6da06860d1851f6a82e461b2a2659b34828
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#74c8f52](https://github.com/Garlic-Team/gcommands/commit/74c8f52) chore(deps): update dependency keyv to v4.2.8
-
-chore(deps): update dependency keyv to v4.2.8
-  * [#7555cd6](https://github.com/Garlic-Team/gcommands/commit/7555cd6) chore(deps): update dependency keyv to v4.2.8
-* 🔃 Merged [#453 chore(deps): update dependency keyv to v4.2.8](https://github.com/Garlic-Team/gcommands/pull/453) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#2e04d6d](https://github.com/Garlic-Team/gcommands/commit/2e04d6d) chore(deps): update dependency @types/lru-cache to v7.10.9
-
-chore(deps): update dependency @types/lru-cache to v7.10.9
-  * [#fd5568c](https://github.com/Garlic-Team/gcommands/commit/fd5568c) chore(deps): update dependency @types/lru-cache to v7.10.9
 
 
 ___
