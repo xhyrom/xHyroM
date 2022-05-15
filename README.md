@@ -14,21 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#bbbcad7](https://github.com/Garlic-Team/gcommands/commit/bbbcad7) chore: correct README path
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#bba4755](https://github.com/Garlic-Team/gcommands/commit/bba4755) chore: typedoc out
-* ➡️ Pushed 4 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#2479a19](https://github.com/Garlic-Team/gcommands/commit/2479a19) chore: documentation workflow (https://github.com/Garlic-Team/gcommands/pull/463)
-
-chore: documentation workflow
-  * [#3023b47](https://github.com/Garlic-Team/gcommands/commit/3023b47) fix: update name
-  * [#b01f796](https://github.com/Garlic-Team/gcommands/commit/b01f796) style: tabs
-  * [#ebc59b7](https://github.com/Garlic-Team/gcommands/commit/ebc59b7) chore: update documentation workflow
-* 🔃 Merged [#463 chore: documentation workflow](https://github.com/Garlic-Team/gcommands/pull/463) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 4 files changed `++97 --42`
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `chore/docs_repo`
-  * [#3023b47](https://github.com/xHyroM/GCommands/commit/3023b47) fix: update name
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#91b3206](https://github.com/Garlic-Team/docs/commit/91b3206) Docs build for branch master: a2d9495a9f143c4529ea5a42ca7f076b3dffc809
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#f9ace5e](https://github.com/Garlic-Team/docs/commit/f9ace5e) Docs build for branch master: a2d9495a9f143c4529ea5a42ca7f076b3dffc809
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#5649472](https://github.com/Garlic-Team/docs/commit/5649472) Docs build for branch master: a2d9495a9f143c4529ea5a42ca7f076b3dffc809
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#03e8deb](https://github.com/Garlic-Team/docs/commit/03e8deb) Docs build for branch master: a2d9495a9f143c4529ea5a42ca7f076b3dffc809
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#e53e3d3](https://github.com/Garlic-Team/docs/commit/e53e3d3) Docs build for branch master: a2d9495a9f143c4529ea5a42ca7f076b3dffc809
 
 
 ___
