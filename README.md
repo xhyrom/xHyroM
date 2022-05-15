@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
-  * [#f266475](https://github.com/Garlic-Team/website/commit/f266475) fix filters
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
-  * [#6875306](https://github.com/Garlic-Team/website/commit/6875306) fix imports
-* 🔃 Merged [#9 update](https://github.com/Garlic-Team/website/pull/9) in [Garlic-Team/website](https://github.com/Garlic-Team/website)
-  * 53 files changed `++6152 --7919`
-* ➡️ Pushed 20 commits in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
-  * [#f0dd275](https://github.com/Garlic-Team/website/commit/f0dd275) Merge branch &#39;discordjs-main&#39;
-* ⏺️ Created new branch discordjs-main in [Garlic-Team/website](https://github.com/Garlic-Team/website)
+* #️⃣ Opened [#90 Time to deprecate it](https://github.com/Mateo-tem/discord-modals/issues/90) in [Mateo-tem/discord-modals](https://github.com/Mateo-tem/discord-modals)
+* 🔃 Closed [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/pull/21) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
+  * 2 files changed `++101 --53`
+* 💬 Commented on [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/issues/21) from [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#de9f8d0](https://github.com/Mr-Infinity-Bot/bot/commit/de9f8d0) chore: bump gcommands version
+* #️⃣ Reopened [#412 Improve JSDocs](https://github.com/Garlic-Team/gcommands/issues/412) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
