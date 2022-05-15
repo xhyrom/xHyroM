@@ -14,14 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#1a9d59f](https://github.com/xHyroM/covid19-stats/commit/1a9d59f) 2022/05/15 stats
-* #️⃣ Opened [#90 Time to deprecate it](https://github.com/Mateo-tem/discord-modals/issues/90) in [Mateo-tem/discord-modals](https://github.com/Mateo-tem/discord-modals)
-* 🔃 Closed [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/pull/21) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-  * 2 files changed `++101 --53`
-* 💬 Commented on [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/issues/21) from [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#de9f8d0](https://github.com/Mr-Infinity-Bot/bot/commit/de9f8d0) chore: bump gcommands version
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#bbbcad7](https://github.com/Garlic-Team/gcommands/commit/bbbcad7) chore: correct README path
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#bba4755](https://github.com/Garlic-Team/gcommands/commit/bba4755) chore: typedoc out
+* ➡️ Pushed 4 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#2479a19](https://github.com/Garlic-Team/gcommands/commit/2479a19) chore: documentation workflow (https://github.com/Garlic-Team/gcommands/pull/463)
+
+chore: documentation workflow
+  * [#3023b47](https://github.com/Garlic-Team/gcommands/commit/3023b47) fix: update name
+  * [#b01f796](https://github.com/Garlic-Team/gcommands/commit/b01f796) style: tabs
+  * [#ebc59b7](https://github.com/Garlic-Team/gcommands/commit/ebc59b7) chore: update documentation workflow
+* 🔃 Merged [#463 chore: documentation workflow](https://github.com/Garlic-Team/gcommands/pull/463) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 4 files changed `++97 --42`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `chore/docs_repo`
+  * [#3023b47](https://github.com/xHyroM/GCommands/commit/3023b47) fix: update name
 
 
 ___
