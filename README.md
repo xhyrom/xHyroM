@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/api](https://github.com/Mr-Infinity-Bot/api) on branch `master`
-  * [#921db5f](https://github.com/Mr-Infinity-Bot/api/commit/921db5f) discord attachment route
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#bfe182d](https://github.com/xHyroM/xHyroM/commit/bfe182d) fix: add load_script
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#11a2e58](https://github.com/Mr-Infinity-Bot/bot/commit/11a2e58) recruitment_system
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
-  * [#bb50e18](https://github.com/Mr-Infinity-Bot/viewer/commit/bb50e18) Update LICENSE
-* ⏺️ Created new branch main in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer)
-* ⏺️ Created new repository  [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer)
+  * [#362afdd](https://github.com/Mr-Infinity-Bot/viewer/commit/362afdd) chore: bump lume
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
+  * [#fbe980f](https://github.com/Mr-Infinity-Bot/viewer/commit/fbe980f) chore: bump lume
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
+  * [#cb3c2fd](https://github.com/Mr-Infinity-Bot/viewer/commit/cb3c2fd) fix: path
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
+  * [#529babc](https://github.com/Mr-Infinity-Bot/viewer/commit/529babc) Update _config.ts
 
 
 ___
