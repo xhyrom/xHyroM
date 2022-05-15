@@ -14,13 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#1a9d59f](https://github.com/xHyroM/covid19-stats/commit/1a9d59f) 2022/05/15 stats
 * #️⃣ Opened [#90 Time to deprecate it](https://github.com/Mateo-tem/discord-modals/issues/90) in [Mateo-tem/discord-modals](https://github.com/Mateo-tem/discord-modals)
 * 🔃 Closed [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/pull/21) in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
   * 2 files changed `++101 --53`
 * 💬 Commented on [#21 fix(deps): update dependency got to v12](https://github.com/Mr-Infinity-Bot/bot/issues/21) from [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot)
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#de9f8d0](https://github.com/Mr-Infinity-Bot/bot/commit/de9f8d0) chore: bump gcommands version
-* #️⃣ Reopened [#412 Improve JSDocs](https://github.com/Garlic-Team/gcommands/issues/412) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
