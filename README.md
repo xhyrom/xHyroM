@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/powercord-injector](https://github.com/Garlic-Team/powercord-injector) on branch `master`
-  * [#059586d](https://github.com/Garlic-Team/powercord-injector/commit/059586d) Update elevate.js
-* #️⃣ Closed [#1 Trojan ._.](https://github.com/Garlic-Team/powercord-installer/issues/1) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#b650105](https://github.com/Mr-Infinity-Bot/bot/commit/b650105) fix
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#2e29e3e](https://github.com/Mr-Infinity-Bot/bot/commit/2e29e3e) fix: voice channel leave
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#a42ca5f](https://github.com/Mr-Infinity-Bot/bot/commit/a42ca5f) feat: new counts
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
+  * [#b6eab6f](https://github.com/Garlic-Team/gcommands/commit/b6eab6f) deploy: 1d5ccd0a367da4a444312186db6734bf029f1c00
+* ➡️ Pushed 27 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#b6b2552](https://github.com/Garlic-Team/gcommands/commit/b6b2552) Merge branch &#39;next&#39; into feat/improve-jsdocs
+* 🔃 Merged [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 6 files changed `++273 --75`
+* #️⃣ Closed [#412 Improve JSDocs](https://github.com/Garlic-Team/gcommands/issues/412) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
