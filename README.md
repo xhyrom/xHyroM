@@ -14,13 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `docs`
-  * [#b6eab6f](https://github.com/Garlic-Team/gcommands/commit/b6eab6f) deploy: 1d5ccd0a367da4a444312186db6734bf029f1c00
-* ➡️ Pushed 27 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#b6b2552](https://github.com/Garlic-Team/gcommands/commit/b6b2552) Merge branch &#39;next&#39; into feat/improve-jsdocs
-* 🔃 Merged [#413 docs: improve jsdocs](https://github.com/Garlic-Team/gcommands/pull/413) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 6 files changed `++273 --75`
-* #️⃣ Closed [#412 Improve JSDocs](https://github.com/Garlic-Team/gcommands/issues/412) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
+  * [#f266475](https://github.com/Garlic-Team/website/commit/f266475) fix filters
+* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
+  * [#6875306](https://github.com/Garlic-Team/website/commit/6875306) fix imports
+* 🔃 Merged [#9 update](https://github.com/Garlic-Team/website/pull/9) in [Garlic-Team/website](https://github.com/Garlic-Team/website)
+  * 53 files changed `++6152 --7919`
+* ➡️ Pushed 20 commits in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `main`
+  * [#f0dd275](https://github.com/Garlic-Team/website/commit/f0dd275) Merge branch &#39;discordjs-main&#39;
+* ⏺️ Created new branch discordjs-main in [Garlic-Team/website](https://github.com/Garlic-Team/website)
 
 
 ___
