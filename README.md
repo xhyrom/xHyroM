@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#2ff4117](https://github.com/CDN-Github/CDN-2/commit/2ff4117) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#77da90e](https://github.com/xHyroM/GCommands/commit/77da90e) docs: finish docs for logger
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
@@ -44,8 +46,6 @@ chore: documentation workflow
   * [#3023b47](https://github.com/xHyroM/GCommands/commit/3023b47) fix: update name
   * [#b01f796](https://github.com/xHyroM/GCommands/commit/b01f796) style: tabs
   * [#ebc59b7](https://github.com/xHyroM/GCommands/commit/ebc59b7) chore: update documentation workflow
-* 🔃 Closed [#467 fix(deps): update dependency discord-api-types to ^0.33.0](https://github.com/Garlic-Team/gcommands/pull/467) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++22 --8`
 
 
 ___
