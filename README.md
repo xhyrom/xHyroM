@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a4e9f52](https://github.com/Garlic-Team/docs/commit/a4e9f52) Docs build for branch next: b5c3aa21f26d4ec0e5b50e56f04a6bbde83e75ac
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#b5c3aa2](https://github.com/Garlic-Team/gcommands/commit/b5c3aa2) chore(deps): update commitlint monorepo to v17 (major)
+
+chore(deps): update commitlint monorepo to v17 (major)
+  * [#ceaa8af](https://github.com/Garlic-Team/gcommands/commit/ceaa8af) chore(deps): update commitlint monorepo to v17
+* 🔃 Merged [#466 chore(deps): update commitlint monorepo to v17 (major)](https://github.com/Garlic-Team/gcommands/pull/466) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++192 --192`
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#ed6fece](https://github.com/xHyroM/covid19-stats/commit/ed6fece) 2022/05/16 stats
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#11a2e58](https://github.com/Mr-Infinity-Bot/bot/commit/11a2e58) recruitment_system
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
-  * [#362afdd](https://github.com/Mr-Infinity-Bot/viewer/commit/362afdd) chore: bump lume
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
-  * [#fbe980f](https://github.com/Mr-Infinity-Bot/viewer/commit/fbe980f) chore: bump lume
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/viewer](https://github.com/Mr-Infinity-Bot/viewer) on branch `main`
-  * [#cb3c2fd](https://github.com/Mr-Infinity-Bot/viewer/commit/cb3c2fd) fix: path
 
 
 ___
