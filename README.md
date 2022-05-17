@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#aaff6d8](https://github.com/xHyroM/covid19-stats/commit/aaff6d8) 2022/05/17 stats
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#2ff4117](https://github.com/CDN-Github/CDN-2/commit/2ff4117) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
@@ -22,30 +24,6 @@ ___
   * [#72e9b26](https://github.com/xHyroM/GCommands/commit/72e9b26) chore: eslint
 * ➡️ Pushed 18 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
   * [#7a278fd](https://github.com/xHyroM/GCommands/commit/7a278fd) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
-* ➡️ Pushed 15 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#b5c3aa2](https://github.com/xHyroM/GCommands/commit/b5c3aa2) chore(deps): update commitlint monorepo to v17 (major)
-
-chore(deps): update commitlint monorepo to v17 (major)
-  * [#ceaa8af](https://github.com/xHyroM/GCommands/commit/ceaa8af) chore(deps): update commitlint monorepo to v17
-  * [#be2f9a2](https://github.com/xHyroM/GCommands/commit/be2f9a2) chore(deps): update actions/upload-artifact action to v3
-
-chore(deps): update actions/upload-artifact action to v3
-  * [#c9eee04](https://github.com/xHyroM/GCommands/commit/c9eee04) chore(deps): update actions/download-artifact action to v3
-
-chore(deps): update actions/download-artifact action to v3
-  * [#a5a25bd](https://github.com/xHyroM/GCommands/commit/a5a25bd) chore(deps): update actions/upload-artifact action to v3
-  * [#4e2e3c5](https://github.com/xHyroM/GCommands/commit/4e2e3c5) chore(deps): update actions/download-artifact action to v3
-  * [#02d4326](https://github.com/xHyroM/GCommands/commit/02d4326) chore: remove next-docs
-  * [#65d77d9](https://github.com/xHyroM/GCommands/commit/65d77d9) chore: documentation workflow
-  * [#153d70b](https://github.com/xHyroM/GCommands/commit/153d70b) chore: create event
-  * [#bbbcad7](https://github.com/xHyroM/GCommands/commit/bbbcad7) chore: correct README path
-  * [#bba4755](https://github.com/xHyroM/GCommands/commit/bba4755) chore: typedoc out
-  * [#2479a19](https://github.com/xHyroM/GCommands/commit/2479a19) chore: documentation workflow (https://github.com/Garlic-Team/gcommands/pull/463)
-
-chore: documentation workflow
-  * [#3023b47](https://github.com/xHyroM/GCommands/commit/3023b47) fix: update name
-  * [#b01f796](https://github.com/xHyroM/GCommands/commit/b01f796) style: tabs
-  * [#ebc59b7](https://github.com/xHyroM/GCommands/commit/ebc59b7) chore: update documentation workflow
 
 
 ___
