@@ -14,16 +14,33 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#aaff6d8](https://github.com/xHyroM/covid19-stats/commit/aaff6d8) 2022/05/17 stats
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#2ff4117](https://github.com/CDN-Github/CDN-2/commit/2ff4117) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#77da90e](https://github.com/xHyroM/GCommands/commit/77da90e) docs: finish docs for logger
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#72e9b26](https://github.com/xHyroM/GCommands/commit/72e9b26) chore: eslint
-* ➡️ Pushed 18 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
-  * [#7a278fd](https://github.com/xHyroM/GCommands/commit/7a278fd) Merge branch &#39;Garlic-Team:next&#39; into feat/improve-jsdocs
+* ⏺️ Created new tag v1.1.4 in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
+* ➡️ Pushed 9 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `release`
+  * [#cfcfedd](https://github.com/Garlic-Team/powercord-installer/commit/cfcfedd) CI: Prepare release &#39;v1.1.4
+  * [#bbb791e](https://github.com/Garlic-Team/powercord-installer/commit/bbb791e) Update package.json
+  * [#7b1730e](https://github.com/Garlic-Team/powercord-installer/commit/7b1730e) Create package-lock.json
+  * [#06f5fb3](https://github.com/Garlic-Team/powercord-installer/commit/06f5fb3) Added some &#34;Quality of Life&#34; stuff (https://github.com/Garlic-Team/powercord-installer/pull/3)
+
+Added some &#34;Quality of Life&#34; stuff
+  * [#b08a1fb](https://github.com/Garlic-Team/powercord-installer/commit/b08a1fb) Added some &#34;Quality of Life&#34; stuff
+
+Changed coloring to match Powercord branding
+
+-Removed Stable and PTB channels
+
+(For more info on why Stable and PTB were removed check the Powercord FAQ  to understand why they are unsupported, as the Development runs on Canary by default, I didn&#39;t choose to remove it)
+  * [#73e1b68](https://github.com/Garlic-Team/powercord-installer/commit/73e1b68) fix(readme): links (https://github.com/Garlic-Team/powercord-installer/pull/2)
+
+fix(readme): links
+  * [#d7e92b7](https://github.com/Garlic-Team/powercord-installer/commit/d7e92b7) Correct the link to the original project
+  * [#cb0b4bb](https://github.com/Garlic-Team/powercord-installer/commit/cb0b4bb) Fix the repository clone command
+  * [#fbecd45](https://github.com/Garlic-Team/powercord-installer/commit/fbecd45) Update repo owner (`xHyroM` –&gt; `Garlic-Team`)
+* ➡️ Pushed 1 commit in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
+  * [#cfcfedd](https://github.com/Garlic-Team/powercord-installer/commit/cfcfedd) CI: Prepare release &#39;v1.1.4
+* ➡️ Pushed 1 commit in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
+  * [#bbb791e](https://github.com/Garlic-Team/powercord-installer/commit/bbb791e) Update package.json
+* ➡️ Pushed 1 commit in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
+  * [#7b1730e](https://github.com/Garlic-Team/powercord-installer/commit/7b1730e) Create package-lock.json
 
 
 ___
