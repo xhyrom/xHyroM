@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#dd8cffe](https://github.com/xHyroM/covid19-stats/commit/dd8cffe) 2022/05/18 stats
 * ➡️ Pushed 2 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
   * [#1fb200e](https://github.com/Garlic-Team/powercord-installer/commit/1fb200e) Fixed Powercord icon (https://github.com/Garlic-Team/powercord-installer/pull/4)
 
@@ -23,26 +25,6 @@ Fixed Powercord icon
   * 1 file changed `++7 --2`
 * 📦 Released **v1.1.4** of [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
 * ⏺️ Created new tag v1.1.4 in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-* ➡️ Pushed 9 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `release`
-  * [#cfcfedd](https://github.com/Garlic-Team/powercord-installer/commit/cfcfedd) CI: Prepare release &#39;v1.1.4
-  * [#bbb791e](https://github.com/Garlic-Team/powercord-installer/commit/bbb791e) Update package.json
-  * [#7b1730e](https://github.com/Garlic-Team/powercord-installer/commit/7b1730e) Create package-lock.json
-  * [#06f5fb3](https://github.com/Garlic-Team/powercord-installer/commit/06f5fb3) Added some &#34;Quality of Life&#34; stuff (https://github.com/Garlic-Team/powercord-installer/pull/3)
-
-Added some &#34;Quality of Life&#34; stuff
-  * [#b08a1fb](https://github.com/Garlic-Team/powercord-installer/commit/b08a1fb) Added some &#34;Quality of Life&#34; stuff
-
-Changed coloring to match Powercord branding
-
--Removed Stable and PTB channels
-
-(For more info on why Stable and PTB were removed check the Powercord FAQ  to understand why they are unsupported, as the Development runs on Canary by default, I didn&#39;t choose to remove it)
-  * [#73e1b68](https://github.com/Garlic-Team/powercord-installer/commit/73e1b68) fix(readme): links (https://github.com/Garlic-Team/powercord-installer/pull/2)
-
-fix(readme): links
-  * [#d7e92b7](https://github.com/Garlic-Team/powercord-installer/commit/d7e92b7) Correct the link to the original project
-  * [#cb0b4bb](https://github.com/Garlic-Team/powercord-installer/commit/cb0b4bb) Fix the repository clone command
-  * [#fbecd45](https://github.com/Garlic-Team/powercord-installer/commit/fbecd45) Update repo owner (`xHyroM` –&gt; `Garlic-Team`)
 
 
 ___
