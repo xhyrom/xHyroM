@@ -18,11 +18,6 @@ ___
   * [#9edcc5f](https://github.com/xHyroM/covid19-stats/commit/9edcc5f) 2022/05/19 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#dd8cffe](https://github.com/xHyroM/covid19-stats/commit/dd8cffe) 2022/05/18 stats
-* ➡️ Pushed 2 commits in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer) on branch `development`
-  * [#1fb200e](https://github.com/Garlic-Team/powercord-installer/commit/1fb200e) Fixed Powercord icon (https://github.com/Garlic-Team/powercord-installer/pull/4)
-
-Fixed Powercord icon
-  * [#f648be4](https://github.com/Garlic-Team/powercord-installer/commit/f648be4) Fixed Powercord icon
 
 
 ___
