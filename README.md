@@ -23,9 +23,6 @@ ___
 
 Fixed Powercord icon
   * [#f648be4](https://github.com/Garlic-Team/powercord-installer/commit/f648be4) Fixed Powercord icon
-* 🔃 Merged [#4 Fixed Powercord icon](https://github.com/Garlic-Team/powercord-installer/pull/4) in [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
-  * 1 file changed `++7 --2`
-* 📦 Released **v1.1.4** of [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
 
 
 ___
