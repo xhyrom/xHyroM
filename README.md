@@ -20,8 +20,6 @@ ___
   * [#73af574](https://github.com/xHyroM/covid19-stats/commit/73af574) 2022/05/20 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#9edcc5f](https://github.com/xHyroM/covid19-stats/commit/9edcc5f) 2022/05/19 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#dd8cffe](https://github.com/xHyroM/covid19-stats/commit/dd8cffe) 2022/05/18 stats
 
 
 ___
