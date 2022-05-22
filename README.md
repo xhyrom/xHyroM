@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#29a4dc6](https://github.com/xHyroM/covid19-stats/commit/29a4dc6) 2022/05/22 stats
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#4d9eb0a](https://github.com/xHyroM/discord-activities/commit/4d9eb0a) fix: add activities.md/json
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#a5fa560](https://github.com/xHyroM/aktdwb/commit/a5fa560) Update contact.tsx
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#73af574](https://github.com/xHyroM/covid19-stats/commit/73af574) 2022/05/20 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#9edcc5f](https://github.com/xHyroM/covid19-stats/commit/9edcc5f) 2022/05/19 stats
 
 
 ___
