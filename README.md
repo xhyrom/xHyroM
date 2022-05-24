@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#7d5f70b](https://github.com/xHyroM/covid19-stats/commit/7d5f70b) 2022/05/24 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#dc48fb5](https://github.com/xHyroM/covid19-stats/commit/dc48fb5) 2022/05/23 stats
 * ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-8e1c77b6b16d50d79fe1af9837c24e4f`
   * [#109e483](https://github.com/xHyroM/Uptimo/commit/109e483) fix: package.json &amp; package-lock.json to reduce vulnerabilities
@@ -24,8 +26,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-8e1c77b6b16d50d79fe1af9837c24e4f in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#29a4dc6](https://github.com/xHyroM/covid19-stats/commit/29a4dc6) 2022/05/22 stats
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#4d9eb0a](https://github.com/xHyroM/discord-activities/commit/4d9eb0a) fix: add activities.md/json
 
 
 ___
