@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#07d99fb](https://github.com/xHyroM/covid19-stats/commit/07d99fb) 2022/05/25 stats
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
   * [#b6ec12f](https://github.com/RilyEvent/.github/commit/b6ec12f) chore: rename file
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
@@ -21,7 +23,6 @@ ___
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
   * [#40a4d7b](https://github.com/RilyEvent/.github/commit/40a4d7b) Update README.md
 * ⏺️ Created new branch main in [RilyEvent/.github](https://github.com/RilyEvent/.github)
-* ⏺️ Created new repository  [RilyEvent/.github](https://github.com/RilyEvent/.github)
 
 
 ___
