@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#deda9ef](https://github.com/CDN-Github/CDN-2/commit/deda9ef) Removed uptime url
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#07d99fb](https://github.com/xHyroM/covid19-stats/commit/07d99fb) 2022/05/25 stats
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
@@ -22,7 +24,6 @@ ___
   * [#3555bf4](https://github.com/RilyEvent/.github/commit/3555bf4) feat: a tag
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
   * [#40a4d7b](https://github.com/RilyEvent/.github/commit/40a4d7b) Update README.md
-* ⏺️ Created new branch main in [RilyEvent/.github](https://github.com/RilyEvent/.github)
 
 
 ___
