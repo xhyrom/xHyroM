@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch snyk-fix-6e214657e82de68c5756ce0a8360d0ce in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-6e214657e82de68c5756ce0a8360d0ce`
+  * [#af8f532](https://github.com/xHyroM/github-bucket/commit/af8f532) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-EVENTSOURCE-2823375
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#deda9ef](https://github.com/CDN-Github/CDN-2/commit/deda9ef) Removed uptime url
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#07d99fb](https://github.com/xHyroM/covid19-stats/commit/07d99fb) 2022/05/25 stats
 * ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
   * [#b6ec12f](https://github.com/RilyEvent/.github/commit/b6ec12f) chore: rename file
-* ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
-  * [#3555bf4](https://github.com/RilyEvent/.github/commit/3555bf4) feat: a tag
-* ➡️ Pushed 1 commit in [RilyEvent/.github](https://github.com/RilyEvent/.github) on branch `main`
-  * [#40a4d7b](https://github.com/RilyEvent/.github/commit/40a4d7b) Update README.md
 
 
 ___
