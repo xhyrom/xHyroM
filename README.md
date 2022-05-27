@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#75d398a](https://github.com/CDN-Github/CDN-2/commit/75d398a) Added new url
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#f82ddc2](https://github.com/xHyroM/covid19-stats/commit/f82ddc2) 2022/05/27 stats
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
@@ -21,7 +23,6 @@ ___
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#022505a](https://github.com/CDN-Github/CDN-2/commit/022505a) Added new url
 * ⏺️ Created new branch master in [RilyEvent/rifall](https://github.com/RilyEvent/rifall)
-* ⏺️ Created new repository  [RilyEvent/rifall](https://github.com/RilyEvent/rifall)
 
 
 ___
