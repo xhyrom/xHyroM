@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#6048681](https://github.com/Mr-Infinity-Bot/bot/commit/6048681) fix message config type
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#bab5a46](https://github.com/RilyEvent/nLoginRigot-Addons/commit/bab5a46) No commit message
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
@@ -21,8 +23,6 @@ ___
 * ⏺️ Created new repository  [RilyEvent/The-Bridges](https://github.com/RilyEvent/The-Bridges)
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#f977fc0](https://github.com/RilyEvent/nLoginRigot-Addons/commit/f977fc0) No commit message
-* ➡️ Pushed 1 commit in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore) on branch `master`
-  * [#8d9155c](https://github.com/RilyEvent/eventcore/commit/8d9155c) new
 
 
 ___
