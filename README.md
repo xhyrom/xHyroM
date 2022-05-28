@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch master in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
+* ⏺️ Created new repository  [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#5a723c1](https://github.com/Garlic-Team/docs/commit/5a723c1) Docs build for branch next: c703f971c5931435f1e47b5a00bab0df307d3a43
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -23,10 +25,6 @@ chore(deps): update dependency lint-staged to v12.4.2
   * [#4e55778](https://github.com/Garlic-Team/gcommands/commit/4e55778) chore(deps): update dependency lint-staged to v12.4.2
 * 🔃 Merged [#472 chore(deps): update dependency lint-staged to v12.4.2](https://github.com/Garlic-Team/gcommands/pull/472) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#45aa383](https://github.com/Garlic-Team/docs/commit/45aa383) Docs build for branch next: 9e023e5c191e642aace3c18e2a4f18740dafcda4
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#09dd65a](https://github.com/Garlic-Team/docs/commit/09dd65a) Docs build for branch next: 845341e47a22269f2040a12998b83a69219046e1
 
 
 ___
