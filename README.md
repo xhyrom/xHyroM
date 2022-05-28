@@ -14,17 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
+  * [#f977fc0](https://github.com/RilyEvent/nLoginRigot-Addons/commit/f977fc0) No commit message
+* ➡️ Pushed 1 commit in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore) on branch `master`
+  * [#8d9155c](https://github.com/RilyEvent/eventcore/commit/8d9155c) new
+* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
+  * [#745187f](https://github.com/RilyEvent/nLoginRigot-Addons/commit/745187f) No commit message
 * ⏺️ Created new branch master in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
 * ⏺️ Created new repository  [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#22c69ab](https://github.com/xHyroM/covid19-stats/commit/22c69ab) 2022/05/28 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#5a723c1](https://github.com/Garlic-Team/docs/commit/5a723c1) Docs build for branch next: c703f971c5931435f1e47b5a00bab0df307d3a43
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#c703f97](https://github.com/Garlic-Team/gcommands/commit/c703f97) chore(deps): update dependency lint-staged to v12.4.2
-
-chore(deps): update dependency lint-staged to v12.4.2
-  * [#4e55778](https://github.com/Garlic-Team/gcommands/commit/4e55778) chore(deps): update dependency lint-staged to v12.4.2
 
 
 ___
