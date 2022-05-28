@@ -14,15 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#75d398a](https://github.com/CDN-Github/CDN-2/commit/75d398a) Added new url
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#f82ddc2](https://github.com/xHyroM/covid19-stats/commit/f82ddc2) 2022/05/27 stats
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#5fc0984](https://github.com/CDN-Github/CDN-2/commit/5fc0984) Added new url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#022505a](https://github.com/CDN-Github/CDN-2/commit/022505a) Added new url
-* ⏺️ Created new branch master in [RilyEvent/rifall](https://github.com/RilyEvent/rifall)
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#5a723c1](https://github.com/Garlic-Team/docs/commit/5a723c1) Docs build for branch next: c703f971c5931435f1e47b5a00bab0df307d3a43
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#c703f97](https://github.com/Garlic-Team/gcommands/commit/c703f97) chore(deps): update dependency lint-staged to v12.4.2
+
+chore(deps): update dependency lint-staged to v12.4.2
+  * [#4e55778](https://github.com/Garlic-Team/gcommands/commit/4e55778) chore(deps): update dependency lint-staged to v12.4.2
+* 🔃 Merged [#472 chore(deps): update dependency lint-staged to v12.4.2](https://github.com/Garlic-Team/gcommands/pull/472) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#45aa383](https://github.com/Garlic-Team/docs/commit/45aa383) Docs build for branch next: 9e023e5c191e642aace3c18e2a4f18740dafcda4
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#09dd65a](https://github.com/Garlic-Team/docs/commit/09dd65a) Docs build for branch next: 845341e47a22269f2040a12998b83a69219046e1
 
 
 ___
