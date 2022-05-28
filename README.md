@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#22c69ab](https://github.com/xHyroM/covid19-stats/commit/22c69ab) 2022/05/28 stats
 * ⏺️ Created new branch master in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
 * ⏺️ Created new repository  [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -23,8 +25,6 @@ ___
 
 chore(deps): update dependency lint-staged to v12.4.2
   * [#4e55778](https://github.com/Garlic-Team/gcommands/commit/4e55778) chore(deps): update dependency lint-staged to v12.4.2
-* 🔃 Merged [#472 chore(deps): update dependency lint-staged to v12.4.2](https://github.com/Garlic-Team/gcommands/pull/472) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
