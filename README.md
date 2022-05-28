@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [RilyEvent/The-Bridges](https://github.com/RilyEvent/The-Bridges)
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#f977fc0](https://github.com/RilyEvent/nLoginRigot-Addons/commit/f977fc0) No commit message
 * ➡️ Pushed 1 commit in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore) on branch `master`
@@ -21,7 +22,6 @@ ___
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#745187f](https://github.com/RilyEvent/nLoginRigot-Addons/commit/745187f) No commit message
 * ⏺️ Created new branch master in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
-* ⏺️ Created new repository  [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
 
 
 ___
