@@ -14,10 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch master in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
+* ⏺️ Created new repository  [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#22c69ab](https://github.com/xHyroM/covid19-stats/commit/22c69ab) 2022/05/28 stats
-* ⏺️ Created new branch master in [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
-* ⏺️ Created new repository  [RilyEvent/eventcore](https://github.com/RilyEvent/eventcore)
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#5a723c1](https://github.com/Garlic-Team/docs/commit/5a723c1) Docs build for branch next: c703f971c5931435f1e47b5a00bab0df307d3a43
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
