@@ -14,16 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#6494512](https://github.com/RilyEvent/rifall/commit/6494512) change rerun logic after connect fail
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#865a049](https://github.com/RilyEvent/rifall/commit/865a049) style: remove useless imports
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#1685adc](https://github.com/RilyEvent/rifall/commit/1685adc) fix login event
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#b25c2c7](https://github.com/RilyEvent/rifall/commit/b25c2c7) login event
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#eab30ce](https://github.com/RilyEvent/rifall/commit/eab30ce) antispam
+* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
+  * [#2ff7d77](https://github.com/RilyEvent/status.rilyevent.eu/commit/2ff7d77) Add files via upload
+* #️⃣ Opened [#11 Minecraft:Proxy](https://github.com/RilyEvent/status.rilyevent.eu/issues/11) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
+* #️⃣ Opened [#10 Minecraft:KitPvP](https://github.com/RilyEvent/status.rilyevent.eu/issues/10) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
+* #️⃣ Opened [#9 Minecraft:Event](https://github.com/RilyEvent/status.rilyevent.eu/issues/9) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
+* #️⃣ Opened [#8 Minecraft](https://github.com/RilyEvent/status.rilyevent.eu/issues/8) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
 
 
 ___
