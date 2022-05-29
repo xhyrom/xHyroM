@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#bd0fa25](https://github.com/RilyEvent/rifall/commit/bd0fa25) style: remove useless import
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#bba0d97](https://github.com/RilyEvent/rifall/commit/bba0d97) brand -&gt; fix support for &lt;1.13
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#26b60d7](https://github.com/RilyEvent/rifall/commit/26b60d7) reval (not working), brand changer
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8ea170b](https://github.com/xHyroM/covid19-stats/commit/8ea170b) 2022/05/29 stats
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#98fe2ac](https://github.com/RilyEvent/nLoginRigot-Addons/commit/98fe2ac) improvements
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#6048681](https://github.com/Mr-Infinity-Bot/bot/commit/6048681) fix message config type
-* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
-  * [#bab5a46](https://github.com/RilyEvent/nLoginRigot-Addons/commit/bab5a46) No commit message
-* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
-  * [#6c13dfe](https://github.com/RilyEvent/nLoginRigot-Addons/commit/6c13dfe) No commit message
 
 
 ___
