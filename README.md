@@ -15,16 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#6494512](https://github.com/RilyEvent/rifall/commit/6494512) change rerun logic after connect fail
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#865a049](https://github.com/RilyEvent/rifall/commit/865a049) style: remove useless imports
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#1685adc](https://github.com/RilyEvent/rifall/commit/1685adc) fix login event
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
   * [#b25c2c7](https://github.com/RilyEvent/rifall/commit/b25c2c7) login event
 * ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
   * [#eab30ce](https://github.com/RilyEvent/rifall/commit/eab30ce) antispam
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#a902a12](https://github.com/RilyEvent/rifall/commit/a902a12) fix tab complete for No Rank
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#cfab066](https://github.com/RilyEvent/rifall/commit/cfab066) add dependencies
-* ➡️ Pushed 2 commits in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#bf5ce51](https://github.com/RilyEvent/rifall/commit/bf5ce51) fix: remove import
-  * [#d7fe68f](https://github.com/RilyEvent/rifall/commit/d7fe68f) msgtoggle
 
 
 ___
