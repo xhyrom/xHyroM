@@ -15,11 +15,13 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
+  * [#ad45242](https://github.com/RilyEvent/status.rilyevent.eu/commit/ad45242) Update index.js
+* #️⃣ Opened [#12 [Maintenance] 29/05/2022](https://github.com/RilyEvent/status.rilyevent.eu/issues/12) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
+* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
+  * [#8aa0403](https://github.com/RilyEvent/status.rilyevent.eu/commit/8aa0403) Add files via upload
+* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
   * [#2ff7d77](https://github.com/RilyEvent/status.rilyevent.eu/commit/2ff7d77) Add files via upload
 * #️⃣ Opened [#11 Minecraft:Proxy](https://github.com/RilyEvent/status.rilyevent.eu/issues/11) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
-* #️⃣ Opened [#10 Minecraft:KitPvP](https://github.com/RilyEvent/status.rilyevent.eu/issues/10) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
-* #️⃣ Opened [#9 Minecraft:Event](https://github.com/RilyEvent/status.rilyevent.eu/issues/9) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
-* #️⃣ Opened [#8 Minecraft](https://github.com/RilyEvent/status.rilyevent.eu/issues/8) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
 
 
 ___
