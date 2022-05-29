@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
+  * [#eab30ce](https://github.com/RilyEvent/rifall/commit/eab30ce) antispam
+* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
   * [#a902a12](https://github.com/RilyEvent/rifall/commit/a902a12) fix tab complete for No Rank
 * ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
   * [#cfab066](https://github.com/RilyEvent/rifall/commit/cfab066) add dependencies
@@ -23,8 +25,6 @@ ___
   * [#d7fe68f](https://github.com/RilyEvent/rifall/commit/d7fe68f) msgtoggle
 * ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
   * [#09318be](https://github.com/RilyEvent/rifall/commit/09318be) reply command, msg fix
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#5f59a14](https://github.com/RilyEvent/rifall/commit/5f59a14) msg command (without reply), proxy command, plugin hider
 
 
 ___
