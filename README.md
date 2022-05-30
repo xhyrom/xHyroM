@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
+  * [#0b6b609](https://github.com/RilyEvent/nLoginRigot-Addons/commit/0b6b609) fix session login
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#18a5423](https://github.com/xHyroM/covid19-stats/commit/18a5423) 2022/05/30 stats
 * ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
@@ -21,8 +23,6 @@ ___
 * #️⃣ Opened [#12 [Maintenance] 29/05/2022](https://github.com/RilyEvent/status.rilyevent.eu/issues/12) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
 * ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
   * [#8aa0403](https://github.com/RilyEvent/status.rilyevent.eu/commit/8aa0403) Add files via upload
-* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
-  * [#2ff7d77](https://github.com/RilyEvent/status.rilyevent.eu/commit/2ff7d77) Add files via upload
 
 
 ___
