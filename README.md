@@ -14,14 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
+  * [#42ad65b](https://github.com/RilyEvent/GrinchSimulator/commit/42ad65b) base
+* ⏺️ Created new branch master in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
+* ⏺️ Created new repository  [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
 * ⏺️ Created new repository  [RilyEvent/MLG-Rush](https://github.com/RilyEvent/MLG-Rush)
 * 💬 Commented on [#2 This is just question](https://github.com/xHyroM/NexusBlock/issues/2) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
-  * [#0b6b609](https://github.com/RilyEvent/nLoginRigot-Addons/commit/0b6b609) fix session login
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#18a5423](https://github.com/xHyroM/covid19-stats/commit/18a5423) 2022/05/30 stats
-* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
-  * [#ad45242](https://github.com/RilyEvent/status.rilyevent.eu/commit/ad45242) Update index.js
 
 
 ___
