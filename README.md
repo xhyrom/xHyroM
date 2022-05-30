@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#2 This is just question](https://github.com/xHyroM/NexusBlock/issues/2) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [RilyEvent/nLoginRigot-Addons](https://github.com/RilyEvent/nLoginRigot-Addons) on branch `master`
   * [#0b6b609](https://github.com/RilyEvent/nLoginRigot-Addons/commit/0b6b609) fix session login
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -21,8 +22,6 @@ ___
 * ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
   * [#ad45242](https://github.com/RilyEvent/status.rilyevent.eu/commit/ad45242) Update index.js
 * #️⃣ Opened [#12 [Maintenance] 29/05/2022](https://github.com/RilyEvent/status.rilyevent.eu/issues/12) in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu)
-* ➡️ Pushed 1 commit in [RilyEvent/status.rilyevent.eu](https://github.com/RilyEvent/status.rilyevent.eu) on branch `master`
-  * [#8aa0403](https://github.com/RilyEvent/status.rilyevent.eu/commit/8aa0403) Add files via upload
 
 
 ___
