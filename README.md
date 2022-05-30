@@ -15,11 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
+  * [#95f2bfc](https://github.com/RilyEvent/GrinchSimulator/commit/95f2bfc) improvements
+* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
   * [#42ad65b](https://github.com/RilyEvent/GrinchSimulator/commit/42ad65b) base
 * ⏺️ Created new branch master in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
 * ⏺️ Created new repository  [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
 * ⏺️ Created new repository  [RilyEvent/MLG-Rush](https://github.com/RilyEvent/MLG-Rush)
-* 💬 Commented on [#2 This is just question](https://github.com/xHyroM/NexusBlock/issues/2) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 
 
 ___
