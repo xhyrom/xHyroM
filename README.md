@@ -14,13 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#90 Song is corrupted](https://github.com/koca2000/NoteBlockAPI/issues/90) in [koca2000/NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI)
+* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
+  * [#4306cd5](https://github.com/RilyEvent/GrinchSimulator/commit/4306cd5) change design, fix song player
+* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
+  * [#f140e8a](https://github.com/RilyEvent/GrinchSimulator/commit/f140e8a) change design, fix songs :D
+* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
+  * [#8ed65d4](https://github.com/RilyEvent/GrinchSimulator/commit/8ed65d4) change design, fix songs :D
 * ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
   * [#95f2bfc](https://github.com/RilyEvent/GrinchSimulator/commit/95f2bfc) improvements
-* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
-  * [#42ad65b](https://github.com/RilyEvent/GrinchSimulator/commit/42ad65b) base
-* ⏺️ Created new branch master in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
-* ⏺️ Created new repository  [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator)
-* ⏺️ Created new repository  [RilyEvent/MLG-Rush](https://github.com/RilyEvent/MLG-Rush)
 
 
 ___
