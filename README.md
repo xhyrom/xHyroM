@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#069c23a](https://github.com/xHyroM/covid19-stats/commit/069c23a) 2022/06/01 stats
-* ➡️ Pushed 1 commit in [RilyEvent/rifall](https://github.com/RilyEvent/rifall) on branch `master`
-  * [#97fe647](https://github.com/RilyEvent/rifall/commit/97fe647) mysql adapter resolve
-* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
-  * [#4211e86](https://github.com/RilyEvent/GrinchSimulator/commit/4211e86) fix
-* ➡️ Pushed 1 commit in [RilyEvent/GrinchSimulator](https://github.com/RilyEvent/GrinchSimulator) on branch `master`
-  * [#219c08a](https://github.com/RilyEvent/GrinchSimulator/commit/219c08a) some improvements
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#7b64537](https://github.com/xHyroM/covid19-stats/commit/7b64537) 2022/05/31 stats
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#ec548b8](https://github.com/Garlic-Team/docs/commit/ec548b8) Docs build for branch next: 0b891565ecd22c2da28fca3d60f5234b46d267d1
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#0909147](https://github.com/Garlic-Team/docs/commit/0909147) Docs build for branch next: b0f3b86ab643434aac087fdc72cefed4826b1587
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#0b89156](https://github.com/Garlic-Team/gcommands/commit/0b89156) chore(deps): update dependency @types/node to v16.11.38
+
+chore(deps): update dependency @types/node to v16.11.38
+  * [#f7a5b1f](https://github.com/Garlic-Team/gcommands/commit/f7a5b1f) chore(deps): update dependency @types/node to v16.11.38
+* 🔃 Merged [#478 chore(deps): update dependency @types/node to v16.11.38](https://github.com/Garlic-Team/gcommands/pull/478) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#4e0fa14](https://github.com/Garlic-Team/docs/commit/4e0fa14) Docs build for branch next: 6136f4e8c51029056b494e645b900593dd4a904b
 
 
 ___
