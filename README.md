@@ -14,19 +14,72 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#a7e4871](https://github.com/xHyroM/covid19-stats/commit/a7e4871) 2022/06/03 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#646784c](https://github.com/xHyroM/covid19-stats/commit/646784c) 2022/06/02 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#ec548b8](https://github.com/Garlic-Team/docs/commit/ec548b8) Docs build for branch next: 0b891565ecd22c2da28fca3d60f5234b46d267d1
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#0909147](https://github.com/Garlic-Team/docs/commit/0909147) Docs build for branch next: b0f3b86ab643434aac087fdc72cefed4826b1587
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#0b89156](https://github.com/Garlic-Team/gcommands/commit/0b89156) chore(deps): update dependency @types/node to v16.11.38
+* ➡️ Pushed 27 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/improve-jsdocs`
+  * [#067fe80](https://github.com/xHyroM/GCommands/commit/067fe80) chore(deps): update dependency lint-staged to v12.5.0
+
+chore(deps): update dependency lint-staged to v12.5.0
+  * [#05743ce](https://github.com/xHyroM/GCommands/commit/05743ce) chore(deps): update dependency @commitlint/cli to v17.0.2
+  * [#1d9ed1b](https://github.com/xHyroM/GCommands/commit/1d9ed1b) chore(deps): update dependency lint-staged to v12.5.0
+  * [#33db0b1](https://github.com/xHyroM/GCommands/commit/33db0b1) chore(deps): update typescript-eslint monorepo to v5.27.0
+  * [#c703f97](https://github.com/xHyroM/GCommands/commit/c703f97) chore(deps): update dependency lint-staged to v12.4.2
+
+chore(deps): update dependency lint-staged to v12.4.2
+  * [#4e55778](https://github.com/xHyroM/GCommands/commit/4e55778) chore(deps): update dependency lint-staged to v12.4.2
+  * [#845341e](https://github.com/xHyroM/GCommands/commit/845341e) chore(deps): update dependency @commitlint/cli to v17.0.1
+
+chore(deps): update dependency @commitlint/cli to v17.0.1
+  * [#9e023e5](https://github.com/xHyroM/GCommands/commit/9e023e5) chore(deps): update dependency typescript to v4.7.2
+
+chore(deps): update dependency typescript to v4.7.2
+  * [#756612a](https://github.com/xHyroM/GCommands/commit/756612a) chore(deps): update dependency eslint to v8.16.0
+
+chore(deps): update dependency eslint to v8.16.0
+  * [#b035135](https://github.com/xHyroM/GCommands/commit/b035135) chore(deps): update dependency keyv to v4.3.0
+
+chore(deps): update dependency keyv to v4.3.0
+  * [#15af75b](https://github.com/xHyroM/GCommands/commit/15af75b) chore(deps): update dependency @types/node to v16.11.36
+
+chore(deps): update dependency @types/node to v16.11.36
+  * [#f04e9e3](https://github.com/xHyroM/GCommands/commit/f04e9e3) chore(deps): update crazy-max/ghaction-github-labeler action to v4
+
+chore(deps): update crazy-max/ghaction-github-labeler action to v4
+  * [#b5f1b47](https://github.com/xHyroM/GCommands/commit/b5f1b47) chore(deps): update crazy-max/ghaction-github-labeler action to v4
+  * [#81ac080](https://github.com/xHyroM/GCommands/commit/81ac080) chore(deps): update dependency @commitlint/cli to v17.0.1
+  * [#22b9e40](https://github.com/xHyroM/GCommands/commit/22b9e40) chore(deps): update dependency typescript to v4.7.2
+  * [#1f5a142](https://github.com/xHyroM/GCommands/commit/1f5a142) chore(deps): update dependency keyv to v4.3.0
+  * [#368ed74](https://github.com/xHyroM/GCommands/commit/368ed74) chore(deps): update dependency @types/node to v16.11.36
+  * [#83d158a](https://github.com/xHyroM/GCommands/commit/83d158a) chore(deps): update typescript-eslint monorepo to v5.26.0
+
+chore(deps): update typescript-eslint monorepo to v5.26.0
+  * [#b8945c0](https://github.com/xHyroM/GCommands/commit/b8945c0) chore(deps): update typescript-eslint monorepo to v5.26.0
+  * [#803d435](https://github.com/xHyroM/GCommands/commit/803d435) chore(deps): update dependency eslint to v8.16.0
+* 🔃 Opened [#481 feat(Command): add nsfw commands support](https://github.com/Garlic-Team/gcommands/pull/481) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++5 --0`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/nsfw-commands`
+  * [#9c0fa7c](https://github.com/xHyroM/GCommands/commit/9c0fa7c) feat: add nsfw commands support
+* ➡️ Pushed 10 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/nsfw-commands`
+  * [#0b89156](https://github.com/xHyroM/GCommands/commit/0b89156) chore(deps): update dependency @types/node to v16.11.38
 
 chore(deps): update dependency @types/node to v16.11.38
-  * [#f7a5b1f](https://github.com/Garlic-Team/gcommands/commit/f7a5b1f) chore(deps): update dependency @types/node to v16.11.38
+  * [#f7a5b1f](https://github.com/xHyroM/GCommands/commit/f7a5b1f) chore(deps): update dependency @types/node to v16.11.38
+  * [#b0f3b86](https://github.com/xHyroM/GCommands/commit/b0f3b86) chore(deps): update dependency lint-staged to v13
+
+chore(deps): update dependency lint-staged to v13
+  * [#1113f2c](https://github.com/xHyroM/GCommands/commit/1113f2c) chore(deps): update dependency lint-staged to v13
+  * [#6136f4e](https://github.com/xHyroM/GCommands/commit/6136f4e) chore(deps): update dependency @commitlint/cli to v17.0.2
+
+chore(deps): update dependency @commitlint/cli to v17.0.2
+  * [#55c70b1](https://github.com/xHyroM/GCommands/commit/55c70b1) chore(deps): update typescript-eslint monorepo to v5.27.0
+
+chore(deps): update typescript-eslint monorepo to v5.27.0
+  * [#067fe80](https://github.com/xHyroM/GCommands/commit/067fe80) chore(deps): update dependency lint-staged to v12.5.0
+
+chore(deps): update dependency lint-staged to v12.5.0
+  * [#05743ce](https://github.com/xHyroM/GCommands/commit/05743ce) chore(deps): update dependency @commitlint/cli to v17.0.2
+  * [#1d9ed1b](https://github.com/xHyroM/GCommands/commit/1d9ed1b) chore(deps): update dependency lint-staged to v12.5.0
+  * [#33db0b1](https://github.com/xHyroM/GCommands/commit/33db0b1) chore(deps): update typescript-eslint monorepo to v5.27.0
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#a7e4871](https://github.com/xHyroM/covid19-stats/commit/a7e4871) 2022/06/03 stats
 
 
 ___
