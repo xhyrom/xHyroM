@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#a7e4871](https://github.com/xHyroM/covid19-stats/commit/a7e4871) 2022/06/03 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#646784c](https://github.com/xHyroM/covid19-stats/commit/646784c) 2022/06/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#ec548b8](https://github.com/Garlic-Team/docs/commit/ec548b8) Docs build for branch next: 0b891565ecd22c2da28fca3d60f5234b46d267d1
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update dependency @types/node to v16.11.38
   * [#f7a5b1f](https://github.com/Garlic-Team/gcommands/commit/f7a5b1f) chore(deps): update dependency @types/node to v16.11.38
-* 🔃 Merged [#478 chore(deps): update dependency @types/node to v16.11.38](https://github.com/Garlic-Team/gcommands/pull/478) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
