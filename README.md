@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#0f3d30c](https://github.com/xHyroM/covid19-stats/commit/0f3d30c) 2022/06/04 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#6dec191](https://github.com/Garlic-Team/docs/commit/6dec191) Docs build for branch master: 464a1319889133a0be42a783a6935f77daa60cd7
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -22,8 +24,6 @@ ___
   * [#57a8575](https://github.com/Garlic-Team/docs/commit/57a8575) Docs build for branch master: 464a1319889133a0be42a783a6935f77daa60cd7
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#9b7180b](https://github.com/Garlic-Team/docs/commit/9b7180b) Docs build for branch master: 464a1319889133a0be42a783a6935f77daa60cd7
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#31f02e3](https://github.com/Garlic-Team/docs/commit/31f02e3) Docs build for branch master: eea6244bc5afee852744d135e5f9e35074d6c285
 
 
 ___
