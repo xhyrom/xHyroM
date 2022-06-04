@@ -14,12 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#2 This is just question](https://github.com/xHyroM/NexusBlock/issues/2) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#eebbe49](https://github.com/xHyroM/NexusBlock/commit/eebbe49) chore: autobuild workflow
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#4b0f66e](https://github.com/xHyroM/NexusBlock/commit/4b0f66e) readme &amp; license
-* ⏺️ Created new branch old-version in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#3cd1a9e](https://github.com/Garlic-Team/docs/commit/3cd1a9e) Docs build for branch next: d93e18494a141ad39f85fb5f0c81a3c5ebef4335
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#b02aad9](https://github.com/Garlic-Team/docs/commit/b02aad9) Docs build for branch next: 580201d490c44fe84f035a088c161855506d44e4
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a0a8f37](https://github.com/Garlic-Team/docs/commit/a0a8f37) Docs build for branch next: 6b240cae140817240d8775595dcc66eecef57338
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#d93e184](https://github.com/Garlic-Team/gcommands/commit/d93e184) chore(deps): update dependency eslint to v8.17.0
+
+chore(deps): update dependency eslint to v8.17.0
+  * [#f587fbd](https://github.com/Garlic-Team/gcommands/commit/f587fbd) chore(deps): update dependency eslint to v8.17.0
+* 🔃 Merged [#483 chore(deps): update dependency eslint to v8.17.0](https://github.com/Garlic-Team/gcommands/pull/483) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 
 
 ___
