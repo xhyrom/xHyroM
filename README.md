@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
-  * [#7f4c843](https://github.com/RilyEvent/rigot-1.18.2/commit/7f4c843) base
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
-  * [#97c0339](https://github.com/RilyEvent/rigot-1.18.2/commit/97c0339) Initial commit
-* ⏺️ Created new branch ver/1.18.2 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
-* ⏺️ Created new repository  [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#2c7a3a1](https://github.com/xHyroM/covid19-stats/commit/2c7a3a1) 2022/06/05 stats
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#9563a07](https://github.com/Garlic-Team/docs/commit/9563a07) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#5a23c0c](https://github.com/Garlic-Team/docs/commit/5a23c0c) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#e8ed122](https://github.com/Garlic-Team/docs/commit/e8ed122) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#85a4109](https://github.com/Garlic-Team/docs/commit/85a4109) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a2a3429](https://github.com/Garlic-Team/docs/commit/a2a3429) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
 
 
 ___
