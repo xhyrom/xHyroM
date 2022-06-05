@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#2c7a3a1](https://github.com/xHyroM/covid19-stats/commit/2c7a3a1) 2022/06/05 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#3cd1a9e](https://github.com/Garlic-Team/docs/commit/3cd1a9e) Docs build for branch next: d93e18494a141ad39f85fb5f0c81a3c5ebef4335
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update dependency eslint to v8.17.0
   * [#f587fbd](https://github.com/Garlic-Team/gcommands/commit/f587fbd) chore(deps): update dependency eslint to v8.17.0
-* 🔃 Merged [#483 chore(deps): update dependency eslint to v8.17.0](https://github.com/Garlic-Team/gcommands/pull/483) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
