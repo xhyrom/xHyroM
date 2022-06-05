@@ -15,13 +15,13 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
+  * [#7f4c843](https://github.com/RilyEvent/rigot-1.18.2/commit/7f4c843) base
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
   * [#97c0339](https://github.com/RilyEvent/rigot-1.18.2/commit/97c0339) Initial commit
 * ⏺️ Created new branch ver/1.18.2 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
 * ⏺️ Created new repository  [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#2c7a3a1](https://github.com/xHyroM/covid19-stats/commit/2c7a3a1) 2022/06/05 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#3cd1a9e](https://github.com/Garlic-Team/docs/commit/3cd1a9e) Docs build for branch next: d93e18494a141ad39f85fb5f0c81a3c5ebef4335
 
 
 ___
