@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#3804c7c](https://github.com/Garlic-Team/docs/commit/3804c7c) Docs build for branch next: 163d7c31347651336b94b98f4d38f50e572a46e7
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#163d7c3](https://github.com/Garlic-Team/gcommands/commit/163d7c3) chore(deps): update typescript-eslint monorepo to v5.27.1 (https://github.com/Garlic-Team/gcommands/pull/486)
+
+chore(deps): update typescript-eslint monorepo to v5.27.1
+  * [#c584161](https://github.com/Garlic-Team/gcommands/commit/c584161) chore(deps): update typescript-eslint monorepo to v5.27.1
+* 🔃 Merged [#486 chore(deps): update typescript-eslint monorepo to v5.27.1](https://github.com/Garlic-Team/gcommands/pull/486) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++82 --82`
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b0427d3](https://github.com/xHyroM/covid19-stats/commit/b0427d3) 2022/06/06 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#9563a07](https://github.com/Garlic-Team/docs/commit/9563a07) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#5a23c0c](https://github.com/Garlic-Team/docs/commit/5a23c0c) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#e8ed122](https://github.com/Garlic-Team/docs/commit/e8ed122) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#85a4109](https://github.com/Garlic-Team/docs/commit/85a4109) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
 
 
 ___
