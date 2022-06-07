@@ -14,19 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#caa13b1](https://github.com/xHyroM/covid19-stats/commit/caa13b1) 2022/06/07 stats
+* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* 🔃 Opened [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/pull/488) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/command-defaults`
+  * [#418d048](https://github.com/xHyroM/GCommands/commit/418d048) fix: command defaults inhibitor
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#3804c7c](https://github.com/Garlic-Team/docs/commit/3804c7c) Docs build for branch next: 163d7c31347651336b94b98f4d38f50e572a46e7
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#163d7c3](https://github.com/Garlic-Team/gcommands/commit/163d7c3) chore(deps): update typescript-eslint monorepo to v5.27.1 (https://github.com/Garlic-Team/gcommands/pull/486)
-
-chore(deps): update typescript-eslint monorepo to v5.27.1
-  * [#c584161](https://github.com/Garlic-Team/gcommands/commit/c584161) chore(deps): update typescript-eslint monorepo to v5.27.1
-* 🔃 Merged [#486 chore(deps): update typescript-eslint monorepo to v5.27.1](https://github.com/Garlic-Team/gcommands/pull/486) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++82 --82`
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#b0427d3](https://github.com/xHyroM/covid19-stats/commit/b0427d3) 2022/06/06 stats
+  * [#43826cc](https://github.com/Garlic-Team/docs/commit/43826cc) Docs build for branch next: ee911dee646166fd3fd221905d92440f83506fe0
 
 
 ___
