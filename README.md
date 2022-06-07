@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#caa13b1](https://github.com/xHyroM/covid19-stats/commit/caa13b1) 2022/06/07 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#3804c7c](https://github.com/Garlic-Team/docs/commit/3804c7c) Docs build for branch next: 163d7c31347651336b94b98f4d38f50e572a46e7
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -25,8 +27,6 @@ chore(deps): update typescript-eslint monorepo to v5.27.1
   * 2 files changed `++82 --82`
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b0427d3](https://github.com/xHyroM/covid19-stats/commit/b0427d3) 2022/06/06 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#9563a07](https://github.com/Garlic-Team/docs/commit/9563a07) Docs build for branch master: e1ce3740d422d0afd4307dc4fa5359a4f4b9cfba
 
 
 ___
