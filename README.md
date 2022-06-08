@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [RilyEvent/BungeeGuard](https://github.com/RilyEvent/BungeeGuard) on branch `master`
-  * [#211ed73](https://github.com/RilyEvent/BungeeGuard/commit/211ed73) chore: github worflow
-* ➡️ Pushed 1 commit in [RilyEvent/BungeeGuard](https://github.com/RilyEvent/BungeeGuard) on branch `master`
-  * [#4326a4b](https://github.com/RilyEvent/BungeeGuard/commit/4326a4b) fix: 1.19 support
-* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
-  * [#32976bd](https://github.com/RilyEvent/MultiOneblock/commit/32976bd) chore: libs
-* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
-  * [#95396c5](https://github.com/RilyEvent/MultiOneblock/commit/95396c5) chore: libs
-* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
-  * [#9cbe162](https://github.com/RilyEvent/MultiOneblock/commit/9cbe162) chore: libs
+* ⏺️ Created new branch snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608 in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
+* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608`
+  * [#8018c15](https://github.com/xHyroM/Muploader/commit/8018c15) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/command-defaults`
+  * [#50946dd](https://github.com/xHyroM/GCommands/commit/50946dd) fix: use length check
+* 💬 Commented on [#74 Update BungeeGuard to 1.19](https://github.com/lucko/BungeeGuard/issues/74) from [lucko/BungeeGuard](https://github.com/lucko/BungeeGuard)
 
 
 ___
