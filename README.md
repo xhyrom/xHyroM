@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch master in [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges)
-* ⏺️ Created new repository  [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#eb22701](https://github.com/xHyroM/NexusBlock/commit/eb22701) feat: commands
-* ⏺️ Created new branch snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608 in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
-* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608`
-  * [#8018c15](https://github.com/xHyroM/Muploader/commit/8018c15) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+  * [#7954fd4](https://github.com/xHyroM/NexusBlock/commit/7954fd4) feat: add libs
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#3bfca04](https://github.com/xHyroM/NexusBlock/commit/3bfca04) feat(Holograms): CMIHolograms, HolographicDisplays support
+* 💬 Commented on [#74 Update BungeeGuard to 1.19](https://github.com/lucko/BungeeGuard/issues/74) from [lucko/BungeeGuard](https://github.com/lucko/BungeeGuard)
+* ➡️ Pushed 1 commit in [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges) on branch `master`
+  * [#206b717](https://github.com/RilyEvent/TheBridges/commit/206b717) fix: missing null check
+* ➡️ Pushed 1 commit in [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges) on branch `master`
+  * [#f8c33f2](https://github.com/RilyEvent/TheBridges/commit/f8c33f2) feat?: delete block place message
 
 
 ___
