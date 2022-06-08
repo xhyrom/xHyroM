@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6`
   * [#c17ee8e](https://github.com/xHyroM/Shortener/commit/c17ee8e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
@@ -22,8 +23,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
 * 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 🔃 Opened [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/pull/488) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++1 --1`
 
 
 ___
