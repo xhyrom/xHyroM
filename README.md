@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#eb22701](https://github.com/xHyroM/NexusBlock/commit/eb22701) feat: commands
 * ⏺️ Created new branch snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608 in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
 * ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608`
   * [#8018c15](https://github.com/xHyroM/Muploader/commit/8018c15) fix: package.json &amp; package-lock.json to reduce vulnerabilities
@@ -23,7 +25,6 @@ The following vulnerabilities are fixed with an upgrade:
 * 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/command-defaults`
   * [#50946dd](https://github.com/xHyroM/GCommands/commit/50946dd) fix: use length check
-* 💬 Commented on [#74 Update BungeeGuard to 1.19](https://github.com/lucko/BungeeGuard/issues/74) from [lucko/BungeeGuard](https://github.com/lucko/BungeeGuard)
 
 
 ___
