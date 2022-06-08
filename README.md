@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6`
+  * [#c17ee8e](https://github.com/xHyroM/Shortener/commit/c17ee8e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+* ⏺️ Created new branch snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
 * 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 🔃 Opened [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/pull/488) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/command-defaults`
-  * [#418d048](https://github.com/xHyroM/GCommands/commit/418d048) fix: command defaults inhibitor
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#43826cc](https://github.com/Garlic-Team/docs/commit/43826cc) Docs build for branch next: ee911dee646166fd3fd221905d92440f83506fe0
 
 
 ___
