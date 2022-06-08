@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch master in [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges)
+* ⏺️ Created new repository  [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#eb22701](https://github.com/xHyroM/NexusBlock/commit/eb22701) feat: commands
 * ⏺️ Created new branch snyk-fix-66b2cbd3945bd0bfe615cdae55eaa608 in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
@@ -22,9 +24,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `fix/command-defaults`
-  * [#50946dd](https://github.com/xHyroM/GCommands/commit/50946dd) fix: use length check
 
 
 ___
