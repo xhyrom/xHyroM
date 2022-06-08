@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#624c7e2](https://github.com/xHyroM/covid19-stats/commit/624c7e2) 2022/06/08 stats
-* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6`
-  * [#c17ee8e](https://github.com/xHyroM/Shortener/commit/c17ee8e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-* ⏺️ Created new branch snyk-fix-4cce4ae09b14c57ddc2b14f9caf0bae6 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
-* 💬 Commented on [#488 fix(Command): command defaults](https://github.com/Garlic-Team/gcommands/issues/488) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
+  * [#32976bd](https://github.com/RilyEvent/MultiOneblock/commit/32976bd) chore: libs
+* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
+  * [#95396c5](https://github.com/RilyEvent/MultiOneblock/commit/95396c5) chore: libs
+* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
+  * [#9cbe162](https://github.com/RilyEvent/MultiOneblock/commit/9cbe162) chore: libs
+* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
+  * [#5d6ce18](https://github.com/RilyEvent/MultiOneblock/commit/5d6ce18) chore: libs
+* ⏺️ Created new branch main-old-nomaven in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock)
 
 
 ___
