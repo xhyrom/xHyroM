@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new tag 1.0.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* 📦 Released **1.0.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#fc0b940](https://github.com/xHyroM/NexusBlock/commit/fc0b940) chore: some stuff
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#3b9ad78](https://github.com/xHyroM/NexusBlock/commit/3b9ad78) chore(README): break line
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#818f7e0](https://github.com/xHyroM/NexusBlock/commit/818f7e0) fix: remove support for SaintX Holograms (not maintained)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#175e7db](https://github.com/xHyroM/NexusBlock/commit/175e7db) chore(pomxml): add finalName
-* ➡️ Pushed 1 commit in [RilyEvent/MultiOneblock](https://github.com/RilyEvent/MultiOneblock) on branch `master`
-  * [#fda6fe9](https://github.com/RilyEvent/MultiOneblock/commit/fda6fe9) feat(workflows,scripts): auto build &amp; upload
 
 
 ___
