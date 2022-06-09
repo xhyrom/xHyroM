@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/TheBridges](https://github.com/RilyEvent/TheBridges) on branch `master`
+  * [#228f9c2](https://github.com/RilyEvent/TheBridges/commit/228f9c2) fix(mysql): use new class com.mysql.cj.jdbc.Driver
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#31f5338](https://github.com/RilyEvent/rigot-1.8.8/commit/31f5338) chore(workflow): upstream
+* ⏺️ Created new branch master in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8)
 * ⏺️ Created new repository  [RilyEvent/rigot-1.8](https://github.com/RilyEvent/rigot-1.8)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#0434bbd](https://github.com/xHyroM/covid19-stats/commit/0434bbd) 2022/06/09 stats
-* 🌟 Starred [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB)
-* ➡️ Pushed 3 commits in [RilyEvent/BungeeGuard](https://github.com/RilyEvent/BungeeGuard) on branch `master`
-  * [#13db838](https://github.com/RilyEvent/BungeeGuard/commit/13db838) Merge branch &#39;lucko:master&#39; into master
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#7954fd4](https://github.com/xHyroM/NexusBlock/commit/7954fd4) feat: add libs
 
 
 ___
