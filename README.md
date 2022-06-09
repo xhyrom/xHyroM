@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [RilyEvent/rigot-1.8](https://github.com/RilyEvent/rigot-1.8)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#0434bbd](https://github.com/xHyroM/covid19-stats/commit/0434bbd) 2022/06/09 stats
 * 🌟 Starred [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB)
@@ -21,8 +22,6 @@ ___
   * [#13db838](https://github.com/RilyEvent/BungeeGuard/commit/13db838) Merge branch &#39;lucko:master&#39; into master
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#7954fd4](https://github.com/xHyroM/NexusBlock/commit/7954fd4) feat: add libs
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#3bfca04](https://github.com/xHyroM/NexusBlock/commit/3bfca04) feat(Holograms): CMIHolograms, HolographicDisplays support
 
 
 ___
