@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#9ea7c36](https://github.com/xHyroM/covid19-stats/commit/9ea7c36) 2022/06/10 stats
-* #️⃣ Opened [#5 Todo](https://github.com/xHyroM/NexusBlock/issues/5) in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ⏺️ Created new tag 1.0.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* 📦 Released **1.0.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#fc0b940](https://github.com/xHyroM/NexusBlock/commit/fc0b940) chore: some stuff
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#3b11cd6](https://github.com/RilyEvent/rigot-1.8.8/commit/3b11cd6) [skip] add workflow dispatch
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#4f8f0c5](https://github.com/RilyEvent/rigot-1.8.8/commit/4f8f0c5) [skip] fix upstream
+* ➡️ Pushed 1 commit in [RilyEvent/merge-from-upstream-repo](https://github.com/RilyEvent/merge-from-upstream-repo) on branch `main`
+  * [#1ee6fa5](https://github.com/RilyEvent/merge-from-upstream-repo/commit/1ee6fa5) Update action.yml
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#905e9f2](https://github.com/RilyEvent/rigot-1.8.8/commit/905e9f2) [skip] chore(workflow): fix upstream
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#08e94e8](https://github.com/RilyEvent/rigot-1.8.8/commit/08e94e8) chore(workflow): use branches
 
 
 ___
