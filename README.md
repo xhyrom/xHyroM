@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#5 Todo](https://github.com/xHyroM/NexusBlock/issues/5) in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ⏺️ Created new tag 1.0.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * 📦 Released **1.0.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#fc0b940](https://github.com/xHyroM/NexusBlock/commit/fc0b940) chore: some stuff
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#3b9ad78](https://github.com/xHyroM/NexusBlock/commit/3b9ad78) chore(README): break line
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#818f7e0](https://github.com/xHyroM/NexusBlock/commit/818f7e0) fix: remove support for SaintX Holograms (not maintained)
 
 
 ___
