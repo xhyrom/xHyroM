@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#9fb080a](https://github.com/RilyEvent/rigot-1.8.8/commit/9fb080a) [skip] chore(workflow): fix name
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#ec34898](https://github.com/RilyEvent/rigot-1.8.8/commit/ec34898) fix(Rigot-0001): missing name, feat(Rigot-0003): Update io.netty version to 4.1.77.Final
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#404987b](https://github.com/RilyEvent/rigot-1.8.8/commit/404987b) [skip] chore(workflow): rename workflows
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#9419bde](https://github.com/RilyEvent/rigot-1.8.8/commit/9419bde) feat: patch [Rigot-0002] Update mysql-connector-java version to 8.0.29
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#01a86ac](https://github.com/RilyEvent/rigot-1.8.8/commit/01a86ac) feat: add Rigot-0001 patch (Change default brand name)
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#b844c4b](https://github.com/RilyEvent/rigot-1.8.8/commit/b844c4b) chore: rebase, huge artifact renames
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#386acc1](https://github.com/RilyEvent/rigot-1.8.8/commit/386acc1) chore(workflow): disable action uploading
 
 
 ___
