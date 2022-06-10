@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [PaperMC/paperweight](https://github.com/PaperMC/paperweight)
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#9fb080a](https://github.com/RilyEvent/rigot-1.8.8/commit/9fb080a) [skip] chore(workflow): fix name
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
@@ -22,8 +23,6 @@ ___
   * [#404987b](https://github.com/RilyEvent/rigot-1.8.8/commit/404987b) [skip] chore(workflow): rename workflows
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#9419bde](https://github.com/RilyEvent/rigot-1.8.8/commit/9419bde) feat: patch [Rigot-0002] Update mysql-connector-java version to 8.0.29
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#01a86ac](https://github.com/RilyEvent/rigot-1.8.8/commit/01a86ac) feat: add Rigot-0001 patch (Change default brand name)
 
 
 ___
