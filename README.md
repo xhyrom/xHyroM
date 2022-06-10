@@ -14,16 +14,54 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
+  * [#53bdb24](https://github.com/RilyEvent/rigot-1.8.8/commit/53bdb24) init test branch
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#3b11cd6](https://github.com/RilyEvent/rigot-1.8.8/commit/3b11cd6) [skip] add workflow dispatch
+  * [#98abefe](https://github.com/RilyEvent/rigot-1.8.8/commit/98abefe) [skip] fix checkout
+* ➡️ Pushed 454 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
+  * [#99c6d47](https://github.com/RilyEvent/rigot-1.8.8/commit/99c6d47) Cleanup
+  * [#bb887db](https://github.com/RilyEvent/rigot-1.8.8/commit/bb887db) Format + fix running on later java versions
+  * [#1c42d33](https://github.com/RilyEvent/rigot-1.8.8/commit/1c42d33) Remove config option
+  * [#73fa847](https://github.com/RilyEvent/rigot-1.8.8/commit/73fa847) Arrow pickup sound fix
+  * [#220e2a1](https://github.com/RilyEvent/rigot-1.8.8/commit/220e2a1) Change Citizens Fix
+  * [#1ecdd2e](https://github.com/RilyEvent/rigot-1.8.8/commit/1ecdd2e) Attempt to fix Citizens
+  * [#1cf382d](https://github.com/RilyEvent/rigot-1.8.8/commit/1cf382d) Disable timings by default
+  * [#a456394](https://github.com/RilyEvent/rigot-1.8.8/commit/a456394) Update README.md
+  * [#5e75e0c](https://github.com/RilyEvent/rigot-1.8.8/commit/5e75e0c) Async JsonList save + Config Tweaks
+  * [#611ca19](https://github.com/RilyEvent/rigot-1.8.8/commit/611ca19) Merge branch &#39;master&#39; of https://github.com/windcolor-dev/WindSpigot
+  * [#7ca6cbe](https://github.com/RilyEvent/rigot-1.8.8/commit/7ca6cbe) Add Utilities
+  * [#b293540](https://github.com/RilyEvent/rigot-1.8.8/commit/b293540) Update README.md
+  * [#aee1bb5](https://github.com/RilyEvent/rigot-1.8.8/commit/aee1bb5) Update README.md
+  * [#b652bca](https://github.com/RilyEvent/rigot-1.8.8/commit/b652bca) Merge branch &#39;master&#39; of https://github.com/windcolor-dev/WindSpigot
+  * [#78f0b72](https://github.com/RilyEvent/rigot-1.8.8/commit/78f0b72) Tweak Config
+  * [#cff6327](https://github.com/RilyEvent/rigot-1.8.8/commit/cff6327) Create build-nachospigot.yml
+  * [#85ad06f](https://github.com/RilyEvent/rigot-1.8.8/commit/85ad06f) Update README.md
+  * [#b874ff7](https://github.com/RilyEvent/rigot-1.8.8/commit/b874ff7) Update README
+  * [#15d5c89](https://github.com/RilyEvent/rigot-1.8.8/commit/15d5c89) Code Cleanup
+  * [#cccdbfe](https://github.com/RilyEvent/rigot-1.8.8/commit/cccdbfe) Initial Commit
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#4f8f0c5](https://github.com/RilyEvent/rigot-1.8.8/commit/4f8f0c5) [skip] fix upstream
-* ➡️ Pushed 1 commit in [RilyEvent/merge-from-upstream-repo](https://github.com/RilyEvent/merge-from-upstream-repo) on branch `main`
-  * [#1ee6fa5](https://github.com/RilyEvent/merge-from-upstream-repo/commit/1ee6fa5) Update action.yml
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#905e9f2](https://github.com/RilyEvent/rigot-1.8.8/commit/905e9f2) [skip] chore(workflow): fix upstream
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#08e94e8](https://github.com/RilyEvent/rigot-1.8.8/commit/08e94e8) chore(workflow): use branches
+  * [#ae243e6](https://github.com/RilyEvent/rigot-1.8.8/commit/ae243e6) [skip] fix command
+* ➡️ Pushed 454 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
+  * [#99c6d47](https://github.com/RilyEvent/rigot-1.8.8/commit/99c6d47) Cleanup
+  * [#bb887db](https://github.com/RilyEvent/rigot-1.8.8/commit/bb887db) Format + fix running on later java versions
+  * [#1c42d33](https://github.com/RilyEvent/rigot-1.8.8/commit/1c42d33) Remove config option
+  * [#73fa847](https://github.com/RilyEvent/rigot-1.8.8/commit/73fa847) Arrow pickup sound fix
+  * [#220e2a1](https://github.com/RilyEvent/rigot-1.8.8/commit/220e2a1) Change Citizens Fix
+  * [#1ecdd2e](https://github.com/RilyEvent/rigot-1.8.8/commit/1ecdd2e) Attempt to fix Citizens
+  * [#1cf382d](https://github.com/RilyEvent/rigot-1.8.8/commit/1cf382d) Disable timings by default
+  * [#a456394](https://github.com/RilyEvent/rigot-1.8.8/commit/a456394) Update README.md
+  * [#5e75e0c](https://github.com/RilyEvent/rigot-1.8.8/commit/5e75e0c) Async JsonList save + Config Tweaks
+  * [#611ca19](https://github.com/RilyEvent/rigot-1.8.8/commit/611ca19) Merge branch &#39;master&#39; of https://github.com/windcolor-dev/WindSpigot
+  * [#7ca6cbe](https://github.com/RilyEvent/rigot-1.8.8/commit/7ca6cbe) Add Utilities
+  * [#b293540](https://github.com/RilyEvent/rigot-1.8.8/commit/b293540) Update README.md
+  * [#aee1bb5](https://github.com/RilyEvent/rigot-1.8.8/commit/aee1bb5) Update README.md
+  * [#b652bca](https://github.com/RilyEvent/rigot-1.8.8/commit/b652bca) Merge branch &#39;master&#39; of https://github.com/windcolor-dev/WindSpigot
+  * [#78f0b72](https://github.com/RilyEvent/rigot-1.8.8/commit/78f0b72) Tweak Config
+  * [#cff6327](https://github.com/RilyEvent/rigot-1.8.8/commit/cff6327) Create build-nachospigot.yml
+  * [#85ad06f](https://github.com/RilyEvent/rigot-1.8.8/commit/85ad06f) Update README.md
+  * [#b874ff7](https://github.com/RilyEvent/rigot-1.8.8/commit/b874ff7) Update README
+  * [#15d5c89](https://github.com/RilyEvent/rigot-1.8.8/commit/15d5c89) Code Cleanup
+  * [#cccdbfe](https://github.com/RilyEvent/rigot-1.8.8/commit/cccdbfe) Initial Commit
 
 
 ___
