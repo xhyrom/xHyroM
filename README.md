@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#9ea7c36](https://github.com/xHyroM/covid19-stats/commit/9ea7c36) 2022/06/10 stats
 * #️⃣ Opened [#5 Todo](https://github.com/xHyroM/NexusBlock/issues/5) in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ⏺️ Created new tag 1.0.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * 📦 Released **1.0.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#fc0b940](https://github.com/xHyroM/NexusBlock/commit/fc0b940) chore: some stuff
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#3b9ad78](https://github.com/xHyroM/NexusBlock/commit/3b9ad78) chore(README): break line
 
 
 ___
