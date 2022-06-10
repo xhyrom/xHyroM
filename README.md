@@ -14,10 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
-  * [#53bdb24](https://github.com/RilyEvent/rigot-1.8.8/commit/53bdb24) init test branch
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#98abefe](https://github.com/RilyEvent/rigot-1.8.8/commit/98abefe) [skip] fix checkout
+  * [#12731bc](https://github.com/RilyEvent/rigot-1.8.8/commit/12731bc) [skip] own upstream
 * ➡️ Pushed 454 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
   * [#99c6d47](https://github.com/RilyEvent/rigot-1.8.8/commit/99c6d47) Cleanup
   * [#bb887db](https://github.com/RilyEvent/rigot-1.8.8/commit/bb887db) Format + fix running on later java versions
@@ -40,7 +38,7 @@ ___
   * [#15d5c89](https://github.com/RilyEvent/rigot-1.8.8/commit/15d5c89) Code Cleanup
   * [#cccdbfe](https://github.com/RilyEvent/rigot-1.8.8/commit/cccdbfe) Initial Commit
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#ae243e6](https://github.com/RilyEvent/rigot-1.8.8/commit/ae243e6) [skip] fix command
+  * [#a679bb9](https://github.com/RilyEvent/rigot-1.8.8/commit/a679bb9) Update upstream.yml
 * ➡️ Pushed 454 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `upstream`
   * [#99c6d47](https://github.com/RilyEvent/rigot-1.8.8/commit/99c6d47) Cleanup
   * [#bb887db](https://github.com/RilyEvent/rigot-1.8.8/commit/bb887db) Format + fix running on later java versions
