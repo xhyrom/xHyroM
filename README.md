@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#1612acf](https://github.com/RilyEvent/rigot-1.8.8/commit/1612acf) [skip] chore(upstream): finish upstream system
+  * [#404987b](https://github.com/RilyEvent/rigot-1.8.8/commit/404987b) [skip] chore(workflow): rename workflows
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#70e0594](https://github.com/RilyEvent/rigot-1.8.8/commit/70e0594) [skip] upstream.properties
+  * [#9419bde](https://github.com/RilyEvent/rigot-1.8.8/commit/9419bde) feat: patch [Rigot-0002] Update mysql-connector-java version to 8.0.29
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#768c461](https://github.com/RilyEvent/rigot-1.8.8/commit/768c461) [skip] fix chmod
+  * [#01a86ac](https://github.com/RilyEvent/rigot-1.8.8/commit/01a86ac) feat: add Rigot-0001 patch (Change default brand name)
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#a22444e](https://github.com/RilyEvent/rigot-1.8.8/commit/a22444e) [skip] finish upstream action
+  * [#b844c4b](https://github.com/RilyEvent/rigot-1.8.8/commit/b844c4b) chore: rebase, huge artifact renames
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#12731bc](https://github.com/RilyEvent/rigot-1.8.8/commit/12731bc) [skip] own upstream
+  * [#386acc1](https://github.com/RilyEvent/rigot-1.8.8/commit/386acc1) chore(workflow): disable action uploading
 
 
 ___
