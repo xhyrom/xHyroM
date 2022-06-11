@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#001c7fb](https://github.com/xHyroM/discord-activities/commit/001c7fb) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#eaa650d](https://github.com/RilyEvent/rigot-1.8.8/commit/eaa650d) [skip] chore(workflow): upload Rigot-API too
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
@@ -22,8 +24,6 @@ ___
   * [#bb15ae3](https://github.com/RilyEvent/rigot-1.18.2/commit/bb15ae3) chore: update rebrand patch
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2) on branch `ver/1.18.2`
   * [#8a349a7](https://github.com/RilyEvent/rigot-1.18.2/commit/8a349a7) chore: update rebrand patch
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#e89e62c](https://github.com/xHyroM/covid19-stats/commit/e89e62c) 2022/06/11 stats
 
 
 ___
