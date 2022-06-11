@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [PaperMC/paperweight](https://github.com/PaperMC/paperweight)
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#9fb080a](https://github.com/RilyEvent/rigot-1.8.8/commit/9fb080a) [skip] chore(workflow): fix name
+  * [#ac9e03a](https://github.com/RilyEvent/rigot-1.8.8/commit/ac9e03a) chore(workflow): fix yaml
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#ec34898](https://github.com/RilyEvent/rigot-1.8.8/commit/ec34898) fix(Rigot-0001): missing name, feat(Rigot-0003): Update io.netty version to 4.1.77.Final
+  * [#888bf49](https://github.com/RilyEvent/rigot-1.8.8/commit/888bf49) chore(workflow): fix yaml
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#404987b](https://github.com/RilyEvent/rigot-1.8.8/commit/404987b) [skip] chore(workflow): rename workflows
+  * [#9c61516](https://github.com/RilyEvent/rigot-1.8.8/commit/9c61516) chore(workflow): auto release
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#9419bde](https://github.com/RilyEvent/rigot-1.8.8/commit/9419bde) feat: patch [Rigot-0002] Update mysql-connector-java version to 8.0.29
+  * [#09431f9](https://github.com/RilyEvent/rigot-1.8.8/commit/09431f9) [release] chore(workflow): auto release
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#c98317e](https://github.com/RilyEvent/rigot-1.8.8/commit/c98317e) chore(Readme): update something
 
 
 ___
