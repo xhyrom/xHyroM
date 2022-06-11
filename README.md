@@ -14,10 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#e89e62c](https://github.com/xHyroM/covid19-stats/commit/e89e62c) 2022/06/11 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#c200dd4](https://github.com/RilyEvent/rigot-1.8.8/commit/c200dd4) [release] chore(workflow): fix path
 * ⏺️ Created new branch ver/1.18.2 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
-* ⏺️ Created new branch ver/1.18.1 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
 
 
 ___
