@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#1908428](https://github.com/RilyEvent/rigot-1.8.8/commit/1908428) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
-* ➡️ Pushed 1 commit in [LendMarkNetwork/Diera](https://github.com/LendMarkNetwork/Diera) on branch `main`
-  * [#b4ac192](https://github.com/LendMarkNetwork/Diera/commit/b4ac192) chore: missing chmod
-* ➡️ Pushed 1 commit in [LendMarkNetwork/Diera](https://github.com/LendMarkNetwork/Diera) on branch `main`
-  * [#7a52fa1](https://github.com/LendMarkNetwork/Diera/commit/7a52fa1) chore(workflow): upstream
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#93fcab4](https://github.com/RilyEvent/rigot-1.8.8/commit/93fcab4) fix: remove 0003 patch
+  * [#93cc47f](https://github.com/RilyEvent/rigot-1.8.8/commit/93cc47f) chore(README): upstream
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#eeb42b8](https://github.com/RilyEvent/rigot-1.8.8/commit/eeb42b8) feat(0005, 0006): custom config, customizable test-permission message
+  * [#22e1877](https://github.com/RilyEvent/rigot-1.8.8/commit/22e1877) [skip] fix(0008): remove patch
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#9991e5b](https://github.com/RilyEvent/rigot-1.8.8/commit/9991e5b) feat(0008): fix world ticket
+* #️⃣ Opened [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) in [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#d8bce43](https://github.com/RilyEvent/rigot-1.8.8/commit/d8bce43) [skip] chore(upstream): fix it
 
 
 ___
