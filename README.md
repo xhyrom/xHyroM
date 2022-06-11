@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [LendMarkNetwork/Diera](https://github.com/LendMarkNetwork/Diera) on branch `main`
+  * [#b4ac192](https://github.com/LendMarkNetwork/Diera/commit/b4ac192) chore: missing chmod
+* ➡️ Pushed 1 commit in [LendMarkNetwork/Diera](https://github.com/LendMarkNetwork/Diera) on branch `main`
+  * [#7a52fa1](https://github.com/LendMarkNetwork/Diera/commit/7a52fa1) chore(workflow): upstream
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#93fcab4](https://github.com/RilyEvent/rigot-1.8.8/commit/93fcab4) fix: remove 0003 patch
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#eeb42b8](https://github.com/RilyEvent/rigot-1.8.8/commit/eeb42b8) feat(0005, 0006): custom config, customizable test-permission message
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#74c774e](https://github.com/RilyEvent/rigot-1.8.8/commit/74c774e) [skip] chore(README): change update to bump
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#faf96d8](https://github.com/RilyEvent/rigot-1.8.8/commit/faf96d8) feat(rigot-0004): Use offline-uuids in whitelist if the server has offline mode
-* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#001c7fb](https://github.com/xHyroM/discord-activities/commit/001c7fb) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
 
 
 ___
