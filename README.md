@@ -15,15 +15,9 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#ac9e03a](https://github.com/RilyEvent/rigot-1.8.8/commit/ac9e03a) chore(workflow): fix yaml
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#888bf49](https://github.com/RilyEvent/rigot-1.8.8/commit/888bf49) chore(workflow): fix yaml
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#9c61516](https://github.com/RilyEvent/rigot-1.8.8/commit/9c61516) chore(workflow): auto release
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#09431f9](https://github.com/RilyEvent/rigot-1.8.8/commit/09431f9) [release] chore(workflow): auto release
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#c98317e](https://github.com/RilyEvent/rigot-1.8.8/commit/c98317e) chore(Readme): update something
+  * [#c200dd4](https://github.com/RilyEvent/rigot-1.8.8/commit/c200dd4) [release] chore(workflow): fix path
+* ⏺️ Created new branch ver/1.18.2 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
+* ⏺️ Created new branch ver/1.18.1 in [RilyEvent/rigot-1.18.2](https://github.com/RilyEvent/rigot-1.18.2)
 
 
 ___
