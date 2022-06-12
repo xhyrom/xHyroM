@@ -15,15 +15,18 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#367c604](https://github.com/RilyEvent/rigot-1.8.8/commit/367c604) [skip] fix(RigotConfig): better comments
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#89b4d51](https://github.com/Garlic-Team/docs/commit/89b4d51) Docs build for branch next: 83bfa88aac40dbd6b0338872bac2dce2622b2a28
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#83bfa88](https://github.com/Garlic-Team/gcommands/commit/83bfa88) chore(deps): update dependency @prisma/client to v3.15.1
+
+chore(deps): update dependency @prisma/client to v3.15.1
+  * [#1bc11b2](https://github.com/Garlic-Team/gcommands/commit/1bc11b2) chore(deps): update dependency @prisma/client to v3.15.1
+* 🔃 Merged [#492 chore(deps): update dependency @prisma/client to v3.15.1](https://github.com/Garlic-Team/gcommands/pull/492) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++16 --16`
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#c385fa4](https://github.com/RilyEvent/rigot-1.8.8/commit/c385fa4) [skip] chore(0001): rebrand in readme
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#6370b01](https://github.com/RilyEvent/rigot-1.8.8/commit/6370b01) [skip] chore(README): add todo patches
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#64d5c8b](https://github.com/RilyEvent/rigot-1.8.8/commit/64d5c8b) fix(0001): missing changes
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#a205c6e](https://github.com/RilyEvent/rigot-1.8.8/commit/a205c6e) Updated Upstream (WindSpigot)
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#6e2b8ab](https://github.com/RilyEvent/rigot-1.8.8/commit/6e2b8ab) [skip] fix: revert upstream
 
 
 ___
