@@ -14,19 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#c6a21e2](https://github.com/xHyroM/covid19-stats/commit/c6a21e2) 2022/06/12 stats
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#f3893a8](https://github.com/RilyEvent/rigot-1.8.8/commit/f3893a8) feat(0009): disable WindSpigot statistics by default
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#c83d423](https://github.com/RilyEvent/rigot-1.8.8/commit/c83d423) [skip] style: don&#39;t import RigotConfig in official classes
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#cfccad5](https://github.com/RilyEvent/rigot-1.8.8/commit/cfccad5) feat(0008): customizable join &amp; leave messages
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#367c604](https://github.com/RilyEvent/rigot-1.8.8/commit/367c604) [skip] fix(RigotConfig): better comments
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#89b4d51](https://github.com/Garlic-Team/docs/commit/89b4d51) Docs build for branch next: 83bfa88aac40dbd6b0338872bac2dce2622b2a28
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#83bfa88](https://github.com/Garlic-Team/gcommands/commit/83bfa88) chore(deps): update dependency @prisma/client to v3.15.1
-
-chore(deps): update dependency @prisma/client to v3.15.1
-  * [#1bc11b2](https://github.com/Garlic-Team/gcommands/commit/1bc11b2) chore(deps): update dependency @prisma/client to v3.15.1
-* 🔃 Merged [#492 chore(deps): update dependency @prisma/client to v3.15.1](https://github.com/Garlic-Team/gcommands/pull/492) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++16 --16`
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#c385fa4](https://github.com/RilyEvent/rigot-1.8.8/commit/c385fa4) [skip] chore(0001): rebrand in readme
 
 
 ___
