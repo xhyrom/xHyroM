@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#93cc47f](https://github.com/RilyEvent/rigot-1.8.8/commit/93cc47f) chore(README): upstream
+  * [#c385fa4](https://github.com/RilyEvent/rigot-1.8.8/commit/c385fa4) [skip] chore(0001): rebrand in readme
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#22e1877](https://github.com/RilyEvent/rigot-1.8.8/commit/22e1877) [skip] fix(0008): remove patch
+  * [#6370b01](https://github.com/RilyEvent/rigot-1.8.8/commit/6370b01) [skip] chore(README): add todo patches
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#9991e5b](https://github.com/RilyEvent/rigot-1.8.8/commit/9991e5b) feat(0008): fix world ticket
-* #️⃣ Opened [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) in [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
+  * [#64d5c8b](https://github.com/RilyEvent/rigot-1.8.8/commit/64d5c8b) fix(0001): missing changes
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#d8bce43](https://github.com/RilyEvent/rigot-1.8.8/commit/d8bce43) [skip] chore(upstream): fix it
+  * [#a205c6e](https://github.com/RilyEvent/rigot-1.8.8/commit/a205c6e) Updated Upstream (WindSpigot)
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#6e2b8ab](https://github.com/RilyEvent/rigot-1.8.8/commit/6e2b8ab) [skip] fix: revert upstream
 
 
 ___
