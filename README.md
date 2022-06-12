@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#02aac8e](https://github.com/xHyroM/NexusBlock/commit/02aac8e) fix: missing check for send-metrics
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#efdf5fc](https://github.com/xHyroM/NexusBlock/commit/efdf5fc) feat: add metrics
 * ⏺️ Created new branch fix/destroy_options_during_cleanup in [xHyroM/discord.js](https://github.com/xHyroM/discord.js)
 * ➡️ Pushed 157 commits in [xHyroM/discord.js](https://github.com/xHyroM/discord.js) on branch `main`
   * [#bfeaf85](https://github.com/xHyroM/discord.js/commit/bfeaf85) types(Message#activity): make `partyId` optional and use enum for `type` (#7845)
@@ -54,8 +58,6 @@ Co-authored-by: Synbulat Biishev &lt;arziksin@gmail.com&gt;
   * [#3cc96d7](https://github.com/xHyroM/discord.js/commit/3cc96d7) ci: replace branch name for documentation
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#5486b79](https://github.com/RilyEvent/rigot-1.8.8/commit/5486b79) feat(0010): move configs to config/ folder
-* #️⃣ Closed [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) in [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
-* 💬 Commented on [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) from [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
 
 
 ___
