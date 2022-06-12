@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) in [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
+* 💬 Commented on [#76 Join - Timed out](https://github.com/Wind-Development/WindSpigot/issues/76) from [Wind-Development/WindSpigot](https://github.com/Wind-Development/WindSpigot)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c6a21e2](https://github.com/xHyroM/covid19-stats/commit/c6a21e2) 2022/06/12 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#f3893a8](https://github.com/RilyEvent/rigot-1.8.8/commit/f3893a8) feat(0009): disable WindSpigot statistics by default
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#c83d423](https://github.com/RilyEvent/rigot-1.8.8/commit/c83d423) [skip] style: don&#39;t import RigotConfig in official classes
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#cfccad5](https://github.com/RilyEvent/rigot-1.8.8/commit/cfccad5) feat(0008): customizable join &amp; leave messages
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#367c604](https://github.com/RilyEvent/rigot-1.8.8/commit/367c604) [skip] fix(RigotConfig): better comments
 
 
 ___
