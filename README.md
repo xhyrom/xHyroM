@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#4b1f092](https://github.com/xHyroM/covid19-stats/commit/4b1f092) 2022/06/13 stats
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#02aac8e](https://github.com/xHyroM/NexusBlock/commit/02aac8e) fix: missing check for send-metrics
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
@@ -56,8 +58,6 @@ Co-authored-by: Synbulat Biishev &lt;arziksin@gmail.com&gt;
   * [#93defec](https://github.com/xHyroM/discord.js/commit/93defec) ci: move logic for replacing tag name
   * [#443533b](https://github.com/xHyroM/discord.js/commit/443533b) ci: fix env vars
   * [#3cc96d7](https://github.com/xHyroM/discord.js/commit/3cc96d7) ci: replace branch name for documentation
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#5486b79](https://github.com/RilyEvent/rigot-1.8.8/commit/5486b79) feat(0010): move configs to config/ folder
 
 
 ___
