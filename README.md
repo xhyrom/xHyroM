@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#a37c0e7](https://github.com/RilyEvent/rigot-1.8.8/commit/a37c0e7) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#95e09db](https://github.com/RilyEvent/rigot-1.8.8/commit/95e09db) chore(workflow): fix javadocs
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#3dcb4a8](https://github.com/RilyEvent/rigot-1.8.8/commit/3dcb4a8) feat: add missing config parameters to api
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#4748c09](https://github.com/RilyEvent/rigot-1.8.8/commit/4748c09) [upload] chore(workflow): dispatch
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#ff3c8f3](https://github.com/RilyEvent/rigot-1.8.8/commit/ff3c8f3) chore(workflow): javadocs
-* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#46a08c3](https://github.com/RilyEvent/rigot-1.8.8/commit/46a08c3) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#4b1f092](https://github.com/xHyroM/covid19-stats/commit/4b1f092) 2022/06/13 stats
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#02aac8e](https://github.com/xHyroM/NexusBlock/commit/02aac8e) fix: missing check for send-metrics
 
 
 ___
