@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#c62d1c6](https://github.com/Mr-Infinity-Bot/bot/commit/c62d1c6) feat: add debug event
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#35c5418](https://github.com/RilyEvent/rigot-1.8.8/commit/35c5418) chore(workflow-rigotbuildandupload): remove javadocs
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update dependency prettier to v2.7.0
   * [#93f65ec](https://github.com/Garlic-Team/gcommands/commit/93f65ec) chore(deps): update dependency prettier to v2.7.0
-* 🔃 Merged [#495 chore(deps): update dependency prettier to v2.7.0](https://github.com/Garlic-Team/gcommands/pull/495) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
