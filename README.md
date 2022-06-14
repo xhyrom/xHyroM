@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#5ee8dc7](https://github.com/RilyEvent/rigot-1.8.8/commit/5ee8dc7) feat(0015): create rigot commands with the highest priority
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#c62d1c6](https://github.com/Mr-Infinity-Bot/bot/commit/c62d1c6) feat: add debug event
+  * [#8c3b8ea](https://github.com/RilyEvent/rigot-1.8.8/commit/8c3b8ea) [skip] chore: tests
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#35c5418](https://github.com/RilyEvent/rigot-1.8.8/commit/35c5418) chore(workflow-rigotbuildandupload): remove javadocs
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#50d7c7d](https://github.com/Garlic-Team/docs/commit/50d7c7d) Docs build for branch next: 6d00eff42d9e8147a9f2f9f9c4be157d7fb7a6c5
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#e13052c](https://github.com/Garlic-Team/docs/commit/e13052c) Docs build for branch next: a90e939dd9433b93272c2eeb6d89f76a305a8626
+  * [#e74f355](https://github.com/RilyEvent/rigot-1.8.8/commit/e74f355) [skip] style: fix typo
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#aad4f03](https://github.com/RilyEvent/rigot-1.8.8/commit/aad4f03) [skip] style: update patch comments
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#606a811](https://github.com/RilyEvent/rigot-1.8.8/commit/606a811) revert: optimize imports
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#d6127bb](https://github.com/RilyEvent/rigot-1.8.8/commit/d6127bb) fix: missing comments
 
 
 ___
