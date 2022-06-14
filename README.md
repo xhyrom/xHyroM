@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#a321ea8](https://github.com/xHyroM/covid19-stats/commit/a321ea8) 2022/06/14 stats
 * ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#a37c0e7](https://github.com/RilyEvent/rigot-1.8.8/commit/a37c0e7) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#3dcb4a8](https://github.com/RilyEvent/rigot-1.8.8/commit/3dcb4a8) feat: add missing config parameters to api
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#4748c09](https://github.com/RilyEvent/rigot-1.8.8/commit/4748c09) [upload] chore(workflow): dispatch
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#ff3c8f3](https://github.com/RilyEvent/rigot-1.8.8/commit/ff3c8f3) chore(workflow): javadocs
 
 
 ___
