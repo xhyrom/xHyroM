@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#a321ea8](https://github.com/xHyroM/covid19-stats/commit/a321ea8) 2022/06/14 stats
-* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#a37c0e7](https://github.com/RilyEvent/rigot-1.8.8/commit/a37c0e7) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#95e09db](https://github.com/RilyEvent/rigot-1.8.8/commit/95e09db) chore(workflow): fix javadocs
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#3dcb4a8](https://github.com/RilyEvent/rigot-1.8.8/commit/3dcb4a8) feat: add missing config parameters to api
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#4748c09](https://github.com/RilyEvent/rigot-1.8.8/commit/4748c09) [upload] chore(workflow): dispatch
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#1a44232](https://github.com/CDN-Github/CDN-2/commit/1a44232) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#22e08e2](https://github.com/CDN-Github/CDN-2/commit/22e08e2) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#e3c98fd](https://github.com/CDN-Github/CDN-2/commit/e3c98fd) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#1d630b2](https://github.com/CDN-Github/CDN-2/commit/1d630b2) Removed uptime url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#6a73aba](https://github.com/CDN-Github/CDN-2/commit/6a73aba) Removed uptime url
 
 
 ___
