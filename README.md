@@ -15,15 +15,18 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#a5a4cb3](https://github.com/RilyEvent/rigot-1.8.8/commit/a5a4cb3) chore(workflow): fix javadocs
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#1a44232](https://github.com/CDN-Github/CDN-2/commit/1a44232) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#22e08e2](https://github.com/CDN-Github/CDN-2/commit/22e08e2) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#e3c98fd](https://github.com/CDN-Github/CDN-2/commit/e3c98fd) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#1d630b2](https://github.com/CDN-Github/CDN-2/commit/1d630b2) Removed uptime url
+  * [#35c5418](https://github.com/RilyEvent/rigot-1.8.8/commit/35c5418) chore(workflow-rigotbuildandupload): remove javadocs
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#50d7c7d](https://github.com/Garlic-Team/docs/commit/50d7c7d) Docs build for branch next: 6d00eff42d9e8147a9f2f9f9c4be157d7fb7a6c5
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#e13052c](https://github.com/Garlic-Team/docs/commit/e13052c) Docs build for branch next: a90e939dd9433b93272c2eeb6d89f76a305a8626
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#6d00eff](https://github.com/Garlic-Team/gcommands/commit/6d00eff) chore(deps): update dependency prettier to v2.7.0 (https://github.com/Garlic-Team/gcommands/pull/495)
+
+chore(deps): update dependency prettier to v2.7.0
+  * [#93f65ec](https://github.com/Garlic-Team/gcommands/commit/93f65ec) chore(deps): update dependency prettier to v2.7.0
+* 🔃 Merged [#495 chore(deps): update dependency prettier to v2.7.0](https://github.com/Garlic-Team/gcommands/pull/495) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 
 
 ___
