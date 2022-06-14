@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#a5a4cb3](https://github.com/RilyEvent/rigot-1.8.8/commit/a5a4cb3) chore(workflow): fix javadocs
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#1a44232](https://github.com/CDN-Github/CDN-2/commit/1a44232) Removed uptime url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
@@ -22,8 +24,6 @@ ___
   * [#e3c98fd](https://github.com/CDN-Github/CDN-2/commit/e3c98fd) Removed uptime url
 * ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
   * [#1d630b2](https://github.com/CDN-Github/CDN-2/commit/1d630b2) Removed uptime url
-* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
-  * [#6a73aba](https://github.com/CDN-Github/CDN-2/commit/6a73aba) Removed uptime url
 
 
 ___
