@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#1043518](https://github.com/Garlic-Team/docs/commit/1043518) Docs build for branch next: 39d3b5e9f028601562eeb491e4ad2ad55f74130a
+* 🔃 Merged [#496 chore(deps): update dependency @types/node to v16.11.40](https://github.com/Garlic-Team/gcommands/pull/496) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#39d3b5e](https://github.com/Garlic-Team/gcommands/commit/39d3b5e) chore(deps): update dependency @types/node to v16.11.40
+
+chore(deps): update dependency @types/node to v16.11.40
+  * [#a4e1d9c](https://github.com/Garlic-Team/gcommands/commit/a4e1d9c) chore(deps): update dependency @types/node to v16.11.40
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#97ed0c1](https://github.com/xHyroM/covid19-stats/commit/97ed0c1) 2022/06/15 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#0ba6b40](https://github.com/RilyEvent/rigot-1.8.8/commit/0ba6b40) fix(0015): allow overwrite from plugin commands
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#d940f18](https://github.com/Mr-Infinity-Bot/bot/commit/d940f18) fix: use other websocket port
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#8c3b8ea](https://github.com/RilyEvent/rigot-1.8.8/commit/8c3b8ea) [skip] chore: tests
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#e74f355](https://github.com/RilyEvent/rigot-1.8.8/commit/e74f355) [skip] style: fix typo
 
 
 ___
