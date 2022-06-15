@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
   * [#55e2169](https://github.com/xHyroM/DirectLinks/commit/55e2169) deploy: afd76b42c6b583b9a92af81942d174d5d08223ae
 * ➡️ Pushed 2 commits in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
@@ -25,8 +26,6 @@ Process Hacker added
   * 1 file changed `++8 --0`
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#1043518](https://github.com/Garlic-Team/docs/commit/1043518) Docs build for branch next: 39d3b5e9f028601562eeb491e4ad2ad55f74130a
-* 🔃 Merged [#496 chore(deps): update dependency @types/node to v16.11.40](https://github.com/Garlic-Team/gcommands/pull/496) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
