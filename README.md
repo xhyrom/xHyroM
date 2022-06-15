@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#97ed0c1](https://github.com/xHyroM/covid19-stats/commit/97ed0c1) 2022/06/15 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#0ba6b40](https://github.com/RilyEvent/rigot-1.8.8/commit/0ba6b40) fix(0015): allow overwrite from plugin commands
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
@@ -22,8 +24,6 @@ ___
   * [#8c3b8ea](https://github.com/RilyEvent/rigot-1.8.8/commit/8c3b8ea) [skip] chore: tests
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#e74f355](https://github.com/RilyEvent/rigot-1.8.8/commit/e74f355) [skip] style: fix typo
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#aad4f03](https://github.com/RilyEvent/rigot-1.8.8/commit/aad4f03) [skip] style: update patch comments
 
 
 ___
