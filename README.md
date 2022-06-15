@@ -14,19 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
+  * [#55e2169](https://github.com/xHyroM/DirectLinks/commit/55e2169) deploy: afd76b42c6b583b9a92af81942d174d5d08223ae
+* ➡️ Pushed 2 commits in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
+  * [#afd76b4](https://github.com/xHyroM/DirectLinks/commit/afd76b4) Process Hacker added (https://github.com/xHyroM/DirectLinks/pull/37)
+
+Process Hacker added
+  * [#d0061a2](https://github.com/xHyroM/DirectLinks/commit/d0061a2) Process Hacker added
+* 🔃 Merged [#37 Process Hacker added](https://github.com/xHyroM/DirectLinks/pull/37) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
+  * 1 file changed `++8 --0`
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#1043518](https://github.com/Garlic-Team/docs/commit/1043518) Docs build for branch next: 39d3b5e9f028601562eeb491e4ad2ad55f74130a
 * 🔃 Merged [#496 chore(deps): update dependency @types/node to v16.11.40](https://github.com/Garlic-Team/gcommands/pull/496) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#39d3b5e](https://github.com/Garlic-Team/gcommands/commit/39d3b5e) chore(deps): update dependency @types/node to v16.11.40
-
-chore(deps): update dependency @types/node to v16.11.40
-  * [#a4e1d9c](https://github.com/Garlic-Team/gcommands/commit/a4e1d9c) chore(deps): update dependency @types/node to v16.11.40
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#97ed0c1](https://github.com/xHyroM/covid19-stats/commit/97ed0c1) 2022/06/15 stats
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#0ba6b40](https://github.com/RilyEvent/rigot-1.8.8/commit/0ba6b40) fix(0015): allow overwrite from plugin commands
 
 
 ___
