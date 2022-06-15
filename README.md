@@ -14,18 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 📦 Released **1.1.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ⏺️ Created new tag 1.1.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#6ae2aa7](https://github.com/xHyroM/NexusBlock/commit/6ae2aa7) feat: big improvements, some bug fixes
 * 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
   * [#55e2169](https://github.com/xHyroM/DirectLinks/commit/55e2169) deploy: afd76b42c6b583b9a92af81942d174d5d08223ae
-* ➡️ Pushed 2 commits in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `main`
-  * [#afd76b4](https://github.com/xHyroM/DirectLinks/commit/afd76b4) Process Hacker added (https://github.com/xHyroM/DirectLinks/pull/37)
-
-Process Hacker added
-  * [#d0061a2](https://github.com/xHyroM/DirectLinks/commit/d0061a2) Process Hacker added
-* 🔃 Merged [#37 Process Hacker added](https://github.com/xHyroM/DirectLinks/pull/37) in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks)
-  * 1 file changed `++8 --0`
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#1043518](https://github.com/Garlic-Team/docs/commit/1043518) Docs build for branch next: 39d3b5e9f028601562eeb491e4ad2ad55f74130a
 
 
 ___
