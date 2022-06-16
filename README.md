@@ -14,13 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#af9c6fb](https://github.com/xHyroM/covid19-stats/commit/af9c6fb) 2022/06/16 stats
-* 📦 Released **1.1.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ⏺️ Created new tag 1.1.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#6ae2aa7](https://github.com/xHyroM/NexusBlock/commit/6ae2aa7) feat: big improvements, some bug fixes
-* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#fb6b2d4](https://github.com/Garlic-Team/docs/commit/fb6b2d4) Docs build for branch next: 63ba2b2539859db71e38dee11f466eecd088acfb
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#63ba2b2](https://github.com/Garlic-Team/gcommands/commit/63ba2b2) chore(deps): update dependency prettier to v2.7.1
+
+chore(deps): update dependency prettier to v2.7.1
+  * [#bc73147](https://github.com/Garlic-Team/gcommands/commit/bc73147) chore(deps): update dependency prettier to v2.7.1
+* 🔃 Merged [#499 chore(deps): update dependency prettier to v2.7.1](https://github.com/Garlic-Team/gcommands/pull/499) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#4b0882f](https://github.com/Garlic-Team/docs/commit/4b0882f) Docs build for branch next: 0cea7603c468f10a04e7a9c5733d8b33314de504
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#7cbda4b](https://github.com/Garlic-Team/docs/commit/7cbda4b) Docs build for branch next: 6b81e14b51f7eb20cfd59933870dde75794602f9
 
 
 ___
