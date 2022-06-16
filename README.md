@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#af9c6fb](https://github.com/xHyroM/covid19-stats/commit/af9c6fb) 2022/06/16 stats
 * 📦 Released **1.1.0** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ⏺️ Created new tag 1.1.0 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#6ae2aa7](https://github.com/xHyroM/NexusBlock/commit/6ae2aa7) feat: big improvements, some bug fixes
 * 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/DirectLinks](https://github.com/xHyroM/DirectLinks) on branch `gh-pages`
-  * [#55e2169](https://github.com/xHyroM/DirectLinks/commit/55e2169) deploy: afd76b42c6b583b9a92af81942d174d5d08223ae
 
 
 ___
