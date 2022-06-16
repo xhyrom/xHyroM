@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#7925453](https://github.com/RilyEvent/rigot-1.8.8/commit/7925453) fix: typo
+* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
+  * [#a96cd4e](https://github.com/RilyEvent/rigot-1.8.8/commit/a96cd4e) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#fb6b2d4](https://github.com/Garlic-Team/docs/commit/fb6b2d4) Docs build for branch next: 63ba2b2539859db71e38dee11f466eecd088acfb
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -23,10 +27,6 @@ chore(deps): update dependency prettier to v2.7.1
   * [#bc73147](https://github.com/Garlic-Team/gcommands/commit/bc73147) chore(deps): update dependency prettier to v2.7.1
 * 🔃 Merged [#499 chore(deps): update dependency prettier to v2.7.1](https://github.com/Garlic-Team/gcommands/pull/499) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#4b0882f](https://github.com/Garlic-Team/docs/commit/4b0882f) Docs build for branch next: 0cea7603c468f10a04e7a9c5733d8b33314de504
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#7cbda4b](https://github.com/Garlic-Team/docs/commit/7cbda4b) Docs build for branch next: 6b81e14b51f7eb20cfd59933870dde75794602f9
 
 
 ___
