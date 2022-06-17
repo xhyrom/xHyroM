@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#3d7c777](https://github.com/xHyroM/covid19-stats/commit/3d7c777) 2022/06/17 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#7925453](https://github.com/RilyEvent/rigot-1.8.8/commit/7925453) fix: typo
 * ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
@@ -25,8 +27,6 @@ ___
 
 chore(deps): update dependency prettier to v2.7.1
   * [#bc73147](https://github.com/Garlic-Team/gcommands/commit/bc73147) chore(deps): update dependency prettier to v2.7.1
-* 🔃 Merged [#499 chore(deps): update dependency prettier to v2.7.1](https://github.com/Garlic-Team/gcommands/pull/499) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
