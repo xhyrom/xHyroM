@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#61 [Snyk] Security upgrade undici from 5.0.0 to 5.5.1](https://github.com/Garlic-Team/gcommands-addons/pull/61) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-ca28ec82db0452f69f2396d9f0271761`
+  * [#818c7cd](https://github.com/Garlic-Team/gcommands-addons/commit/818c7cd) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-UNDICI-2928996
+* ⏺️ Created new branch snyk-fix-ca28ec82db0452f69f2396d9f0271761 in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
 * ⏺️ Created new branch ver/1.19 in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 * ⏺️ Created new repository  [SharkurMC/sharkur](https://github.com/SharkurMC/sharkur)
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#26687f6](https://github.com/RilyEvent/rigot-1.8.8/commit/26687f6) [upload] chore(workflow): fix workflow
-* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#a64ceeb](https://github.com/xHyroM/NexusBlock/commit/a64ceeb) fix: use 1.13 api version
 
 
 ___
