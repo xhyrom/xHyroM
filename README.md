@@ -14,19 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#a64ceeb](https://github.com/xHyroM/NexusBlock/commit/a64ceeb) fix: use 1.13 api version
+* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3d7c777](https://github.com/xHyroM/covid19-stats/commit/3d7c777) 2022/06/17 stats
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#7925453](https://github.com/RilyEvent/rigot-1.8.8/commit/7925453) fix: typo
-* ➡️ Pushed 2 commits in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#a96cd4e](https://github.com/RilyEvent/rigot-1.8.8/commit/a96cd4e) Merge branch &#39;master&#39; of https://github.com/RilyEvent/rigot-1.8.8
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#fb6b2d4](https://github.com/Garlic-Team/docs/commit/fb6b2d4) Docs build for branch next: 63ba2b2539859db71e38dee11f466eecd088acfb
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#63ba2b2](https://github.com/Garlic-Team/gcommands/commit/63ba2b2) chore(deps): update dependency prettier to v2.7.1
-
-chore(deps): update dependency prettier to v2.7.1
-  * [#bc73147](https://github.com/Garlic-Team/gcommands/commit/bc73147) chore(deps): update dependency prettier to v2.7.1
 
 
 ___
