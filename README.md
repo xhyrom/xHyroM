@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#f53a023](https://github.com/SharkurMC/Sharkur/commit/f53a023) fix: udpate chmod
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#6515162](https://github.com/SharkurMC/Sharkur/commit/6515162) fix: tentacles -&gt; sharkur
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#0c4c2d2](https://github.com/SharkurMC/Sharkur/commit/0c4c2d2) fix: remove metrics for now
 * ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
   * [#4c3396e](https://github.com/SharkurMC/.github/commit/4c3396e) fix: line breaks
 * ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
   * [#760e99d](https://github.com/SharkurMC/.github/commit/760e99d) Create README.md
-* ⏺️ Created new branch main in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* ⏺️ Created new repository  [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#cf04d54](https://github.com/SharkurMC/Sharkur/commit/cf04d54) fix: make gradlew executable
 
 
 ___
