@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
+  * [#4c3396e](https://github.com/SharkurMC/.github/commit/4c3396e) fix: line breaks
+* ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
+  * [#760e99d](https://github.com/SharkurMC/.github/commit/760e99d) Create README.md
+* ⏺️ Created new branch main in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* ⏺️ Created new repository  [SharkurMC/.github](https://github.com/SharkurMC/.github)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#cf04d54](https://github.com/SharkurMC/Sharkur/commit/cf04d54) fix: make gradlew executable
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#9354a0b](https://github.com/SharkurMC/Sharkur/commit/9354a0b) fix: make scripts executable
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#448a308](https://github.com/SharkurMC/Sharkur/commit/448a308) fix: make scripts executable
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#875c77f](https://github.com/SharkurMC/Sharkur/commit/875c77f) fix: make gradlew executable
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7fb3b78](https://github.com/SharkurMC/Sharkur/commit/7fb3b78) fix: add gradle wrapper jar
 
 
 ___
