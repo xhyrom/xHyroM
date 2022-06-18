@@ -15,15 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#421c88f](https://github.com/SharkurMC/Sharkur/commit/421c88f) Revert &#34;fix: missing initial&#34;
+
+This reverts commit b5c9049c610bb11d0f37abfee31a7ba619438ca0.
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#b5c9049](https://github.com/SharkurMC/Sharkur/commit/b5c9049) fix: missing initial
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#919a165](https://github.com/SharkurMC/Sharkur/commit/919a165) server patch(0002): fix config init, sharkur command
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#a9ce276](https://github.com/SharkurMC/Sharkur/commit/a9ce276) server patch: sharkur config files
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#919b6c1](https://github.com/SharkurMC/Sharkur/commit/919b6c1) server patch(rebrand): update logo
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#ff722cb](https://github.com/xHyroM/covid19-stats/commit/ff722cb) 2022/06/18 stats
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#f53a023](https://github.com/SharkurMC/Sharkur/commit/f53a023) fix: udpate chmod
 
 
 ___
