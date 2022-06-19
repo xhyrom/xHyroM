@@ -14,11 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#7403160](https://github.com/SharkurMC/Sharkur/commit/7403160) server patch(0001): bring back metrics
 * 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
 * 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
 * #️⃣ Reopened [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
 * #️⃣ Closed [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* #️⃣ Opened [#4 Add ability to customizable join &amp; leave messages](https://github.com/SharkurMC/Sharkur/issues/4) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 
 
 ___
