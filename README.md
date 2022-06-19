@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#379e06c](https://github.com/xHyroM/covid19-stats/commit/379e06c) 2022/06/19 stats
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#6ae7a26](https://github.com/SharkurMC/Sharkur/commit/6ae7a26) feat(test-plugin): add onReload
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#73bd1d6](https://github.com/SharkurMC/Sharkur/commit/73bd1d6) server &amp; api(0006, 0004): Add onReload function to Plugin for safe reload
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#8f71716](https://github.com/SharkurMC/Sharkur/commit/8f71716) [ci skip] chore(test-plugin): update
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#d689ea0](https://github.com/SharkurMC/Sharkur/commit/d689ea0) chore(test-plugin): setup
-* #️⃣ Closed [#3 Add PlayerClientBrand event](https://github.com/SharkurMC/Sharkur/issues/3) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#d7fd760](https://github.com/SharkurMC/Sharkur/commit/d7fd760) server &amp; api(0005, 0003): add PlayerClientBrand event
-* #️⃣ Opened [#3 Add PlayerClientBrand event](https://github.com/SharkurMC/Sharkur/issues/3) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 
 
 ___
