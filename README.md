@@ -15,11 +15,13 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#8f71716](https://github.com/SharkurMC/Sharkur/commit/8f71716) [ci skip] chore(test-plugin): update
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#d689ea0](https://github.com/SharkurMC/Sharkur/commit/d689ea0) chore(test-plugin): setup
+* #️⃣ Closed [#3 Add PlayerClientBrand event](https://github.com/SharkurMC/Sharkur/issues/3) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#d7fd760](https://github.com/SharkurMC/Sharkur/commit/d7fd760) server &amp; api(0005, 0003): add PlayerClientBrand event
 * #️⃣ Opened [#3 Add PlayerClientBrand event](https://github.com/SharkurMC/Sharkur/issues/3) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* #️⃣ Opened [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* #️⃣ Opened [#2 Website](https://github.com/SharkurMC/.github/issues/2) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* #️⃣ Opened [#1 Jenkins server (CI)](https://github.com/SharkurMC/.github/issues/1) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
 
 
 ___
