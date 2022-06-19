@@ -14,16 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#3f71121](https://github.com/SharkurMC/docs/commit/3f71121) Merge branch &#39;main&#39; of https://github.com/SharkurMC/docs into main
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#f641bd9](https://github.com/SharkurMC/Sharkur/commit/f641bd9) server patch(0001): transparent logo
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#2b2563d](https://github.com/SharkurMC/Sharkur/commit/2b2563d) fix(0004): missing onReload in TestPlugin
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#e22d3e3](https://github.com/SharkurMC/docs/commit/e22d3e3) fix: update baseUrl
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#b54d795](https://github.com/SharkurMC/docs/commit/b54d795) fix: warn only brokenLink
+* 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Reopened [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Closed [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Opened [#4 Add ability to customizable join &amp; leave messages](https://github.com/SharkurMC/Sharkur/issues/4) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 
 
 ___
