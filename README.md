@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#1 Don&#39;t include commands in the tabcomplete that the player doesn&#39;t have permission to.](https://github.com/SharkurMC/Sharkur/issues/1) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#04c0f2b](https://github.com/SharkurMC/docs/commit/04c0f2b) chore: base
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#e8b2050](https://github.com/SharkurMC/docs/commit/e8b2050) chore: license
-* ⏺️ Created new branch main in [SharkurMC/docs](https://github.com/SharkurMC/docs)
-* ⏺️ Created new repository  [SharkurMC/docs](https://github.com/SharkurMC/docs)
+* #️⃣ Opened [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Opened [#2 Website](https://github.com/SharkurMC/.github/issues/2) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Opened [#1 Jenkins server (CI)](https://github.com/SharkurMC/.github/issues/1) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+* #️⃣ Closed [#2 Add ability to disable usercache.json saving](https://github.com/SharkurMC/Sharkur/issues/2) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#199bb62](https://github.com/SharkurMC/Sharkur/commit/199bb62) server patch(0004): add ability to disable usercache saving
 
 
 ___
