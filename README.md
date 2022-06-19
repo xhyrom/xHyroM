@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#92d6e74](https://github.com/SharkurMC/Sharkur/commit/92d6e74) [ci skip] jenkins file revert jdk 17
+  * [#c5dd346](https://github.com/SharkurMC/Sharkur/commit/c5dd346) [ci skip] upload only paperclip
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#90a1698](https://github.com/SharkurMC/Sharkur/commit/90a1698) [ci skip] add jdk 17
+  * [#2ee0310](https://github.com/SharkurMC/Sharkur/commit/2ee0310) [ci skip] remove old enviroment
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#9b8a172](https://github.com/SharkurMC/Sharkur/commit/9b8a172) [ci skip] fix jenkins file
+  * [#0a966b8](https://github.com/SharkurMC/Sharkur/commit/0a966b8) [ci skip] add enviroment
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#8ac2478](https://github.com/SharkurMC/Sharkur/commit/8ac2478) [ci skip] agent to any
+  * [#44f15b2](https://github.com/SharkurMC/Sharkur/commit/44f15b2) [ci skip] add setup stage
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#1ee74ec](https://github.com/SharkurMC/Sharkur/commit/1ee74ec) [ci skip] jenkinsfile: add jdk 17
+  * [#e39fd5b](https://github.com/SharkurMC/Sharkur/commit/e39fd5b) [ci skip] use createReobfPaperclipJar instead of build
 
 
 ___
