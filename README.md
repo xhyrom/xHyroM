@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
-  * [#6371866](https://github.com/SharkurMC/.github/commit/6371866) chore: readme
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#379e06c](https://github.com/xHyroM/covid19-stats/commit/379e06c) 2022/06/19 stats
+* ➡️ Pushed 2 commits in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
+  * [#3f71121](https://github.com/SharkurMC/docs/commit/3f71121) Merge branch &#39;main&#39; of https://github.com/SharkurMC/docs into main
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#6ae7a26](https://github.com/SharkurMC/Sharkur/commit/6ae7a26) feat(test-plugin): add onReload
+  * [#f641bd9](https://github.com/SharkurMC/Sharkur/commit/f641bd9) server patch(0001): transparent logo
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#73bd1d6](https://github.com/SharkurMC/Sharkur/commit/73bd1d6) server &amp; api(0006, 0004): Add onReload function to Plugin for safe reload
+  * [#2b2563d](https://github.com/SharkurMC/Sharkur/commit/2b2563d) fix(0004): missing onReload in TestPlugin
+* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
+  * [#e22d3e3](https://github.com/SharkurMC/docs/commit/e22d3e3) fix: update baseUrl
+* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
+  * [#b54d795](https://github.com/SharkurMC/docs/commit/b54d795) fix: warn only brokenLink
 
 
 ___
