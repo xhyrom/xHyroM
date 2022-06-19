@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#1 Don&#39;t include commands in the tabcomplete that the player doesn&#39;t have permission to.](https://github.com/SharkurMC/Sharkur/issues/1) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 * ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
   * [#04c0f2b](https://github.com/SharkurMC/docs/commit/04c0f2b) chore: base
 * ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
   * [#e8b2050](https://github.com/SharkurMC/docs/commit/e8b2050) chore: license
 * ⏺️ Created new branch main in [SharkurMC/docs](https://github.com/SharkurMC/docs)
 * ⏺️ Created new repository  [SharkurMC/docs](https://github.com/SharkurMC/docs)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#4168574](https://github.com/SharkurMC/Sharkur/commit/4168574) [ci skip] add contributing file
 
 
 ___
