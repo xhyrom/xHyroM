@@ -15,11 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7403160](https://github.com/SharkurMC/Sharkur/commit/7403160) server patch(0001): bring back metrics
-* 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* 💬 Commented on [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) from [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* #️⃣ Reopened [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* #️⃣ Closed [#3 Documentation](https://github.com/SharkurMC/.github/issues/3) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
+  * [#92d6e74](https://github.com/SharkurMC/Sharkur/commit/92d6e74) [ci skip] jenkins file revert jdk 17
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#90a1698](https://github.com/SharkurMC/Sharkur/commit/90a1698) [ci skip] add jdk 17
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#9b8a172](https://github.com/SharkurMC/Sharkur/commit/9b8a172) [ci skip] fix jenkins file
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#8ac2478](https://github.com/SharkurMC/Sharkur/commit/8ac2478) [ci skip] agent to any
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#1ee74ec](https://github.com/SharkurMC/Sharkur/commit/1ee74ec) [ci skip] jenkinsfile: add jdk 17
 
 
 ___
