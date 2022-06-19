@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 * ➡️ Pushed 1 commit in [SharkurMC/.github](https://github.com/SharkurMC/.github) on branch `main`
   * [#6371866](https://github.com/SharkurMC/.github/commit/6371866) chore: readme
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,8 +23,6 @@ ___
   * [#6ae7a26](https://github.com/SharkurMC/Sharkur/commit/6ae7a26) feat(test-plugin): add onReload
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#73bd1d6](https://github.com/SharkurMC/Sharkur/commit/73bd1d6) server &amp; api(0006, 0004): Add onReload function to Plugin for safe reload
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#8f71716](https://github.com/SharkurMC/Sharkur/commit/8f71716) [ci skip] chore(test-plugin): update
 
 
 ___
