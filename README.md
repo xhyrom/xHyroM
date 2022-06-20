@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#414d92f](https://github.com/SharkurMC/Sharkur/commit/414d92f) server patch(0008): Add ability to disable repair cost for ItemStack
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#d7e6abf](https://github.com/SharkurMC/Sharkur/commit/d7e6abf) server patch(0006): fix An error occurred
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#298574f](https://github.com/SharkurMC/Sharkur/commit/298574f) server patch(0007): update default
 * #️⃣ Closed [#4 Add ability to customizable join &amp; leave messages](https://github.com/SharkurMC/Sharkur/issues/4) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#b1dc12e](https://github.com/SharkurMC/Sharkur/commit/b1dc12e) server patch(0007): Add ability to customizable join &amp; leave messages
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#e8ca1e6](https://github.com/SharkurMC/Sharkur/commit/e8ca1e6) remove server patch 0007
 
 
 ___
