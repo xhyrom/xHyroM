@@ -15,13 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#e8ca1e6](https://github.com/SharkurMC/Sharkur/commit/e8ca1e6) remove server patch 0007
-* #️⃣ Closed [#5 Add ability to hide player&#39;s ip in logs](https://github.com/SharkurMC/Sharkur/issues/5) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
+  * [#d7e6abf](https://github.com/SharkurMC/Sharkur/commit/d7e6abf) server patch(0006): fix An error occurred
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#0755d16](https://github.com/SharkurMC/Sharkur/commit/0755d16) server patch(0007): Add ability to hide player&#39;s ip in logs
-* #️⃣ Opened [#5 Add ability to hide player&#39;s ip in logs](https://github.com/SharkurMC/Sharkur/issues/5) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `page`
-  * [#63b1c75](https://github.com/SharkurMC/website/commit/63b1c75) Update CNAME
+  * [#298574f](https://github.com/SharkurMC/Sharkur/commit/298574f) server patch(0007): update default
+* #️⃣ Closed [#4 Add ability to customizable join &amp; leave messages](https://github.com/SharkurMC/Sharkur/issues/4) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#b1dc12e](https://github.com/SharkurMC/Sharkur/commit/b1dc12e) server patch(0007): Add ability to customizable join &amp; leave messages
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#e8ca1e6](https://github.com/SharkurMC/Sharkur/commit/e8ca1e6) remove server patch 0007
 
 
 ___
