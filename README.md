@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/BlobRadio/pull/8) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+  * 2 files changed `++10 --65`
+* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-58d9cf5134630e4a411517bb4ee38716`
+  * [#aa17fb3](https://github.com/xHyroM/BlobRadio/commit/aa17fb3) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-GOT-2932019
+* ⏺️ Created new branch snyk-fix-58d9cf5134630e4a411517bb4ee38716 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
 * 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/InfinityNextGen/pull/8) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
   * 2 files changed `++10 --10`
 * ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-28779ef5d2a5c2caff4414a6243108f2`
@@ -21,11 +29,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-GOT-2932019
-* ⏺️ Created new branch snyk-fix-28779ef5d2a5c2caff4414a6243108f2 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#c5dd346](https://github.com/SharkurMC/Sharkur/commit/c5dd346) [ci skip] upload only paperclip
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#2ee0310](https://github.com/SharkurMC/Sharkur/commit/2ee0310) [ci skip] remove old enviroment
 
 
 ___
