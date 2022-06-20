@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#e8ca1e6](https://github.com/SharkurMC/Sharkur/commit/e8ca1e6) remove server patch 0007
+* #️⃣ Closed [#5 Add ability to hide player&#39;s ip in logs](https://github.com/SharkurMC/Sharkur/issues/5) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#0755d16](https://github.com/SharkurMC/Sharkur/commit/0755d16) server patch(0007): Add ability to hide player&#39;s ip in logs
+* #️⃣ Opened [#5 Add ability to hide player&#39;s ip in logs](https://github.com/SharkurMC/Sharkur/issues/5) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 * ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `page`
   * [#63b1c75](https://github.com/SharkurMC/website/commit/63b1c75) Update CNAME
-* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
-  * [#c00aceb](https://github.com/SharkurMC/website/commit/c00aceb) chore(workflow): update workflow
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `page`
-  * [#bdd5608](https://github.com/SharkurMC/docs/commit/bdd5608) Create CNAME
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#15fa5eb](https://github.com/SharkurMC/docs/commit/15fa5eb) chore(workflow): add cname
-* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
-  * [#d67a914](https://github.com/SharkurMC/docs/commit/d67a914) fix: update baseUrl
 
 
 ___
