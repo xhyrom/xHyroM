@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#8194ae4](https://github.com/xHyroM/covid19-stats/commit/8194ae4) 2022/06/20 stats
 * 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/BlobRadio/pull/8) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
   * 2 files changed `++10 --65`
 * ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-58d9cf5134630e4a411517bb4ee38716`
@@ -24,11 +26,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-58d9cf5134630e4a411517bb4ee38716 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
 * 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/InfinityNextGen/pull/8) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
   * 2 files changed `++10 --10`
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-28779ef5d2a5c2caff4414a6243108f2`
-  * [#71d5e47](https://github.com/xHyroM/InfinityNextGen/commit/71d5e47) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-GOT-2932019
 
 
 ___
