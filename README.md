@@ -14,18 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#8194ae4](https://github.com/xHyroM/covid19-stats/commit/8194ae4) 2022/06/20 stats
-* 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/BlobRadio/pull/8) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-  * 2 files changed `++10 --65`
-* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-58d9cf5134630e4a411517bb4ee38716`
-  * [#aa17fb3](https://github.com/xHyroM/BlobRadio/commit/aa17fb3) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-GOT-2932019
-* ⏺️ Created new branch snyk-fix-58d9cf5134630e4a411517bb4ee38716 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-* 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/InfinityNextGen/pull/8) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-  * 2 files changed `++10 --10`
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#7b6f160](https://github.com/SharkurMC/Sharkur/commit/7b6f160) [ci skip] jenkinsfile: update discord embed
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#0e17b94](https://github.com/SharkurMC/Sharkur/commit/0e17b94) [ci skip] jenkinsfile: new syntax
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#d8ae6d7](https://github.com/SharkurMC/Sharkur/commit/d8ae6d7) [ci skip] jenkinsfile: to string?
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#15c89dc](https://github.com/SharkurMC/Sharkur/commit/15c89dc) [ci skip] enviroment
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#d17acec](https://github.com/SharkurMC/Sharkur/commit/d17acec) [ci skip] discord notifications
 
 
 ___
