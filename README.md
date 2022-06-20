@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#4 Jenkins discord webhook ;)](https://github.com/SharkurMC/.github/issues/4) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7b6f160](https://github.com/SharkurMC/Sharkur/commit/7b6f160) [ci skip] jenkinsfile: update discord embed
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#0e17b94](https://github.com/SharkurMC/Sharkur/commit/0e17b94) [ci skip] jenkinsfile: new syntax
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#d8ae6d7](https://github.com/SharkurMC/Sharkur/commit/d8ae6d7) [ci skip] jenkinsfile: to string?
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#15c89dc](https://github.com/SharkurMC/Sharkur/commit/15c89dc) [ci skip] enviroment
+* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `page`
+  * [#63b1c75](https://github.com/SharkurMC/website/commit/63b1c75) Update CNAME
+* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
+  * [#c00aceb](https://github.com/SharkurMC/website/commit/c00aceb) chore(workflow): update workflow
+* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `page`
+  * [#bdd5608](https://github.com/SharkurMC/docs/commit/bdd5608) Create CNAME
+* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
+  * [#15fa5eb](https://github.com/SharkurMC/docs/commit/15fa5eb) chore(workflow): add cname
+* ➡️ Pushed 1 commit in [SharkurMC/docs](https://github.com/SharkurMC/docs) on branch `main`
+  * [#d67a914](https://github.com/SharkurMC/docs/commit/d67a914) fix: update baseUrl
 
 
 ___
