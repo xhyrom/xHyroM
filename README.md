@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#8 [Snyk] Security upgrade got from 11.8.2 to 11.8.5](https://github.com/xHyroM/InfinityNextGen/pull/8) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 2 files changed `++10 --10`
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-28779ef5d2a5c2caff4414a6243108f2`
+  * [#71d5e47](https://github.com/xHyroM/InfinityNextGen/commit/71d5e47) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-GOT-2932019
+* ⏺️ Created new branch snyk-fix-28779ef5d2a5c2caff4414a6243108f2 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#c5dd346](https://github.com/SharkurMC/Sharkur/commit/c5dd346) [ci skip] upload only paperclip
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#2ee0310](https://github.com/SharkurMC/Sharkur/commit/2ee0310) [ci skip] remove old enviroment
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#0a966b8](https://github.com/SharkurMC/Sharkur/commit/0a966b8) [ci skip] add enviroment
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#44f15b2](https://github.com/SharkurMC/Sharkur/commit/44f15b2) [ci skip] add setup stage
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#e39fd5b](https://github.com/SharkurMC/Sharkur/commit/e39fd5b) [ci skip] use createReobfPaperclipJar instead of build
 
 
 ___
