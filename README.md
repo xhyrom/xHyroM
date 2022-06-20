@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#4 Jenkins discord webhook ;)](https://github.com/SharkurMC/.github/issues/4) in [SharkurMC/.github](https://github.com/SharkurMC/.github)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#7b6f160](https://github.com/SharkurMC/Sharkur/commit/7b6f160) [ci skip] jenkinsfile: update discord embed
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -22,8 +23,6 @@ ___
   * [#d8ae6d7](https://github.com/SharkurMC/Sharkur/commit/d8ae6d7) [ci skip] jenkinsfile: to string?
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#15c89dc](https://github.com/SharkurMC/Sharkur/commit/15c89dc) [ci skip] enviroment
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#d17acec](https://github.com/SharkurMC/Sharkur/commit/d17acec) [ci skip] discord notifications
 
 
 ___
