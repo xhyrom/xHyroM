@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#0f769d1](https://github.com/xHyroM/covid19-stats/commit/0f769d1) 2022/06/21 stats
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#7de58b0](https://github.com/SharkurMC/Sharkur/commit/7de58b0) [ci skip] fix security issue
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -22,7 +24,6 @@ ___
   * [#d7e6abf](https://github.com/SharkurMC/Sharkur/commit/d7e6abf) server patch(0006): fix An error occurred
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#298574f](https://github.com/SharkurMC/Sharkur/commit/298574f) server patch(0007): update default
-* #️⃣ Closed [#4 Add ability to customizable join &amp; leave messages](https://github.com/SharkurMC/Sharkur/issues/4) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
 
 
 ___
