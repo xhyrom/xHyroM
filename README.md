@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#6529c36](https://github.com/SharkurMC/Sharkur/commit/6529c36) [ci skip] jenkinsfile: fix webhookUrl
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#0f769d1](https://github.com/xHyroM/covid19-stats/commit/0f769d1) 2022/06/21 stats
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7de58b0](https://github.com/SharkurMC/Sharkur/commit/7de58b0) [ci skip] fix security issue
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#414d92f](https://github.com/SharkurMC/Sharkur/commit/414d92f) server patch(0008): Add ability to disable repair cost for ItemStack
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#d7e6abf](https://github.com/SharkurMC/Sharkur/commit/d7e6abf) server patch(0006): fix An error occurred
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#c11850f](https://github.com/Garlic-Team/docs/commit/c11850f) Docs build for branch next: 9f83728c90cea19924192fa77cebe92c1a50ef04
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#9f83728](https://github.com/Garlic-Team/gcommands/commit/9f83728) chore(deps): update dependency lint-staged to v13.0.2
+
+chore(deps): update dependency lint-staged to v13.0.2
+  * [#8f1767e](https://github.com/Garlic-Team/gcommands/commit/8f1767e) chore(deps): update dependency lint-staged to v13.0.2
+* 🔃 Merged [#500 chore(deps): update dependency lint-staged to v13.0.2](https://github.com/Garlic-Team/gcommands/pull/500) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#851d5a1](https://github.com/Garlic-Team/docs/commit/851d5a1) Docs build for branch next: 57c041649f7ad314519b30d1a10acde3730f0c31
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#4b8f70a](https://github.com/Garlic-Team/docs/commit/4b8f70a) Docs build for branch next: 08ca015fe9d0ace49d42ad26b9ce3f74ba1258e8
 
 
 ___
