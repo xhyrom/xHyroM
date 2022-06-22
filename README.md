@@ -14,6 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-205036b838941f8b2e5a6a9196dce418`
+  * [#0dc9026](https://github.com/xHyroM/github-bucket/commit/0dc9026) fix: Dockerfile to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-DEBIAN11-DPKG-2847942
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2807596
+- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808697
+- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808704
+- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
+* ⏺️ Created new branch snyk-fix-205036b838941f8b2e5a6a9196dce418 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#0e1e41f](https://github.com/xHyroM/covid19-stats/commit/0e1e41f) 2022/06/22 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -23,10 +33,6 @@ ___
 
 chore(deps): update dependency lint-staged to v13.0.2
   * [#8f1767e](https://github.com/Garlic-Team/gcommands/commit/8f1767e) chore(deps): update dependency lint-staged to v13.0.2
-* 🔃 Merged [#500 chore(deps): update dependency lint-staged to v13.0.2](https://github.com/Garlic-Team/gcommands/pull/500) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#851d5a1](https://github.com/Garlic-Team/docs/commit/851d5a1) Docs build for branch next: 57c041649f7ad314519b30d1a10acde3730f0c31
 
 
 ___
