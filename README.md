@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#0e1e41f](https://github.com/xHyroM/covid19-stats/commit/0e1e41f) 2022/06/22 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#c11850f](https://github.com/Garlic-Team/docs/commit/c11850f) Docs build for branch next: 9f83728c90cea19924192fa77cebe92c1a50ef04
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -25,8 +27,6 @@ chore(deps): update dependency lint-staged to v13.0.2
   * 2 files changed `++8 --8`
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#851d5a1](https://github.com/Garlic-Team/docs/commit/851d5a1) Docs build for branch next: 57c041649f7ad314519b30d1a10acde3730f0c31
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#4b8f70a](https://github.com/Garlic-Team/docs/commit/4b8f70a) Docs build for branch next: 08ca015fe9d0ace49d42ad26b9ce3f74ba1258e8
 
 
 ___
