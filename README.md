@@ -14,18 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new tag 1.1.2 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* 📦 Released **1.1.2 - Bug fix** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#912496f](https://github.com/xHyroM/NexusBlock/commit/912496f) chore: bump version
+* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
   * [#38470b4](https://github.com/xHyroM/NexusBlock/commit/38470b4) fix: use / instead of \\
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#c0f7cb9](https://github.com/xHyroM/covid19-stats/commit/c0f7cb9) 2022/06/23 stats
-* 🔃 Opened [#9 [Snyk] Security upgrade react-native from 0.68.0 to 0.69.0](https://github.com/xHyroM/covid19-stats/pull/9) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch snyk-fix-9950b7b49806f10a718d5d2256d23e6f in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `snyk-fix-9950b7b49806f10a718d5d2256d23e6f`
-  * [#5ea8207](https://github.com/xHyroM/covid19-stats/commit/5ea8207) fix: other/application/package.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-SHELLQUOTE-1766506
 
 
 ___
