@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#9 [Snyk] Security upgrade react-native from 0.68.0 to 0.69.0](https://github.com/xHyroM/covid19-stats/pull/9) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch snyk-fix-9950b7b49806f10a718d5d2256d23e6f in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `snyk-fix-9950b7b49806f10a718d5d2256d23e6f`
+  * [#5ea8207](https://github.com/xHyroM/covid19-stats/commit/5ea8207) fix: other/application/package.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-SHELLQUOTE-1766506
 * 🔃 Opened [#26 [Snyk] Security upgrade next-auth from 4.0.6 to 4.5.0](https://github.com/xHyroM/Uptimo/pull/26) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
   * 2 files changed `++11 --21`
 * ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-6554b1711318a55d03953c63e8c61893`
@@ -21,17 +29,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2933545
-* ⏺️ Created new branch snyk-fix-6554b1711318a55d03953c63e8c61893 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-205036b838941f8b2e5a6a9196dce418`
-  * [#0dc9026](https://github.com/xHyroM/github-bucket/commit/0dc9026) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-DPKG-2847942
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2807596
-- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808697
-- https://snyk.io/vuln/SNYK-DEBIAN11-PCRE2-2808704
-- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
-* ⏺️ Created new branch snyk-fix-205036b838941f8b2e5a6a9196dce418 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 
 
 ___
