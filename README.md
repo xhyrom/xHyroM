@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#c0f7cb9](https://github.com/xHyroM/covid19-stats/commit/c0f7cb9) 2022/06/23 stats
 * 🔃 Opened [#9 [Snyk] Security upgrade react-native from 0.68.0 to 0.69.0](https://github.com/xHyroM/covid19-stats/pull/9) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
   * 1 file changed `++1 --1`
 * ⏺️ Created new branch snyk-fix-9950b7b49806f10a718d5d2256d23e6f in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
@@ -24,11 +26,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-SHELLQUOTE-1766506
 * 🔃 Opened [#26 [Snyk] Security upgrade next-auth from 4.0.6 to 4.5.0](https://github.com/xHyroM/Uptimo/pull/26) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
   * 2 files changed `++11 --21`
-* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-6554b1711318a55d03953c63e8c61893`
-  * [#016c165](https://github.com/xHyroM/Uptimo/commit/016c165) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2933545
 
 
 ___
