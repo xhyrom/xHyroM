@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#38470b4](https://github.com/xHyroM/NexusBlock/commit/38470b4) fix: use / instead of \\
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c0f7cb9](https://github.com/xHyroM/covid19-stats/commit/c0f7cb9) 2022/06/23 stats
 * 🔃 Opened [#9 [Snyk] Security upgrade react-native from 0.68.0 to 0.69.0](https://github.com/xHyroM/covid19-stats/pull/9) in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats)
@@ -24,8 +26,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-SHELLQUOTE-1766506
-* 🔃 Opened [#26 [Snyk] Security upgrade next-auth from 4.0.6 to 4.5.0](https://github.com/xHyroM/Uptimo/pull/26) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-  * 2 files changed `++11 --21`
 
 
 ___
