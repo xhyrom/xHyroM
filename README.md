@@ -14,13 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-18d009de8e93b1be498a15950321c4ce`
+  * [#8061639](https://github.com/xHyroM/github-bucket/commit/8061639) fix: Dockerfile to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-DEBIAN11-DPKG-2847942
+- https://snyk.io/vuln/SNYK-DEBIAN11-GZIP-2444256
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2807596
+- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2933518
+- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
+* ⏺️ Created new branch snyk-fix-18d009de8e93b1be498a15950321c4ce in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b4990a2](https://github.com/xHyroM/covid19-stats/commit/b4990a2) 2022/06/24 stats
 * ⏺️ Created new tag 1.1.2 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * 📦 Released **1.1.2 - Bug fix** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
-  * [#912496f](https://github.com/xHyroM/NexusBlock/commit/912496f) chore: bump version
-* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 
 
 ___
