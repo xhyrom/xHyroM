@@ -14,20 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-18d009de8e93b1be498a15950321c4ce`
-  * [#8061639](https://github.com/xHyroM/github-bucket/commit/8061639) fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-DEBIAN11-DPKG-2847942
-- https://snyk.io/vuln/SNYK-DEBIAN11-GZIP-2444256
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2807596
-- https://snyk.io/vuln/SNYK-DEBIAN11-OPENSSL-2933518
-- https://snyk.io/vuln/SNYK-DEBIAN11-ZLIB-2433933
-* ⏺️ Created new branch snyk-fix-18d009de8e93b1be498a15950321c4ce in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#b4990a2](https://github.com/xHyroM/covid19-stats/commit/b4990a2) 2022/06/24 stats
-* ⏺️ Created new tag 1.1.2 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* 📦 Released **1.1.2 - Bug fix** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+  * [#961db92](https://github.com/xHyroM/covid19-stats/commit/961db92) 2022/06/25 stats
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#5d4d27e](https://github.com/Garlic-Team/docs/commit/5d4d27e) Docs build for branch next: e1fecbc0a2a73ceb5ed49dbe8bf197fb44c0cc0c
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#8c5f9c1](https://github.com/Garlic-Team/docs/commit/8c5f9c1) Docs build for branch next: 90e1aa886f621b5b1c1316bb4ae3b0f20b9bd70f
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#17c5889](https://github.com/Garlic-Team/docs/commit/17c5889) Docs build for branch next: dc482aa4555ae04ff35d65ad3df2d6b21b2dc363
+* 🔃 Closed [#493 fix(deps): update dependency discord-api-types to ^0.35.0](https://github.com/Garlic-Team/gcommands/pull/493) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 
 
 ___
