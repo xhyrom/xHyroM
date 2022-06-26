@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#a4a3253](https://github.com/SharkurMC/Sharkur/commit/a4a3253) 0009: update messages
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#f5ebdc4](https://github.com/xHyroM/covid19-stats/commit/f5ebdc4) 2022/06/26 stats
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -28,8 +30,6 @@ ___
   * [#961db92](https://github.com/xHyroM/covid19-stats/commit/961db92) 2022/06/25 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#5d4d27e](https://github.com/Garlic-Team/docs/commit/5d4d27e) Docs build for branch next: e1fecbc0a2a73ceb5ed49dbe8bf197fb44c0cc0c
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#8c5f9c1](https://github.com/Garlic-Team/docs/commit/8c5f9c1) Docs build for branch next: 90e1aa886f621b5b1c1316bb4ae3b0f20b9bd70f
 
 
 ___
