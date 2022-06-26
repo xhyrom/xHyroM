@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#4275c03](https://github.com/SharkurMC/Sharkur/commit/4275c03) 0005, 0012: Add PlayerChatMessageReceived event
 * ➡️ Pushed 2 commits in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -22,14 +23,6 @@ ___
   * [#a4a3253](https://github.com/SharkurMC/Sharkur/commit/a4a3253) 0009: update messages
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#f5ebdc4](https://github.com/xHyroM/covid19-stats/commit/f5ebdc4) 2022/06/26 stats
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#fc78ac4](https://github.com/SharkurMC/Sharkur/commit/fc78ac4) feat: improvements
-
-0006: use SharkurLogger
-
-0009: Include BungeeGuard
-
-0010: Sharkur logger
 
 
 ___
