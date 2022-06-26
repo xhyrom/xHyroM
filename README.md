@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `main`
+  * [#ad3c9aa](https://github.com/SharkurMC/crodylus/commit/ad3c9aa) chore: update license
+* ⏺️ Created new branch main in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus)
+* ⏺️ Created new repository  [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus)
 * 💬 Commented on [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#4275c03](https://github.com/SharkurMC/Sharkur/commit/4275c03) 0005, 0012: Add PlayerChatMessageReceived event
-* ➡️ Pushed 2 commits in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#c88aa2b](https://github.com/SharkurMC/Sharkur/commit/c88aa2b) Merge branch &#39;ver/1.19&#39; of https://github.com/SharkurMC/Sharkur into ver/1.19
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#a4a3253](https://github.com/SharkurMC/Sharkur/commit/a4a3253) 0009: update messages
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#f5ebdc4](https://github.com/xHyroM/covid19-stats/commit/f5ebdc4) 2022/06/26 stats
 
 
 ___
