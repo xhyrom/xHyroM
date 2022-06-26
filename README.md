@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#4275c03](https://github.com/SharkurMC/Sharkur/commit/4275c03) 0005, 0012: Add PlayerChatMessageReceived event
 * ➡️ Pushed 2 commits in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#c88aa2b](https://github.com/SharkurMC/Sharkur/commit/c88aa2b) Merge branch &#39;ver/1.19&#39; of https://github.com/SharkurMC/Sharkur into ver/1.19
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -28,8 +30,6 @@ ___
 0009: Include BungeeGuard
 
 0010: Sharkur logger
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#961db92](https://github.com/xHyroM/covid19-stats/commit/961db92) 2022/06/25 stats
 
 
 ___
