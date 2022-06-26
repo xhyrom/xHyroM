@@ -15,15 +15,21 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#f5ebdc4](https://github.com/xHyroM/covid19-stats/commit/f5ebdc4) 2022/06/26 stats
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#fc78ac4](https://github.com/SharkurMC/Sharkur/commit/fc78ac4) feat: improvements
+
+0006: use SharkurLogger
+
+0009: Include BungeeGuard
+
+0010: Sharkur logger
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#961db92](https://github.com/xHyroM/covid19-stats/commit/961db92) 2022/06/25 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#5d4d27e](https://github.com/Garlic-Team/docs/commit/5d4d27e) Docs build for branch next: e1fecbc0a2a73ceb5ed49dbe8bf197fb44c0cc0c
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#8c5f9c1](https://github.com/Garlic-Team/docs/commit/8c5f9c1) Docs build for branch next: 90e1aa886f621b5b1c1316bb4ae3b0f20b9bd70f
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#17c5889](https://github.com/Garlic-Team/docs/commit/17c5889) Docs build for branch next: dc482aa4555ae04ff35d65ad3df2d6b21b2dc363
-* 🔃 Closed [#493 fix(deps): update dependency discord-api-types to ^0.35.0](https://github.com/Garlic-Team/gcommands/pull/493) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
