@@ -15,12 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#c0e76a5](https://github.com/xHyroM/covid19-stats/commit/c0e76a5) 2022/06/28 stats
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#8d8447f](https://github.com/xHyroM/covid19-stats/commit/8d8447f) 2022/06/27 stats
 * ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
   * [#a1ce631](https://github.com/SharkurMC/crodylus/commit/a1ce631) chore: license
 * ⏺️ Created new branch master in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus)
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `main`
-  * [#ad3c9aa](https://github.com/SharkurMC/crodylus/commit/ad3c9aa) chore: update license
 
 
 ___
