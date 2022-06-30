@@ -14,14 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-f298e8924efba9a0e433b61d874eaece`
+  * [#6026507](https://github.com/xHyroM/InfinityNextGen/commit/6026507) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-PASSPORT-2840631
+* 🔃 Opened [#9 [Snyk] Security upgrade passport from 0.5.0 to 0.6.0](https://github.com/xHyroM/InfinityNextGen/pull/9) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 2 files changed `++12 --10`
+* ⏺️ Created new branch snyk-fix-f298e8924efba9a0e433b61d874eaece in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#0b27b04](https://github.com/xHyroM/covid19-stats/commit/0b27b04) 2022/06/29 stats
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#c0e76a5](https://github.com/xHyroM/covid19-stats/commit/c0e76a5) 2022/06/28 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#8d8447f](https://github.com/xHyroM/covid19-stats/commit/8d8447f) 2022/06/27 stats
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
-  * [#a1ce631](https://github.com/SharkurMC/crodylus/commit/a1ce631) chore: license
 
 
 ___
