@@ -15,17 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#4851ecd](https://github.com/SharkurMC/crodylus/commit/4851ecd) fix: add cors
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#54292b1](https://github.com/SharkurMC/crodylus/commit/54292b1) fix port
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
   * [#1c1dd43](https://github.com/SharkurMC/crodylus/commit/1c1dd43) port
 * ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
   * [#aa84e54](https://github.com/SharkurMC/crodylus/commit/aa84e54) port
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3f72052](https://github.com/xHyroM/covid19-stats/commit/3f72052) 2022/07/01 stats
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7517079](https://github.com/SharkurMC/Sharkur/commit/7517079) Updated Upstream ()
-
-Upstream has released updates that appear to apply and compile correctly
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#ce53362](https://github.com/SharkurMC/Sharkur/commit/ce53362) chore: update paperweight
 
 
 ___
