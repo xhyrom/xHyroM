@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#21 [Snyk] Security upgrade probot from 11.4.1 to 12.2.5](https://github.com/xHyroM/github-bucket/pull/21) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+  * 2 files changed `++248 --1228`
+* ⏺️ Created new branch snyk-fix-ca4c4c3666ac23f318e7ea27499c0bb3 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `snyk-fix-ca4c4c3666ac23f318e7ea27499c0bb3`
+  * [#65ec138](https://github.com/xHyroM/github-bucket/commit/65ec138) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-GOT-2932019
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#881ab3e](https://github.com/xHyroM/covid19-stats/commit/881ab3e) 2022/06/30 stats
 * ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-f298e8924efba9a0e433b61d874eaece`
@@ -21,11 +29,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-PASSPORT-2840631
-* 🔃 Opened [#9 [Snyk] Security upgrade passport from 0.5.0 to 0.6.0](https://github.com/xHyroM/InfinityNextGen/pull/9) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-  * 2 files changed `++12 --10`
-* ⏺️ Created new branch snyk-fix-f298e8924efba9a0e433b61d874eaece in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#0b27b04](https://github.com/xHyroM/covid19-stats/commit/0b27b04) 2022/06/29 stats
 
 
 ___
