@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#1c1dd43](https://github.com/SharkurMC/crodylus/commit/1c1dd43) port
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#aa84e54](https://github.com/SharkurMC/crodylus/commit/aa84e54) port
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3f72052](https://github.com/xHyroM/covid19-stats/commit/3f72052) 2022/07/01 stats
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -22,9 +26,6 @@ ___
 Upstream has released updates that appear to apply and compile correctly
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#ce53362](https://github.com/SharkurMC/Sharkur/commit/ce53362) chore: update paperweight
-* 🔃 Opened [#21 [Snyk] Security upgrade probot from 11.4.1 to 12.2.5](https://github.com/xHyroM/github-bucket/pull/21) in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
-  * 2 files changed `++248 --1228`
-* ⏺️ Created new branch snyk-fix-ca4c4c3666ac23f318e7ea27499c0bb3 in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket)
 
 
 ___
