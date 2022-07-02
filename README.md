@@ -14,16 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
-  * [#0471cec](https://github.com/SharkurMC/website/commit/0471cec) fix: update script
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
-  * [#4851ecd](https://github.com/SharkurMC/crodylus/commit/4851ecd) fix: add cors
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
-  * [#54292b1](https://github.com/SharkurMC/crodylus/commit/54292b1) fix port
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
-  * [#1c1dd43](https://github.com/SharkurMC/crodylus/commit/1c1dd43) port
-* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
-  * [#aa84e54](https://github.com/SharkurMC/crodylus/commit/aa84e54) port
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#092f9ee](https://github.com/Garlic-Team/docs/commit/092f9ee) Docs build for branch next: 7e058cf1d3e6efc274f630624300e223bfe5072c
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#ed4c84c](https://github.com/Garlic-Team/docs/commit/ed4c84c) Docs build for branch next: fa5961cf9a351a7ded4df971eb5e588411922d1a
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#7e058cf](https://github.com/Garlic-Team/gcommands/commit/7e058cf) chore(deps): update dependency lru-cache to v7.12.0
+
+chore(deps): update dependency lru-cache to v7.12.0
+  * [#3ba497a](https://github.com/Garlic-Team/gcommands/commit/3ba497a) chore(deps): update dependency lru-cache to v7.12.0
+* 🔃 Merged [#508 chore(deps): update dependency lru-cache to v7.12.0](https://github.com/Garlic-Team/gcommands/pull/508) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#fa5961c](https://github.com/Garlic-Team/gcommands/commit/fa5961c) chore(deps): update dependency keyv to v4.3.2
+
+chore(deps): update dependency keyv to v4.3.2
+  * [#dbed55b](https://github.com/Garlic-Team/gcommands/commit/dbed55b) chore(deps): update dependency keyv to v4.3.2
 
 
 ___
