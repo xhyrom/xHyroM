@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#efa4057](https://github.com/xHyroM/covid19-stats/commit/efa4057) 2022/07/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#48fa833](https://github.com/Garlic-Team/docs/commit/48fa833) Docs build for branch next: 9625eacbfc00a5cefe998e28bcb505a4de0cca03
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -22,11 +24,6 @@ ___
   * [#32fdeab](https://github.com/Garlic-Team/docs/commit/32fdeab) Docs build for branch next: 4a34e9a779fe7dc65f0cb9a8ceb54940a8216e89
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#bfb95c1](https://github.com/Garlic-Team/docs/commit/bfb95c1) Docs build for branch next: 353e4bbb6dfceb465dc27b48c2c0da424b6be529
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#9625eac](https://github.com/Garlic-Team/gcommands/commit/9625eac) chore(deps): update dependency @prisma/client to v4
-
-chore(deps): update dependency @prisma/client to v4
-  * [#3ba02b0](https://github.com/Garlic-Team/gcommands/commit/3ba02b0) chore(deps): update dependency @prisma/client to v4
 
 
 ___
