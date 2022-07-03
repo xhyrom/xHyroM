@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [SharkurMC/utilities](https://github.com/SharkurMC/utilities)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#31fe911](https://github.com/SharkurMC/Sharkur/commit/31fe911) Bump bungeecord-chat to 1.19-RO.1
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
@@ -22,8 +23,6 @@ ___
   * [#7426a71](https://github.com/SharkurMC/Sharkur/commit/7426a71) fix: missing =
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#bd6034e](https://github.com/SharkurMC/Sharkur/commit/bd6034e) missing enviroments
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#067ed03](https://github.com/SharkurMC/Sharkur/commit/067ed03) reposilite
 
 
 ___
