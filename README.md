@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [PurpurMC/PurpurWebsite](https://github.com/PurpurMC/PurpurWebsite)
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#e112549](https://github.com/SharkurMC/utilities/commit/e112549) update
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
@@ -22,7 +23,6 @@ ___
   * [#0d360c8](https://github.com/SharkurMC/utilities/commit/0d360c8) Create LICENSE
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#76950f8](https://github.com/SharkurMC/utilities/commit/76950f8) remove idea folder
-* ⏺️ Created new branch main in [SharkurMC/utilities](https://github.com/SharkurMC/utilities)
 
 
 ___
