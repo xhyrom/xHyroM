@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#db4ec9f](https://github.com/SharkurMC/Sharkur/commit/db4ec9f) fix build.gradlew
+  * [#31fe911](https://github.com/SharkurMC/Sharkur/commit/31fe911) Bump bungeecord-chat to 1.19-RO.1
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#9439179](https://github.com/SharkurMC/Sharkur/commit/9439179) new build.gradle
+  * [#b627604](https://github.com/SharkurMC/Sharkur/commit/b627604) [ci-skip] update README
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#dd622e8](https://github.com/SharkurMC/Sharkur/commit/dd622e8) Update Upstream (Purpur)
-* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
-  * [#58b99a8](https://github.com/SharkurMC/website/commit/58b99a8) fix: script
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#588fa74](https://github.com/xHyroM/covid19-stats/commit/588fa74) 2022/07/03 stats
+  * [#7426a71](https://github.com/SharkurMC/Sharkur/commit/7426a71) fix: missing =
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#bd6034e](https://github.com/SharkurMC/Sharkur/commit/bd6034e) missing enviroments
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#067ed03](https://github.com/SharkurMC/Sharkur/commit/067ed03) reposilite
 
 
 ___
