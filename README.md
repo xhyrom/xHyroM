@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
+  * [#58b99a8](https://github.com/SharkurMC/website/commit/58b99a8) fix: script
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#588fa74](https://github.com/xHyroM/covid19-stats/commit/588fa74) 2022/07/03 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `tiktokbot`
@@ -22,8 +24,6 @@ ___
   * [#efa4057](https://github.com/xHyroM/covid19-stats/commit/efa4057) 2022/07/02 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#48fa833](https://github.com/Garlic-Team/docs/commit/48fa833) Docs build for branch next: 9625eacbfc00a5cefe998e28bcb505a4de0cca03
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#9fe0417](https://github.com/Garlic-Team/docs/commit/9fe0417) Docs build for branch next: 9d0279429d3825ba1e17b01d23a60d0e40f55aa4
 
 
 ___
