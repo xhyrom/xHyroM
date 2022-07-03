@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#e90cd5b](https://github.com/SharkurMC/Sharkur/commit/e90cd5b) update version fetcher
-* ⏺️ Created new repository  [SharkurMC/utilities](https://github.com/SharkurMC/utilities)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#31fe911](https://github.com/SharkurMC/Sharkur/commit/31fe911) Bump bungeecord-chat to 1.19-RO.1
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#b627604](https://github.com/SharkurMC/Sharkur/commit/b627604) [ci-skip] update README
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#7426a71](https://github.com/SharkurMC/Sharkur/commit/7426a71) fix: missing =
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#e112549](https://github.com/SharkurMC/utilities/commit/e112549) update
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#c88819f](https://github.com/SharkurMC/utilities/commit/c88819f) java utilities
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#0d360c8](https://github.com/SharkurMC/utilities/commit/0d360c8) Create LICENSE
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#76950f8](https://github.com/SharkurMC/utilities/commit/76950f8) remove idea folder
+* ⏺️ Created new branch main in [SharkurMC/utilities](https://github.com/SharkurMC/utilities)
 
 
 ___
