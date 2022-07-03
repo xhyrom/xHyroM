@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#db4ec9f](https://github.com/SharkurMC/Sharkur/commit/db4ec9f) fix build.gradlew
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#9439179](https://github.com/SharkurMC/Sharkur/commit/9439179) new build.gradle
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#dd622e8](https://github.com/SharkurMC/Sharkur/commit/dd622e8) Update Upstream (Purpur)
 * ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
   * [#58b99a8](https://github.com/SharkurMC/website/commit/58b99a8) fix: script
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#588fa74](https://github.com/xHyroM/covid19-stats/commit/588fa74) 2022/07/03 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `tiktokbot`
-  * [#04aa533](https://github.com/Garlic-Team/other-stuff/commit/04aa533) fix: use tiktok-web-api instead of tiktok-scraper :P
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#efa4057](https://github.com/xHyroM/covid19-stats/commit/efa4057) 2022/07/02 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#48fa833](https://github.com/Garlic-Team/docs/commit/48fa833) Docs build for branch next: 9625eacbfc00a5cefe998e28bcb505a4de0cca03
 
 
 ___
