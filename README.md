@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#0873e43](https://github.com/xHyroM/covid19-stats/commit/0873e43) 2022/07/04 stats
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#3c83bd4](https://github.com/SharkurMC/Sharkur/commit/3c83bd4) [ci-skip] update repo url
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#5a5f1c8](https://github.com/SharkurMC/utilities/commit/5a5f1c8) [ci-skip] change repo url
+  * [#db1f7b2](https://github.com/SharkurMC/utilities/commit/db1f7b2) update
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#c1217b1](https://github.com/SharkurMC/utilities/commit/c1217b1) chore: update jenkins
+  * [#9f3452d](https://github.com/SharkurMC/utilities/commit/9f3452d) update updater
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#fe5b3a8](https://github.com/SharkurMC/utilities/commit/fe5b3a8) jenkins
+  * [#d2b10f3](https://github.com/SharkurMC/utilities/commit/d2b10f3) update
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#05bd73e](https://github.com/SharkurMC/utilities/commit/05bd73e) remove test/
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#6297e9f](https://github.com/SharkurMC/utilities/commit/6297e9f) remove test/
 
 
 ___
