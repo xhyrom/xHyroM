@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#e3e69a5](https://github.com/SharkurMC/utilities/commit/e3e69a5) finish updater
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#db1f7b2](https://github.com/SharkurMC/utilities/commit/db1f7b2) update
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#9f3452d](https://github.com/SharkurMC/utilities/commit/9f3452d) update updater
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#d2b10f3](https://github.com/SharkurMC/utilities/commit/d2b10f3) update
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#05bd73e](https://github.com/SharkurMC/utilities/commit/05bd73e) remove test/
+  * [#693d8c6](https://github.com/SharkurMC/utilities/commit/693d8c6) fix java updater
+* ➡️ Pushed 1 commit in [SharkurMC/website](https://github.com/SharkurMC/website) on branch `main`
+  * [#87dceeb](https://github.com/SharkurMC/website/commit/87dceeb) fix: optional chaining in changes
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#7010e1c](https://github.com/SharkurMC/crodylus/commit/7010e1c) fix: changes
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#e114a39](https://github.com/SharkurMC/Sharkur/commit/e114a39) missing patch in api
+* ➡️ Pushed 1 commit in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
+  * [#00bc938](https://github.com/SharkurMC/crodylus/commit/00bc938) Update projects.ts
 
 
 ___
