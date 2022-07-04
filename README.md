@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#0873e43](https://github.com/xHyroM/covid19-stats/commit/0873e43) 2022/07/04 stats
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#3c83bd4](https://github.com/SharkurMC/Sharkur/commit/3c83bd4) [ci-skip] update repo url
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
@@ -22,8 +24,6 @@ ___
   * [#c1217b1](https://github.com/SharkurMC/utilities/commit/c1217b1) chore: update jenkins
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#fe5b3a8](https://github.com/SharkurMC/utilities/commit/fe5b3a8) jenkins
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#27cfc86](https://github.com/SharkurMC/utilities/commit/27cfc86) chore: add build workflow
 
 
 ___
