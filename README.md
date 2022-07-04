@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#3c83bd4](https://github.com/SharkurMC/Sharkur/commit/3c83bd4) [ci-skip] update repo url
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#5a5f1c8](https://github.com/SharkurMC/utilities/commit/5a5f1c8) [ci-skip] change repo url
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#c1217b1](https://github.com/SharkurMC/utilities/commit/c1217b1) chore: update jenkins
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#fe5b3a8](https://github.com/SharkurMC/utilities/commit/fe5b3a8) jenkins
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#27cfc86](https://github.com/SharkurMC/utilities/commit/27cfc86) chore: add build workflow
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#2d9e4c3](https://github.com/SharkurMC/utilities/commit/2d9e4c3) finish scoreboard
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#3e9aa92](https://github.com/SharkurMC/utilities/commit/3e9aa92) remove useless imports
 
 
 ___
