@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#e3e69a5](https://github.com/SharkurMC/utilities/commit/e3e69a5) finish updater
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#db1f7b2](https://github.com/SharkurMC/utilities/commit/db1f7b2) update
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#9f3452d](https://github.com/SharkurMC/utilities/commit/9f3452d) update updater
@@ -22,8 +24,6 @@ ___
   * [#d2b10f3](https://github.com/SharkurMC/utilities/commit/d2b10f3) update
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#05bd73e](https://github.com/SharkurMC/utilities/commit/05bd73e) remove test/
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#6297e9f](https://github.com/SharkurMC/utilities/commit/6297e9f) remove test/
 
 
 ___
