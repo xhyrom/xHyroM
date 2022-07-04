@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#c1217b1](https://github.com/SharkurMC/utilities/commit/c1217b1) chore: update jenkins
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#fe5b3a8](https://github.com/SharkurMC/utilities/commit/fe5b3a8) jenkins
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#27cfc86](https://github.com/SharkurMC/utilities/commit/27cfc86) chore: add build workflow
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#2d9e4c3](https://github.com/SharkurMC/utilities/commit/2d9e4c3) finish scoreboard
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
   * [#3e9aa92](https://github.com/SharkurMC/utilities/commit/3e9aa92) remove useless imports
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#402a836](https://github.com/SharkurMC/utilities/commit/402a836) feat: add randomSecureString
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#4084d9d](https://github.com/SharkurMC/utilities/commit/4084d9d) Add README
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#986e627](https://github.com/SharkurMC/utilities/commit/986e627) style: remove useless comments from pom.xml
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#97cb147](https://github.com/SharkurMC/utilities/commit/97cb147) fix: randomString
 
 
 ___
