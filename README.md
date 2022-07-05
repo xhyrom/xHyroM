@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#b600595](https://github.com/SharkurMC/utilities/commit/b600595) fix: remove jenkins
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#ee8dbbc](https://github.com/SharkurMC/utilities/commit/ee8dbbc) minecraft utils: fix scoreboard
+* 💬 Commented on [#467 Scoreboard (with Teams) problem](https://github.com/ViaVersion/ViaBackwards/issues/467) from [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
 * #️⃣ Opened [#467 Scoreboard (Teams) problem](https://github.com/ViaVersion/ViaBackwards/issues/467) in [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#131f8e3](https://github.com/SharkurMC/Sharkur/commit/131f8e3) fix bugs in updater
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#4bb95ce](https://github.com/SharkurMC/Sharkur/commit/4bb95ce) fix latest version check, get last successfull build id
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#091bbee](https://github.com/SharkurMC/Sharkur/commit/091bbee) fix: updater
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#603459a](https://github.com/xHyroM/covid19-stats/commit/603459a) 2022/07/05 stats
 
 
 ___
