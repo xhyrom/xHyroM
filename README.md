@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
+  * [#131f8e3](https://github.com/SharkurMC/Sharkur/commit/131f8e3) fix bugs in updater
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#4bb95ce](https://github.com/SharkurMC/Sharkur/commit/4bb95ce) fix latest version check, get last successfull build id
 * ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
   * [#091bbee](https://github.com/SharkurMC/Sharkur/commit/091bbee) fix: updater
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#603459a](https://github.com/xHyroM/covid19-stats/commit/603459a) 2022/07/05 stats
 * #️⃣ Closed [#6 Finish (auto) updater](https://github.com/SharkurMC/Sharkur/issues/6) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#dbff3d6](https://github.com/SharkurMC/Sharkur/commit/dbff3d6) use comments instead of deleting
 
 
 ___
