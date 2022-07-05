@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#811dd84](https://github.com/SharkurMC/utilities/commit/811dd84) update java updater
 * 🔃 Opened [#9 [Snyk] Security upgrade @discordjs/opus from 0.3.3 to 0.8.0](https://github.com/xHyroM/BlobRadio/pull/9) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
   * 2 files changed `++226 --647`
 * ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-c7754125362cad2e4d3b52f56a41082c`
@@ -23,8 +25,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-DISCORDJSOPUS-2403100
 * ⏺️ Created new branch snyk-fix-c7754125362cad2e4d3b52f56a41082c in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
 * #️⃣ Opened [#6 Finish (auto) updater](https://github.com/SharkurMC/Sharkur/issues/6) in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur)
-* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19`
-  * [#1cd13c7](https://github.com/SharkurMC/Sharkur/commit/1cd13c7) update sharkur auto updater, TODO: finish it
 
 
 ___
