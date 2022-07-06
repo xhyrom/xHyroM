@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#53855e2](https://github.com/xHyroM/covid19-stats/commit/53855e2) 2022/07/06 stats
 * ➡️ Pushed 2 commits in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
   * [#70dae4b](https://github.com/xHyroM/mc-localhost/commit/70dae4b) Merge branch &#39;main&#39; of https://github.com/xHyroM/mc-localhost
 * ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
@@ -22,8 +24,6 @@ ___
   * 16 files changed `++6651 --0`
 * ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
   * [#8824401](https://github.com/xHyroM/mc-localhost/commit/8824401) typescript
-* ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
-  * [#add1299](https://github.com/xHyroM/mc-localhost/commit/add1299) new folders
 
 
 ___
