@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#6 Issue with the latest version (v1.0.0)](https://github.com/xHyroM/NexusBlock/issues/6) in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 2 commits in [SharkurMC/crodylus](https://github.com/SharkurMC/crodylus) on branch `master`
   * [#5865173](https://github.com/SharkurMC/crodylus/commit/5865173) Merge branch &#39;master&#39; of https://github.com/SharkurMC/crodylus
 * ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#f193291](https://github.com/LendMarkNetwork/Packtypus/commit/f193291) update comment
 * ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
   * [#1f29334](https://github.com/LendMarkNetwork/Packtypus/commit/1f29334) finish upload and download
-* ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
-  * [#8b879c0](https://github.com/LendMarkNetwork/Packtypus/commit/8b879c0) remove projects.json
 
 
 ___
