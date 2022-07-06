@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🍽️ Forked [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) to [xHyroM/bun](https://github.com/xHyroM/bun)
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#f19b474](https://github.com/SharkurMC/utilities/commit/f19b474) fix
+* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
+  * [#c9670bf](https://github.com/SharkurMC/utilities/commit/c9670bf) add legacy scoreboard
 * ⏺️ Created new branch master in [xHyroM/hypilus](https://github.com/xHyroM/hypilus)
 * ⏺️ Created new repository  [xHyroM/go](https://github.com/xHyroM/go)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#53855e2](https://github.com/xHyroM/covid19-stats/commit/53855e2) 2022/07/06 stats
-* ➡️ Pushed 2 commits in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
-  * [#70dae4b](https://github.com/xHyroM/mc-localhost/commit/70dae4b) Merge branch &#39;main&#39; of https://github.com/xHyroM/mc-localhost
-* ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
-  * [#bc2867f](https://github.com/xHyroM/mc-localhost/commit/bc2867f) remove server/ folder
 
 
 ___
