@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/go](https://github.com/xHyroM/go)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#53855e2](https://github.com/xHyroM/covid19-stats/commit/53855e2) 2022/07/06 stats
 * ➡️ Pushed 2 commits in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#bc2867f](https://github.com/xHyroM/mc-localhost/commit/bc2867f) remove server/ folder
 * 🔃 Opened [#3 [WIP] feat: big improvements](https://github.com/Jozo233/mc-localhost/pull/3) in [Jozo233/mc-localhost](https://github.com/Jozo233/mc-localhost)
   * 16 files changed `++6651 --0`
-* ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
-  * [#8824401](https://github.com/xHyroM/mc-localhost/commit/8824401) typescript
 
 
 ___
