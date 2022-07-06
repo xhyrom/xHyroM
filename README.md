@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch master in [xHyroM/hypilus](https://github.com/xHyroM/hypilus)
 * ⏺️ Created new repository  [xHyroM/go](https://github.com/xHyroM/go)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#53855e2](https://github.com/xHyroM/covid19-stats/commit/53855e2) 2022/07/06 stats
@@ -21,8 +22,6 @@ ___
   * [#70dae4b](https://github.com/xHyroM/mc-localhost/commit/70dae4b) Merge branch &#39;main&#39; of https://github.com/xHyroM/mc-localhost
 * ➡️ Pushed 1 commit in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost) on branch `main`
   * [#bc2867f](https://github.com/xHyroM/mc-localhost/commit/bc2867f) remove server/ folder
-* 🔃 Opened [#3 [WIP] feat: big improvements](https://github.com/Jozo233/mc-localhost/pull/3) in [Jozo233/mc-localhost](https://github.com/Jozo233/mc-localhost)
-  * 16 files changed `++6651 --0`
 
 
 ___
