@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 * 💼 Added [iZboxo](https://github.com/iZboxo) as collaborator in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost)
 * 🔃 Opened [#289 feat: new template blank](https://github.com/Jarred-Sumner/bun/pull/289) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
   * 2 files changed `++6 --0`
 * ⏺️ Created new branch new-template-blank in [xHyroM/bun](https://github.com/xHyroM/bun)
 * 🍽️ Forked [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) to [xHyroM/bun](https://github.com/xHyroM/bun)
-* ➡️ Pushed 1 commit in [SharkurMC/utilities](https://github.com/SharkurMC/utilities) on branch `main`
-  * [#f19b474](https://github.com/SharkurMC/utilities/commit/f19b474) fix
 
 
 ___
