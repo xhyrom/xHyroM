@@ -14,13 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `new-template-blank`
-  * [#7751539](https://github.com/xHyroM/bun/commit/7751539) update hello world
-* 🌟 Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-* 💼 Added [iZboxo](https://github.com/iZboxo) as collaborator in [xHyroM/mc-localhost](https://github.com/xHyroM/mc-localhost)
-* 🔃 Opened [#289 feat: new template blank](https://github.com/Jarred-Sumner/bun/pull/289) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-  * 2 files changed `++6 --0`
-* ⏺️ Created new branch new-template-blank in [xHyroM/bun](https://github.com/xHyroM/bun)
+* ➡️ Pushed 2 commits in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `master`
+  * [#184f09c](https://github.com/xHyroM/Shortener/commit/184f09c) [Snyk] Security upgrade mongodb-client-encryption from 1.2.7 to 2.0.0
+
+[Snyk] Security upgrade mongodb-client-encryption from 1.2.7 to 2.0.0
+  * [#c17ee8e](https://github.com/xHyroM/Shortener/commit/c17ee8e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+* 🔃 Merged [#9 [Snyk] Security upgrade mongodb-client-encryption from 1.2.7 to 2.0.0](https://github.com/xHyroM/Shortener/pull/9) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
+  * 2 files changed `++243 --89`
+* 🔃 Closed [#25 [Snyk] Security upgrade next-auth from 4.0.6 to 4.3.4](https://github.com/xHyroM/Uptimo/pull/25) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
+  * 2 files changed `++11 --21`
 
 
 ___
