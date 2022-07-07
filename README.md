@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [honojs/hono](https://github.com/honojs/hono)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#b41b69d](https://github.com/xHyroM/covid19-stats/commit/b41b69d) 2022/07/07 stats
 * 💬 Commented on [#289 feat: new blank template](https://github.com/Jarred-Sumner/bun/issues/289) from [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `new-template-blank`
   * [#82e2dfb](https://github.com/xHyroM/bun/commit/82e2dfb) add tsconfig
 * ⏺️ Created new repository  [xHyroM/patch-package](https://github.com/xHyroM/patch-package)
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `bun-support`
-  * [#2256f1d](https://github.com/xHyroM/patch-package/commit/2256f1d) add support for bun
 
 
 ___
