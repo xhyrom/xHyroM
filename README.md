@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 I got bored](https://github.com/Garlic-Team/powercord-installer/issues/6) from [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
 * ➡️ Pushed 2 commits in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `master`
   * [#184f09c](https://github.com/xHyroM/Shortener/commit/184f09c) [Snyk] Security upgrade mongodb-client-encryption from 1.2.7 to 2.0.0
 
@@ -24,8 +25,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
 * 🔃 Merged [#9 [Snyk] Security upgrade mongodb-client-encryption from 1.2.7 to 2.0.0](https://github.com/xHyroM/Shortener/pull/9) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
   * 2 files changed `++243 --89`
-* 🔃 Closed [#25 [Snyk] Security upgrade next-auth from 4.0.6 to 4.3.4](https://github.com/xHyroM/Uptimo/pull/25) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-  * 2 files changed `++11 --21`
 
 
 ___
