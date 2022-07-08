@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#435 style(napi): remove useless comments](https://github.com/Jarred-Sumner/bun/pull/435) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+  * 1 file changed `++0 --97`
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/napi/emove-comments`
+  * [#7f97d41](https://github.com/xHyroM/bun/commit/7f97d41) remove comments
+* ⏺️ Created new branch chore/napi/emove-comments in [xHyroM/bun](https://github.com/xHyroM/bun)
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#62de9e9](https://github.com/xHyroM/patch-package/commit/62de9e9) tests(rust-bindings): fix test
-* ⏺️ Created new branch master in [xHyroM/patch-package](https://github.com/xHyroM/patch-package)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#2ec4fcb](https://github.com/xHyroM/covid19-stats/commit/2ec4fcb) 2022/07/08 stats
-* ⏺️ Created new branch chore/workflow_update_bumper in [xHyroM/bun](https://github.com/xHyroM/bun)
 
 
 ___
