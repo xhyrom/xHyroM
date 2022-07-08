@@ -14,18 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
+  * [#fff82e0](https://github.com/xHyroM/bun-dependencies/commit/fff82e0) add cache
+* ⏺️ Created new branch chore/workflow in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies)
+* 🍽️ Forked [sno2/bun-dependencies](https://github.com/sno2/bun-dependencies) to [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies)
+* 💬 Commented on [#6 I got bored](https://github.com/Garlic-Team/powercord-installer/issues/6) from [Garlic-Team/powercord-installer](https://github.com/Garlic-Team/powercord-installer)
 * 🔃 Opened [#27 [Snyk] Security upgrade next-auth from 4.3.2 to 4.9.0](https://github.com/xHyroM/Uptimo/pull/27) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
   * 2 files changed `++10 --10`
-* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-2aa8c711f9ff859b8e2c2053eb298b08`
-  * [#cb81472](https://github.com/xHyroM/Uptimo/commit/cb81472) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2944244
-* ⏺️ Created new branch snyk-fix-2aa8c711f9ff859b8e2c2053eb298b08 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#e22b749](https://github.com/xHyroM/xHyroM/commit/e22b749) chore: update language limit
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `main`
-  * [#bb9d241](https://github.com/xHyroM/patch-package/commit/bb9d241) chore: add workflow
 
 
 ___
