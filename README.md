@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [iZboxo/world](https://github.com/iZboxo/world)
 * 🔃 Opened [#435 style(napi): remove useless comments](https://github.com/Jarred-Sumner/bun/pull/435) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
   * 1 file changed `++0 --97`
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/napi/emove-comments`
