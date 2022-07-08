@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#a720217](https://github.com/xHyroM/patch-package/commit/a720217) remove patches/
+* ➡️ Pushed 5 commits in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#b029c60](https://github.com/xHyroM/patch-package/commit/b029c60) apply patches
+  * [#fc9afe2](https://github.com/xHyroM/patch-package/commit/fc9afe2) init
+  * [#933e74c](https://github.com/xHyroM/patch-package/commit/933e74c) init
+  * [#4387fa2](https://github.com/xHyroM/patch-package/commit/4387fa2) init
+  * [#c35a152](https://github.com/xHyroM/patch-package/commit/c35a152) init
 * ➡️ Pushed 25 commits in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#6dbcd95](https://github.com/xHyroM/patch-package/commit/6dbcd95) init
   * [#2083d57](https://github.com/xHyroM/patch-package/commit/2083d57) init
@@ -79,9 +87,6 @@ ___
 * create scripts/ folder
 
 * i love colors 🚀
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#3790cde](https://github.com/xHyroM/patch-package/commit/3790cde) some improvements
-* 🌟 Starred [iZboxo/world](https://github.com/iZboxo/world)
 
 
 ___
