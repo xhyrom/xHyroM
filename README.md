@@ -14,6 +14,29 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 25 commits in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#6dbcd95](https://github.com/xHyroM/patch-package/commit/6dbcd95) init
+  * [#2083d57](https://github.com/xHyroM/patch-package/commit/2083d57) init
+  * [#c67cc53](https://github.com/xHyroM/patch-package/commit/c67cc53) init
+  * [#a8f69bf](https://github.com/xHyroM/patch-package/commit/a8f69bf) init
+  * [#af81924](https://github.com/xHyroM/patch-package/commit/af81924) init
+  * [#298a87a](https://github.com/xHyroM/patch-package/commit/298a87a) init
+  * [#a40a871](https://github.com/xHyroM/patch-package/commit/a40a871) init
+  * [#d344749](https://github.com/xHyroM/patch-package/commit/d344749) init
+  * [#5e72c78](https://github.com/xHyroM/patch-package/commit/5e72c78) init
+  * [#23e89a5](https://github.com/xHyroM/patch-package/commit/23e89a5) init
+  * [#9d43763](https://github.com/xHyroM/patch-package/commit/9d43763) init
+  * [#142f59f](https://github.com/xHyroM/patch-package/commit/142f59f) init
+  * [#3352fa9](https://github.com/xHyroM/patch-package/commit/3352fa9) init
+  * [#b36eda1](https://github.com/xHyroM/patch-package/commit/b36eda1) init
+  * [#9308823](https://github.com/xHyroM/patch-package/commit/9308823) init
+  * [#5a578cc](https://github.com/xHyroM/patch-package/commit/5a578cc) init
+  * [#e92467b](https://github.com/xHyroM/patch-package/commit/e92467b) init
+  * [#bea8725](https://github.com/xHyroM/patch-package/commit/bea8725) init
+  * [#9db5468](https://github.com/xHyroM/patch-package/commit/9db5468) init
+  * [#553fa07](https://github.com/xHyroM/patch-package/commit/553fa07) init
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#390076d](https://github.com/xHyroM/patch-package/commit/390076d) finish makePatch (TODO: remove ignored files)
 * ➡️ Pushed 3 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `master`
   * [#ee498f0](https://github.com/xHyroM/bun-dependencies/commit/ee498f0) uni
   * [#b721f49](https://github.com/xHyroM/bun-dependencies/commit/b721f49) ew
@@ -59,10 +82,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#3790cde](https://github.com/xHyroM/patch-package/commit/3790cde) some improvements
 * 🌟 Starred [iZboxo/world](https://github.com/iZboxo/world)
-* 🔃 Opened [#435 style(napi): remove useless comments](https://github.com/Jarred-Sumner/bun/pull/435) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-  * 1 file changed `++0 --97`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/napi/emove-comments`
-  * [#7f97d41](https://github.com/xHyroM/bun/commit/7f97d41) remove comments
 
 
 ___
