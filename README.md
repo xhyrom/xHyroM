@@ -15,16 +15,11 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#19c18d9](https://github.com/xHyroM/bun-dependencies/commit/19c18d9) check if cache is saved, change error handling to ignore
+  * [#a13ad6e](https://github.com/xHyroM/bun-dependencies/commit/a13ad6e) custom array
+* ⏺️ Created new branch staged in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies)
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#3746fea](https://github.com/xHyroM/bun-dependencies/commit/3746fea) remove if
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#39bc471](https://github.com/xHyroM/bun-dependencies/commit/39bc471) change cache key
-* ➡️ Pushed 6 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#55d98e3](https://github.com/xHyroM/bun-dependencies/commit/55d98e3) Merge branch &#39;sno2:master&#39; into chore/workflow
-* ➡️ Pushed 2 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `master`
-  * [#e11a336](https://github.com/xHyroM/bun-dependencies/commit/e11a336) aitwoeaui
-  * [#cba059d](https://github.com/xHyroM/bun-dependencies/commit/cba059d) aweito
+  * [#a2d26be](https://github.com/xHyroM/bun-dependencies/commit/a2d26be) remove make x steps, add make deps
+* 💬 Commented on [#1 chore(workflow): speed up and clean up](https://github.com/sno2/bun-dependencies/issues/1) from [sno2/bun-dependencies](https://github.com/sno2/bun-dependencies)
 
 
 ___
