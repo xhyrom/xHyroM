@@ -14,12 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1 chore(workflow): speed up and clean up](https://github.com/sno2/bun-dependencies/issues/1) from [sno2/bun-dependencies](https://github.com/sno2/bun-dependencies)
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
+  * [#dadd28c](https://github.com/xHyroM/bun-dependencies/commit/dadd28c) i love colors 🚀
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
+  * [#6a7f1ee](https://github.com/xHyroM/bun-dependencies/commit/6a7f1ee) create scripts/ folder
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
   * [#a13ad6e](https://github.com/xHyroM/bun-dependencies/commit/a13ad6e) custom array
 * ⏺️ Created new branch staged in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies)
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#a2d26be](https://github.com/xHyroM/bun-dependencies/commit/a2d26be) remove make x steps, add make deps
-* 💬 Commented on [#1 chore(workflow): speed up and clean up](https://github.com/sno2/bun-dependencies/issues/1) from [sno2/bun-dependencies](https://github.com/sno2/bun-dependencies)
 
 
 ___
