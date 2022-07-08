@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#3790cde](https://github.com/xHyroM/patch-package/commit/3790cde) some improvements
 * 🌟 Starred [iZboxo/world](https://github.com/iZboxo/world)
 * 🔃 Opened [#435 style(napi): remove useless comments](https://github.com/Jarred-Sumner/bun/pull/435) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
   * 1 file changed `++0 --97`
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/napi/emove-comments`
   * [#7f97d41](https://github.com/xHyroM/bun/commit/7f97d41) remove comments
 * ⏺️ Created new branch chore/napi/emove-comments in [xHyroM/bun](https://github.com/xHyroM/bun)
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#62de9e9](https://github.com/xHyroM/patch-package/commit/62de9e9) tests(rust-bindings): fix test
 
 
 ___
