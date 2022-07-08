@@ -15,17 +15,16 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#d441779](https://github.com/xHyroM/bun-dependencies/commit/d441779) idk
+  * [#19c18d9](https://github.com/xHyroM/bun-dependencies/commit/19c18d9) check if cache is saved, change error handling to ignore
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#c64f021](https://github.com/xHyroM/bun-dependencies/commit/c64f021) fix restore-keys
+  * [#3746fea](https://github.com/xHyroM/bun-dependencies/commit/3746fea) remove if
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#9535ad8](https://github.com/xHyroM/bun-dependencies/commit/9535ad8) add brew update
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
-  * [#ebd5db0](https://github.com/xHyroM/bun-dependencies/commit/ebd5db0) update ubuntu version, cache
-* ➡️ Pushed 3 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `master`
-  * [#64ccb0b](https://github.com/xHyroM/bun-dependencies/commit/64ccb0b) weioewq
-  * [#07354de](https://github.com/xHyroM/bun-dependencies/commit/07354de) wearsfc
-  * [#4a09da3](https://github.com/xHyroM/bun-dependencies/commit/4a09da3) error on commit push
+  * [#39bc471](https://github.com/xHyroM/bun-dependencies/commit/39bc471) change cache key
+* ➡️ Pushed 6 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `chore/workflow`
+  * [#55d98e3](https://github.com/xHyroM/bun-dependencies/commit/55d98e3) Merge branch &#39;sno2:master&#39; into chore/workflow
+* ➡️ Pushed 2 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `master`
+  * [#e11a336](https://github.com/xHyroM/bun-dependencies/commit/e11a336) aitwoeaui
+  * [#cba059d](https://github.com/xHyroM/bun-dependencies/commit/cba059d) aweito
 
 
 ___
