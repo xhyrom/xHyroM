@@ -14,6 +14,48 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 3 commits in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `master`
+  * [#ee498f0](https://github.com/xHyroM/bun-dependencies/commit/ee498f0) uni
+  * [#b721f49](https://github.com/xHyroM/bun-dependencies/commit/b721f49) ew
+  * [#65f8260](https://github.com/xHyroM/bun-dependencies/commit/65f8260) chore(workflow): speed up and clean up (#1)
+
+* add cache
+
+* fix cache
+
+* update ubuntu version, cache
+
+* add brew update
+
+* fix restore-keys
+
+* idk
+
+* cache everything lol
+
+* cache everything lol
+
+* change cache key
+
+* remove if
+
+* check if cache is saved, change error handling to ignore
+
+* add step install libffi
+
+* Update build.yml
+
+* Update build.yml
+
+* link all deps
+
+* remove make x steps, add make deps
+
+* custom array
+
+* create scripts/ folder
+
+* i love colors 🚀
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#3790cde](https://github.com/xHyroM/patch-package/commit/3790cde) some improvements
 * 🌟 Starred [iZboxo/world](https://github.com/iZboxo/world)
@@ -21,7 +63,6 @@ ___
   * 1 file changed `++0 --97`
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/napi/emove-comments`
   * [#7f97d41](https://github.com/xHyroM/bun/commit/7f97d41) remove comments
-* ⏺️ Created new branch chore/napi/emove-comments in [xHyroM/bun](https://github.com/xHyroM/bun)
 
 
 ___
