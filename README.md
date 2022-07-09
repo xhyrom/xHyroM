@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
+  * [#7d140de](https://github.com/xHyroM/patch-package/commit/7d140de) Update CI.yml
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#ada64b2](https://github.com/xHyroM/patch-package/commit/ada64b2) remove CI from master
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#079f0c7](https://github.com/xHyroM/patch-package/commit/079f0c7) remove dist folder
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#3fc3ff3](https://github.com/xHyroM/patch-package/commit/3fc3ff3) cleanup
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#c3de791](https://github.com/xHyroM/patch-package/commit/c3de791) update submodule
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
-  * [#b8c3a49](https://github.com/xHyroM/patch-package/commit/b8c3a49) 0.1.0
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
-  * [#87497f9](https://github.com/xHyroM/patch-package/commit/87497f9) fix tests
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
-  * [#1b85e6b](https://github.com/xHyroM/patch-package/commit/1b85e6b) 0.1.0
 
 
 ___
