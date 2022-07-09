@@ -14,9 +14,9 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch master in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ⏺️ Created new branch main in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ⏺️ Created new branch mainr in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ⏺️ Created new branch main in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
