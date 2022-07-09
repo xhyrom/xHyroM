@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#b7a014f](https://github.com/xHyroM/patch-package/commit/b7a014f) add bun to path
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#427d415](https://github.com/xHyroM/patch-package/commit/427d415) fix publish workflow
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#2634499](https://github.com/xHyroM/patch-package/commit/2634499) 0.1.0
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#d99566f](https://github.com/xHyroM/patch-package/commit/d99566f) remove tests
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#70813bf](https://github.com/xHyroM/patch-package/commit/70813bf) remove tests
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
+  * [#b8c3a49](https://github.com/xHyroM/patch-package/commit/b8c3a49) 0.1.0
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
+  * [#87497f9](https://github.com/xHyroM/patch-package/commit/87497f9) fix tests
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
+  * [#1b85e6b](https://github.com/xHyroM/patch-package/commit/1b85e6b) 0.1.0
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
+  * [#cab7884](https://github.com/xHyroM/patch-package/commit/cab7884) Update index.spec.mjs
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#fefe714](https://github.com/xHyroM/covid19-stats/commit/fefe714) 2022/07/09 stats
 
 
 ___
