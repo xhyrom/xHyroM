@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#915 Bun support issue](https://github.com/neon-bindings/neon/issues/915) in [neon-bindings/neon](https://github.com/neon-bindings/neon)
+* ⏺️ Created new repository  [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `rust-bindings`
   * [#7d140de](https://github.com/xHyroM/patch-package/commit/7d140de) Update CI.yml
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#ada64b2](https://github.com/xHyroM/patch-package/commit/ada64b2) remove CI from master
 * ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
   * [#079f0c7](https://github.com/xHyroM/patch-package/commit/079f0c7) remove dist folder
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#3fc3ff3](https://github.com/xHyroM/patch-package/commit/3fc3ff3) cleanup
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#c3de791](https://github.com/xHyroM/patch-package/commit/c3de791) update submodule
 
 
 ___
