@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#548 Transition repos from Jarred-Sumner/ to oven-sh/](https://github.com/oven-sh/bun/issues/548) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#548 Transition repos from Jarred-Sumner/ to oven-sh/](https://github.com/oven-sh/bun/issues/548) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
-  * [#c1d4917](https://github.com/xHyroM/bun/commit/c1d4917) chore(feature-request): change feature request to enhancement
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
-  * [#65d6e28](https://github.com/xHyroM/bun/commit/65d6e28) chore(api-ref-docs): change doc to documentation
-* 🔃 Opened [#544 chore: update templates](https://github.com/oven-sh/bun/pull/544) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 2 files changed `++6 --0`
+* ➡️ Pushed 4 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#28aef00](https://github.com/xHyroM/bun-utilities/commit/28aef00) feat(spawn): Improve signature and generated types (https://github.com/xHyroM/bun-utilities/pull/2)
+  * [#c5d8173](https://github.com/xHyroM/bun-utilities/commit/c5d8173) feat(cwd): remove defaulting to /
+  * [#5003845](https://github.com/xHyroM/bun-utilities/commit/5003845) feat(types): add updated types
+  * [#553a1b6](https://github.com/xHyroM/bun-utilities/commit/553a1b6) feat(spawn): improve signature and add some better options and types
+* 🔃 Merged [#2 feat(spawn): Improve signature and generated types](https://github.com/xHyroM/bun-utilities/pull/2) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+  * 2 files changed `++81 --4`
+* 🔍 Reviewed [#2 Spawn: Improve signature and generated types](https://github.com/xHyroM/bun-utilities/pull/2) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
