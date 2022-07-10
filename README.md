@@ -14,13 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#cb07fde](https://github.com/xHyroM/bun-utilities/commit/cb07fde) feat: spawn function, basic README and script fix (https://github.com/xHyroM/bun-utilities/pull/1)
+  * [#cc21615](https://github.com/xHyroM/bun-utilities/commit/cc21615) feat(spawn,script): fix copy script, add spawn function with output
+* 🔃 Merged [#1 feat: spawn function, basic README and script fix](https://github.com/xHyroM/bun-utilities/pull/1) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+  * 5 files changed `++52 --2`
 * 🌟 Starred [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ⏺️ Created new repository  [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * 💬 Commented on [#523 fix `blank` template](https://github.com/Jarred-Sumner/bun/issues/523) from [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#1f58c5e](https://github.com/xHyroM/bun-utilities/commit/1f58c5e) some scripts, exec bindings, tests
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#dce4104](https://github.com/xHyroM/covid19-stats/commit/dce4104) 2022/07/10 stats
 
 
 ___
