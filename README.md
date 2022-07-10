@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#3f439b4](https://github.com/Garlic-Team/docs/commit/3f439b4) Docs build for branch next: 54cbca6ba3480cc76d75f33e5ea9beb1b402cc55
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#54cbca6](https://github.com/Garlic-Team/gcommands/commit/54cbca6) fix: description is not optional
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#cb07fde](https://github.com/xHyroM/bun-utilities/commit/cb07fde) feat: spawn function, basic README and script fix (https://github.com/xHyroM/bun-utilities/pull/1)
-  * [#cc21615](https://github.com/xHyroM/bun-utilities/commit/cc21615) feat(spawn,script): fix copy script, add spawn function with output
-* 🔃 Merged [#1 feat: spawn function, basic README and script fix](https://github.com/xHyroM/bun-utilities/pull/1) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-  * 5 files changed `++52 --2`
-* 🌟 Starred [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
+  * [#c1d4917](https://github.com/xHyroM/bun/commit/c1d4917) chore(feature-request): change feature request to enhancement
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
+  * [#65d6e28](https://github.com/xHyroM/bun/commit/65d6e28) chore(api-ref-docs): change doc to documentation
+* 🔃 Opened [#544 chore: update templates](https://github.com/oven-sh/bun/pull/544) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 2 files changed `++6 --0`
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
+  * [#3c435f7](https://github.com/xHyroM/bun/commit/3c435f7) chore(bug-report): add label bug, need repro
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
+  * [#659c3e0](https://github.com/xHyroM/bun/commit/659c3e0) chore: disable blank issues, add discord contact link
 
 
 ___
