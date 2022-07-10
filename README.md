@@ -14,14 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔍 Reviewed [#523 fix `blank` template](https://github.com/Jarred-Sumner/bun/pull/523) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+* 💬 Commented on [#915 Bun support issue](https://github.com/neon-bindings/neon/issues/915) from [neon-bindings/neon](https://github.com/neon-bindings/neon)
 * 💼 Added [TheFedaikin](https://github.com/TheFedaikin) as collaborator in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 💬 Commented on [#516 add partial node:net polyfill](https://github.com/Jarred-Sumner/bun/issues/516) from [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#0aefb1e](https://github.com/xHyroM/bun-utilities/commit/0aefb1e) probably fix for CI?
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#d298875](https://github.com/xHyroM/bun-utilities/commit/d298875) [skip ci] update gitattributes
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#00eb391](https://github.com/xHyroM/bun-utilities/commit/00eb391) [skip ci] update gitattributes
 
 
 ___
