@@ -15,14 +15,11 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#7710f9c](https://github.com/xHyroM/bun-discord-bot/commit/7710f9c) feat: new tags, fix: tag suggestion
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#031b129](https://github.com/xHyroM/bun-discord-bot/commit/031b129) feat: finish github command
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#d89b80c](https://github.com/xHyroM/bun-discord-bot/commit/d89b80c) feat: ping command, github command
-* ➡️ Pushed 4 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#28aef00](https://github.com/xHyroM/bun-utilities/commit/28aef00) feat(spawn): Improve signature and generated types (https://github.com/xHyroM/bun-utilities/pull/2)
-  * [#c5d8173](https://github.com/xHyroM/bun-utilities/commit/c5d8173) feat(cwd): remove defaulting to /
-  * [#5003845](https://github.com/xHyroM/bun-utilities/commit/5003845) feat(types): add updated types
-  * [#553a1b6](https://github.com/xHyroM/bun-utilities/commit/553a1b6) feat(spawn): improve signature and add some better options and types
-* 🔃 Merged [#2 feat(spawn): Improve signature and generated types](https://github.com/xHyroM/bun-utilities/pull/2) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-  * 2 files changed `++81 --4`
 
 
 ___
