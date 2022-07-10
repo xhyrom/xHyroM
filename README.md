@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#548 Transition repos from Jarred-Sumner/ to oven-sh/](https://github.com/oven-sh/bun/issues/548) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#548 Transition repos from Jarred-Sumner/ to oven-sh/](https://github.com/oven-sh/bun/issues/548) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
   * [#c1d4917](https://github.com/xHyroM/bun/commit/c1d4917) chore(feature-request): change feature request to enhancement
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
   * [#65d6e28](https://github.com/xHyroM/bun/commit/65d6e28) chore(api-ref-docs): change doc to documentation
 * 🔃 Opened [#544 chore: update templates](https://github.com/oven-sh/bun/pull/544) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 2 files changed `++6 --0`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
-  * [#3c435f7](https://github.com/xHyroM/bun/commit/3c435f7) chore(bug-report): add label bug, need repro
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/update-templates`
-  * [#659c3e0](https://github.com/xHyroM/bun/commit/659c3e0) chore: disable blank issues, add discord contact link
 
 
 ___
