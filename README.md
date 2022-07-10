@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * 💬 Commented on [#523 fix `blank` template](https://github.com/Jarred-Sumner/bun/issues/523) from [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#1f58c5e](https://github.com/xHyroM/bun-utilities/commit/1f58c5e) some scripts, exec bindings, tests
@@ -21,8 +22,6 @@ ___
   * [#dce4104](https://github.com/xHyroM/covid19-stats/commit/dce4104) 2022/07/10 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/other-stuff](https://github.com/Garlic-Team/other-stuff) on branch `youtubebot`
   * [#11f1873](https://github.com/Garlic-Team/other-stuff/commit/11f1873) fix: optional chaining
-* ➡️ Pushed 1 commit in [xHyroM/move-file-cli](https://github.com/xHyroM/move-file-cli) on branch `main`
-  * [#0c80e64](https://github.com/xHyroM/move-file-cli/commit/0c80e64) fix: check if exists
 
 
 ___
