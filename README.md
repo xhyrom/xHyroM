@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#3f439b4](https://github.com/Garlic-Team/docs/commit/3f439b4) Docs build for branch next: 54cbca6ba3480cc76d75f33e5ea9beb1b402cc55
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#54cbca6](https://github.com/Garlic-Team/gcommands/commit/54cbca6) fix: description is not optional
 * ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#cb07fde](https://github.com/xHyroM/bun-utilities/commit/cb07fde) feat: spawn function, basic README and script fix (https://github.com/xHyroM/bun-utilities/pull/1)
   * [#cc21615](https://github.com/xHyroM/bun-utilities/commit/cc21615) feat(spawn,script): fix copy script, add spawn function with output
 * 🔃 Merged [#1 feat: spawn function, basic README and script fix](https://github.com/xHyroM/bun-utilities/pull/1) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
   * 5 files changed `++52 --2`
 * 🌟 Starred [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ⏺️ Created new repository  [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-* 💬 Commented on [#523 fix `blank` template](https://github.com/Jarred-Sumner/bun/issues/523) from [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 
 
 ___
