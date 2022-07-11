@@ -15,13 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#229921a](https://github.com/xHyroM/bun-discord-bot/commit/229921a) tags: suppress embeds in responses
+  * [#8bbfafb](https://github.com/xHyroM/bun-discord-bot/commit/8bbfafb) chore: license
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#13668a9](https://github.com/xHyroM/bun-utilities/commit/13668a9) chore: license
+* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
+  * [#f03068f](https://github.com/xHyroM/patch-package/commit/f03068f) chore: license
+* ⏺️ Created new repository  [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#facd7cf](https://github.com/xHyroM/bun-discord-bot/commit/facd7cf) feat: support search syntax in github command
-* #️⃣ Closed [#1 test](https://github.com/xHyroM/patch-package-forked/issues/1) in [xHyroM/patch-package-forked](https://github.com/xHyroM/patch-package-forked)
-* #️⃣ Opened [#1 test](https://github.com/xHyroM/patch-package-forked/issues/1) in [xHyroM/patch-package-forked](https://github.com/xHyroM/patch-package-forked)
-* ➡️ Pushed 1 commit in [xHyroM/bench](https://github.com/xHyroM/bench) on branch `replace-autocannon`
-  * [#fed3b5c](https://github.com/xHyroM/bench/commit/fed3b5c) log it
+  * [#7e08e12](https://github.com/xHyroM/bun-discord-bot/commit/7e08e12) chore(README): update description
 
 
 ___
