@@ -15,17 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#13daca5](https://github.com/xHyroM/bun-utilities/commit/13daca5) chore(CI): fix publish job
-
-update artifacts script
+  * [#7e7364e](https://github.com/xHyroM/bun-utilities/commit/7e7364e) fix: import mkdirSync
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#709a93c](https://github.com/xHyroM/bun-utilities/commit/709a93c) tests: replace \r
+  * [#473eb5f](https://github.com/xHyroM/bun-utilities/commit/473eb5f) fix(scripts): missing import
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#71f9b7b](https://github.com/xHyroM/bun-utilities/commit/71f9b7b) chore(CI): fix typo
+  * [#7505b72](https://github.com/xHyroM/bun-utilities/commit/7505b72) chore: remove unused files
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#28805f6](https://github.com/xHyroM/bun-utilities/commit/28805f6) tets: use replace instead replaceAll
+  * [#22e9a12](https://github.com/xHyroM/bun-utilities/commit/22e9a12) fix(scripts): add check for lib/bindings
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#b37849d](https://github.com/xHyroM/bun-utilities/commit/b37849d) chore(CI): fix tests
+  * [#253c17e](https://github.com/xHyroM/bun-utilities/commit/253c17e) fix(scripts): moveArtifacts
 
 
 ___
