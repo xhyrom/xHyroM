@@ -14,25 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch feat/installer/use-original-repo in [xHyroM/bun](https://github.com/xHyroM/bun)
-* ➡️ Pushed 5 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `main`
-  * [#59113ea](https://github.com/xHyroM/bun/commit/59113ea) Update build-id
-  * [#5fc3537](https://github.com/xHyroM/bun/commit/5fc3537) feat(core): implement web interaction APIs (#528)
-
-* feat(core): implement web interaction APIs
-
-* fix(core): adjust web prompt code and add types
-  * [#6190130](https://github.com/xHyroM/bun/commit/6190130) [resolver] Stripe `file://` from import paths
-  * [#f6cd941](https://github.com/xHyroM/bun/commit/f6cd941) Fixes https://github.com/oven-sh/bun/issues/195
-  * [#a6c216d](https://github.com/xHyroM/bun/commit/a6c216d) Revert &#34;Fix: NotSameFileSystem at clonefile (#546)&#34; (#581)
-
-This reverts commit 2659febd1b74e8215ff7dbfb2d1b19f4b4f8a71a.
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#f774e52](https://github.com/xHyroM/bun-utilities/commit/f774e52) fix: update path for upload artifact
+  * [#fbb3b7e](https://github.com/xHyroM/bun-utilities/commit/fbb3b7e) chore(workflow): fit it
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#2100697](https://github.com/xHyroM/bun-utilities/commit/2100697) fix: remove bun in CI
+  * [#9b2e644](https://github.com/xHyroM/bun-utilities/commit/9b2e644) chore(workflow): remove windows
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#31fc921](https://github.com/xHyroM/bun-utilities/commit/31fc921) fix: use node :( for CI
+  * [#fbe3a3c](https://github.com/xHyroM/bun-utilities/commit/fbe3a3c) chore(workflow): uncomment windows
+* 🔃 Opened [#582 feat(installer): use this repository](https://github.com/oven-sh/bun/pull/582) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/installer/use-original-repo`
+  * [#4d02dfb](https://github.com/xHyroM/bun/commit/4d02dfb) feat(install): use this repository
+
+https://github.com/oven-sh/bun instead of https://github.com/Jarred-Sumner/bun-releases-for-updater
 
 
 ___
