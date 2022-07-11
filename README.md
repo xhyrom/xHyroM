@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#261 When using `bun add some-package` creates a package.json file, it lacks name and version property defaults](https://github.com/oven-sh/bun/issues/261) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#f482eca](https://github.com/xHyroM/setup-bun/commit/f482eca) chore: workflow
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#3a3e838](https://github.com/xHyroM/setup-bun/commit/3a3e838) chore: workflow
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5719068](https://github.com/xHyroM/covid19-stats/commit/5719068) 2022/07/11 stats
 * 📦 Released **v0.1.0** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ⏺️ Created new tag v0.1.0 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#99b7a54](https://github.com/xHyroM/setup-bun/commit/99b7a54) chore: README
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#56e1130](https://github.com/xHyroM/setup-bun/commit/56e1130) chore: build &amp; remove debug
 
 
 ___
