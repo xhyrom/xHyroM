@@ -15,17 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#fbb3b7e](https://github.com/xHyroM/bun-utilities/commit/fbb3b7e) chore(workflow): fit it
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#9b2e644](https://github.com/xHyroM/bun-utilities/commit/9b2e644) chore(workflow): remove windows
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#fbe3a3c](https://github.com/xHyroM/bun-utilities/commit/fbe3a3c) chore(workflow): uncomment windows
-* 🔃 Opened [#582 feat(installer): use this repository](https://github.com/oven-sh/bun/pull/582) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/installer/use-original-repo`
-  * [#4d02dfb](https://github.com/xHyroM/bun/commit/4d02dfb) feat(install): use this repository
+  * [#13daca5](https://github.com/xHyroM/bun-utilities/commit/13daca5) chore(CI): fix publish job
 
-https://github.com/oven-sh/bun instead of https://github.com/Jarred-Sumner/bun-releases-for-updater
+update artifacts script
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#709a93c](https://github.com/xHyroM/bun-utilities/commit/709a93c) tests: replace \r
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#71f9b7b](https://github.com/xHyroM/bun-utilities/commit/71f9b7b) chore(CI): fix typo
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#28805f6](https://github.com/xHyroM/bun-utilities/commit/28805f6) tets: use replace instead replaceAll
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#b37849d](https://github.com/xHyroM/bun-utilities/commit/b37849d) chore(CI): fix tests
 
 
 ___
