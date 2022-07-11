@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#5719068](https://github.com/xHyroM/covid19-stats/commit/5719068) 2022/07/11 stats
 * 📦 Released **v0.1.0** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ⏺️ Created new tag v0.1.0 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#99b7a54](https://github.com/xHyroM/setup-bun/commit/99b7a54) chore: README
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#56e1130](https://github.com/xHyroM/setup-bun/commit/56e1130) chore: build &amp; remove debug
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#ce4c816](https://github.com/xHyroM/setup-bun/commit/ce4c816) fix: use replace
 
 
 ___
