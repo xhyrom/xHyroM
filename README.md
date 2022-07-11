@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#8bbfafb](https://github.com/xHyroM/bun-discord-bot/commit/8bbfafb) chore: license
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#13668a9](https://github.com/xHyroM/bun-utilities/commit/13668a9) chore: license
-* ➡️ Pushed 1 commit in [xHyroM/patch-package](https://github.com/xHyroM/patch-package) on branch `master`
-  * [#f03068f](https://github.com/xHyroM/patch-package/commit/f03068f) chore: license
-* ⏺️ Created new repository  [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#7e08e12](https://github.com/xHyroM/bun-discord-bot/commit/7e08e12) chore(README): update description
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#763bd6c](https://github.com/xHyroM/setup-bun/commit/763bd6c) aaaaaaaaa
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#8c96e64](https://github.com/xHyroM/setup-bun/commit/8c96e64) chore: build
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#dfd8567](https://github.com/xHyroM/setup-bun/commit/dfd8567) debug
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#8463dee](https://github.com/xHyroM/setup-bun/commit/8463dee) fix: path
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#ec51d40](https://github.com/xHyroM/setup-bun/commit/ec51d40) fix: path
 
 
 ___
