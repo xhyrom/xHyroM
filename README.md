@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 📦 Released **v0.1.0** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ⏺️ Created new tag v0.1.0 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#763bd6c](https://github.com/xHyroM/setup-bun/commit/763bd6c) aaaaaaaaa
+  * [#99b7a54](https://github.com/xHyroM/setup-bun/commit/99b7a54) chore: README
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#8c96e64](https://github.com/xHyroM/setup-bun/commit/8c96e64) chore: build
+  * [#56e1130](https://github.com/xHyroM/setup-bun/commit/56e1130) chore: build &amp; remove debug
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#dfd8567](https://github.com/xHyroM/setup-bun/commit/dfd8567) debug
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#8463dee](https://github.com/xHyroM/setup-bun/commit/8463dee) fix: path
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#ec51d40](https://github.com/xHyroM/setup-bun/commit/ec51d40) fix: path
+  * [#ce4c816](https://github.com/xHyroM/setup-bun/commit/ce4c816) fix: use replace
 
 
 ___
