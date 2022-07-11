@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
+  * [#c50d17b](https://github.com/xHyroM/bun/commit/c50d17b) types: update header
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
+  * [#6fe44a8](https://github.com/xHyroM/bun/commit/6fe44a8) fix: use types from lib.dom.d.ts
 * 💬 Commented on [#578 fix(types): add missing types for ws](https://github.com/oven-sh/bun/pull/578) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🔍 Reviewed [#578 fix(types): add missing types for ws](https://github.com/oven-sh/bun/pull/578) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
@@ -22,10 +26,6 @@ ___
 \n
 
 index.d.ts\npaths.txt
-* 🔃 Opened [#578 fix(types): add missing types for ws](https://github.com/oven-sh/bun/pull/578) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++370 --0`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
-  * [#1df5e9e](https://github.com/xHyroM/bun/commit/1df5e9e) fix(types): add missing types for ws
 
 
 ___
