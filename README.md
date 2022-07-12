@@ -14,14 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#2 fix macos](https://github.com/xHyroM/setup-bun/issues/2) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* #️⃣ Opened [#1 fix cache ](https://github.com/xHyroM/setup-bun/issues/1) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#7e7364e](https://github.com/xHyroM/bun-utilities/commit/7e7364e) fix: import mkdirSync
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#473eb5f](https://github.com/xHyroM/bun-utilities/commit/473eb5f) fix(scripts): missing import
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#7505b72](https://github.com/xHyroM/bun-utilities/commit/7505b72) chore: remove unused files
+* 📦 Released **v0.1.1** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ⏺️ Created new tag v0.1.1 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#705032f](https://github.com/xHyroM/setup-bun/commit/705032f) chore: bump version
+* ➡️ Pushed 2 commits in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#dd174af](https://github.com/xHyroM/setup-bun/commit/dd174af) fix: change set-output name from `deno-version` to `bun-version`
+
+change set-output name from `deno-version` to `bun-version`
+  * [#cb10b94](https://github.com/xHyroM/setup-bun/commit/cb10b94) change set-output name from `deno-version` to `bun-version`
+* 🔃 Merged [#3 change set-output name from `deno-version` to `bun-version`](https://github.com/xHyroM/setup-bun/pull/3) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+  * 2 files changed `++6 --6`
 
 
 ___
