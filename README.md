@@ -14,15 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#3877513](https://github.com/xHyroM/covid19-stats/commit/3877513) 2022/07/12 stats
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#81ecfb5](https://github.com/xHyroM/setup-bun/commit/81ecfb5) chore: update package.json, license
+  * [#6dae544](https://github.com/xHyroM/setup-bun/commit/6dae544) fix: correct repo for misc test builds
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#054bb2f](https://github.com/xHyroM/setup-bun/commit/054bb2f) chore: build
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#9f7c2a5](https://github.com/xHyroM/setup-bun/commit/9f7c2a5) feat: add support for test builds
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#6d7a6f4](https://github.com/xHyroM/bun-utilities/commit/6d7a6f4) chore: add keywords
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#153791c](https://github.com/xHyroM/bun-utilities/commit/153791c) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-* #️⃣ Opened [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+  * [#a942305](https://github.com/xHyroM/bun-utilities/commit/a942305) chore: some updates
+
+chore(tests): add tests for spawn
+
+fix(lib): fix types for mjs
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#2d812a7](https://github.com/xHyroM/bun-utilities/commit/2d812a7) chore(CI): run tests for bun
 
 
 ___
