@@ -15,19 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#4e76dde](https://github.com/xHyroM/setup-bun/commit/4e76dde) fix: warn if bad version
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#5a78c10](https://github.com/xHyroM/setup-bun/commit/5a78c10) fix: verion.trim is not function
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#6dae544](https://github.com/xHyroM/setup-bun/commit/6dae544) fix: correct repo for misc test builds
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#054bb2f](https://github.com/xHyroM/setup-bun/commit/054bb2f) chore: build
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#9f7c2a5](https://github.com/xHyroM/setup-bun/commit/9f7c2a5) feat: add support for test builds
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#a942305](https://github.com/xHyroM/bun-utilities/commit/a942305) chore: some updates
-
-chore(tests): add tests for spawn
-
-fix(lib): fix types for mjs
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#2d812a7](https://github.com/xHyroM/bun-utilities/commit/2d812a7) chore(CI): run tests for bun
 
 
 ___
