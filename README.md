@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#e838800](https://github.com/xHyroM/setup-bun/commit/e838800) chore(CI): change job status
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#37657f4](https://github.com/xHyroM/setup-bun/commit/37657f4) fix: dont fail
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#633e7ab](https://github.com/xHyroM/setup-bun/commit/633e7ab) fix: dont error when invalid asset for miscTestBuilds
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#4e76dde](https://github.com/xHyroM/setup-bun/commit/4e76dde) fix: warn if bad version
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#5a78c10](https://github.com/xHyroM/setup-bun/commit/5a78c10) fix: verion.trim is not function
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#6dae544](https://github.com/xHyroM/setup-bun/commit/6dae544) fix: correct repo for misc test builds
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#054bb2f](https://github.com/xHyroM/setup-bun/commit/054bb2f) chore: build
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#9f7c2a5](https://github.com/xHyroM/setup-bun/commit/9f7c2a5) feat: add support for test builds
 
 
 ___
