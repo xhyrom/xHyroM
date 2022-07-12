@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#62d40e4](https://github.com/xHyroM/setup-bun/commit/62d40e4) chore(CI): update test
 * 💬 Commented on [#637 Incorrect Base URL](https://github.com/oven-sh/bun/issues/637) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#e838800](https://github.com/xHyroM/setup-bun/commit/e838800) chore(CI): change job status
@@ -21,8 +23,6 @@ ___
   * [#37657f4](https://github.com/xHyroM/setup-bun/commit/37657f4) fix: dont fail
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#633e7ab](https://github.com/xHyroM/setup-bun/commit/633e7ab) fix: dont error when invalid asset for miscTestBuilds
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#4e76dde](https://github.com/xHyroM/setup-bun/commit/4e76dde) fix: warn if bad version
 
 
 ___
