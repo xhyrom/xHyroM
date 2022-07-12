@@ -14,17 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#7d021f1](https://github.com/xHyroM/bun-utilities/commit/7d021f1) chore: publish gpr
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#d0f6bc3](https://github.com/xHyroM/bun-utilities/commit/d0f6bc3) chore(CI): use two =
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#74690ff](https://github.com/xHyroM/bun-utilities/commit/74690ff) chore(CI): allow workflow dispatch
+* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#e2fdb58](https://github.com/xHyroM/bun-utilities/commit/e2fdb58) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
 * 📦 Released **v0.1.1** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ⏺️ Created new tag v0.1.1 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#705032f](https://github.com/xHyroM/setup-bun/commit/705032f) chore: bump version
-* ➡️ Pushed 2 commits in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#dd174af](https://github.com/xHyroM/setup-bun/commit/dd174af) fix: change set-output name from `deno-version` to `bun-version`
-
-change set-output name from `deno-version` to `bun-version`
-  * [#cb10b94](https://github.com/xHyroM/setup-bun/commit/cb10b94) change set-output name from `deno-version` to `bun-version`
-* 🔃 Merged [#3 change set-output name from `deno-version` to `bun-version`](https://github.com/xHyroM/setup-bun/pull/3) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-  * 2 files changed `++6 --6`
 
 
 ___
