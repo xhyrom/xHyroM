@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#637 Incorrect Base URL](https://github.com/oven-sh/bun/issues/637) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#e838800](https://github.com/xHyroM/setup-bun/commit/e838800) chore(CI): change job status
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#633e7ab](https://github.com/xHyroM/setup-bun/commit/633e7ab) fix: dont error when invalid asset for miscTestBuilds
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#4e76dde](https://github.com/xHyroM/setup-bun/commit/4e76dde) fix: warn if bad version
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#5a78c10](https://github.com/xHyroM/setup-bun/commit/5a78c10) fix: verion.trim is not function
 
 
 ___
