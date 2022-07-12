@@ -14,16 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#153791c](https://github.com/xHyroM/bun-utilities/commit/153791c) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
+* #️⃣ Opened [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+* ⏺️ Created new tag v0.1.2 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* 📦 Released **v0.1.2** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#36bc669](https://github.com/xHyroM/setup-bun/commit/36bc669) fix: use asset.name
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#32f942a](https://github.com/xHyroM/setup-bun/commit/32f942a) chore: build
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#2af2463](https://github.com/xHyroM/setup-bun/commit/2af2463) chore: debug
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#c8d57cd](https://github.com/xHyroM/setup-bun/commit/c8d57cd) chore: build
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#8251de5](https://github.com/xHyroM/setup-bun/commit/8251de5) fix: add path
+  * [#55fec52](https://github.com/xHyroM/setup-bun/commit/55fec52) chore: bump version
 
 
 ___
