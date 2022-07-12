@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#7d021f1](https://github.com/xHyroM/bun-utilities/commit/7d021f1) chore: publish gpr
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#d0f6bc3](https://github.com/xHyroM/bun-utilities/commit/d0f6bc3) chore(CI): use two =
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#74690ff](https://github.com/xHyroM/bun-utilities/commit/74690ff) chore(CI): allow workflow dispatch
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#e2fdb58](https://github.com/xHyroM/bun-utilities/commit/e2fdb58) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-* 📦 Released **v0.1.1** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#36bc669](https://github.com/xHyroM/setup-bun/commit/36bc669) fix: use asset.name
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#32f942a](https://github.com/xHyroM/setup-bun/commit/32f942a) chore: build
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#2af2463](https://github.com/xHyroM/setup-bun/commit/2af2463) chore: debug
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#c8d57cd](https://github.com/xHyroM/setup-bun/commit/c8d57cd) chore: build
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#8251de5](https://github.com/xHyroM/setup-bun/commit/8251de5) fix: add path
 
 
 ___
