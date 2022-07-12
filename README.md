@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#3877513](https://github.com/xHyroM/covid19-stats/commit/3877513) 2022/07/12 stats
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#81ecfb5](https://github.com/xHyroM/setup-bun/commit/81ecfb5) chore: update package.json, license
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
@@ -21,7 +23,6 @@ ___
 * ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#153791c](https://github.com/xHyroM/bun-utilities/commit/153791c) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
 * #️⃣ Opened [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ⏺️ Created new tag v0.1.2 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 
 
 ___
