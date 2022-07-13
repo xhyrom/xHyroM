@@ -14,15 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#a86d702](https://github.com/xHyroM/bun-discord-bot/commit/a86d702) fix: tag typings
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#c310a8c](https://github.com/xHyroM/bun-discord-bot/commit/c310a8c) feat(ping): ephemeral flags
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#4d5f6f0](https://github.com/xHyroM/bun-discord-bot/commit/4d5f6f0) fix: pong respond
+* ➡️ Pushed 2 commits in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#c24d311](https://github.com/xHyroM/bun-discord-bot/commit/c24d311) git Merge branch &#39;main&#39; of https://github.com/xHyroM/bun-discord-bot into main
+  * [#a6e7afc](https://github.com/xHyroM/bun-discord-bot/commit/a6e7afc) fix: put /interaction to try catch
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#627e67f](https://github.com/xHyroM/setup-bun/commit/627e67f) chore(CI): update test
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#62d40e4](https://github.com/xHyroM/setup-bun/commit/62d40e4) chore(CI): update test
-* 💬 Commented on [#637 Incorrect Base URL](https://github.com/oven-sh/bun/issues/637) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#e838800](https://github.com/xHyroM/setup-bun/commit/e838800) chore(CI): change job status
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#37657f4](https://github.com/xHyroM/setup-bun/commit/37657f4) fix: dont fail
+  * [#3868f53](https://github.com/xHyroM/setup-bun/commit/3868f53) chore(CI): fix workflow
 
 
 ___
