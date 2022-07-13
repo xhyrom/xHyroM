@@ -14,13 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Reopened [#1 test](https://github.com/xHyroM/bun-discord-bot/issues/1) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* #️⃣ Closed [#1 test](https://github.com/xHyroM/bun-discord-bot/issues/1) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * #️⃣ Opened [#1 test](https://github.com/xHyroM/bun-discord-bot/issues/1) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * ⏺️ Created new tag v0.1.3 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * 📦 Released **v0.1.3** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#c52f1f1](https://github.com/xHyroM/setup-bun/commit/c52f1f1) chore: new example
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#08cc23c](https://github.com/xHyroM/setup-bun/commit/08cc23c) chore: bump version
 
 
 ___
