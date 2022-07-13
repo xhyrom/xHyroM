@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#aaf0343](https://github.com/xHyroM/bun-utilities/commit/aaf0343) fix: crash at 0
 * ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#0f60eb4](https://github.com/xHyroM/bun-utilities/commit/0f60eb4) git Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
   * [#9d6a1a4](https://github.com/xHyroM/bun-utilities/commit/9d6a1a4) fix: dont use await
@@ -23,8 +25,6 @@ ___
   * [#1c4aac4](https://github.com/xHyroM/bun-utilities/commit/1c4aac4) chore: update package.json
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#af50be4](https://github.com/xHyroM/bun-utilities/commit/af50be4) chore(CI): dont use next tag
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#ca35010](https://github.com/xHyroM/bun-discord-bot/commit/ca35010) feat(tagsUtils): replace - with space
 
 
 ___
