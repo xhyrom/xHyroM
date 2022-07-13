@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#673 Allow blank templates](https://github.com/oven-sh/bun/issues/673) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 33 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/installer/use-original-repo`
   * [#7b3dbf1](https://github.com/xHyroM/bun/commit/7b3dbf1) feat(packages/bun-landing): Create share image for social media (#629)
 
@@ -82,7 +83,6 @@ Signed-off-by: Ryan Russell &lt;git@ryanrussell.org&gt;
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5b63ea3](https://github.com/xHyroM/covid19-stats/commit/5b63ea3) 2022/07/13 stats
 * #️⃣ Closed [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* 💬 Commented on [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 💬 Commented on [#3 undefined symbol: napi_get_property_names](https://github.com/xHyroM/bun-utilities/issues/3) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
