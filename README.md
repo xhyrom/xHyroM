@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#73ad04a](https://github.com/xHyroM/bun-discord-bot/commit/73ad04a) feat: autocomplete for github cmd
 * 🔃 Closed [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
   * 1 file changed `++0 --0`
 * 🔃 Closed [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
   * 1 file changed `++0 --0`
 * 🔃 Opened [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
   * 1 file changed `++0 --0`
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `temp`
-  * [#489e97f](https://github.com/xHyroM/bun-discord-bot/commit/489e97f) Delete bun.lockb
 
 
 ___
