@@ -14,17 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#9de294b](https://github.com/xHyroM/bun-discord-bot/commit/9de294b) fix(version): hyperlink
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#f5c8213](https://github.com/xHyroM/bun-discord-bot/commit/f5c8213) chore: updates
+
+feat(commands): version command
+
+fix(githubUtils): freeze unused variables
+
+fix(index): fix native errors
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#1782e1e](https://github.com/xHyroM/bun-utilities/commit/1782e1e) tests(bun): fix
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#50091dd](https://github.com/xHyroM/bun-utilities/commit/50091dd) tests(node): fix
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#aaf0343](https://github.com/xHyroM/bun-utilities/commit/aaf0343) fix: crash at 0
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#0f60eb4](https://github.com/xHyroM/bun-utilities/commit/0f60eb4) git Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-  * [#9d6a1a4](https://github.com/xHyroM/bun-utilities/commit/9d6a1a4) fix: dont use await
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#f0b8924](https://github.com/xHyroM/bun-utilities/commit/f0b8924) fix: package.json
 
 
 ___
