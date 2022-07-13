@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#679 Error when executing: bun run src/index.ts =&gt; Cannot find module &#34;./util.inspect&#34; from &#34;node_modules/object-inspect/index.js&#34;](https://github.com/oven-sh/bun/issues/679) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#73ad04a](https://github.com/xHyroM/bun-discord-bot/commit/73ad04a) feat: autocomplete for github cmd
 * 🔃 Closed [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
   * 1 file changed `++0 --0`
 * 🔃 Closed [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-  * 1 file changed `++0 --0`
-* 🔃 Opened [#9 Delete bun.lockb](https://github.com/xHyroM/bun-discord-bot/pull/9) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
   * 1 file changed `++0 --0`
 
 
