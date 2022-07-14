@@ -14,6 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#90a52cf](https://github.com/xHyroM/bun-utilities/commit/90a52cf) chore: updates
+
+feat: finish fs
+
+tests: add rmdir tests
+  * [#6e54a3c](https://github.com/xHyroM/bun-utilities/commit/6e54a3c) tests: for rmdir
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
   * [#28b3596](https://github.com/xHyroM/bun/commit/28b3596) Revert &#34;build:(landing) automated website build&#34;
 
@@ -22,8 +29,6 @@ This reverts commit ddee8485fd8b76160962c410b885e17aaff95b4e.
 * 💬 Commented on [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/issues/704) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
   * [#46bd43c](https://github.com/xHyroM/bun/commit/46bd43c) Delete index.js
-* 🔃 Opened [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/pull/704) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 3 files changed `++6 --6`
 
 
 ___
