@@ -15,19 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#fe8563a](https://github.com/xHyroM/bun-discord-bot/commit/fe8563a) chore: updates
-
-fix(githubUtils): query, slice 0,93
-
-feat(regexes): move regex
+  * [#a1086e0](https://github.com/xHyroM/bun-discord-bot/commit/a1086e0) fix(githubUtils): setIssue, setPullRequest
+* #️⃣ Opened [#14 test](https://github.com/xHyroM/bun-discord-bot/issues/14) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* #️⃣ Opened [#13 test](https://github.com/xHyroM/bun-discord-bot/issues/13) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* #️⃣ Opened [#12 TODO](https://github.com/xHyroM/bun-discord-bot/issues/12) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#21b74eb](https://github.com/xHyroM/bun-discord-bot/commit/21b74eb) chore: cleanup
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#66ed183](https://github.com/xHyroM/bun-discord-bot/commit/66ed183) chore(bun-utilities): upgrade
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#fd428bf](https://github.com/xHyroM/bun-utilities/commit/fd428bf) fix: remove tokio-rt and futures
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#3a1ab8f](https://github.com/xHyroM/bun-utilities/commit/3a1ab8f) chore(tests): use bun directory
+  * [#5988542](https://github.com/xHyroM/bun-discord-bot/commit/5988542) fix(githubUtils): dont replace repository
 
 
 ___
