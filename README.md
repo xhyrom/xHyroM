@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
+  * [#e8ca8cc](https://github.com/xHyroM/bun/commit/e8ca8cc) templates(blank): update bun types
+* ⏺️ Created new branch templates/blank/update-bun-types in [xHyroM/bun](https://github.com/xHyroM/bun)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#3e1a705](https://github.com/xHyroM/covid19-stats/commit/3e1a705) 2022/07/14 stats
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#1940976](https://github.com/xHyroM/bun-utilities/commit/1940976) feat: fs implementation
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
   * [#c51d245](https://github.com/xHyroM/bun/commit/c51d245) chore(labeler): add packages:bun
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
-  * [#7415793](https://github.com/xHyroM/bun/commit/7415793) chore(labels): add packages:bun
-* #️⃣ Opened [#703 TOML - codeblocks](https://github.com/oven-sh/bun/issues/703) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
