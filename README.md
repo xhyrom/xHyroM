@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-d78b9d9224d9822a23c0f42f2ae60254`
   * [#3538dd1](https://github.com/xHyroM/Muploader/commit/3538dd1) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
@@ -24,8 +25,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-d78b9d9224d9822a23c0f42f2ae60254 in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#00feccb](https://github.com/xHyroM/bun-discord-bot/commit/00feccb) tags: update contributing-tags
-* 🔃 Merged [#15 tags: add why-zig](https://github.com/xHyroM/bun-discord-bot/pull/15) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-  * 1 file changed `++8 --0`
 
 
 ___
