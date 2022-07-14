@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
+  * [#28b3596](https://github.com/xHyroM/bun/commit/28b3596) Revert &#34;build:(landing) automated website build&#34;
+
+This reverts commit ddee8485fd8b76160962c410b885e17aaff95b4e.
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/issues/704) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
   * [#46bd43c](https://github.com/xHyroM/bun/commit/46bd43c) Delete index.js
 * 🔃 Opened [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/pull/704) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 3 files changed `++6 --6`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
-  * [#e8ca8cc](https://github.com/xHyroM/bun/commit/e8ca8cc) templates(blank): update bun types
-* ⏺️ Created new branch templates/blank/update-bun-types in [xHyroM/bun](https://github.com/xHyroM/bun)
 
 
 ___
