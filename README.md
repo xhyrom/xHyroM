@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/issues/704) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
+  * [#46bd43c](https://github.com/xHyroM/bun/commit/46bd43c) Delete index.js
+* 🔃 Opened [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/pull/704) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 3 files changed `++6 --6`
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
   * [#e8ca8cc](https://github.com/xHyroM/bun/commit/e8ca8cc) templates(blank): update bun types
 * ⏺️ Created new branch templates/blank/update-bun-types in [xHyroM/bun](https://github.com/xHyroM/bun)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#3e1a705](https://github.com/xHyroM/covid19-stats/commit/3e1a705) 2022/07/14 stats
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#1940976](https://github.com/xHyroM/bun-utilities/commit/1940976) feat: fs implementation
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
-  * [#c51d245](https://github.com/xHyroM/bun/commit/c51d245) chore(labeler): add packages:bun
 
 
 ___
