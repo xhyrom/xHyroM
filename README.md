@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#4 TODO](https://github.com/xHyroM/bun-utilities/issues/4) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 🌟 Starred [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#9de294b](https://github.com/xHyroM/bun-discord-bot/commit/9de294b) fix(version): hyperlink
@@ -27,8 +28,6 @@ fix(githubUtils): freeze unused variables
 fix(index): fix native errors
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#1782e1e](https://github.com/xHyroM/bun-utilities/commit/1782e1e) tests(bun): fix
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#50091dd](https://github.com/xHyroM/bun-utilities/commit/50091dd) tests(node): fix
 
 
 ___
