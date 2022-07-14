@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#00feccb](https://github.com/xHyroM/bun-discord-bot/commit/00feccb) tags: update contributing-tags
+* 🔃 Merged [#15 tags: add why-zig](https://github.com/xHyroM/bun-discord-bot/pull/15) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+  * 1 file changed `++8 --0`
+* ➡️ Pushed 2 commits in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#1d3a6a1](https://github.com/xHyroM/bun-discord-bot/commit/1d3a6a1) tags: add why-zig (https://github.com/xHyroM/bun-discord-bot/pull/15)
+  * [#dc9131d](https://github.com/xHyroM/bun-discord-bot/commit/dc9131d) tags: add why-zig
+* 🔍 Reviewed [#15 tags: add why-zig](https://github.com/xHyroM/bun-discord-bot/pull/15) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#90a52cf](https://github.com/xHyroM/bun-utilities/commit/90a52cf) chore: updates
 
@@ -21,14 +29,6 @@ feat: finish fs
 
 tests: add rmdir tests
   * [#6e54a3c](https://github.com/xHyroM/bun-utilities/commit/6e54a3c) tests: for rmdir
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `templates/blank/update-bun-types`
-  * [#28b3596](https://github.com/xHyroM/bun/commit/28b3596) Revert &#34;build:(landing) automated website build&#34;
-
-This reverts commit ddee8485fd8b76160962c410b885e17aaff95b4e.
-* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#704 templates(blank): update bun types](https://github.com/oven-sh/bun/issues/704) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
-  * [#46bd43c](https://github.com/xHyroM/bun/commit/46bd43c) Delete index.js
 
 
 ___
