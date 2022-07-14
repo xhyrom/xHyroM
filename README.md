@@ -15,15 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
+  * [#c51d245](https://github.com/xHyroM/bun/commit/c51d245) chore(labeler): add packages:bun
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
+  * [#7415793](https://github.com/xHyroM/bun/commit/7415793) chore(labels): add packages:bun
+* #️⃣ Opened [#703 TOML - codeblocks](https://github.com/oven-sh/bun/issues/703) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
   * [#1be7ffc](https://github.com/xHyroM/bun/commit/1be7ffc) chore(labeler): add benchmarks
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
   * [#3f49360](https://github.com/xHyroM/bun/commit/3f49360) chore: labels.yml
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
-  * [#590b784](https://github.com/xHyroM/bun/commit/590b784) chore(workflows): label syncer
-* 🔃 Opened [#701 chore: labeler, label sync](https://github.com/oven-sh/bun/pull/701) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 2 files changed `++58 --0`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
-  * [#f303fd8](https://github.com/xHyroM/bun/commit/f303fd8) chore(workflows): labeler
 
 
 ___
