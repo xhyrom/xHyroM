@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#4 TODO](https://github.com/xHyroM/bun-utilities/issues/4) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 💬 Commented on [#5 Cannot require module on M1 Pro](https://github.com/xHyroM/bun-utilities/issues/5) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 🌟 Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
   * [#2bf7222](https://github.com/xHyroM/bun/commit/2bf7222) fix: set MessageEventSource to undefined
 * ➡️ Pushed 3 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `fix/types/add-missing-websocket-types`
   * [#da4ac77](https://github.com/xHyroM/bun/commit/da4ac77) Merge branch &#39;fix/types/add-missing-websocket-types&#39; of https://github.com/xHyroM/bun into fix/types/add-missing-websocket-types
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#14a9b97](https://github.com/xHyroM/bun-discord-bot/commit/14a9b97) feat: add state to github cmd
 
 
 ___
