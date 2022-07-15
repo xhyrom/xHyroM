@@ -14,23 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#6 Clarify node versions support? And Node 14?](https://github.com/evanwashere/mitata/issues/6) from [evanwashere/mitata](https://github.com/evanwashere/mitata)
-* 🔃 Merged [#10 [Snyk] Security upgrade kerberos from 1.1.7 to 2.0.1](https://github.com/xHyroM/Shortener/pull/10) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
-  * 2 files changed `++187 --12`
-* ➡️ Pushed 2 commits in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `master`
-  * [#16eb342](https://github.com/xHyroM/Shortener/commit/16eb342) [Snyk] Security upgrade kerberos from 1.1.7 to 2.0.1
-
-[Snyk] Security upgrade kerberos from 1.1.7 to 2.0.1
-  * [#78da20a](https://github.com/xHyroM/Shortener/commit/78da20a) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-47a1a8ac7320b6780b8310a4eaf51841`
-  * [#78da20a](https://github.com/xHyroM/Shortener/commit/78da20a) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
-* ⏺️ Created new branch snyk-fix-47a1a8ac7320b6780b8310a4eaf51841 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
+* 💬 Commented on [#703 TOML - codeblocks](https://github.com/oven-sh/bun/issues/703) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#715 node builtin readline alternative.](https://github.com/oven-sh/bun/issues/715) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#718 `next dev` does not work if `next` is installed globally using bun](https://github.com/oven-sh/bun/issues/718) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#721 Docker: ruby + MariaDB + bun](https://github.com/oven-sh/bun/issues/721) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#722 Illegal hardware instruction (core dumped)](https://github.com/oven-sh/bun/issues/722) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
