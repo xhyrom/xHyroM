@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-47a1a8ac7320b6780b8310a4eaf51841`
+  * [#78da20a](https://github.com/xHyroM/Shortener/commit/78da20a) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
+* ⏺️ Created new branch snyk-fix-47a1a8ac7320b6780b8310a4eaf51841 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#fe7f035](https://github.com/xHyroM/bun-discord-bot/commit/fe7f035) fix(utilities.toml): change url
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#90925b5](https://github.com/xHyroM/bun-utilities/commit/90925b5) chore: fix yarn
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#8056cc4](https://github.com/xHyroM/bun-utilities/commit/8056cc4) chore: bump version
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#5840891](https://github.com/xHyroM/bun-utilities/commit/5840891) feat(fs): implement copydir
 
 
 ___
