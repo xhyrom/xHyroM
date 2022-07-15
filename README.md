@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#7 Compare two benchmark outputs](https://github.com/evanwashere/mitata/issues/7) in [evanwashere/mitata](https://github.com/evanwashere/mitata)
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
-  * [#8b51c1d](https://github.com/xHyroM/bun/commit/8b51c1d) chore(labels): add question
-* 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🌟 Starred [oven-sh/bun-dependencies](https://github.com/oven-sh/bun-dependencies)
-* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#804a878](https://github.com/xHyroM/bun-utilities/commit/804a878) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#8c32e4c](https://github.com/xHyroM/bun-discord-bot/commit/8c32e4c) tags: update illegal-instruction
+* 🔍 Reviewed [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
