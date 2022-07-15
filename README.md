@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 Clarify node versions support? And Node 14?](https://github.com/evanwashere/mitata/issues/6) from [evanwashere/mitata](https://github.com/evanwashere/mitata)
 * 🔃 Merged [#10 [Snyk] Security upgrade kerberos from 1.1.7 to 2.0.1](https://github.com/xHyroM/Shortener/pull/10) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
   * 2 files changed `++187 --12`
 * ➡️ Pushed 2 commits in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `master`
@@ -30,8 +31,6 @@ The following vulnerabilities are fixed with an upgrade:
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908
 * ⏺️ Created new branch snyk-fix-47a1a8ac7320b6780b8310a4eaf51841 in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#fe7f035](https://github.com/xHyroM/bun-discord-bot/commit/fe7f035) fix(utilities.toml): change url
 
 
 ___
