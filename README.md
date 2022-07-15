@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#730 Illegal instruction (core dumped)](https://github.com/oven-sh/bun/issues/730) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
+  * [#17d919b](https://github.com/xHyroM/bun/commit/17d919b) chore(labels): add esm&lt;&gt;cjs
+* ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
+  * [#bbf4d77](https://github.com/LendMarkNetwork/Packtypus/commit/bbf4d77) fix: update url
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#33f1fdd](https://github.com/xHyroM/bun-utilities/commit/33f1fdd) [skip ci] benchmarks: remove debugging
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#55b6028](https://github.com/xHyroM/bun-utilities/commit/55b6028) chore(benchmarks): fix, add await
-* ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
-  * [#3e27842](https://github.com/LendMarkNetwork/Packtypus/commit/3e27842) feat: add content-length
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#6230d41](https://github.com/xHyroM/bun-utilities/commit/6230d41) chore(benchmarks): debug
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#988e5f4](https://github.com/xHyroM/bun-utilities/commit/988e5f4) chore(benchmarks): debug
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#804a878](https://github.com/xHyroM/bun-utilities/commit/804a878) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
 
 
 ___
