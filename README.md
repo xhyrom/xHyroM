@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/workflows/labeler`
+  * [#e46cfcf](https://github.com/xHyroM/bun/commit/e46cfcf) chore(labels): add chore label
 * ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
   * [#a8d95a4](https://github.com/LendMarkNetwork/Packtypus/commit/a8d95a4) fix: correct sha1 hash
 * 💬 Commented on [#730 Illegal instruction (core dumped)](https://github.com/oven-sh/bun/issues/730) from [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -21,8 +23,6 @@ ___
   * [#17d919b](https://github.com/xHyroM/bun/commit/17d919b) chore(labels): add esm&lt;&gt;cjs
 * ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
   * [#bbf4d77](https://github.com/LendMarkNetwork/Packtypus/commit/bbf4d77) fix: update url
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#33f1fdd](https://github.com/xHyroM/bun-utilities/commit/33f1fdd) [skip ci] benchmarks: remove debugging
 
 
 ___
