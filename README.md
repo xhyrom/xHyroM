@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#55b6028](https://github.com/xHyroM/bun-utilities/commit/55b6028) chore(benchmarks): fix, add await
+* ➡️ Pushed 1 commit in [LendMarkNetwork/Packtypus](https://github.com/LendMarkNetwork/Packtypus) on branch `main`
+  * [#3e27842](https://github.com/LendMarkNetwork/Packtypus/commit/3e27842) feat: add content-length
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#6230d41](https://github.com/xHyroM/bun-utilities/commit/6230d41) chore(benchmarks): debug
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#988e5f4](https://github.com/xHyroM/bun-utilities/commit/988e5f4) chore(benchmarks): debug
 * ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#804a878](https://github.com/xHyroM/bun-utilities/commit/804a878) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#8c32e4c](https://github.com/xHyroM/bun-discord-bot/commit/8c32e4c) tags: update illegal-instruction
-* 🔍 Reviewed [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#727 Added  readme file for `blank template` ](https://github.com/oven-sh/bun/pull/727) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
