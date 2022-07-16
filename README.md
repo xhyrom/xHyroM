@@ -14,16 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `tags/new-tag`
-  * [#9bc59d2](https://github.com/xHyroM/bun-discord-bot/commit/9bc59d2) Update tags.toml
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#9d3dda4](https://github.com/xHyroM/bun-discord-bot/commit/9d3dda4) chore(workflows/validate): add ref
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `tags/new-tag`
-  * [#a5d9e6f](https://github.com/xHyroM/bun-discord-bot/commit/a5d9e6f) Update tags.toml
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#b78a3d0](https://github.com/xHyroM/bun-discord-bot/commit/b78a3d0) chore(scripts/validateTags): fix import
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `tags/new-tag`
-  * [#f2c90d9](https://github.com/xHyroM/bun-discord-bot/commit/f2c90d9) Update tags.toml
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#dc50577](https://github.com/Garlic-Team/docs/commit/dc50577) Docs build for branch next: a58006baa5f07fd7381b616df348ffa5868e8679
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a1a1156](https://github.com/Garlic-Team/docs/commit/a1a1156) Docs build for branch next: 8b92c111b7fab854590d125b14faf3435628633e
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#a58006b](https://github.com/Garlic-Team/gcommands/commit/a58006b) chore(deps): update dependency lru-cache to v7.13.1
+
+chore(deps): update dependency lru-cache to v7.13.1
+  * [#7d3cb5c](https://github.com/Garlic-Team/gcommands/commit/7d3cb5c) chore(deps): update dependency lru-cache to v7.13.1
+* 🔃 Merged [#524 chore(deps): update dependency lru-cache to v7.13.1](https://github.com/Garlic-Team/gcommands/pull/524) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#8b92c11](https://github.com/Garlic-Team/gcommands/commit/8b92c11) chore(deps): update typescript-eslint monorepo to v5.30.6
+
+chore(deps): update typescript-eslint monorepo to v5.30.6
+  * [#46dee5d](https://github.com/Garlic-Team/gcommands/commit/46dee5d) chore(deps): update typescript-eslint monorepo to v5.30.6
 
 
 ___
