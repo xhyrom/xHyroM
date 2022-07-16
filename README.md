@@ -15,14 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#20639f9](https://github.com/xHyroM/bun-dependencies/commit/20639f9) chore(workflow/build): fix
+* 💬 Commented on [#85 Feat: Bun runtime](https://github.com/open-runtimes/open-runtimes/issues/85) from [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+* 💬 Commented on [#715 node builtin readline alternative.](https://github.com/oven-sh/bun/issues/715) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
   * [#c824a2a](https://github.com/xHyroM/bun-dependencies/commit/c824a2a) chore(scripts/setup-env): remove echo from set_env
 * 💬 Commented on [#4 chore: updates](https://github.com/oven-sh/bun-dependencies/issues/4) from [oven-sh/bun-dependencies](https://github.com/oven-sh/bun-dependencies)
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
-  * [#aba14f7](https://github.com/xHyroM/bun-dependencies/commit/aba14f7) chore(workflows/build): add cache hit for webkit linux
-* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
-  * [#86eb56b](https://github.com/Hyro-Blobs/blobs/commit/86eb56b) chore(crystal/README): update
-* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
-  * [#3caade1](https://github.com/Hyro-Blobs/blobs/commit/3caade1) chore(bun/README): update
 
 
 ___
