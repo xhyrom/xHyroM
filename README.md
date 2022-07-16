@@ -14,12 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#1 [bun-utilities] new bindings](https://github.com/bluwy/bun-vite-ts-test/issues/1) from [bluwy/bun-vite-ts-test](https://github.com/bluwy/bun-vite-ts-test)
-* #️⃣ Closed [#5 Cannot require module on M1 Pro](https://github.com/xHyroM/bun-utilities/issues/5) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* 💬 Commented on [#5 Cannot require module on M1 Pro](https://github.com/xHyroM/bun-utilities/issues/5) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* #️⃣ Opened [#1 [bun-utilities] new bindings](https://github.com/bluwy/bun-vite-ts-test/issues/1) in [bluwy/bun-vite-ts-test](https://github.com/bluwy/bun-vite-ts-test)
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#f82d6f8](https://github.com/xHyroM/bun-utilities/commit/f82d6f8) feat: bun-utilities.conf.txt
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#67ad554](https://github.com/xHyroM/bun-dependencies/commit/67ad554) chore(scripts/setup-env): fix
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#1de874f](https://github.com/xHyroM/bun-dependencies/commit/1de874f) chore(scripts/setup-env): fix
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#e5f0358](https://github.com/xHyroM/bun-dependencies/commit/e5f0358) chore(scripts/setup-env): fix
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#25475ac](https://github.com/xHyroM/bun-dependencies/commit/25475ac) chore(scripts/setup-env): fix
+* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
+  * [#14c5c74](https://github.com/xHyroM/bun-dependencies/commit/14c5c74) chore(scripts/setup-env): fix
 
 
 ___
