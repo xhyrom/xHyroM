@@ -14,14 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 📦 Released **v0.1.4** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ⏺️ Created new tag v0.1.4 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#a0f9c41](https://github.com/xHyroM/setup-bun/commit/a0f9c41) chore(workflows): update test
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#d744239](https://github.com/xHyroM/setup-bun/commit/d744239) chore(workflows): update test
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#bfac956](https://github.com/xHyroM/setup-bun/commit/bfac956) chore(workflows): update test
+* ➡️ Pushed 7 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#c6312d3](https://github.com/xHyroM/discord-activities/commit/c6312d3) chore: use bun (https://github.com/xHyroM/discord-activities/pull/1)
+
+chore: setup bun
+  * [#fe8c17f](https://github.com/xHyroM/discord-activities/commit/fe8c17f) fix: update script
+  * [#a9ae0c9](https://github.com/xHyroM/discord-activities/commit/a9ae0c9) feat: use typescript
+  * [#1e393ef](https://github.com/xHyroM/discord-activities/commit/1e393ef) feat: use bun
+  * [#b17d090](https://github.com/xHyroM/discord-activities/commit/b17d090) feat: use bun
+  * [#f52644b](https://github.com/xHyroM/discord-activities/commit/f52644b) feat: use bun
+  * [#27cf046](https://github.com/xHyroM/discord-activities/commit/27cf046) chore(auto-update): setup bun
+* 🔃 Merged [#1 chore: setup bun](https://github.com/xHyroM/discord-activities/pull/1) in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
+  * 12 files changed `++61 --697`
+* 💬 Commented on [#1 chore: setup bun](https://github.com/xHyroM/discord-activities/issues/1) from [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `chore/typescript-bun-rewrite`
+  * [#fe8c17f](https://github.com/xHyroM/discord-activities/commit/fe8c17f) fix: update script
 
 
 ___
