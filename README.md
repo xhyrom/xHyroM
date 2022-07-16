@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#c77a0bb](https://github.com/xHyroM/covid19-stats/commit/c77a0bb) 2022/07/16 stats
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
-  * [#20639f9](https://github.com/xHyroM/bun-dependencies/commit/20639f9) chore(workflow/build): fix
-* 💬 Commented on [#85 Feat: Bun runtime](https://github.com/open-runtimes/open-runtimes/issues/85) from [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-* 💬 Commented on [#715 node builtin readline alternative.](https://github.com/oven-sh/bun/issues/715) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun-dependencies](https://github.com/xHyroM/bun-dependencies) on branch `updates`
-  * [#c824a2a](https://github.com/xHyroM/bun-dependencies/commit/c824a2a) chore(scripts/setup-env): remove echo from set_env
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#f031102](https://github.com/xHyroM/bun-discord-bot/commit/f031102) feat(tagsUtils): better search
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#b8b67bf](https://github.com/xHyroM/bun-discord-bot/commit/b8b67bf) tags: update io uring
+* 💬 Commented on [#746 Bumped hono version number](https://github.com/oven-sh/bun/pull/746) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#746 Bumped hono version number](https://github.com/oven-sh/bun/pull/746) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#746 Bumped hono version number](https://github.com/oven-sh/bun/pull/746) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
