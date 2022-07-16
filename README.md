@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🔃 Opened [#1 chore(auto-update): setup bun](https://github.com/xHyroM/discord-activities/pull/1) in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
-  * 1 file changed `++5 --5`
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `chore/typescript-bun-rewrite`
-  * [#27cf046](https://github.com/xHyroM/discord-activities/commit/27cf046) chore(auto-update): setup bun
-* ⏺️ Created new branch chore/typescript-bun-rewrite in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#dc7d17a](https://github.com/xHyroM/xHyroM/commit/dc7d17a) fix(index): Muploder -&gt; Muploader
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#25c30e1](https://github.com/xHyroM/xHyroM/commit/25c30e1) chore(metricstemplate): fix typo
+* 📦 Released **v0.1.4** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ⏺️ Created new tag v0.1.4 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#a0f9c41](https://github.com/xHyroM/setup-bun/commit/a0f9c41) chore(workflows): update test
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#d744239](https://github.com/xHyroM/setup-bun/commit/d744239) chore(workflows): update test
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#bfac956](https://github.com/xHyroM/setup-bun/commit/bfac956) chore(workflows): update test
 
 
 ___
