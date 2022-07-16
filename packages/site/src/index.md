@@ -10,7 +10,7 @@ I'm Hyro. I mainly focus on the backend, but I also work with the frontend. I'm
 always trying to maintain my projects like
 [Mr. Infinity](https://discord.com/oauth2/authorize?client_id=720321585625694239&scope=bot%20applications.commands&permissions=8&redirect_uri=https://blobs.gq/imanager&prompt=consent&response_type=code),
 [GCommands](https://github.com/Garlic-Team/GCommands),
-[Muploader](https://github.com/xHyroM/Muploder),
+[Muploader](https://github.com/xHyroM/Muploader),
 [Roles Bot](https://github.com/xHyroM/roles-bot) and many more.
 
 I work on smaller, less demanding as well as larger and more demanding projects.
