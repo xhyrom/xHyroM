@@ -15,8 +15,9 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#cd09c03](https://github.com/xHyroM/bun-utilities/commit/cd09c03) feat: delete non required bindings
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#231aa35](https://github.com/xHyroM/bun-utilities/commit/231aa35) feat: prepare for auto delete
-* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
