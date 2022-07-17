@@ -14,11 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#110fe52](https://github.com/Garlic-Team/docs/commit/110fe52) Docs build for branch next: 2e225cacb774eb47eb1b7961915303694ad8c13e
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#2e225ca](https://github.com/Garlic-Team/gcommands/commit/2e225ca) chore(deps): update dependency eslint to v8.20.0
+  * [#87de3c6](https://github.com/Garlic-Team/gcommands/commit/87de3c6) chore(deps): update dependency eslint to v8.20.0
+* 🔃 Merged [#527 chore(deps): update dependency eslint to v8.20.0](https://github.com/Garlic-Team/gcommands/pull/527) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 * 💬 Commented on [#6 Cross compilation](https://github.com/xHyroM/bun-utilities/issues/6) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 💬 Commented on [#595 Cannot find package &#34;child_process&#34;](https://github.com/oven-sh/bun/issues/595) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#420 Compatibility with `node` and `yarn`: `process.version`](https://github.com/oven-sh/bun/issues/420) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#750 Please make it working : node-fs. ](https://github.com/oven-sh/bun/issues/750) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
