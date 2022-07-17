@@ -14,11 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 Cross compilation](https://github.com/xHyroM/bun-utilities/issues/6) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+* 💬 Commented on [#595 Cannot find package &#34;child_process&#34;](https://github.com/oven-sh/bun/issues/595) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#420 Compatibility with `node` and `yarn`: `process.version`](https://github.com/oven-sh/bun/issues/420) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#750 Please make it working : node-fs. ](https://github.com/oven-sh/bun/issues/750) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#6 Cross compilation](https://github.com/xHyroM/bun-utilities/issues/6) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* 💬 Commented on [#6 Cross compilation](https://github.com/xHyroM/bun-utilities/issues/6) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
