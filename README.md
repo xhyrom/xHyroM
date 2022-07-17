@@ -14,16 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#762 Illegal hardware instruction](https://github.com/oven-sh/bun/issues/762) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#abef672](https://github.com/xHyroM/covid19-stats/commit/abef672) 2022/07/17 stats
-* 💬 Commented on [#761 Fix : small typo error](https://github.com/oven-sh/bun/issues/761) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#110fe52](https://github.com/Garlic-Team/docs/commit/110fe52) Docs build for branch next: 2e225cacb774eb47eb1b7961915303694ad8c13e
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#2e225ca](https://github.com/Garlic-Team/gcommands/commit/2e225ca) chore(deps): update dependency eslint to v8.20.0
-  * [#87de3c6](https://github.com/Garlic-Team/gcommands/commit/87de3c6) chore(deps): update dependency eslint to v8.20.0
-* 🔃 Merged [#527 chore(deps): update dependency eslint to v8.20.0](https://github.com/Garlic-Team/gcommands/pull/527) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
