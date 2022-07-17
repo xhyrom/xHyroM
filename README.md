@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#761 Fix : small typo error](https://github.com/oven-sh/bun/issues/761) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#110fe52](https://github.com/Garlic-Team/docs/commit/110fe52) Docs build for branch next: 2e225cacb774eb47eb1b7961915303694ad8c13e
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -22,7 +23,6 @@ ___
 * 🔃 Merged [#527 chore(deps): update dependency eslint to v8.20.0](https://github.com/Garlic-Team/gcommands/pull/527) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
   * 2 files changed `++8 --8`
 * 💬 Commented on [#6 Cross compilation](https://github.com/xHyroM/bun-utilities/issues/6) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* 💬 Commented on [#595 Cannot find package &#34;child_process&#34;](https://github.com/oven-sh/bun/issues/595) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
