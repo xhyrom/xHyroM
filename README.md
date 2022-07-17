@@ -16,10 +16,9 @@ ___
 **[📰 Recent activity](https://github.com/xHyroM)**
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#762 Illegal hardware instruction](https://github.com/oven-sh/bun/issues/762) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#709 Windows 11 Support ](https://github.com/oven-sh/bun/issues/709) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#abef672](https://github.com/xHyroM/covid19-stats/commit/abef672) 2022/07/17 stats
 
 
 ___
