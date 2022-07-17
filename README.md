@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#992f0f7](https://github.com/CDN-Github/CDN-2/commit/992f0f7) Added new url
+* ➡️ Pushed 1 commit in [CDN-Github/CDN-2](https://github.com/CDN-Github/CDN-2) on branch `main`
+  * [#7a40c57](https://github.com/CDN-Github/CDN-2/commit/7a40c57) Removed uptime url
 * ➡️ Pushed 7 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#c6312d3](https://github.com/xHyroM/discord-activities/commit/c6312d3) chore: use bun (https://github.com/xHyroM/discord-activities/pull/1)
 
@@ -26,9 +30,6 @@ chore: setup bun
   * [#27cf046](https://github.com/xHyroM/discord-activities/commit/27cf046) chore(auto-update): setup bun
 * 🔃 Merged [#1 chore: setup bun](https://github.com/xHyroM/discord-activities/pull/1) in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
   * 12 files changed `++61 --697`
-* 💬 Commented on [#1 chore: setup bun](https://github.com/xHyroM/discord-activities/issues/1) from [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities)
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `chore/typescript-bun-rewrite`
-  * [#fe8c17f](https://github.com/xHyroM/discord-activities/commit/fe8c17f) fix: update script
 
 
 ___
