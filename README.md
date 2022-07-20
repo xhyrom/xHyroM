@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-9b44c6a20d17f239859a11b530936321`
+  * [#42c8ee9](https://github.com/Garlic-Team/gcommands-addons/commit/42c8ee9) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-UNDICI-2953389
+* ⏺️ Created new branch snyk-fix-9b44c6a20d17f239859a11b530936321 in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#7483884](https://github.com/xHyroM/covid19-stats/commit/7483884) 2022/07/20 stats
 * 🌟 Starred [oven-sh/WebKit](https://github.com/oven-sh/WebKit)
