@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-8eb2cb547bfcf5b497303f66afd3a5dd`
+  * [#28600a0](https://github.com/Garlic-Team/gcommands-addons/commit/28600a0) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-UNDICI-2957529
+* ⏺️ Created new branch snyk-fix-8eb2cb547bfcf5b497303f66afd3a5dd in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#9dbee60](https://github.com/xHyroM/covid19-stats/commit/9dbee60) 2022/07/21 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-9b44c6a20d17f239859a11b530936321`
@@ -22,8 +28,6 @@ ___
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-UNDICI-2953389
 * ⏺️ Created new branch snyk-fix-9b44c6a20d17f239859a11b530936321 in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#7483884](https://github.com/xHyroM/covid19-stats/commit/7483884) 2022/07/20 stats
 
 
 ___
