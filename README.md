@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#81c867d](https://github.com/xHyroM/covid19-stats/commit/81c867d) 2022/07/24 stats
 * 💬 Commented on [#838 Fetching package.json... error: Linux kernel version doesn&#39;t support io_uring, which Bun depends on.](https://github.com/oven-sh/bun/issues/838) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#d4f4355](https://github.com/xHyroM/covid19-stats/commit/d4f4355) 2022/07/23 stats
@@ -24,7 +26,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-UNDICI-2957529
-* ⏺️ Created new branch snyk-fix-8eb2cb547bfcf5b497303f66afd3a5dd in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
 
 
 ___
