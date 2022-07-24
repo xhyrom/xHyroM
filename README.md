@@ -14,18 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#81c867d](https://github.com/xHyroM/covid19-stats/commit/81c867d) 2022/07/24 stats
-* 💬 Commented on [#838 Fetching package.json... error: Linux kernel version doesn&#39;t support io_uring, which Bun depends on.](https://github.com/oven-sh/bun/issues/838) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#d4f4355](https://github.com/xHyroM/covid19-stats/commit/d4f4355) 2022/07/23 stats
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#1b29982](https://github.com/xHyroM/covid19-stats/commit/1b29982) 2022/07/22 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-8eb2cb547bfcf5b497303f66afd3a5dd`
-  * [#28600a0](https://github.com/Garlic-Team/gcommands-addons/commit/28600a0) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#6733b1a](https://github.com/Garlic-Team/docs/commit/6733b1a) Docs build for branch next: 3cbe16904b315a9ffa6c86c94f03b6bd22bf52b8
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#9923b0e](https://github.com/Garlic-Team/docs/commit/9923b0e) Docs build for branch next: 0ca3165e8bf57387c47dbbd10c0cfd29d10131fa
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#4b26494](https://github.com/Garlic-Team/docs/commit/4b26494) Docs build for branch next: e8eb8e33d0cdda8b43b8107fa8a6a2b50d59d0a7
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#3cbe169](https://github.com/Garlic-Team/gcommands/commit/3cbe169) chore(deps): update dependency keyv to v4.3.3
 
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-UNDICI-2957529
+chore(deps): update dependency keyv to v4.3.3
+  * [#fee6767](https://github.com/Garlic-Team/gcommands/commit/fee6767) chore(deps): update dependency keyv to v4.3.3
+* 🔃 Merged [#532 chore(deps): update dependency keyv to v4.3.3](https://github.com/Garlic-Team/gcommands/pull/532) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 
 
 ___
