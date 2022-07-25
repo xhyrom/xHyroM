@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#1c340ae](https://github.com/Mr-Infinity-Bot/bot/commit/1c340ae) fix: typo in purge
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#2c47830](https://github.com/xHyroM/discord-activities/commit/2c47830) fix: add git pull
+  * [#bacb02c](https://github.com/xHyroM/discord-activities/commit/bacb02c) feat: add README to guilds folder
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#a589016](https://github.com/xHyroM/discord-activities/commit/a589016) fix: import pushFiles
+  * [#2923daa](https://github.com/xHyroM/discord-activities/commit/2923daa) chore(README): update
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#8923b0c](https://github.com/xHyroM/discord-activities/commit/8923b0c) fix: add catch
+  * [#26c845d](https://github.com/xHyroM/discord-activities/commit/26c845d) Set theme jekyll-theme-cayman
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#7c13f69](https://github.com/xHyroM/discord-activities/commit/7c13f69) fix: try to use node-fetch instead undici
-* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#2206ae9](https://github.com/xHyroM/discord-activities/commit/2206ae9) chore: update readme
+  * [#5391832](https://github.com/xHyroM/discord-activities/commit/5391832) feat: update
 
 
 ___
