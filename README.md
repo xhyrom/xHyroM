@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#578 fix(types): add missing types for WebSocket](https://github.com/oven-sh/bun/issues/578) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#582 chore(installer): use this repository instead release-for-updater](https://github.com/oven-sh/bun/issues/582) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 110 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/installer/use-original-repo`
   * [#bcad0d4](https://github.com/xHyroM/bun/commit/bcad0d4) Downgrade Ubuntu used in `Dockerfile` to hopefully reduce glibc requirement to 2.27
@@ -124,8 +125,6 @@ Co-authored-by: xHyroM &lt;xHyroM@users.noreply.github.com&gt;
   * [#6733b1a](https://github.com/Garlic-Team/docs/commit/6733b1a) Docs build for branch next: 3cbe16904b315a9ffa6c86c94f03b6bd22bf52b8
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#9923b0e](https://github.com/Garlic-Team/docs/commit/9923b0e) Docs build for branch next: 0ca3165e8bf57387c47dbbd10c0cfd29d10131fa
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#4b26494](https://github.com/Garlic-Team/docs/commit/4b26494) Docs build for branch next: e8eb8e33d0cdda8b43b8107fa8a6a2b50d59d0a7
 
 
 ___
