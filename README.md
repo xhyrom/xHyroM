@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
+  * [#248efad](https://github.com/xHyroM/discord-list/commit/248efad) feat(guilds): include raw server
 * ➡️ Pushed 2 commits in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
   * [#5170b1d](https://github.com/xHyroM/discord-list/commit/5170b1d) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
 * ⏺️ Created new tag v0.1.5 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * 📦 Released **v0.1.5** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * 💬 Commented on [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
