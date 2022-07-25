@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
+  * [#2c47830](https://github.com/xHyroM/discord-activities/commit/2c47830) fix: add git pull
+* ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#a589016](https://github.com/xHyroM/discord-activities/commit/a589016) fix: import pushFiles
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#8923b0c](https://github.com/xHyroM/discord-activities/commit/8923b0c) fix: add catch
@@ -22,8 +24,6 @@ ___
   * [#7c13f69](https://github.com/xHyroM/discord-activities/commit/7c13f69) fix: try to use node-fetch instead undici
 * ➡️ Pushed 1 commit in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
   * [#2206ae9](https://github.com/xHyroM/discord-activities/commit/2206ae9) chore: update readme
-* ➡️ Pushed 2 commits in [xHyroM/discord-activities](https://github.com/xHyroM/discord-activities) on branch `master`
-  * [#9b74ce8](https://github.com/xHyroM/discord-activities/commit/9b74ce8) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-activities
 
 
 ___
