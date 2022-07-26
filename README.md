@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#00919a8](https://github.com/xHyroM/benchmarks/commit/00919a8) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks into main
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#2948930](https://github.com/xHyroM/benchmarks/commit/2948930) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks into main
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d67b9f2](https://github.com/xHyroM/benchmarks/commit/d67b9f2) chore(workflows/run): custom commit message
+  * [#d13a04d](https://github.com/xHyroM/benchmarks/commit/d13a04d) chore(workflows/run): use latest nodejs verion
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#382f4bf](https://github.com/xHyroM/benchmarks/commit/382f4bf) chore(workflows/run): use actions-js/push
+  * [#0b76abd](https://github.com/xHyroM/benchmarks/commit/0b76abd) benchmarks(nanoid): update
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#8126ec9](https://github.com/xHyroM/benchmarks/commit/8126ec9) chore(README): fix runtime field
+  * [#062a52f](https://github.com/xHyroM/benchmarks/commit/062a52f) benchmarks(console): update
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#c2818a4](https://github.com/xHyroM/benchmarks/commit/c2818a4) benchmarks(console): update
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#dc5b1ad](https://github.com/xHyroM/benchmarks/commit/dc5b1ad) benchmarks(console): update
 
 
 ___
