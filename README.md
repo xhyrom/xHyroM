@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#00919a8](https://github.com/xHyroM/benchmarks/commit/00919a8) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks into main
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#2948930](https://github.com/xHyroM/benchmarks/commit/2948930) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks into main
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d177917](https://github.com/xHyroM/benchmarks/commit/d177917) benchmarks: add json
+  * [#d67b9f2](https://github.com/xHyroM/benchmarks/commit/d67b9f2) chore(workflows/run): custom commit message
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#c280b99](https://github.com/xHyroM/benchmarks/commit/c280b99) chore(workflows): missing |
+  * [#382f4bf](https://github.com/xHyroM/benchmarks/commit/382f4bf) chore(workflows/run): use actions-js/push
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d508297](https://github.com/xHyroM/benchmarks/commit/d508297) chore(workflows): add run
-* ⏺️ Created new branch main in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#883 🐢 nanoid is ~3.5 times slower on bun when compared to node 🐌](https://github.com/oven-sh/bun/issues/883) from [oven-sh/bun](https://github.com/oven-sh/bun)
+  * [#8126ec9](https://github.com/xHyroM/benchmarks/commit/8126ec9) chore(README): fix runtime field
 
 
 ___
