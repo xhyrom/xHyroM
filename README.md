@@ -15,15 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#34bd6bb](https://github.com/xHyroM/bun-utilities/commit/34bd6bb) chore(CI): fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#3cd2852](https://github.com/xHyroM/discord-list/commit/3cd2852) fix(scripts/update/guilds): use ||
+  * [#0e040f1](https://github.com/xHyroM/bun-utilities/commit/0e040f1) chore(CI): change ANDROID_NDK_HOME to ANDROID_NDK_LATEST_HOME
+* #️⃣ Opened [#301 Linker -- not found](https://github.com/napi-rs/package-template/issues/301) in [napi-rs/package-template](https://github.com/napi-rs/package-template)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#f6f183f](https://github.com/xHyroM/bun-utilities/commit/f6f183f) chore(CI): fix
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#497e9d3](https://github.com/xHyroM/bun-utilities/commit/497e9d3) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#f503bcb](https://github.com/xHyroM/discord-list/commit/f503bcb) feat: remove duplications
+  * [#479a4ba](https://github.com/xHyroM/bun-utilities/commit/479a4ba) chore(CI): fix
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#cc45d45](https://github.com/xHyroM/bun-utilities/commit/cc45d45) chore(CI): install llvm
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#34bd6bb](https://github.com/xHyroM/bun-utilities/commit/34bd6bb) chore(CI): fix
 
 
 ___
