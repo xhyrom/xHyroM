@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#80f04ef](https://github.com/xHyroM/covid19-stats/commit/80f04ef) 2022/07/26 stats
 * ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
   * [#b4c0a5f](https://github.com/xHyroM/discord-list/commit/b4c0a5f) scripts(update/activities): put files to activities/
 * ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
@@ -56,7 +58,6 @@ feat(Argument): add max &amp; min length in string option
 chore(deps): update typescript-eslint monorepo to v5.30.5
   * [#ff84e4a](https://github.com/xHyroM/GCommands/commit/ff84e4a) feat: add max &amp; min length in string option
   * [#acfabf0](https://github.com/xHyroM/GCommands/commit/acfabf0) chore(deps): update typescript-eslint monorepo to v5.30.5
-* 💬 Commented on [#530 chore(deps): update dependency discord.js to v14](https://github.com/Garlic-Team/gcommands/issues/530) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
