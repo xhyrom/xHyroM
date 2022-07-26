@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
+  * [#853403e](https://github.com/xHyroM/discord-list/commit/853403e) chore(auto-update): add github token to update guilds
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#d555703](https://github.com/xHyroM/bun-utilities/commit/d555703) feat: copyfile
+* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
+  * [#b202257](https://github.com/xHyroM/discord-list/commit/b202257) chore(auto-update): fix
+* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
   * [#2ac1524](https://github.com/xHyroM/discord-list/commit/2ac1524) chore(auto-update): add gh token
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
   * [#1392324](https://github.com/xHyroM/setup-bun/commit/1392324) chore(README): add github token
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#a828ae3](https://github.com/xHyroM/discord-list/commit/a828ae3) fix: use node-fetch because undici terminating
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#2945320](https://github.com/xHyroM/discord-list/commit/2945320) scripts(guilds): speedup
-* ➡️ Pushed 2 commits in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#206c159](https://github.com/xHyroM/discord-list/commit/206c159) Merge branch &#39;master&#39; of https://github.com/xHyroM/discord-list
 
 
 ___
