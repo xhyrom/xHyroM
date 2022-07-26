@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d177917](https://github.com/xHyroM/benchmarks/commit/d177917) benchmarks: add json
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#c280b99](https://github.com/xHyroM/benchmarks/commit/c280b99) chore(workflows): missing |
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d508297](https://github.com/xHyroM/benchmarks/commit/d508297) chore(workflows): add run
+* ⏺️ Created new branch main in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * 💬 Commented on [#883 🐢 nanoid is ~3.5 times slower on bun when compared to node 🐌](https://github.com/oven-sh/bun/issues/883) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ⏺️ Created new repository  [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* ➡️ Pushed 2 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#8e761c2](https://github.com/xHyroM/bun-utilities/commit/8e761c2) Merge branch &#39;master&#39; of https://github.com/xHyroM/bun-utilities
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#740e1cf](https://github.com/xHyroM/bun-utilities/commit/740e1cf) chore(CI): valid tag name
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#3933773](https://github.com/xHyroM/bun-utilities/commit/3933773) chore(CI): update create release
 
 
 ___
