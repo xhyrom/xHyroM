@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#a5b72d9](https://github.com/xHyroM/bun-utilities/commit/a5b72d9) chore(README): add new fs function
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#89837e1](https://github.com/xHyroM/bun-utilities/commit/89837e1) chore(CI): rustup udpate
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#97c4f87](https://github.com/xHyroM/bun-utilities/commit/97c4f87) revert: dont unlink non required bindings
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#a5b28eb](https://github.com/xHyroM/bun-utilities/commit/a5b28eb) chore(CI): ls
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#11ff54f](https://github.com/xHyroM/bun-utilities/commit/11ff54f) chore(CI): ls
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#686fbbf](https://github.com/xHyroM/bun-utilities/commit/686fbbf) chore: update napi
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#431b51d](https://github.com/xHyroM/bun-utilities/commit/431b51d) chore(CI): probably fix
 
 
 ___
