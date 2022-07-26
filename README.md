@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#853403e](https://github.com/xHyroM/discord-list/commit/853403e) chore(auto-update): add github token to update guilds
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#d555703](https://github.com/xHyroM/bun-utilities/commit/d555703) feat: copyfile
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#b202257](https://github.com/xHyroM/discord-list/commit/b202257) chore(auto-update): fix
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#2ac1524](https://github.com/xHyroM/discord-list/commit/2ac1524) chore(auto-update): add gh token
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#1392324](https://github.com/xHyroM/setup-bun/commit/1392324) chore(README): add github token
+  * [#97c4f87](https://github.com/xHyroM/bun-utilities/commit/97c4f87) revert: dont unlink non required bindings
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#a5b28eb](https://github.com/xHyroM/bun-utilities/commit/a5b28eb) chore(CI): ls
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#11ff54f](https://github.com/xHyroM/bun-utilities/commit/11ff54f) chore(CI): ls
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#686fbbf](https://github.com/xHyroM/bun-utilities/commit/686fbbf) chore: update napi
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#431b51d](https://github.com/xHyroM/bun-utilities/commit/431b51d) chore(CI): probably fix
 
 
 ___
