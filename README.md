@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#547c444](https://github.com/Mr-Infinity-Bot/bot/commit/547c444) chore: remove workspaces
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#714178a](https://github.com/Mr-Infinity-Bot/bot/commit/714178a) chore: add workspaces
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#03c974b](https://github.com/Mr-Infinity-Bot/bot/commit/03c974b) feat: auto nuke channels
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#a3c734c](https://github.com/xHyroM/benchmarks/commit/a3c734c) feat(benchmarks/buffer): use regex for encode
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#65b4f82](https://github.com/xHyroM/benchmarks/commit/65b4f82) feat: group support for benchmark name
+  * [#67fbf0b](https://github.com/xHyroM/benchmarks/commit/67fbf0b) benchmarks(buffer): add decode group
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#53e9f3d](https://github.com/xHyroM/NexusBlock/commit/53e9f3d) fix: add softdepent
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a580996](https://github.com/Garlic-Team/docs/commit/a580996) Create stable.json
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#b75445b](https://github.com/Garlic-Team/docs/commit/b75445b) Rename stable.json to 9.2.0.json
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#81bacdf](https://github.com/Garlic-Team/docs/commit/81bacdf) Create 9.3.0.json
 
 
 ___
