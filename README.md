@@ -14,19 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#51c49eb](https://github.com/xHyroM/covid19-stats/commit/51c49eb) 2022/07/27 stats
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d875ce9](https://github.com/xHyroM/benchmarks/commit/d875ce9) chore: change markdown processer
-
-from &#34;kramdown&#34; to &#34;GFM&#34;
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#9a71055](https://github.com/xHyroM/benchmarks/commit/9a71055) chore: change markdown processor
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#0c1b0f3](https://github.com/xHyroM/benchmarks/commit/0c1b0f3) fix(scripts/readme): sort use last element
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#7b0dfab](https://github.com/xHyroM/benchmarks/commit/7b0dfab) Set theme jekyll-theme-cayman
+  * [#3311e28](https://github.com/xHyroM/benchmarks/commit/3311e28) fix(scripts/readme): add space
 * ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#899d748](https://github.com/xHyroM/benchmarks/commit/899d748) feat: more columns in table
-  * [#64345be](https://github.com/xHyroM/benchmarks/commit/64345be) feat: more columns in table
+  * [#cd588b6](https://github.com/xHyroM/benchmarks/commit/cd588b6) chore: pull
+  * [#2c5c44b](https://github.com/xHyroM/benchmarks/commit/2c5c44b) feat: prepare for object &amp; array benchmarks
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#7d88a5d](https://github.com/xHyroM/benchmarks/commit/7d88a5d) chore: pull
+  * [#3e159cd](https://github.com/xHyroM/benchmarks/commit/3e159cd) feat(scripts/readme): add category
 
 
 ___
