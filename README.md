@@ -14,17 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#51c49eb](https://github.com/xHyroM/covid19-stats/commit/51c49eb) 2022/07/27 stats
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#3311e28](https://github.com/xHyroM/benchmarks/commit/3311e28) fix(scripts/readme): add space
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#cd588b6](https://github.com/xHyroM/benchmarks/commit/cd588b6) chore: pull
-  * [#2c5c44b](https://github.com/xHyroM/benchmarks/commit/2c5c44b) feat: prepare for object &amp; array benchmarks
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#7d88a5d](https://github.com/xHyroM/benchmarks/commit/7d88a5d) chore: pull
-  * [#3e159cd](https://github.com/xHyroM/benchmarks/commit/3e159cd) feat(scripts/readme): add category
+* ➡️ Pushed 2 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#816a1b9](https://github.com/oven-sh/bun-types/commit/816a1b9) fix: invalid path for the bundle.ts (https://github.com/oven-sh/bun-types/pull/3)
+  * [#00a8f12](https://github.com/oven-sh/bun-types/commit/00a8f12) correct path for the bundle.ts
+
+the path for the bundle.ts was incorrrect, 
+``bun-types` is generated via [./bundle.ts](./scripts/bundle.ts).`
+i update it to this
+* #️⃣ Closed [#4 path for bundle.ts is not correct.](https://github.com/oven-sh/bun-types/issues/4) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* 🔃 Merged [#3 fix: invalid path for the bundle.ts](https://github.com/oven-sh/bun-types/pull/3) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 1 file changed `++1 --1`
+* #️⃣ Opened [#2 add tests](https://github.com/xHyroM/benchmarks/issues/2) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* #️⃣ Opened [#1 use short + long data in benchmarks](https://github.com/xHyroM/benchmarks/issues/1) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 
 
 ___
