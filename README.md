@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#5a30655](https://github.com/xHyroM/benchmarks/commit/5a30655) feat(scripts/readme): add categories
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#d13a04d](https://github.com/xHyroM/benchmarks/commit/d13a04d) chore(workflows/run): use latest nodejs verion
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#0b76abd](https://github.com/xHyroM/benchmarks/commit/0b76abd) benchmarks(nanoid): update
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#062a52f](https://github.com/xHyroM/benchmarks/commit/062a52f) benchmarks(console): update
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#c2818a4](https://github.com/xHyroM/benchmarks/commit/c2818a4) benchmarks(console): update
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#dc5b1ad](https://github.com/xHyroM/benchmarks/commit/dc5b1ad) benchmarks(console): update
 
 
 ___
