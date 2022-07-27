@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock) on branch `master`
+  * [#883ed3f](https://github.com/xHyroM/NexusBlock/commit/883ed3f) chore: bump version
+* 💬 Commented on [#7 feature](https://github.com/xHyroM/NexusBlock/issues/7) from [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+* 💬 Commented on [#1 use short + long data in benchmarks](https://github.com/xHyroM/benchmarks/issues/1) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#f700e4c](https://github.com/xHyroM/benchmarks/commit/f700e4c) benchmarks(buffer): add long text &amp; long text buffer
 * ⏺️ Created new branch fix/fs/add-misssing-promises-types in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
-* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `chore/add-tests`
-  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
-* 🔃 Opened [#5 chore: add some tests](https://github.com/oven-sh/bun-types/pull/5) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 6 files changed `++41 --3`
-* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `chore/add-tests`
-  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
-* ⏺️ Created new branch chore/add-tests in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
 
 
 ___
