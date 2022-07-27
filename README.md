@@ -14,18 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#816a1b9](https://github.com/oven-sh/bun-types/commit/816a1b9) fix: invalid path for the bundle.ts (https://github.com/oven-sh/bun-types/pull/3)
-  * [#00a8f12](https://github.com/oven-sh/bun-types/commit/00a8f12) correct path for the bundle.ts
-
-the path for the bundle.ts was incorrrect, 
-``bun-types` is generated via [./bundle.ts](./scripts/bundle.ts).`
-i update it to this
-* #️⃣ Closed [#4 path for bundle.ts is not correct.](https://github.com/oven-sh/bun-types/issues/4) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔃 Merged [#3 fix: invalid path for the bundle.ts](https://github.com/oven-sh/bun-types/pull/3) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 1 file changed `++1 --1`
-* #️⃣ Opened [#2 add tests](https://github.com/xHyroM/benchmarks/issues/2) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* #️⃣ Opened [#1 use short + long data in benchmarks](https://github.com/xHyroM/benchmarks/issues/1) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#b78fa3c](https://github.com/xHyroM/benchmarks/commit/b78fa3c) fix: summary paths
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#f7df614](https://github.com/xHyroM/benchmarks/commit/f7df614) fix: deno paths
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#763b5ed](https://github.com/xHyroM/benchmarks/commit/763b5ed) chore: fix workflow
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#54186b3](https://github.com/xHyroM/benchmarks/commit/54186b3) chore: fix workflow
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#6829f7c](https://github.com/xHyroM/benchmarks/commit/6829f7c) chore: fix workflow
 
 
 ___
