@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#ddba633](https://github.com/xHyroM/setup-bun/commit/ddba633) chore: bump version
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#99221c1](https://github.com/xHyroM/setup-bun/commit/99221c1) fix(action): add github.token as default
+* 🍽️ Forked [oven-sh/bun-types](https://github.com/oven-sh/bun-types) to [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
 * 🌟 Starred [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#5a30655](https://github.com/xHyroM/benchmarks/commit/5a30655) feat(scripts/readme): add categories
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d13a04d](https://github.com/xHyroM/benchmarks/commit/d13a04d) chore(workflows/run): use latest nodejs verion
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#0b76abd](https://github.com/xHyroM/benchmarks/commit/0b76abd) benchmarks(nanoid): update
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#062a52f](https://github.com/xHyroM/benchmarks/commit/062a52f) benchmarks(console): update
 
 
 ___
