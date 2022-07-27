@@ -14,9 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch fix/fs/add-misssing-promises-types in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
+* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `chore/add-tests`
+  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
+* 🔃 Opened [#5 chore: add some tests](https://github.com/oven-sh/bun-types/pull/5) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 6 files changed `++41 --3`
+* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `chore/add-tests`
+  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
 * ⏺️ Created new branch chore/add-tests in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
-* ⏺️ Created new branch fix/fileblob/missing-json in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
-* ⏺️ Created new branch fix/missing-fileblob-json in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
 
 
 ___
