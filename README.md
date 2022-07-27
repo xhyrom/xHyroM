@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#65b4f82](https://github.com/xHyroM/benchmarks/commit/65b4f82) feat: group support for benchmark name
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#3fb189a](https://github.com/xHyroM/benchmarks/commit/3fb189a) feat: show group if group exists
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#b4f4a01](https://github.com/xHyroM/benchmarks/commit/b4f4a01) feat: groups
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#b78fa3c](https://github.com/xHyroM/benchmarks/commit/b78fa3c) fix: summary paths
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#f7df614](https://github.com/xHyroM/benchmarks/commit/f7df614) fix: deno paths
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#763b5ed](https://github.com/xHyroM/benchmarks/commit/763b5ed) chore: fix workflow
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#54186b3](https://github.com/xHyroM/benchmarks/commit/54186b3) chore: fix workflow
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#6829f7c](https://github.com/xHyroM/benchmarks/commit/6829f7c) chore: fix workflow
 
 
 ___
