@@ -14,15 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch testv2 in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
-* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
-  * [#f1d9c0c](https://github.com/xHyroM/bun-types/commit/f1d9c0c) fix: some fixe
-* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
-  * [#3f46ca5](https://github.com/xHyroM/bun-types/commit/3f46ca5) fix(scripts): add prefix
-* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
-  * [#f2b01c1](https://github.com/xHyroM/bun-types/commit/f2b01c1) tf
-* 🔃 Opened [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 7 files changed `++652 --7`
+* 💬 Commented on [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* 🔍 Reviewed [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#b6aa078](https://github.com/xHyroM/covid19-stats/commit/b6aa078) 2022/07/28 stats
+* 💬 Commented on [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
