@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#557 Allow running files with nonstandard or missing extensions](https://github.com/oven-sh/bun/issues/557) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#2a3558e](https://github.com/Garlic-Team/docs/commit/2a3558e) Docs build for branch next: 9d37e2a2986e68f6c26c842d3068b1bcac833eed
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#9d37e2a](https://github.com/Garlic-Team/gcommands/commit/9d37e2a) chore(deps): update dependency @types/node to v16.11.46 (https://github.com/Garlic-Team/gcommands/pull/542)
-  * [#6bc9a66](https://github.com/Garlic-Team/gcommands/commit/6bc9a66) chore(deps): update dependency @types/node to v16.11.46
-* 🔃 Merged [#542 chore(deps): update dependency @types/node to v16.11.46](https://github.com/Garlic-Team/gcommands/pull/542) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
-* #️⃣ Closed [#838 Fetching package.json... error: Linux kernel version doesn&#39;t support io_uring, which Bun depends on.](https://github.com/oven-sh/bun/issues/838) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#962df21](https://github.com/xHyroM/setup-bun/commit/962df21) chore: debug
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#c3404c3](https://github.com/xHyroM/setup-bun/commit/c3404c3) chore(workflows/test): use ACCESS_TOKEN
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#f391a17](https://github.com/xHyroM/setup-bun/commit/f391a17) chore: use api.github.com
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#24c8fd0](https://github.com/xHyroM/setup-bun/commit/24c8fd0) fix: add token to install
+* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
+  * [#89f6825](https://github.com/xHyroM/setup-bun/commit/89f6825) fix: add token to install
 
 
 ___
