@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-a72d23237388ac991bc1ff37464a36ee`
-  * [#ec86458](https://github.com/xHyroM/Muploader/commit/ec86458) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
-* ⏺️ Created new branch snyk-fix-a72d23237388ac991bc1ff37464a36ee in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#2e3969b](https://github.com/oven-sh/bun-types/commit/2e3969b) chore: remove old workflows
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#abd29af](https://github.com/oven-sh/bun-types/commit/abd29af) chore(workflows/release): fix
+* #️⃣ Closed [#6 `bun-types` is missing `Bun.file().json()` aka `FileBlob.json()`](https://github.com/oven-sh/bun-types/issues/6) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#123727b](https://github.com/Mr-Infinity-Bot/bot/commit/123727b) fix: allow to disable auto_nuke_channels
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#ace6212](https://github.com/Mr-Infinity-Bot/bot/commit/ace6212) feat: bump djs
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#fcc9381](https://github.com/Mr-Infinity-Bot/bot/commit/fcc9381) feat: bump gcommands to v9.3.0
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#67f9ba7](https://github.com/Mr-Infinity-Bot/bot/commit/67f9ba7) fix: remove logging
 
 
 ___
