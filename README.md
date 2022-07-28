@@ -14,16 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#a11484a](https://github.com/xHyroM/setup-bun/commit/a11484a) chore: dont cache if customDownloadUrl
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#fe160cf](https://github.com/xHyroM/setup-bun/commit/fe160cf) chore: debug
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#dbb8e61](https://github.com/xHyroM/setup-bun/commit/dbb8e61) chore: debug
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#a99ac77](https://github.com/xHyroM/setup-bun/commit/a99ac77) chore: build
-* ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#fe4b2b1](https://github.com/xHyroM/setup-bun/commit/fe4b2b1) chore: build
+* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
+  * [#311d405](https://github.com/xHyroM/bun-types/commit/311d405) feat: add fs/promises
+* ➡️ Pushed 3 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
+  * [#3cc6450](https://github.com/xHyroM/bun-types/commit/3cc6450) Merge pull request #5 from xHyroM/chore/add-tests
+
+tests: add some tests
+  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
+  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
+* ➡️ Pushed 3 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `master`
+  * [#3cc6450](https://github.com/xHyroM/bun-types/commit/3cc6450) Merge pull request #5 from xHyroM/chore/add-tests
+
+tests: add some tests
+  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
+  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
+* 📦 Released **v0.1.7** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ⏺️ Created new tag v0.1.7 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 
 
 ___
