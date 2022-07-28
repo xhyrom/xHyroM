@@ -14,12 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/Muploader](https://github.com/xHyroM/Muploader) on branch `snyk-fix-a72d23237388ac991bc1ff37464a36ee`
+  * [#ec86458](https://github.com/xHyroM/Muploader/commit/ec86458) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
+* ⏺️ Created new branch snyk-fix-a72d23237388ac991bc1ff37464a36ee in [xHyroM/Muploader](https://github.com/xHyroM/Muploader)
 * ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
   * [#2e3969b](https://github.com/oven-sh/bun-types/commit/2e3969b) chore: remove old workflows
 * ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
   * [#abd29af](https://github.com/oven-sh/bun-types/commit/abd29af) chore(workflows/release): fix
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#626e7a0](https://github.com/oven-sh/bun-types/commit/626e7a0) chore(workflows/release): fix
 
 
 ___
