@@ -14,16 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#2975dc0](https://github.com/xHyroM/bun/commit/2975dc0) chore: remove old workflows
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#ebb2ae1](https://github.com/xHyroM/bun/commit/ebb2ae1) chore(workflows/bun-build): improve, add mac aarch64
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#86275c1](https://github.com/xHyroM/bun/commit/86275c1) chore(actions/builds/macos): delete action.yml
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#979a315](https://github.com/xHyroM/bun/commit/979a315) chore: bun-build workflow
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#67782be](https://github.com/xHyroM/bun/commit/67782be) chore: change to oven-sh/bun
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#2e3969b](https://github.com/oven-sh/bun-types/commit/2e3969b) chore: remove old workflows
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#abd29af](https://github.com/oven-sh/bun-types/commit/abd29af) chore(workflows/release): fix
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#626e7a0](https://github.com/oven-sh/bun-types/commit/626e7a0) chore(workflows/release): fix
 
 
 ___
