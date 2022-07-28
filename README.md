@@ -14,12 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔍 Reviewed [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#b6aa078](https://github.com/xHyroM/covid19-stats/commit/b6aa078) 2022/07/28 stats
-* 💬 Commented on [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#795 Added Wget cli utility for easier download.](https://github.com/oven-sh/bun/pull/795) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 4 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/bun/add-hex-to-bufferencoding`
+  * [#0763898](https://github.com/xHyroM/bun-types/commit/0763898) Merge branch &#39;oven-sh:master&#39; into fix/bun/add-hex-to-bufferencoding
+* ➡️ Pushed 2 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `master`
+  * [#f3ef12c](https://github.com/xHyroM/bun-types/commit/f3ef12c) fix(scripts/generate): dont call getDotTsFiles 3 times
+  * [#945d7c9](https://github.com/xHyroM/bun-types/commit/945d7c9) chore(workflows/release): fix typo
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#f3ef12c](https://github.com/oven-sh/bun-types/commit/f3ef12c) fix(scripts/generate): dont call getDotTsFiles 3 times
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#945d7c9](https://github.com/oven-sh/bun-types/commit/945d7c9) chore(workflows/release): fix typo
+* 🔃 Opened [#9 fix(bun): add hex to BufferEncoding](https://github.com/oven-sh/bun-types/pull/9) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 1 file changed `++2 --1`
 
 
 ___
