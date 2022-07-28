@@ -14,22 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch testv2 in [xHyroM/bun-types](https://github.com/xHyroM/bun-types)
 * ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
-  * [#311d405](https://github.com/xHyroM/bun-types/commit/311d405) feat: add fs/promises
-* ➡️ Pushed 3 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
-  * [#3cc6450](https://github.com/xHyroM/bun-types/commit/3cc6450) Merge pull request #5 from xHyroM/chore/add-tests
-
-tests: add some tests
-  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
-  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
-* ➡️ Pushed 3 commits in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `master`
-  * [#3cc6450](https://github.com/xHyroM/bun-types/commit/3cc6450) Merge pull request #5 from xHyroM/chore/add-tests
-
-tests: add some tests
-  * [#7211b73](https://github.com/xHyroM/bun-types/commit/7211b73) chore(workflows/tests): add generate package ste
-  * [#5d2ab97](https://github.com/xHyroM/bun-types/commit/5d2ab97) chore: add some tests
-* 📦 Released **v0.1.7** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ⏺️ Created new tag v0.1.7 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+  * [#f1d9c0c](https://github.com/xHyroM/bun-types/commit/f1d9c0c) fix: some fixe
+* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
+  * [#3f46ca5](https://github.com/xHyroM/bun-types/commit/3f46ca5) fix(scripts): add prefix
+* ➡️ Pushed 1 commit in [xHyroM/bun-types](https://github.com/xHyroM/bun-types) on branch `fix/fs/add-misssing-promises-types`
+  * [#f2b01c1](https://github.com/xHyroM/bun-types/commit/f2b01c1) tf
+* 🔃 Opened [#8 fix(fs): add missing promises types](https://github.com/oven-sh/bun-types/pull/8) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 7 files changed `++652 --7`
 
 
 ___
