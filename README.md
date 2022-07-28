@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#32ade27](https://github.com/xHyroM/benchmarks/commit/32ade27) fix: remove bombardier
+  * [#d617910](https://github.com/xHyroM/benchmarks/commit/d617910) feat: http benchmarks
+* 💬 Commented on [#899 chore: fix labeler](https://github.com/oven-sh/bun/pull/899) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#899 chore: fix labeler](https://github.com/oven-sh/bun/pull/899) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#d25cb70](https://github.com/xHyroM/bun-utilities/commit/d25cb70) fix(spawn): update ts return type
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#c5c8e9a](https://github.com/xHyroM/bun-utilities/commit/c5c8e9a) feat: execAndDontWait, spawnAndDontWait
-* #️⃣ Closed [#6 `bun-types` is missing `Bun.file().json()` aka `FileBlob.json()`](https://github.com/oven-sh/bun-types/issues/6) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#123727b](https://github.com/Mr-Infinity-Bot/bot/commit/123727b) fix: allow to disable auto_nuke_channels
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#ace6212](https://github.com/Mr-Infinity-Bot/bot/commit/ace6212) feat: bump djs
 
 
 ___
