@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#962df21](https://github.com/xHyroM/setup-bun/commit/962df21) chore: debug
+  * [#a11484a](https://github.com/xHyroM/setup-bun/commit/a11484a) chore: dont cache if customDownloadUrl
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#c3404c3](https://github.com/xHyroM/setup-bun/commit/c3404c3) chore(workflows/test): use ACCESS_TOKEN
+  * [#fe160cf](https://github.com/xHyroM/setup-bun/commit/fe160cf) chore: debug
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#f391a17](https://github.com/xHyroM/setup-bun/commit/f391a17) chore: use api.github.com
+  * [#dbb8e61](https://github.com/xHyroM/setup-bun/commit/dbb8e61) chore: debug
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#24c8fd0](https://github.com/xHyroM/setup-bun/commit/24c8fd0) fix: add token to install
+  * [#a99ac77](https://github.com/xHyroM/setup-bun/commit/a99ac77) chore: build
 * ➡️ Pushed 1 commit in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun) on branch `main`
-  * [#89f6825](https://github.com/xHyroM/setup-bun/commit/89f6825) fix: add token to install
+  * [#fe4b2b1](https://github.com/xHyroM/setup-bun/commit/fe4b2b1) chore: build
 
 
 ___
