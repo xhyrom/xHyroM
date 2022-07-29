@@ -14,15 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#b5a1983](https://github.com/Garlic-Team/docs/commit/b5a1983) Docs build for branch next: f90f5282c0e15654de7804801a8f6d2ffd8ee28f
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#f90f528](https://github.com/Garlic-Team/gcommands/commit/f90f528) chore(deps): update dependency @prisma/client to v4.1.1
+  * [#d32ff33](https://github.com/Garlic-Team/gcommands/commit/d32ff33) chore(deps): update dependency @prisma/client to v4.1.1
+* 🔃 Merged [#543 chore(deps): update dependency @prisma/client to v4.1.1](https://github.com/Garlic-Team/gcommands/pull/543) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 2 files changed `++8 --8`
 * 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
   * [#ada587e](https://github.com/xHyroM/bun/commit/ada587e) remove bun-*-*.yml
-* ➡️ Pushed 6 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#5b7ec35](https://github.com/xHyroM/bun/commit/5b7ec35) Merge branch &#39;oven-sh:main&#39; into chore/better-build-workflow
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#19caf4e](https://github.com/xHyroM/bun/commit/19caf4e) resolve conflicts
-* ➡️ Pushed 6 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `main`
-  * [#855e40a](https://github.com/xHyroM/bun/commit/855e40a) Merge branch &#39;oven-sh:main&#39; into main
 
 
 ___
