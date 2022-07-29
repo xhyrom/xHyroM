@@ -14,17 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#515d9a0](https://github.com/xHyroM/covid19-stats/commit/515d9a0) 2022/07/29 stats
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#a437aac](https://github.com/xHyroM/benchmarks/commit/a437aac) feat(scripts/readme): use b.type
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#78094d1](https://github.com/xHyroM/benchmarks/commit/78094d1) feat(http): add type
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#6877730](https://github.com/xHyroM/benchmarks/commit/6877730) fix(scripts/benchmarks): support for custom script
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#102f6d2](https://github.com/xHyroM/benchmarks/commit/102f6d2) feat: better http benchmark
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#b5a1983](https://github.com/Garlic-Team/docs/commit/b5a1983) Docs build for branch next: f90f5282c0e15654de7804801a8f6d2ffd8ee28f
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#f90f528](https://github.com/Garlic-Team/gcommands/commit/f90f528) chore(deps): update dependency @prisma/client to v4.1.1
-  * [#d32ff33](https://github.com/Garlic-Team/gcommands/commit/d32ff33) chore(deps): update dependency @prisma/client to v4.1.1
-* 🔃 Merged [#543 chore(deps): update dependency @prisma/client to v4.1.1](https://github.com/Garlic-Team/gcommands/pull/543) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
