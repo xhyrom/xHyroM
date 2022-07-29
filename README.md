@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#515d9a0](https://github.com/xHyroM/covid19-stats/commit/515d9a0) 2022/07/29 stats
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#a437aac](https://github.com/xHyroM/benchmarks/commit/a437aac) feat(scripts/readme): use b.type
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#78094d1](https://github.com/xHyroM/benchmarks/commit/78094d1) feat(http): add type
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#6877730](https://github.com/xHyroM/benchmarks/commit/6877730) fix(scripts/benchmarks): support for custom script
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#102f6d2](https://github.com/xHyroM/benchmarks/commit/102f6d2) feat: better http benchmark
+* 🔃 Opened [#914 docs: fix broken ffi benchmark link](https://github.com/oven-sh/bun/pull/914) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `documentation/fix-broken-ffi-benchmark-link`
+  * [#2d47952](https://github.com/xHyroM/bun/commit/2d47952) docs: fix broken ffi benchmark link
+* ⏺️ Created new branch documentation/fix-broken-ffi-benchmark-link in [xHyroM/bun](https://github.com/xHyroM/bun)
+* 💬 Commented on [#911 Broken link](https://github.com/oven-sh/bun/issues/911) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [SharkurMC/Sharkur](https://github.com/SharkurMC/Sharkur) on branch `ver/1.19.1`
+  * [#780f136](https://github.com/SharkurMC/Sharkur/commit/780f136) 1.19.1
 
 
 ___
