@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#915 SegmentationFault when using Honojs on Bun and testing using Hoppscotch.](https://github.com/oven-sh/bun/issues/915) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Opened [#10 copy readme to dist/](https://github.com/oven-sh/bun-types/issues/10) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#b6a79b0](https://github.com/oven-sh/bun-types/commit/b6a79b0) fix(scripts/bundle): update repository
+* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#134b711](https://github.com/oven-sh/bun-types/commit/134b711) fix(workflows/release): add registry url
 * 💬 Commented on [#785 Docker io_uring error](https://github.com/oven-sh/bun/issues/785) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔃 Closed [#673 Allow blank templates](https://github.com/oven-sh/bun/pull/673) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++1 --1`
-* 💬 Commented on [#673 Allow blank templates](https://github.com/oven-sh/bun/issues/673) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#911855d](https://github.com/xHyroM/benchmarks/commit/911855d) fix: correct formatting
-* 🔃 Opened [#914 docs: fix broken ffi benchmark link](https://github.com/oven-sh/bun/pull/914) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++1 --1`
 
 
 ___
