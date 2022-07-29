@@ -14,16 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d3ff543](https://github.com/xHyroM/benchmarks/commit/d3ff543) fix(http/bun): replace ?
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#f224014](https://github.com/xHyroM/benchmarks/commit/f224014) fix(http/bun): correct pid
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#4909cab](https://github.com/xHyroM/benchmarks/commit/4909cab) fix(http): add sudo
-* #️⃣ Closed [#1 use short + long data in benchmarks](https://github.com/xHyroM/benchmarks/issues/1) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#32ade27](https://github.com/xHyroM/benchmarks/commit/32ade27) fix: remove bombardier
-  * [#d617910](https://github.com/xHyroM/benchmarks/commit/d617910) feat: http benchmarks
+* 🔃 Opened [#10 [Snyk] Security upgrade mongoose from 5.13.14 to 6.4.6](https://github.com/xHyroM/BlobRadio/pull/10) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+  * 2 files changed `++346 --348`
+* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-e3ad285515182eca1f2b6b0a38d2c21a`
+  * [#618971b](https://github.com/xHyroM/BlobRadio/commit/618971b) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
+* ⏺️ Created new branch snyk-fix-e3ad285515182eca1f2b6b0a38d2c21a in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-b9204256a5c39ad4ff940cc7be0634c0`
+  * [#49dea12](https://github.com/xHyroM/Shortener/commit/49dea12) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
+* 🔃 Opened [#11 [Snyk] Security upgrade mongoose from 6.1.5 to 6.4.6](https://github.com/xHyroM/Shortener/pull/11) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
+  * 2 files changed `++93 --121`
 
 
 ___
