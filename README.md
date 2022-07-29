@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#785 Docker io_uring error](https://github.com/oven-sh/bun/issues/785) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🔃 Closed [#673 Allow blank templates](https://github.com/oven-sh/bun/pull/673) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 1 file changed `++1 --1`
 * 💬 Commented on [#673 Allow blank templates](https://github.com/oven-sh/bun/issues/673) from [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -21,8 +22,6 @@ ___
   * [#911855d](https://github.com/xHyroM/benchmarks/commit/911855d) fix: correct formatting
 * 🔃 Opened [#914 docs: fix broken ffi benchmark link](https://github.com/oven-sh/bun/pull/914) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `documentation/fix-broken-ffi-benchmark-link`
-  * [#2d47952](https://github.com/xHyroM/bun/commit/2d47952) docs: fix broken ffi benchmark link
 
 
 ___
