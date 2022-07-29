@@ -14,21 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🔃 Opened [#10 [Snyk] Security upgrade mongoose from 5.13.14 to 6.4.6](https://github.com/xHyroM/BlobRadio/pull/10) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-  * 2 files changed `++346 --348`
-* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-e3ad285515182eca1f2b6b0a38d2c21a`
-  * [#618971b](https://github.com/xHyroM/BlobRadio/commit/618971b) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
-* ⏺️ Created new branch snyk-fix-e3ad285515182eca1f2b6b0a38d2c21a in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-* ➡️ Pushed 1 commit in [xHyroM/Shortener](https://github.com/xHyroM/Shortener) on branch `snyk-fix-b9204256a5c39ad4ff940cc7be0634c0`
-  * [#49dea12](https://github.com/xHyroM/Shortener/commit/49dea12) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-MONGOOSE-2961688
-* 🔃 Opened [#11 [Snyk] Security upgrade mongoose from 6.1.5 to 6.4.6](https://github.com/xHyroM/Shortener/pull/11) in [xHyroM/Shortener](https://github.com/xHyroM/Shortener)
-  * 2 files changed `++93 --121`
+* 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#ada587e](https://github.com/xHyroM/bun/commit/ada587e) remove bun-*-*.yml
+* ➡️ Pushed 6 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#5b7ec35](https://github.com/xHyroM/bun/commit/5b7ec35) Merge branch &#39;oven-sh:main&#39; into chore/better-build-workflow
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#19caf4e](https://github.com/xHyroM/bun/commit/19caf4e) resolve conflicts
+* ➡️ Pushed 6 commits in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `main`
+  * [#855e40a](https://github.com/xHyroM/bun/commit/855e40a) Merge branch &#39;oven-sh:main&#39; into main
 
 
 ___
