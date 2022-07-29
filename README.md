@@ -14,13 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [oven-sh/bun](https://github.com/oven-sh/bun) on branch `main`
+  * [#50284f3](https://github.com/oven-sh/bun/commit/50284f3) chore(ci): add segfault label (https://github.com/oven-sh/bun/pull/916)
+  * [#09c6802](https://github.com/oven-sh/bun/commit/09c6802) chore(ci): add segfault label
+* 🔃 Merged [#916 chore(ci): add segfault label](https://github.com/oven-sh/bun/pull/916) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 1 file changed `++2 --0`
+* 🔍 Reviewed [#916 chore(ci): add segfault label](https://github.com/oven-sh/bun/pull/916) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#915 SegmentationFault when using Honojs on Bun and testing using Hoppscotch.](https://github.com/oven-sh/bun/issues/915) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Opened [#10 copy readme to dist/](https://github.com/oven-sh/bun-types/issues/10) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#b6a79b0](https://github.com/oven-sh/bun-types/commit/b6a79b0) fix(scripts/bundle): update repository
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#134b711](https://github.com/oven-sh/bun-types/commit/134b711) fix(workflows/release): add registry url
-* 💬 Commented on [#785 Docker io_uring error](https://github.com/oven-sh/bun/issues/785) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#915 SegmentationFault when using Honojs on Bun and testing using Hoppscotch.](https://github.com/oven-sh/bun/issues/915) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
