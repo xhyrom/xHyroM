@@ -20,8 +20,6 @@ ___
   * [#72f3503](https://github.com/xHyroM/various/commit/72f3503) feat: ability to use custom prefix
 * ⏺️ Created new branch feat/allow-custom-prefix in [xHyroM/various](https://github.com/xHyroM/various)
 * 🍽️ Forked [paperdave/various](https://github.com/paperdave/various) to [xHyroM/various](https://github.com/xHyroM/various)
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#a8db285](https://github.com/xHyroM/covid19-stats/commit/a8db285) 2022/07/30 stats
 
 
 ___
