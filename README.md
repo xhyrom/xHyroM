@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [LendMarkNetwork/wiki](https://github.com/LendMarkNetwork/wiki) on branch `master`
+  * [#e21d6f0](https://github.com/LendMarkNetwork/wiki/commit/e21d6f0) fix: docs
 * ➡️ Pushed 1 commit in [LendMarkNetwork/OBUtils](https://github.com/LendMarkNetwork/OBUtils) on branch `main`
   * [#6563124](https://github.com/LendMarkNetwork/OBUtils/commit/6563124) feat: plugin
 * 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * #️⃣ Closed [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
 * 💬 Commented on [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) from [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
-* 💬 Commented on [#800 Failing on aarch64 + armv7 android](https://github.com/GuillaumeGomez/sysinfo/issues/800) from [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo)
 
 
 ___
