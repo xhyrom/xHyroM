@@ -14,13 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#23 feat: allow custom prefix](https://github.com/paperdave/various/pull/23) in [paperdave/various](https://github.com/paperdave/various)
+  * 2 files changed `++11 --5`
+* ➡️ Pushed 1 commit in [xHyroM/various](https://github.com/xHyroM/various) on branch `feat/allow-custom-prefix`
+  * [#72f3503](https://github.com/xHyroM/various/commit/72f3503) feat: ability to use custom prefix
+* ⏺️ Created new branch feat/allow-custom-prefix in [xHyroM/various](https://github.com/xHyroM/various)
+* 🍽️ Forked [paperdave/various](https://github.com/paperdave/various) to [xHyroM/various](https://github.com/xHyroM/various)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#a8db285](https://github.com/xHyroM/covid19-stats/commit/a8db285) 2022/07/30 stats
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#c23081e](https://github.com/xHyroM/bun-utilities/commit/c23081e) chore: build
-* #️⃣ Opened [#8 implement `os`](https://github.com/xHyroM/bun-utilities/issues/8) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* #️⃣ Closed [#4 TODO](https://github.com/xHyroM/bun-utilities/issues/4) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* 💬 Commented on [#7 Node.js ESM does not work.](https://github.com/xHyroM/bun-utilities/issues/7) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
