@@ -14,12 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🔃 Opened [#23 feat: allow custom prefix](https://github.com/paperdave/various/pull/23) in [paperdave/various](https://github.com/paperdave/various)
-  * 2 files changed `++11 --5`
-* ➡️ Pushed 1 commit in [xHyroM/various](https://github.com/xHyroM/various) on branch `feat/allow-custom-prefix`
-  * [#72f3503](https://github.com/xHyroM/various/commit/72f3503) feat: ability to use custom prefix
-* ⏺️ Created new branch feat/allow-custom-prefix in [xHyroM/various](https://github.com/xHyroM/various)
-* 🍽️ Forked [paperdave/various](https://github.com/paperdave/various) to [xHyroM/various](https://github.com/xHyroM/various)
+* #️⃣ Opened [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
+* #️⃣ Opened [#18 update illegal instructions tag](https://github.com/xHyroM/bun-discord-bot/issues/18) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* #️⃣ Closed [#14 TODO](https://github.com/xHyroM/bun-discord-bot/issues/14) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* #️⃣ Opened [#17 add microsoft/WSL repo into repositories](https://github.com/xHyroM/bun-discord-bot/issues/17) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 
 
 ___
