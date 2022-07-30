@@ -14,12 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* #️⃣ Closed [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
+* 💬 Commented on [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) from [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
 * 💬 Commented on [#800 Failing on aarch64 + armv7 android](https://github.com/GuillaumeGomez/sysinfo/issues/800) from [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo)
 * 💬 Commented on [#7 Node.js ESM does not work.](https://github.com/xHyroM/bun-utilities/issues/7) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* #️⃣ Closed [#7 Node.js ESM does not work.](https://github.com/xHyroM/bun-utilities/issues/7) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#ccc5cbc](https://github.com/xHyroM/bun-utilities/commit/ccc5cbc) chore(README): remove cpus
-* #️⃣ Closed [#9 split utils](https://github.com/xHyroM/bun-utilities/issues/9) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
