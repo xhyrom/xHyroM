@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#7 Node.js ESM does not work.](https://github.com/xHyroM/bun-utilities/issues/7) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 2 commits in [oven-sh/bun](https://github.com/oven-sh/bun) on branch `main`
   * [#50284f3](https://github.com/oven-sh/bun/commit/50284f3) chore(ci): add segfault label (https://github.com/oven-sh/bun/pull/916)
   * [#09c6802](https://github.com/oven-sh/bun/commit/09c6802) chore(ci): add segfault label
 * 🔃 Merged [#916 chore(ci): add segfault label](https://github.com/oven-sh/bun/pull/916) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 1 file changed `++2 --0`
 * 🔍 Reviewed [#916 chore(ci): add segfault label](https://github.com/oven-sh/bun/pull/916) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#915 SegmentationFault when using Honojs on Bun and testing using Hoppscotch.](https://github.com/oven-sh/bun/issues/915) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#915 SegmentationFault when using Honojs on Bun and testing using Hoppscotch.](https://github.com/oven-sh/bun/issues/915) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
