@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#9 split utils](https://github.com/xHyroM/bun-utilities/issues/9) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * #️⃣ Opened [#13 addr](https://github.com/EstebanBorai/network-interface/issues/13) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
 * #️⃣ Opened [#18 update illegal instructions tag](https://github.com/xHyroM/bun-discord-bot/issues/18) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * #️⃣ Closed [#14 TODO](https://github.com/xHyroM/bun-discord-bot/issues/14) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
