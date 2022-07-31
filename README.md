@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#fb293a3](https://github.com/xHyroM/covid19-stats/commit/fb293a3) 2022/07/31 stats
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#26863cf](https://github.com/Garlic-Team/docs/commit/26863cf) Docs build for branch next: 2c00999cf814db3df2611c93bedcc59af31354e2
 * ➡️ Pushed 9 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
@@ -39,8 +41,6 @@ to Bun.* types
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
   * [#2c00999](https://github.com/Garlic-Team/gcommands/commit/2c00999) chore(deps): update dependency @types/node to v16.11.47
   * [#71665ee](https://github.com/Garlic-Team/gcommands/commit/71665ee) chore(deps): update dependency @types/node to v16.11.47
-* 🔃 Merged [#546 chore(deps): update dependency @types/node to v16.11.47](https://github.com/Garlic-Team/gcommands/pull/546) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
