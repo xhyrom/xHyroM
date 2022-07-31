@@ -14,30 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-b890a7f799ac2ca546a9cc28e6f4aaf8`
+  * [#b4ef7c2](https://github.com/xHyroM/InfinityNextGen/commit/b4ef7c2) fix: src/utils/discord-giveaways/package.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
+* 🔃 Opened [#10 [Snyk] Security upgrade discord.js from 13.9.2 to 14.0.0](https://github.com/xHyroM/InfinityNextGen/pull/10) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch snyk-fix-b890a7f799ac2ca546a9cc28e6f4aaf8 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#fb293a3](https://github.com/xHyroM/covid19-stats/commit/fb293a3) 2022/07/31 stats
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#26863cf](https://github.com/Garlic-Team/docs/commit/26863cf) Docs build for branch next: 2c00999cf814db3df2611c93bedcc59af31354e2
-* ➡️ Pushed 9 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#f16a9b5](https://github.com/oven-sh/bun-types/commit/f16a9b5) feat: add gzipSync, gunzipSync, inflateSync and deflateSync
-
-to Bun.* types
-  * [#4c2b0c0](https://github.com/oven-sh/bun-types/commit/4c2b0c0) Add ArrayBuffer as input for fs.promises.writeFile
-  * [#3cea4a6](https://github.com/oven-sh/bun-types/commit/3cea4a6) Add ArrayBuffer as input for fs.writeFile(Sync)
-  * [#5b5a4c7](https://github.com/oven-sh/bun-types/commit/5b5a4c7) Add tests for previous 2 commits
-  * [#0df3f07](https://github.com/oven-sh/bun-types/commit/0df3f07) Add gzipSync, gunzipSync, inflateSync &amp; deflateSync
-  * [#e9462ae](https://github.com/oven-sh/bun-types/commit/e9462ae) Add ArrayBuffer as accepted input by Bun.write
-  * [#745af50](https://github.com/oven-sh/bun-types/commit/745af50) Run prettier on fs/promises for the 1st time
-  * [#372e864](https://github.com/oven-sh/bun-types/commit/372e864) Update generate script on README
-  * [#bcf8ea8](https://github.com/oven-sh/bun-types/commit/bcf8ea8) fixes to eslint and prettier setup
-- Add `.eslintignore` to fix parse error on dist, tests &amp; scripts folder
-- Disable TS on `.eslintrc.cjs` to fix error on `__dirname`
-- Add `.prettierignore` to fix prettier running on `dist` folder
-- Updated `package.json` to:
-  - Fix eslint not parsing subfolders like `fs/promises.d.ts`
-  - Same fix as above for lint:fix and prettier
-* 🔃 Merged [#11 feat: add gzipSync, gunzipSync, inflateSync and deflateSync to Bun.* types](https://github.com/oven-sh/bun-types/pull/11) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 9 files changed `++794 --617`
 
 
 ___
