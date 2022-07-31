@@ -38,9 +38,6 @@ to Bun.* types
   - Same fix as above for lint:fix and prettier
 * 🔃 Merged [#11 feat: add gzipSync, gunzipSync, inflateSync and deflateSync to Bun.* types](https://github.com/oven-sh/bun-types/pull/11) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
   * 9 files changed `++794 --617`
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#2c00999](https://github.com/Garlic-Team/gcommands/commit/2c00999) chore(deps): update dependency @types/node to v16.11.47
-  * [#71665ee](https://github.com/Garlic-Team/gcommands/commit/71665ee) chore(deps): update dependency @types/node to v16.11.47
 
 
 ___
