@@ -14,16 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#2fba78d](https://github.com/xHyroM/benchmarks/commit/2fba78d) fix(scripts/readme): correct data in table
-* #️⃣ Opened [#4 add support for framework (http benchmarks)](https://github.com/xHyroM/benchmarks/issues/4) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#944 Fix: move bun, Webkit and zig urls from Jarred-Sumner to oven-sh.](https://github.com/oven-sh/bun/issues/944) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#937 `bun-types` url is dead](https://github.com/oven-sh/bun/issues/937) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-b890a7f799ac2ca546a9cc28e6f4aaf8`
-  * [#b4ef7c2](https://github.com/xHyroM/InfinityNextGen/commit/b4ef7c2) fix: src/utils/discord-giveaways/package.json to reduce vulnerabilities
+* 🔃 Opened [#24 [Snyk] Security upgrade discord.js from 12.5.3 to 14.0.0](https://github.com/Garlic-Team/InviteManager/pull/24) in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
+  * 2 files changed `++173 --97`
+* ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-5594b5600c47afa1a5e35668ce1ff522`
+  * [#cf18846](https://github.com/Garlic-Team/InviteManager/commit/cf18846) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
+* ⏺️ Created new branch snyk-fix-5594b5600c47afa1a5e35668ce1ff522 in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#2fba78d](https://github.com/xHyroM/benchmarks/commit/2fba78d) fix(scripts/readme): correct data in table
+* #️⃣ Opened [#4 add support for framework (http benchmarks)](https://github.com/xHyroM/benchmarks/issues/4) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 
 
 ___
