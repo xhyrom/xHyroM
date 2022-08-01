@@ -14,17 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔃 Opened [#11 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/InfinityNextGen/pull/11) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-  * 2 files changed `++517 --238`
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-2dccefb73a666a58873284fb3e82d688`
-  * [#9f9cc04](https://github.com/xHyroM/InfinityNextGen/commit/9f9cc04) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+* 🌟 Starred [gobench-io/gobench](https://github.com/gobench-io/gobench)
+* #️⃣ Opened [#91 Implement min](https://github.com/codesenberg/bombardier/issues/91) in [codesenberg/bombardier](https://github.com/codesenberg/bombardier)
+* 🔃 Opened [#1 [Snyk] Security upgrade discord.js from 13.6.0 to 14.0.0](https://github.com/TrospySMP/bot/pull/1) in [TrospySMP/bot](https://github.com/TrospySMP/bot)
+  * 2 files changed `++456 --159`
+* ➡️ Pushed 1 commit in [TrospySMP/bot](https://github.com/TrospySMP/bot) on branch `snyk-fix-1797919595fabf5155b0d8995937acf6`
+  * [#1e394b7](https://github.com/TrospySMP/bot/commit/1e394b7) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
-* ⏺️ Created new branch snyk-fix-2dccefb73a666a58873284fb3e82d688 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-* 🔃 Opened [#2 [Snyk] Fix for 1 vulnerabilities](https://github.com/Garlic-Team/GPunishment/pull/2) in [Garlic-Team/GPunishment](https://github.com/Garlic-Team/GPunishment)
-  * 1 file changed `++2 --2`
+* ⏺️ Created new branch snyk-fix-1797919595fabf5155b0d8995937acf6 in [TrospySMP/bot](https://github.com/TrospySMP/bot)
 
 
 ___
