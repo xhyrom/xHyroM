@@ -14,16 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [gobench-io/gobench](https://github.com/gobench-io/gobench)
-* #️⃣ Opened [#91 Implement min](https://github.com/codesenberg/bombardier/issues/91) in [codesenberg/bombardier](https://github.com/codesenberg/bombardier)
-* 🔃 Opened [#1 [Snyk] Security upgrade discord.js from 13.6.0 to 14.0.0](https://github.com/TrospySMP/bot/pull/1) in [TrospySMP/bot](https://github.com/TrospySMP/bot)
-  * 2 files changed `++456 --159`
-* ➡️ Pushed 1 commit in [TrospySMP/bot](https://github.com/TrospySMP/bot) on branch `snyk-fix-1797919595fabf5155b0d8995937acf6`
-  * [#1e394b7](https://github.com/TrospySMP/bot/commit/1e394b7) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#5a2336b](https://github.com/xHyroM/covid19-stats/commit/5a2336b) 2022/08/01 stats
+* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-bdbbd6571c257332400275f4dfd86aaa`
+  * [#451335e](https://github.com/xHyroM/BlobRadio/commit/451335e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
-* ⏺️ Created new branch snyk-fix-1797919595fabf5155b0d8995937acf6 in [TrospySMP/bot](https://github.com/TrospySMP/bot)
+* 🔃 Opened [#11 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/BlobRadio/pull/11) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+  * 2 files changed `++540 --347`
+* ⏺️ Created new branch snyk-fix-bdbbd6571c257332400275f4dfd86aaa in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
+* 🌟 Starred [gobench-io/gobench](https://github.com/gobench-io/gobench)
 
 
 ___
