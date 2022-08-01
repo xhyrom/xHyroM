@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#169 Print machine readable output](https://github.com/hatoo/oha/issues/169) from [hatoo/oha](https://github.com/hatoo/oha)
 * 🔃 Opened [#12 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/InfinityNextGen/pull/12) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
   * 1 file changed `++2 --2`
 * ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-ed5b7368bf0977f05798d650b52fc5db`
@@ -24,11 +25,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-ed5b7368bf0977f05798d650b52fc5db in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5a2336b](https://github.com/xHyroM/covid19-stats/commit/5a2336b) 2022/08/01 stats
-* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-bdbbd6571c257332400275f4dfd86aaa`
-  * [#451335e](https://github.com/xHyroM/BlobRadio/commit/451335e) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
 
 
 ___
