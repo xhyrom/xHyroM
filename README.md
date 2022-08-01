@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#12 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/InfinityNextGen/pull/12) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 1 file changed `++2 --2`
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-ed5b7368bf0977f05798d650b52fc5db`
+  * [#ba738eb](https://github.com/xHyroM/InfinityNextGen/commit/ba738eb) fix: src/utils/discord-live-stats/package.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
+* ⏺️ Created new branch snyk-fix-ed5b7368bf0977f05798d650b52fc5db in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#5a2336b](https://github.com/xHyroM/covid19-stats/commit/5a2336b) 2022/08/01 stats
 * ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-bdbbd6571c257332400275f4dfd86aaa`
@@ -21,10 +29,6 @@ ___
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
-* 🔃 Opened [#11 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/BlobRadio/pull/11) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-  * 2 files changed `++540 --347`
-* ⏺️ Created new branch snyk-fix-bdbbd6571c257332400275f4dfd86aaa in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-* 🌟 Starred [gobench-io/gobench](https://github.com/gobench-io/gobench)
 
 
 ___
