@@ -14,17 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🔃 Opened [#24 [Snyk] Security upgrade discord.js from 12.5.3 to 14.0.0](https://github.com/Garlic-Team/InviteManager/pull/24) in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
-  * 2 files changed `++173 --97`
-* ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-5594b5600c47afa1a5e35668ce1ff522`
-  * [#cf18846](https://github.com/Garlic-Team/InviteManager/commit/cf18846) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+* 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔃 Opened [#11 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/InfinityNextGen/pull/11) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 2 files changed `++517 --238`
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-2dccefb73a666a58873284fb3e82d688`
+  * [#9f9cc04](https://github.com/xHyroM/InfinityNextGen/commit/9f9cc04) fix: package.json &amp; package-lock.json to reduce vulnerabilities
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
-* ⏺️ Created new branch snyk-fix-5594b5600c47afa1a5e35668ce1ff522 in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#2fba78d](https://github.com/xHyroM/benchmarks/commit/2fba78d) fix(scripts/readme): correct data in table
-* #️⃣ Opened [#4 add support for framework (http benchmarks)](https://github.com/xHyroM/benchmarks/issues/4) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* ⏺️ Created new branch snyk-fix-2dccefb73a666a58873284fb3e82d688 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+* 🔃 Opened [#2 [Snyk] Fix for 1 vulnerabilities](https://github.com/Garlic-Team/GPunishment/pull/2) in [Garlic-Team/GPunishment](https://github.com/Garlic-Team/GPunishment)
+  * 1 file changed `++2 --2`
 
 
 ___
