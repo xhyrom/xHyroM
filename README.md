@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#549 fix: interaction.isContextMenu is not a function](https://github.com/Garlic-Team/gcommands/issues/549) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * 💬 Commented on [#956 Makefile: Check that sed is GNU sed](https://github.com/oven-sh/bun/issues/956) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#967 React typescript ](https://github.com/oven-sh/bun/issues/967) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#52ab8d7](https://github.com/xHyroM/covid19-stats/commit/52ab8d7) 2022/08/02 stats
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#6cdb74d](https://github.com/xHyroM/bun-discord-bot/commit/6cdb74d) tags: update illegal instuction
 
 
 ___
