@@ -14,17 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#52ab8d7](https://github.com/xHyroM/covid19-stats/commit/52ab8d7) 2022/08/02 stats
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#6cdb74d](https://github.com/xHyroM/bun-discord-bot/commit/6cdb74d) tags: update illegal instuction
 * 💬 Commented on [#956 Makefile: Check that sed is GNU sed](https://github.com/oven-sh/bun/issues/956) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#169 Print machine readable output](https://github.com/hatoo/oha/issues/169) from [hatoo/oha](https://github.com/hatoo/oha)
 * 🔃 Opened [#12 [Snyk] Fix for 1 vulnerabilities](https://github.com/xHyroM/InfinityNextGen/pull/12) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
   * 1 file changed `++2 --2`
-* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-ed5b7368bf0977f05798d650b52fc5db`
-  * [#ba738eb](https://github.com/xHyroM/InfinityNextGen/commit/ba738eb) fix: src/utils/discord-live-stats/package.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NODEFETCH-2964180
 
 
 ___
