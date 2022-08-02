@@ -14,13 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#28 [Snyk] Security upgrade next-auth from 4.3.2 to 4.10.2](https://github.com/xHyroM/Uptimo/pull/28) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
+  * 2 files changed `++10 --10`
+* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-3577c0f9e2fb68b330b482035b646c28`
+  * [#9209f8f](https://github.com/xHyroM/Uptimo/commit/9209f8f) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2965597
+* ⏺️ Created new branch snyk-fix-3577c0f9e2fb68b330b482035b646c28 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
 * #️⃣ Closed [#18 update illegal instructions tag](https://github.com/xHyroM/bun-discord-bot/issues/18) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#2705a20](https://github.com/xHyroM/bun-discord-bot/commit/2705a20) tags: fix codeblock
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 🔃 Closed [#549 fix: interaction.isContextMenu is not a function](https://github.com/Garlic-Team/gcommands/pull/549) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 3 files changed `++6 --6`
 
 
 ___
