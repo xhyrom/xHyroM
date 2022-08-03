@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#e775874](https://github.com/xHyroM/covid19-stats/commit/e775874) 2022/08/03 stats
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#0f43278](https://github.com/xHyroM/benchmarks/commit/0f43278) fix(scripts/readme): move min column
 * 🔃 Opened [#28 [Snyk] Security upgrade next-auth from 4.3.2 to 4.10.2](https://github.com/xHyroM/Uptimo/pull/28) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
@@ -24,7 +26,6 @@ ___
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2965597
 * ⏺️ Created new branch snyk-fix-3577c0f9e2fb68b330b482035b646c28 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-* #️⃣ Closed [#18 update illegal instructions tag](https://github.com/xHyroM/bun-discord-bot/issues/18) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 
 
 ___
