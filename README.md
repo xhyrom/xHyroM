@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins)
 * #️⃣ Opened [#15 Can&#39;t build on android](https://github.com/EstebanBorai/network-interface/issues/15) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#32edf3f](https://github.com/xHyroM/bun-utilities/commit/32edf3f) feat: implement networkInterfaces
@@ -21,8 +22,6 @@ ___
   * [#e775874](https://github.com/xHyroM/covid19-stats/commit/e775874) 2022/08/03 stats
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#0f43278](https://github.com/xHyroM/benchmarks/commit/0f43278) fix(scripts/readme): move min column
-* 🔃 Opened [#28 [Snyk] Security upgrade next-auth from 4.3.2 to 4.10.2](https://github.com/xHyroM/Uptimo/pull/28) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-  * 2 files changed `++10 --10`
 
 
 ___
