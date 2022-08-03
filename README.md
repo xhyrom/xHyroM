@@ -14,18 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#15 Can&#39;t build on android](https://github.com/EstebanBorai/network-interface/issues/15) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#32edf3f](https://github.com/xHyroM/bun-utilities/commit/32edf3f) feat: implement networkInterfaces
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#e775874](https://github.com/xHyroM/covid19-stats/commit/e775874) 2022/08/03 stats
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#0f43278](https://github.com/xHyroM/benchmarks/commit/0f43278) fix(scripts/readme): move min column
 * 🔃 Opened [#28 [Snyk] Security upgrade next-auth from 4.3.2 to 4.10.2](https://github.com/xHyroM/Uptimo/pull/28) in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
   * 2 files changed `++10 --10`
-* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-3577c0f9e2fb68b330b482035b646c28`
-  * [#9209f8f](https://github.com/xHyroM/Uptimo/commit/9209f8f) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-2965597
-* ⏺️ Created new branch snyk-fix-3577c0f9e2fb68b330b482035b646c28 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
 
 
 ___
