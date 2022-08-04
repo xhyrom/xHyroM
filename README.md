@@ -14,14 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#159 Bun&#39;s Roadmap](https://github.com/oven-sh/bun/issues/159) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#798 Bun&#39;s priorities](https://github.com/oven-sh/bun/issues/798) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#952 Polyfill process.stdin and process.stdout](https://github.com/oven-sh/bun/issues/952) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#952 Polyfill process.stdin and process.stdout](https://github.com/oven-sh/bun/issues/952) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🌟 Starred [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins)
-* #️⃣ Opened [#15 Can&#39;t build on android](https://github.com/EstebanBorai/network-interface/issues/15) in [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#32edf3f](https://github.com/xHyroM/bun-utilities/commit/32edf3f) feat: implement networkInterfaces
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#e775874](https://github.com/xHyroM/covid19-stats/commit/e775874) 2022/08/03 stats
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#0f43278](https://github.com/xHyroM/benchmarks/commit/0f43278) fix(scripts/readme): move min column
 
 
 ___
