@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#cdb169f](https://github.com/xHyroM/hypilus/commit/cdb169f) feat: move book struct to struct/ folder
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#071d1aa](https://github.com/xHyroM/hypilus/commit/071d1aa) feat: implement error handling in POST /api/books
 * 💬 Commented on [#993 Is `bun-types` BufferEncoding missing &#39;base64&#39;?](https://github.com/oven-sh/bun/issues/993) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#993 Is `bun-types` BufferEncoding missing &#39;base64&#39;?](https://github.com/oven-sh/bun/issues/993) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#e5a82e4](https://github.com/xHyroM/hypilus/commit/e5a82e4) feat: add hypilus crystal
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#838454a](https://github.com/xHyroM/hypilus/commit/838454a) feat: move source to go/ folder
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#275c39c](https://github.com/xHyroM/covid19-stats/commit/275c39c) 2022/08/05 stats
 
 
 ___
