@@ -15,11 +15,11 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#c8fde29](https://github.com/xHyroM/hypilus/commit/c8fde29) feat: implement formatting type into GET /api/books
+  * [#dc4fb60](https://github.com/xHyroM/hypilus/commit/dc4fb60) feat: implement BooksHandler middleware
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#8dd52a5](https://github.com/xHyroM/hypilus/commit/8dd52a5) feat: implement error struct
+  * [#06ba576](https://github.com/xHyroM/hypilus/commit/06ba576) chore: readme improvement
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#cdb169f](https://github.com/xHyroM/hypilus/commit/cdb169f) feat: move book struct to struct/ folder
+  * [#24b7859](https://github.com/xHyroM/hypilus/commit/24b7859) fix: correct check if book exist in POST /api/books
 
 
 ___
