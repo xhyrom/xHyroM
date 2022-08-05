@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#838454a](https://github.com/xHyroM/hypilus/commit/838454a) feat: move source to go/ folder
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#275c39c](https://github.com/xHyroM/covid19-stats/commit/275c39c) 2022/08/05 stats
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/util/support-for-util.TextDecoder`
@@ -22,8 +24,6 @@ ___
   * 2 files changed `++10 --1`
 * ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/util/support-for-util.TextDecoder`
   * [#ed970bc](https://github.com/xHyroM/bun/commit/ed970bc) tests(util): add TextDecoder
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `feat/util/support-for-util.TextDecoder`
-  * [#92dbb36](https://github.com/xHyroM/bun/commit/92dbb36) feat(util): support for util.TextDecoder
 
 
 ___
