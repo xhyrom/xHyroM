@@ -14,12 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#15 Can&#39;t build on android](https://github.com/EstebanBorai/network-interface/issues/15) from [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
 * 💬 Commented on [#159 Bun&#39;s Roadmap](https://github.com/oven-sh/bun/issues/159) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#67 Create a build of Bun that doesn’t need AVX2 instructions](https://github.com/oven-sh/bun/issues/67) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#67 Create a build of Bun that doesn’t need AVX2 instructions](https://github.com/oven-sh/bun/issues/67) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#171e538](https://github.com/xHyroM/covid19-stats/commit/171e538) 2022/08/04 stats
-* 💬 Commented on [#818 EPOLL fallback on memlock issue](https://github.com/oven-sh/bun/issues/818) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
