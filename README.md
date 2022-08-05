@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#5e5515e](https://github.com/xHyroM/benchmarks/commit/5e5515e) style: add newline
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#42c46e7](https://github.com/xHyroM/benchmarks/commit/42c46e7) chore: delete empty folders
-* #️⃣ Opened [#6 add object &amp; array benchmarks](https://github.com/xHyroM/benchmarks/issues/6) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* #️⃣ Opened [#5 add cli benchmark](https://github.com/xHyroM/benchmarks/issues/5) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ⏺️ Created new branch feat/util/support-for-util.TextDecoder in [xHyroM/bun](https://github.com/xHyroM/bun)
+* #️⃣ Closed [#3 add sqlite benchmark](https://github.com/xHyroM/benchmarks/issues/3) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 💬 Commented on [#3 add sqlite benchmark](https://github.com/xHyroM/benchmarks/issues/3) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 🔃 Opened [#989 benchmarks(sqlite): invalid northwind database url](https://github.com/oven-sh/bun/pull/989) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 1 file changed `++2 --2`
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `benchmarks/sqlite/invalid-northwind-database-url`
+  * [#00c6a1c](https://github.com/xHyroM/bun/commit/00c6a1c) benchmarks(sqlite): fix invalid northwind database url
 
 
 ___
