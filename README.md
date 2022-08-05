@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#dc4fb60](https://github.com/xHyroM/hypilus/commit/dc4fb60) feat: implement BooksHandler middleware
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
