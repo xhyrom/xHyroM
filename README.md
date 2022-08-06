@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#5e40b4b](https://github.com/xHyroM/hypilus/commit/5e40b4b) chore: add run script
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#62742d8](https://github.com/xHyroM/hypilus/commit/62742d8) feat: change Book* to Project*
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#2d0aed1](https://github.com/xHyroM/hypilus/commit/2d0aed1) tests(backend): add them
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#dd1d0d9](https://github.com/xHyroM/hypilus/commit/dd1d0d9) chore: add shard.yml to root
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#304e85f](https://github.com/xHyroM/hypilus/commit/304e85f) chore: add crystal lang extensions into recommended extensions
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#34411c7](https://github.com/xHyroM/hypilus/commit/34411c7) chore: add recommended extensions into .vscode
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#5e09a00](https://github.com/xHyroM/hypilus/commit/5e09a00) chore(backend): add lint script
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#139a59b](https://github.com/xHyroM/hypilus/commit/139a59b) chore: change eslintrc to yml format
 
 
 ___
