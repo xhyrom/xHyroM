@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#3 Credentials now accumulates entries](https://github.com/kemalcr/kemal-basic-auth/issues/3) from [kemalcr/kemal-basic-auth](https://github.com/kemalcr/kemal-basic-auth)
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#1e8354b](https://github.com/xHyroM/hypilus/commit/1e8354b) feat: use mysql instead sqlite
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#5e40b4b](https://github.com/xHyroM/hypilus/commit/5e40b4b) chore: add run script
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#62742d8](https://github.com/xHyroM/hypilus/commit/62742d8) feat: change Book* to Project*
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#2d0aed1](https://github.com/xHyroM/hypilus/commit/2d0aed1) tests(backend): add them
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#dd1d0d9](https://github.com/xHyroM/hypilus/commit/dd1d0d9) chore: add shard.yml to root
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#304e85f](https://github.com/xHyroM/hypilus/commit/304e85f) chore: add crystal lang extensions into recommended extensions
 
 
 ___
