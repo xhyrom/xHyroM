@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#a2f0b2f](https://github.com/xHyroM/hypilus/commit/a2f0b2f) feat(middleware/main): add header X-Hypilus-Language
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#415f5db](https://github.com/xHyroM/hypilus/commit/415f5db) style: update some errors, grammar
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#aa28b0c](https://github.com/xHyroM/hypilus/commit/aa28b0c) feat: add main middleware
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#f2fd9a3](https://github.com/xHyroM/hypilus/commit/f2fd9a3) chore: move BooksHandler into routes/
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
   * [#a920690](https://github.com/xHyroM/covid19-stats/commit/a920690) 2022/08/06 stats
-* #️⃣ Opened [#7 use oha instead bombardier](https://github.com/xHyroM/benchmarks/issues/7) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#175 Add JSON output](https://github.com/hatoo/oha/issues/175) from [hatoo/oha](https://github.com/hatoo/oha)
-* 💬 Commented on [#8 implement `os`](https://github.com/xHyroM/bun-utilities/issues/8) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#e38f0b3](https://github.com/xHyroM/hypilus/commit/e38f0b3) BooksHandler: remove puts
 
 
 ___
