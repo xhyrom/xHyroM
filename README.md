@@ -14,16 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#7 use oha instead bombardier](https://github.com/xHyroM/benchmarks/issues/7) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 💬 Commented on [#175 Add JSON output](https://github.com/hatoo/oha/issues/175) from [hatoo/oha](https://github.com/hatoo/oha)
+* 💬 Commented on [#8 implement `os`](https://github.com/xHyroM/bun-utilities/issues/8) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#230c7fc](https://github.com/xHyroM/hypilus/commit/230c7fc) chore: keep LICENSE as text/plain
+  * [#e38f0b3](https://github.com/xHyroM/hypilus/commit/e38f0b3) BooksHandler: remove puts
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#041666f](https://github.com/xHyroM/hypilus/commit/041666f) refactor: rename book into Book, error into Error
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#70b21d1](https://github.com/xHyroM/hypilus/commit/70b21d1) feat: add BookManager
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#851591f](https://github.com/xHyroM/hypilus/commit/851591f) feat: support for sqlite database
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#74f05e3](https://github.com/xHyroM/hypilus/commit/74f05e3) fix(BooksHandler): add unless only_match
+  * [#f61d1c2](https://github.com/xHyroM/hypilus/commit/f61d1c2) feat: better error implementation
 
 
 ___
