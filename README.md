@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#b770e9f](https://github.com/xHyroM/hypilus/commit/b770e9f) chore: rename hypilus-crystal to hypilus
+  * [#dd1d0d9](https://github.com/xHyroM/hypilus/commit/dd1d0d9) chore: add shard.yml to root
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#1d9397e](https://github.com/xHyroM/hypilus/commit/1d9397e) chore: remove hypilus-go &amp; hypilus-zig (branch is better)
+  * [#304e85f](https://github.com/xHyroM/hypilus/commit/304e85f) chore: add crystal lang extensions into recommended extensions
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#a2f0b2f](https://github.com/xHyroM/hypilus/commit/a2f0b2f) feat(middleware/main): add header X-Hypilus-Language
+  * [#34411c7](https://github.com/xHyroM/hypilus/commit/34411c7) chore: add recommended extensions into .vscode
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#415f5db](https://github.com/xHyroM/hypilus/commit/415f5db) style: update some errors, grammar
+  * [#5e09a00](https://github.com/xHyroM/hypilus/commit/5e09a00) chore(backend): add lint script
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#aa28b0c](https://github.com/xHyroM/hypilus/commit/aa28b0c) feat: add main middleware
+  * [#139a59b](https://github.com/xHyroM/hypilus/commit/139a59b) chore: change eslintrc to yml format
 
 
 ___
