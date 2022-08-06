@@ -15,12 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#230c7fc](https://github.com/xHyroM/hypilus/commit/230c7fc) chore: keep LICENSE as text/plain
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#041666f](https://github.com/xHyroM/hypilus/commit/041666f) refactor: rename book into Book, error into Error
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#70b21d1](https://github.com/xHyroM/hypilus/commit/70b21d1) feat: add BookManager
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#851591f](https://github.com/xHyroM/hypilus/commit/851591f) feat: support for sqlite database
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#74f05e3](https://github.com/xHyroM/hypilus/commit/74f05e3) fix(BooksHandler): add unless only_match
-* 💬 Commented on [#15 Can&#39;t build on android](https://github.com/EstebanBorai/network-interface/issues/15) from [EstebanBorai/network-interface](https://github.com/EstebanBorai/network-interface)
-* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🌟 Starred [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
 
 
 ___
