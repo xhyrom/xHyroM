@@ -14,14 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#f1569ce](https://github.com/xHyroM/hypilus/commit/f1569ce) chore: add Makefile, add Development section to README
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#212b4b7](https://github.com/xHyroM/hypilus/commit/212b4b7) fix(backend): change run script to binary
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#69c2170](https://github.com/xHyroM/hypilus/commit/69c2170) feat: add .env loading
-* 🌟 Starred [msa7/multi_auth](https://github.com/msa7/multi_auth)
-* 💬 Commented on [#3 Credentials now accumulates entries](https://github.com/kemalcr/kemal-basic-auth/issues/3) from [kemalcr/kemal-basic-auth](https://github.com/kemalcr/kemal-basic-auth)
+* #️⃣ Opened [#176 Bad numbers?](https://github.com/hatoo/oha/issues/176) in [hatoo/oha](https://github.com/hatoo/oha)
+* 💬 Commented on [#7 use oha instead bombardier](https://github.com/xHyroM/benchmarks/issues/7) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 📦 Released **aug6 release** of [xHyroM/oha](https://github.com/xHyroM/oha)
+* ⏺️ Created new tag aug.0.6 in [xHyroM/oha](https://github.com/xHyroM/oha)
 
 
 ___
