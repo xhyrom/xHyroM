@@ -14,12 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `master`
-  * [#7433ed1](https://github.com/xHyroM/github-bucket/commit/7433ed1) chore: disable some features
-* 💬 Commented on [#177 Print min, max, average and pXX for Requests per second like  bombardier](https://github.com/hatoo/oha/issues/177) from [hatoo/oha](https://github.com/hatoo/oha)
-* #️⃣ Closed [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#767 `Buffer.isBuffer` throws an error when it is assigned to a variable](https://github.com/oven-sh/bun/issues/767) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#745add2](https://github.com/xHyroM/benchmarks/commit/745add2) fix: correct paht in bench:* scripts
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#55321f3](https://github.com/xHyroM/benchmarks/commit/55321f3) fix(javascript/sqlite): correct path in postinstall &amp; create-db
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#f670ebb](https://github.com/xHyroM/benchmarks/commit/f670ebb) fix(workflow/run): cd
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#687293b](https://github.com/xHyroM/benchmarks/commit/687293b) fix(workflow/run): install only in javascript benchmarks
+* 🔃 Opened [#9 feat: support for more languages](https://github.com/xHyroM/benchmarks/pull/9) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+  * 57 files changed `++251 --232`
 
 
 ___
