@@ -14,10 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#176 Bad numbers?](https://github.com/hatoo/oha/issues/176) in [hatoo/oha](https://github.com/hatoo/oha)
-* 💬 Commented on [#7 use oha instead bombardier](https://github.com/xHyroM/benchmarks/issues/7) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 📦 Released **aug6 release** of [xHyroM/oha](https://github.com/xHyroM/oha)
-* ⏺️ Created new tag aug.0.6 in [xHyroM/oha](https://github.com/xHyroM/oha)
+* ➡️ Pushed 1 commit in [xHyroM/github-bucket](https://github.com/xHyroM/github-bucket) on branch `master`
+  * [#7433ed1](https://github.com/xHyroM/github-bucket/commit/7433ed1) chore: disable some features
+* 💬 Commented on [#177 Print min, max, average and pXX for Requests per second like  bombardier](https://github.com/hatoo/oha/issues/177) from [hatoo/oha](https://github.com/hatoo/oha)
+* #️⃣ Closed [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#767 `Buffer.isBuffer` throws an error when it is assigned to a variable](https://github.com/oven-sh/bun/issues/767) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
