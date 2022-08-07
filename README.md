@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [bit-bandit/doping](https://github.com/bit-bandit/doping)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#970b3ef](https://github.com/xHyroM/benchmarks/commit/970b3ef) fix(benchmarks): path for scripts
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
+  * [#17dc6b4](https://github.com/xHyroM/benchmarks/commit/17dc6b4) feat: create bench:javascript script
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
   * [#745add2](https://github.com/xHyroM/benchmarks/commit/745add2) fix: correct paht in bench:* scripts
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
   * [#55321f3](https://github.com/xHyroM/benchmarks/commit/55321f3) fix(javascript/sqlite): correct path in postinstall &amp; create-db
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#f670ebb](https://github.com/xHyroM/benchmarks/commit/f670ebb) fix(workflow/run): cd
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#687293b](https://github.com/xHyroM/benchmarks/commit/687293b) fix(workflow/run): install only in javascript benchmarks
-* 🔃 Opened [#9 feat: support for more languages](https://github.com/xHyroM/benchmarks/pull/9) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-  * 57 files changed `++251 --232`
 
 
 ___
