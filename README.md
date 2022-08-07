@@ -14,15 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#1012 Illegal Instruction](https://github.com/oven-sh/bun/issues/1012) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#7322ece](https://github.com/xHyroM/benchmarks/commit/7322ece) feat: support for more languages, add reverse option to summary
-* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
-  * [#8cc005e](https://github.com/xHyroM/covid19-stats/commit/8cc005e) 2022/08/07 stats
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#5bfb67c](https://github.com/xHyroM/benchmarks/commit/5bfb67c) fix(CI): add branch
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#5ac415c](https://github.com/xHyroM/benchmarks/commit/5ac415c) fix(benchmarks): path for utils, scripts
+* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* 🔍 Reviewed [#2 feat: docs](https://github.com/oven-sh/bun-types/pull/2) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* #️⃣ Closed [#1013 Illegal instruction](https://github.com/oven-sh/bun/issues/1013) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1013 Illegal instruction](https://github.com/oven-sh/bun/issues/1013) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
