@@ -14,11 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#537 Implement p75, p99 like bombardier](https://github.com/sharkdp/hyperfine/issues/537) from [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+* #️⃣ Opened [#537 Implement p75, p99 like bombardier](https://github.com/sharkdp/hyperfine/issues/537) in [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 * 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * 🔍 Reviewed [#2 feat: docs](https://github.com/oven-sh/bun-types/pull/2) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* #️⃣ Closed [#1013 Illegal instruction](https://github.com/oven-sh/bun/issues/1013) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1013 Illegal instruction](https://github.com/oven-sh/bun/issues/1013) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
