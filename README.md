@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1012 Illegal Instruction](https://github.com/oven-sh/bun/issues/1012) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
   * [#7322ece](https://github.com/xHyroM/benchmarks/commit/7322ece) feat: support for more languages, add reverse option to summary
 * ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
@@ -22,7 +23,6 @@ ___
   * [#5bfb67c](https://github.com/xHyroM/benchmarks/commit/5bfb67c) fix(CI): add branch
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
   * [#5ac415c](https://github.com/xHyroM/benchmarks/commit/5ac415c) fix(benchmarks): path for utils, scripts
-* #️⃣ Closed [#1012 Illegal Instruction](https://github.com/oven-sh/bun/issues/1012) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
