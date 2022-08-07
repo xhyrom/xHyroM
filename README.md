@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [bit-bandit/doping](https://github.com/bit-bandit/doping)
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#8cc005e](https://github.com/xHyroM/covid19-stats/commit/8cc005e) 2022/08/07 stats
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#970b3ef](https://github.com/xHyroM/benchmarks/commit/970b3ef) fix(benchmarks): path for scripts
+  * [#5bfb67c](https://github.com/xHyroM/benchmarks/commit/5bfb67c) fix(CI): add branch
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#17dc6b4](https://github.com/xHyroM/benchmarks/commit/17dc6b4) feat: create bench:javascript script
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#745add2](https://github.com/xHyroM/benchmarks/commit/745add2) fix: correct paht in bench:* scripts
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/support-for-more-languages`
-  * [#55321f3](https://github.com/xHyroM/benchmarks/commit/55321f3) fix(javascript/sqlite): correct path in postinstall &amp; create-db
+  * [#5ac415c](https://github.com/xHyroM/benchmarks/commit/5ac415c) fix(benchmarks): path for utils, scripts
+* #️⃣ Closed [#1012 Illegal Instruction](https://github.com/oven-sh/bun/issues/1012) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1012 Illegal Instruction](https://github.com/oven-sh/bun/issues/1012) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
