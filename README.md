@@ -14,11 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#bcc6838](https://github.com/xHyroM/benchmarks/commit/bcc6838) chore: updates
+
+feat: golang
+
+feat: console benchmark
+
+feat: support for hyperfine
 * 💬 Commented on [#537 Implement p75, p99 like bombardier](https://github.com/sharkdp/hyperfine/issues/537) from [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 * #️⃣ Opened [#537 Implement p75, p99 like bombardier](https://github.com/sharkdp/hyperfine/issues/537) in [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 * 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 💬 Commented on [#2 feat: docs](https://github.com/oven-sh/bun-types/issues/2) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔍 Reviewed [#2 feat: docs](https://github.com/oven-sh/bun-types/pull/2) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 
 
 ___
