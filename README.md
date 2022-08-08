@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1021 bun . not working](https://github.com/oven-sh/bun/issues/1021) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Opened [#1 add multiauth with github](https://github.com/xHyroM/hypilus/issues/1) in [xHyroM/hypilus](https://github.com/xHyroM/hypilus)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#3e148b3](https://github.com/xHyroM/benchmarks/commit/3e148b3) fix: runtime
@@ -21,8 +22,6 @@ ___
   * [#6bfce4e](https://github.com/xHyroM/benchmarks/commit/6bfce4e) feat: auto generate README
 * ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
   * [#5047a09](https://github.com/oven-sh/bun-types/commit/5047a09) feat(docs): use html instead markdown
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#0482bf6](https://github.com/xHyroM/benchmarks/commit/0482bf6) chore: rename run script to bench
 
 
 ___
