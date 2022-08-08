@@ -14,11 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#1c9eda6](https://github.com/xHyroM/benchmarks/commit/1c9eda6) fix(scripts/init): create tools folder
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#623ce2e](https://github.com/xHyroM/benchmarks/commit/623ce2e) fix(scripts): dont use paperdave logger for now
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#b2940eb](https://github.com/xHyroM/benchmarks/commit/b2940eb) fix(CI): install dependencies step
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#2f8e2b8](https://github.com/xHyroM/benchmarks/commit/2f8e2b8) feat: gh actions, format numbers, use bombardier for now
 * 💬 Commented on [#1032 Cannot access &#39;default&#39; before initialization](https://github.com/oven-sh/bun/issues/1032) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#998 #941 fix](https://github.com/oven-sh/bun/issues/998) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#998 #941 fix](https://github.com/oven-sh/bun/issues/998) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#14 Add base64 as valid BufferEncoding](https://github.com/oven-sh/bun-types/pull/14) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* #️⃣ Opened [#5 Fix canary versions](https://github.com/xHyroM/setup-bun/issues/5) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 
 
 ___
