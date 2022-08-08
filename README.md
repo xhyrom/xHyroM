@@ -14,12 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/covid19-stats](https://github.com/xHyroM/covid19-stats) on branch `master`
+  * [#8249634](https://github.com/xHyroM/covid19-stats/commit/8249634) 2022/08/08 stats
 * 💬 Commented on [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Reopened [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔃 Merged [#13 Update link to jekyll](https://github.com/oven-sh/bun-types/pull/13) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 1 file changed `++1 --1`
 
 
 ___
