@@ -14,14 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#1021 bun . not working](https://github.com/oven-sh/bun/issues/1021) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Opened [#1 add multiauth with github](https://github.com/xHyroM/hypilus/issues/1) in [xHyroM/hypilus](https://github.com/xHyroM/hypilus)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#3e148b3](https://github.com/xHyroM/benchmarks/commit/3e148b3) fix: runtime
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#6bfce4e](https://github.com/xHyroM/benchmarks/commit/6bfce4e) feat: auto generate README
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#5047a09](https://github.com/oven-sh/bun-types/commit/5047a09) feat(docs): use html instead markdown
+* 💬 Commented on [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Reopened [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1019 `bun upgrade` not showing full changelog](https://github.com/oven-sh/bun/issues/1019) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔃 Merged [#13 Update link to jekyll](https://github.com/oven-sh/bun-types/pull/13) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 1 file changed `++1 --1`
 
 
 ___
