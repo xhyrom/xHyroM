@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#1c9eda6](https://github.com/xHyroM/benchmarks/commit/1c9eda6) fix(scripts/init): create tools folder
+  * [#026c424](https://github.com/xHyroM/benchmarks/commit/026c424) fix(benchmarks/js): use quotes
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#623ce2e](https://github.com/xHyroM/benchmarks/commit/623ce2e) fix(scripts): dont use paperdave logger for now
+  * [#256e58c](https://github.com/xHyroM/benchmarks/commit/256e58c) fix(benchmarks/js): use correct path for github path
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#b2940eb](https://github.com/xHyroM/benchmarks/commit/b2940eb) fix(CI): install dependencies step
+  * [#4dbdd15](https://github.com/xHyroM/benchmarks/commit/4dbdd15) fix(benchmarks/console): add rm to install step
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#2f8e2b8](https://github.com/xHyroM/benchmarks/commit/2f8e2b8) feat: gh actions, format numbers, use bombardier for now
-* 💬 Commented on [#1032 Cannot access &#39;default&#39; before initialization](https://github.com/oven-sh/bun/issues/1032) from [oven-sh/bun](https://github.com/oven-sh/bun)
+  * [#f52531f](https://github.com/xHyroM/benchmarks/commit/f52531f) fix(benchmarks/js): add echo for gh path
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#7817ca4](https://github.com/xHyroM/benchmarks/commit/7817ca4) Delete hyperfine_1.14.0_amd64.deb.1
 
 
 ___
