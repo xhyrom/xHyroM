@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#cb3a26e](https://github.com/xHyroM/bun-utilities/commit/cb3a26e) fix(cargo): remove network-interfaces for now
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#07de929](https://github.com/xHyroM/bun-utilities/commit/07de929) fix(os): remove networkIntetfaces now
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#179d3e4](https://github.com/xHyroM/bun-utilities/commit/179d3e4) fix(bundle): package exports
+* #️⃣ Opened [#10 fix typings](https://github.com/xHyroM/bun-utilities/issues/10) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#026c424](https://github.com/xHyroM/benchmarks/commit/026c424) fix(benchmarks/js): use quotes
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#256e58c](https://github.com/xHyroM/benchmarks/commit/256e58c) fix(benchmarks/js): use correct path for github path
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#4dbdd15](https://github.com/xHyroM/benchmarks/commit/4dbdd15) fix(benchmarks/console): add rm to install step
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#f52531f](https://github.com/xHyroM/benchmarks/commit/f52531f) fix(benchmarks/js): add echo for gh path
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#7817ca4](https://github.com/xHyroM/benchmarks/commit/7817ca4) Delete hyperfine_1.14.0_amd64.deb.1
 
 
 ___
