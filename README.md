@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
+  * [#489c608](https://github.com/xHyroM/bun-utilities/commit/489c608) fix: broken imports
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#5cb6fb6](https://github.com/xHyroM/benchmarks/commit/5cb6fb6) chore(CI): remove debug step
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
@@ -22,8 +24,6 @@ ___
   * [#1b82cee](https://github.com/xHyroM/benchmarks/commit/1b82cee) Update run.yml
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#c800e71](https://github.com/xHyroM/benchmarks/commit/c800e71) fix(benchmarks/js/deno): use absolute path, temporary solution
-* ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#cb3a26e](https://github.com/xHyroM/bun-utilities/commit/cb3a26e) fix(cargo): remove network-interfaces for now
 
 
 ___
