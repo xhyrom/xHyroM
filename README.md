@@ -14,14 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#b9bb06e](https://github.com/xHyroM/bun/commit/b9bb06e) upstream link
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#94a93cf](https://github.com/xHyroM/bun/commit/94a93cf) upstream cpp
+* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
+  * [#b5e1592](https://github.com/xHyroM/bun/commit/b5e1592) upstream
+* 💬 Commented on [#1038 Support `#!`](https://github.com/oven-sh/bun/issues/1038) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#489c608](https://github.com/xHyroM/bun-utilities/commit/489c608) fix: broken imports
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#5cb6fb6](https://github.com/xHyroM/benchmarks/commit/5cb6fb6) chore(CI): remove debug step
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#130ac03](https://github.com/xHyroM/benchmarks/commit/130ac03) fix(CI): add programs to path
+  * [#a957a03](https://github.com/xHyroM/bun-utilities/commit/a957a03) fix(scripts/bundle): dont bundle types
 
 
 ___
