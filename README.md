@@ -15,12 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#ca4bf80](https://github.com/xHyroM/benchmarks/commit/ca4bf80) benchmarks(json): add ruby
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#5e8db9b](https://github.com/xHyroM/benchmarks/commit/5e8db9b) fix(scripts/utils): use for loop
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#9d02373](https://github.com/xHyroM/benchmarks/commit/9d02373) fix(scripts/utils): use split instead parsing name
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#3e04027](https://github.com/xHyroM/benchmarks/commit/3e04027) fix(scripts/utils): create folder before writing
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#00544c7](https://github.com/xHyroM/benchmarks/commit/00544c7) feat: support for groups
-* 💬 Commented on [#15 Add readme.md to dist](https://github.com/oven-sh/bun-types/pull/15) from [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔍 Reviewed [#15 Add readme.md to dist](https://github.com/oven-sh/bun-types/pull/15) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔍 Reviewed [#15 Add readme.md to dist](https://github.com/oven-sh/bun-types/pull/15) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 
 
 ___
