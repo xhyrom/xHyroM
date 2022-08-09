@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#8d09950](https://github.com/xHyroM/benchmarks/commit/8d09950) fix: remove main
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#7773992](https://github.com/xHyroM/benchmarks/commit/7773992) fix: correct number formatting, feat: create run_benchmark function in run_benchmarks
 * 💬 Commented on [#1038 Support `#!`](https://github.com/oven-sh/bun/issues/1038) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#770 support hashbang comment at start of script file](https://github.com/oven-sh/bun/issues/770) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#5 Fix canary versions](https://github.com/xHyroM/setup-bun/issues/5) in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* 💬 Commented on [#5 Fix canary versions](https://github.com/xHyroM/setup-bun/issues/5) from [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 1 commit in [xHyroM/bun](https://github.com/xHyroM/bun) on branch `chore/better-build-workflow`
-  * [#b9bb06e](https://github.com/xHyroM/bun/commit/b9bb06e) upstream link
 
 
 ___
