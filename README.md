@@ -14,11 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#eac7e2a](https://github.com/xHyroM/hypilus/commit/eac7e2a) feat: prepare for oauth2
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#18628be](https://github.com/xHyroM/benchmarks/commit/18628be) benchmarks(json): add golang, python
 * 💬 Commented on [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1045 [Bug] Bun crashing on `import React = require(&#34;react&#34;)`](https://github.com/oven-sh/bun/issues/1045) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1011 Illegal hardware instruction notices after updating to 0.1.17](https://github.com/oven-sh/bun/issues/1011) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
