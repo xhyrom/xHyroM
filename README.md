@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#9cfea64](https://github.com/xHyroM/benchmarks/commit/9cfea64) fix(utils/bombardier): multiply latency by 1000
+* #️⃣ Opened [#104 Unexpected EOF on ubuntu aarch64 ](https://github.com/crystal-lang/crystal-mysql/issues/104) in [crystal-lang/crystal-mysql](https://github.com/crystal-lang/crystal-mysql)
 * 🌟 Starred [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang)
 * #️⃣ Closed [#10 fix typings](https://github.com/xHyroM/bun-utilities/issues/10) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#d905a5b](https://github.com/xHyroM/hypilus/commit/d905a5b) feat: switch to sqlite &amp; add xml output support
-* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
-  * [#eac7e2a](https://github.com/xHyroM/hypilus/commit/eac7e2a) feat: prepare for oauth2
 
 
 ___
