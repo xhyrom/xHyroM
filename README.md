@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang)
+* #️⃣ Closed [#10 fix typings](https://github.com/xHyroM/bun-utilities/issues/10) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
+* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+* ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
+  * [#d905a5b](https://github.com/xHyroM/hypilus/commit/d905a5b) feat: switch to sqlite &amp; add xml output support
 * ➡️ Pushed 1 commit in [xHyroM/hypilus](https://github.com/xHyroM/hypilus) on branch `master`
   * [#eac7e2a](https://github.com/xHyroM/hypilus/commit/eac7e2a) feat: prepare for oauth2
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#18628be](https://github.com/xHyroM/benchmarks/commit/18628be) benchmarks(json): add golang, python
-* 💬 Commented on [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Closed [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1044 Does not run on AMD FX-4100](https://github.com/oven-sh/bun/issues/1044) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
