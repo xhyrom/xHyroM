@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1011 Illegal hardware instruction notices after updating to 0.1.17](https://github.com/oven-sh/bun/issues/1011) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1011 Illegal hardware instruction notices after updating to 0.1.17](https://github.com/oven-sh/bun/issues/1011) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#ca4bf80](https://github.com/xHyroM/benchmarks/commit/ca4bf80) benchmarks(json): add ruby
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#5e8db9b](https://github.com/xHyroM/benchmarks/commit/5e8db9b) fix(scripts/utils): use for loop
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#9d02373](https://github.com/xHyroM/benchmarks/commit/9d02373) fix(scripts/utils): use split instead parsing name
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#3e04027](https://github.com/xHyroM/benchmarks/commit/3e04027) fix(scripts/utils): create folder before writing
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#00544c7](https://github.com/xHyroM/benchmarks/commit/00544c7) feat: support for groups
 
 
 ___
