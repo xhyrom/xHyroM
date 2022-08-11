@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#62b2c40](https://github.com/xHyroM/benchmarks/commit/62b2c40) fix: delete fibonacci bench
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#ee64ea3](https://github.com/xHyroM/benchmarks/commit/ee64ea3) benchmarks(fibonacci): change xruns to 1
+* 💬 Commented on [#173 os.arch() and os.platform() are not correct](https://github.com/oven-sh/bun/issues/173) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#104 Unexpected EOF on ubuntu aarch64 ](https://github.com/crystal-lang/crystal-mysql/issues/104) from [crystal-lang/crystal-mysql](https://github.com/crystal-lang/crystal-mysql)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#0d858ed](https://github.com/xHyroM/benchmarks/commit/0d858ed) fix(benchmarks/fibonacci); replace name
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#33b589f](https://github.com/xHyroM/benchmarks/commit/33b589f) benchmarks(fibonacci/c): remove register keyword
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#7fee166](https://github.com/xHyroM/benchmarks/commit/7fee166) benchmarks(fibonacci): add, add c lang
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#9cfea64](https://github.com/xHyroM/benchmarks/commit/9cfea64) fix(utils/bombardier): multiply latency by 1000
 
 
 ___
