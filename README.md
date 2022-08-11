@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#4ad048b](https://github.com/oven-sh/bun-types/commit/4ad048b) Add readme.md to dist (https://github.com/oven-sh/bun-types/pull/15)
+  * [#0cc0fba](https://github.com/oven-sh/bun-types/commit/0cc0fba) Add README.md to dist
+* #️⃣ Closed [#10 copy readme to dist/](https://github.com/oven-sh/bun-types/issues/10) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+* 🔃 Merged [#15 Add readme.md to dist](https://github.com/oven-sh/bun-types/pull/15) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 1 file changed `++5 --0`
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#62b2c40](https://github.com/xHyroM/benchmarks/commit/62b2c40) fix: delete fibonacci bench
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#ee64ea3](https://github.com/xHyroM/benchmarks/commit/ee64ea3) benchmarks(fibonacci): change xruns to 1
-* 💬 Commented on [#173 os.arch() and os.platform() are not correct](https://github.com/oven-sh/bun/issues/173) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#104 Unexpected EOF on ubuntu aarch64 ](https://github.com/crystal-lang/crystal-mysql/issues/104) from [crystal-lang/crystal-mysql](https://github.com/crystal-lang/crystal-mysql)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#0d858ed](https://github.com/xHyroM/benchmarks/commit/0d858ed) fix(benchmarks/fibonacci); replace name
 
 
 ___
