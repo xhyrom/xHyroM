@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#7048879](https://github.com/xHyroM/benchmarks/commit/7048879) feat: add custom tool, server
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#0320bc5](https://github.com/xHyroM/benchmarks/commit/0320bc5) benchmarks(hyperfine): change runs to 100
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#57db56c](https://github.com/xHyroM/benchmarks/commit/57db56c) benchmarks: add base64 benchmark
@@ -22,8 +24,6 @@ ___
   * [#2f853d4](https://github.com/xHyroM/benchmarks/commit/2f853d4) chore(paperdave-logger): build
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#172587a](https://github.com/xHyroM/benchmarks/commit/172587a) fix(scripts/init): remove mkdir tools
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#3809609](https://github.com/xHyroM/benchmarks/commit/3809609) fix(CI): install deps for paperdave logger
 
 
 ___
