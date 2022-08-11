@@ -14,16 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#2f853d4](https://github.com/xHyroM/benchmarks/commit/2f853d4) chore(paperdave-logger): build
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#172587a](https://github.com/xHyroM/benchmarks/commit/172587a) fix(scripts/init): remove mkdir tools
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#3809609](https://github.com/xHyroM/benchmarks/commit/3809609) fix(CI): install deps for paperdave logger
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#8c76c7d](https://github.com/xHyroM/benchmarks/commit/8c76c7d) feat: use paperdave logger
 * ➡️ Pushed 2 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
   * [#4ad048b](https://github.com/oven-sh/bun-types/commit/4ad048b) Add readme.md to dist (https://github.com/oven-sh/bun-types/pull/15)
   * [#0cc0fba](https://github.com/oven-sh/bun-types/commit/0cc0fba) Add README.md to dist
-* #️⃣ Closed [#10 copy readme to dist/](https://github.com/oven-sh/bun-types/issues/10) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-* 🔃 Merged [#15 Add readme.md to dist](https://github.com/oven-sh/bun-types/pull/15) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 1 file changed `++5 --0`
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#62b2c40](https://github.com/xHyroM/benchmarks/commit/62b2c40) fix: delete fibonacci bench
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#ee64ea3](https://github.com/xHyroM/benchmarks/commit/ee64ea3) benchmarks(fibonacci): change xruns to 1
 
 
 ___
