@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#7abc71d](https://github.com/xHyroM/bun-discord-bot/commit/7abc71d) chore: update deps
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#77e4c64](https://github.com/xHyroM/bun-discord-bot/commit/77e4c64) tags: update illegal-instruction &amp; hono
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#1f2da58](https://github.com/xHyroM/benchmarks/commit/1f2da58) chore(tools/server/test): remove await before bench
+  * [#846c180](https://github.com/xHyroM/benchmarks/commit/846c180) fix: skip install cache for gh actions
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#9c1fcbf](https://github.com/xHyroM/benchmarks/commit/9c1fcbf) chore: remove mitata
+  * [#7c54d8a](https://github.com/xHyroM/benchmarks/commit/7c54d8a) fix(CI): add setup-node action
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#cdc5ade](https://github.com/xHyroM/benchmarks/commit/cdc5ade) feat(tools/server): add py implementation
-* #️⃣ Opened [#19 change format of /github](https://github.com/xHyroM/bun-discord-bot/issues/19) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-* 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
+  * [#e660732](https://github.com/xHyroM/benchmarks/commit/e660732) benchmark: add sqlite
 
 
 ___
