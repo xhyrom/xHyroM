@@ -14,12 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#1f2da58](https://github.com/xHyroM/benchmarks/commit/1f2da58) chore(tools/server/test): remove await before bench
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#9c1fcbf](https://github.com/xHyroM/benchmarks/commit/9c1fcbf) chore: remove mitata
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#cdc5ade](https://github.com/xHyroM/benchmarks/commit/cdc5ade) feat(tools/server): add py implementation
 * #️⃣ Opened [#19 change format of /github](https://github.com/xHyroM/bun-discord-bot/issues/19) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🌟 Starred [withastro/astro](https://github.com/withastro/astro)
-* 💬 Commented on [#1054 [bun bun] Could not resolve: &#34;bun&#34;](https://github.com/oven-sh/bun/issues/1054) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#7048879](https://github.com/xHyroM/benchmarks/commit/7048879) feat: add custom tool, server
 
 
 ___
