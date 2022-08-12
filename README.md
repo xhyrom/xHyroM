@@ -14,14 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#19 change format of /github](https://github.com/xHyroM/bun-discord-bot/issues/19) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* 💬 Commented on [#898 chore: better build workflow](https://github.com/oven-sh/bun/issues/898) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🌟 Starred [withastro/astro](https://github.com/withastro/astro)
 * 💬 Commented on [#1054 [bun bun] Could not resolve: &#34;bun&#34;](https://github.com/oven-sh/bun/issues/1054) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#7048879](https://github.com/xHyroM/benchmarks/commit/7048879) feat: add custom tool, server
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#0320bc5](https://github.com/xHyroM/benchmarks/commit/0320bc5) benchmarks(hyperfine): change runs to 100
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#57db56c](https://github.com/xHyroM/benchmarks/commit/57db56c) benchmarks: add base64 benchmark
 
 
 ___
