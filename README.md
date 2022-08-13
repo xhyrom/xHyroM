@@ -14,14 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#fd48e22](https://github.com/xHyroM/benchmarks/commit/fd48e22) fix(js/deno): add hrtime flag because deno is deno
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#827953b](https://github.com/xHyroM/benchmarks/commit/827953b) benchmarks: nanoid
-* #️⃣ Closed [#954 SegmentationFault with Next.js on macOS](https://github.com/oven-sh/bun/issues/954) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#954 SegmentationFault with Next.js on macOS](https://github.com/oven-sh/bun/issues/954) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#609422c](https://github.com/xHyroM/benchmarks/commit/609422c) chore: add _config.yml
+* #️⃣ Reopened [#1069 url.fileURLToPath does not support argument as string](https://github.com/oven-sh/bun/issues/1069) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1069 url.fileURLToPath does not support argument as string](https://github.com/oven-sh/bun/issues/1069) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1069 url.fileURLToPath does not support argument as string](https://github.com/oven-sh/bun/issues/1069) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1070 url.fileURLToPath(import.meta.url) says Argument must be a URL](https://github.com/oven-sh/bun/issues/1070) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1069 url.fileURLToPath does not support argument as string](https://github.com/oven-sh/bun/issues/1069) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
