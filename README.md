@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
+  * [#827953b](https://github.com/xHyroM/benchmarks/commit/827953b) benchmarks: nanoid
 * #️⃣ Closed [#954 SegmentationFault with Next.js on macOS](https://github.com/oven-sh/bun/issues/954) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#954 SegmentationFault with Next.js on macOS](https://github.com/oven-sh/bun/issues/954) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
   * [#609422c](https://github.com/xHyroM/benchmarks/commit/609422c) chore: add _config.yml
 * ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
   * [#df1dc80](https://github.com/RilyEvent/rigot-1.8.8/commit/df1dc80) Update updateFile.mjs
-* ➡️ Pushed 1 commit in [RilyEvent/rigot-1.8.8](https://github.com/RilyEvent/rigot-1.8.8) on branch `master`
-  * [#312318a](https://github.com/RilyEvent/rigot-1.8.8/commit/312318a) Update getSession.mjs
 
 
 ___
