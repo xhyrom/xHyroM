@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
+  * [#2b97a87](https://github.com/fiifa/bot/commit/2b97a87) Musím to zmazať nech sa mi jednoduchšie linkuje xd
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#873c79b](https://github.com/Garlic-Team/docs/commit/873c79b) Docs build for branch next: 71b7555882c9b52986c970a7095229291f35c0a1
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
@@ -23,8 +25,6 @@ ___
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
   * [#71b7555](https://github.com/Garlic-Team/gcommands/commit/71b7555) chore(deps): update dependency eslint to v8.22.0
   * [#169d267](https://github.com/Garlic-Team/gcommands/commit/169d267) chore(deps): update dependency eslint to v8.22.0
-* 🔃 Merged [#555 chore(deps): update dependency eslint to v8.22.0](https://github.com/Garlic-Team/gcommands/pull/555) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++8 --8`
 
 
 ___
