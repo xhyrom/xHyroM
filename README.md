@@ -14,16 +14,38 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#eb5c93b](https://github.com/xHyroM/benchmarks/commit/eb5c93b) chore(README): bad space lol
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#e222cb0](https://github.com/xHyroM/benchmarks/commit/e222cb0) fix(server/implementations/py): write to tmp.json
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#f37f6e9](https://github.com/xHyroM/benchmarks/commit/f37f6e9) fix: add benchmarks.clear
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `xHyroM/refactor_everything`
-  * [#e71cff1](https://github.com/xHyroM/benchmarks/commit/e71cff1) aaa
-* ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
-  * [#bbc26bd](https://github.com/fiifa/bot/commit/bbc26bd) feat: event logger
+* ➡️ Pushed 87 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#f52531f](https://github.com/xHyroM/benchmarks/commit/f52531f) fix(benchmarks/js): add echo for gh path
+  * [#7817ca4](https://github.com/xHyroM/benchmarks/commit/7817ca4) Delete hyperfine_1.14.0_amd64.deb.1
+  * [#dea7249](https://github.com/xHyroM/benchmarks/commit/dea7249) Delete hyperfine_1.14.0_amd64.deb
+  * [#06f5d42](https://github.com/xHyroM/benchmarks/commit/06f5d42) chore(CI): remove debug step
+  * [#8971b52](https://github.com/xHyroM/benchmarks/commit/8971b52) chore(CI): update debug step
+  * [#3736030](https://github.com/xHyroM/benchmarks/commit/3736030) chore(CI): add debug step
+  * [#e3886f4](https://github.com/xHyroM/benchmarks/commit/e3886f4) Update benchmarks 2022-08-08T21:22:59Z 🚀
+  * [#4bd2610](https://github.com/xHyroM/benchmarks/commit/4bd2610) fix(CI): set PROFILE to GITHUB_PATH
+  * [#6d43bc1](https://github.com/xHyroM/benchmarks/commit/6d43bc1) Update benchmarks 2022-08-08T21:06:43Z 🚀
+  * [#1c9eda6](https://github.com/xHyroM/benchmarks/commit/1c9eda6) fix(scripts/init): create tools folder
+  * [#623ce2e](https://github.com/xHyroM/benchmarks/commit/623ce2e) fix(scripts): dont use paperdave logger for now
+  * [#b2940eb](https://github.com/xHyroM/benchmarks/commit/b2940eb) fix(CI): install dependencies step
+  * [#2f8e2b8](https://github.com/xHyroM/benchmarks/commit/2f8e2b8) feat: gh actions, format numbers, use bombardier for now
+  * [#3e148b3](https://github.com/xHyroM/benchmarks/commit/3e148b3) fix: runtime
+  * [#6bfce4e](https://github.com/xHyroM/benchmarks/commit/6bfce4e) feat: auto generate README
+  * [#0482bf6](https://github.com/xHyroM/benchmarks/commit/0482bf6) chore: rename run script to bench
+  * [#bcc6838](https://github.com/xHyroM/benchmarks/commit/bcc6838) chore: updates
+
+feat: golang
+
+feat: console benchmark
+
+feat: support for hyperfine
+  * [#989463c](https://github.com/xHyroM/benchmarks/commit/989463c) fix: remove tools
+  * [#16a2c78](https://github.com/xHyroM/benchmarks/commit/16a2c78) feat: add tools/ into cache, echo json output in run_benchmarks
+  * [#03dc734](https://github.com/xHyroM/benchmarks/commit/03dc734) chore: rewrite
+* 🔃 Merged [#10 chore: rewrite](https://github.com/xHyroM/benchmarks/pull/10) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+  * 0 files changed `++0 --0`
+* ⏺️ Created new branch old-benchmarks in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* ⏺️ Created new branch feat/replace-axios-with-undici in [xHyroM/kaiwa](https://github.com/xHyroM/kaiwa)
+* 🍽️ Forked [hernikplays/kaiwa](https://github.com/hernikplays/kaiwa) to [xHyroM/kaiwa](https://github.com/xHyroM/kaiwa)
 
 
 ___
