@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
+  * [#bbc26bd](https://github.com/fiifa/bot/commit/bbc26bd) feat: event logger
+* ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
   * [#f8c7e0e](https://github.com/fiifa/bot/commit/f8c7e0e) fix: switch to commonjs
 * ➡️ Pushed 6 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
   * [#71b7555](https://github.com/xHyroM/GCommands/commit/71b7555) chore(deps): update dependency eslint to v8.22.0
@@ -29,7 +31,6 @@ chore(deps): update typescript-eslint monorepo to v5.33.0
   * [#c655b4c](https://github.com/fiifa/bot/commit/c655b4c) chore(README): add to run dev section
 * ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
   * [#496473d](https://github.com/fiifa/bot/commit/496473d) feat: initial base
-* ⏺️ Created new repository  [CDN-Github/dot](https://github.com/CDN-Github/dot)
 
 
 ___
