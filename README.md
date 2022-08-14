@@ -14,17 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 6 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
+  * [#71b7555](https://github.com/xHyroM/GCommands/commit/71b7555) chore(deps): update dependency eslint to v8.22.0
+  * [#ebb1620](https://github.com/xHyroM/GCommands/commit/ebb1620) chore(deps): update dependency @prisma/client to v4.2.1
+  * [#020d7a7](https://github.com/xHyroM/GCommands/commit/020d7a7) chore(deps): update typescript-eslint monorepo to v5.33.0
+
+chore(deps): update typescript-eslint monorepo to v5.33.0
+  * [#169d267](https://github.com/xHyroM/GCommands/commit/169d267) chore(deps): update dependency eslint to v8.22.0
+  * [#de5af4b](https://github.com/xHyroM/GCommands/commit/de5af4b) chore(deps): update dependency @prisma/client to v4.2.1
+  * [#d52828a](https://github.com/xHyroM/GCommands/commit/d52828a) chore(deps): update typescript-eslint monorepo to v5.33.0
+* ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
+  * [#c655b4c](https://github.com/fiifa/bot/commit/c655b4c) chore(README): add to run dev section
+* ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
+  * [#496473d](https://github.com/fiifa/bot/commit/496473d) feat: initial base
+* ⏺️ Created new repository  [CDN-Github/dot](https://github.com/CDN-Github/dot)
 * ➡️ Pushed 1 commit in [fiifa/bot](https://github.com/fiifa/bot) on branch `main`
   * [#2b97a87](https://github.com/fiifa/bot/commit/2b97a87) Musím to zmazať nech sa mi jednoduchšie linkuje xd
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#873c79b](https://github.com/Garlic-Team/docs/commit/873c79b) Docs build for branch next: 71b7555882c9b52986c970a7095229291f35c0a1
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#6f8e057](https://github.com/Garlic-Team/docs/commit/6f8e057) Docs build for branch next: 020d7a750411b9a0d0b98b227d7e40dc599f0fb9
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#3755a25](https://github.com/Garlic-Team/docs/commit/3755a25) Docs build for branch next: ebb1620095c6fb919975bd9ad40dd71b679e0618
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#71b7555](https://github.com/Garlic-Team/gcommands/commit/71b7555) chore(deps): update dependency eslint to v8.22.0
-  * [#169d267](https://github.com/Garlic-Team/gcommands/commit/169d267) chore(deps): update dependency eslint to v8.22.0
 
 
 ___
