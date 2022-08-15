@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#5598bc4](https://github.com/xHyroM/leetcode/commit/5598bc4) feat(new solution): length of last world
+* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#1d5875c](https://github.com/xHyroM/leetcode/commit/1d5875c) feat(new solution): length of last world
 * #️⃣ Opened [#3 fix activities](https://github.com/xHyroM/discord-list/issues/3) in [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#28c0145](https://github.com/xHyroM/leetcode/commit/28c0145) feat: same-tree
 * #️⃣ Opened [#11 fix http benchmark ](https://github.com/xHyroM/benchmarks/issues/11) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#c983e4e](https://github.com/xHyroM/leetcode/commit/c983e4e) feat: search insert position
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#862b768](https://github.com/xHyroM/leetcode/commit/862b768) feat: plus one
 
 
 ___
