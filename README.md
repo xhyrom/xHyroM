@@ -14,14 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#779 init command configures &amp; creates package.json](https://github.com/oven-sh/bun/issues/779) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1079 `bun run` not handling escaped quotes in package.json script](https://github.com/oven-sh/bun/issues/1079) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1079 `bun run` not handling escaped quotes in package.json script](https://github.com/oven-sh/bun/issues/1079) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1079 `bun run` not handling escaped quotes in package.json script](https://github.com/oven-sh/bun/issues/1079) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#1501f1e](https://github.com/xHyroM/leetcode/commit/1501f1e) feat: merge sorted array
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#44bf872](https://github.com/xHyroM/leetcode/commit/44bf872) feat: reverse-integer solution
-* ⏺️ Created new branch main in [xHyroM/leetcode](https://github.com/xHyroM/leetcode)
-* ⏺️ Created new repository  [xHyroM/leetcode](https://github.com/xHyroM/leetcode)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#c151a98](https://github.com/xHyroM/benchmarks/commit/c151a98) fix(py): use installed pip
 
 
 ___
