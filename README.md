@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#1501f1e](https://github.com/xHyroM/leetcode/commit/1501f1e) feat: merge sorted array
+* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#44bf872](https://github.com/xHyroM/leetcode/commit/44bf872) feat: reverse-integer solution
+* ⏺️ Created new branch main in [xHyroM/leetcode](https://github.com/xHyroM/leetcode)
 * ⏺️ Created new repository  [xHyroM/leetcode](https://github.com/xHyroM/leetcode)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#c151a98](https://github.com/xHyroM/benchmarks/commit/c151a98) fix(py): use installed pip
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#2123a75](https://github.com/xHyroM/benchmarks/commit/2123a75) fix: remove old files, install python3-venv
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#3893cb2](https://github.com/Garlic-Team/docs/commit/3893cb2) Docs build for branch master: 4ab228d549daf7bf00cb178f19d5dc5c460986e5
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#ea228a9](https://github.com/Garlic-Team/docs/commit/ea228a9) Docs build for branch master: 4ab228d549daf7bf00cb178f19d5dc5c460986e5
 
 
 ___
