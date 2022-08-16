@@ -20,7 +20,6 @@ ___
   * [#5598bc4](https://github.com/xHyroM/leetcode/commit/5598bc4) feat(new solution): length of last world
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#1d5875c](https://github.com/xHyroM/leetcode/commit/1d5875c) feat(new solution): length of last world
-* #️⃣ Opened [#3 fix activities](https://github.com/xHyroM/discord-list/issues/3) in [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
 
 
 ___
