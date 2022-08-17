@@ -14,11 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch feat/add-websites in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 * 💼 Added [NoGodHenry](https://github.com/NoGodHenry) as collaborator in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 * ⏺️ Created new branch main in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 * ⏺️ Created new repository  [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
-* #️⃣ Closed [#1089 error: Unsupported dependency type git for &#34;git+https://github.com/ethereumjs/ethereumjs-abi.git&#34;](https://github.com/oven-sh/bun/issues/1089) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1089 error: Unsupported dependency type git for &#34;git+https://github.com/ethereumjs/ethereumjs-abi.git&#34;](https://github.com/oven-sh/bun/issues/1089) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💼 Added [NoGodHenry](https://github.com/NoGodHenry) as collaborator in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 
 
 ___
