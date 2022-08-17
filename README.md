@@ -15,11 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
+  * [#8ec7106](https://github.com/xHyroM/device-mod/commit/8ec7106) fix: bring back gradle/ folder
+* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
+  * [#5ed8c76](https://github.com/xHyroM/device-mod/commit/5ed8c76) fix: bring back gradle/ folder
+* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
+  * [#b8d2e67](https://github.com/xHyroM/device-mod/commit/b8d2e67) revert: use forgegradle v3.+
+* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
   * [#467b7dc](https://github.com/xHyroM/device-mod/commit/467b7dc) feat: use forgegradle v3+
 * ⏺️ Created new branch feat/add-websites in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
-* 💼 Added [NoGodHenry](https://github.com/NoGodHenry) as collaborator in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
-* ⏺️ Created new branch main in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
-* ⏺️ Created new repository  [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 
 
 ___
