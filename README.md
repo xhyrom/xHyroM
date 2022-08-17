@@ -14,8 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-* #️⃣ Opened [#20 add new tag (lookbehinds)](https://github.com/xHyroM/bun-discord-bot/issues/20) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* 💼 Added [NoGodHenry](https://github.com/NoGodHenry) as collaborator in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
+* ⏺️ Created new branch main in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
+* ⏺️ Created new repository  [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
+* #️⃣ Closed [#1089 error: Unsupported dependency type git for &#34;git+https://github.com/ethereumjs/ethereumjs-abi.git&#34;](https://github.com/oven-sh/bun/issues/1089) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1089 error: Unsupported dependency type git for &#34;git+https://github.com/ethereumjs/ethereumjs-abi.git&#34;](https://github.com/oven-sh/bun/issues/1089) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
