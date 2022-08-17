@@ -16,10 +16,6 @@ ___
 **[📰 Recent activity](https://github.com/xHyroM)**
 * 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * #️⃣ Opened [#20 add new tag (lookbehinds)](https://github.com/xHyroM/bun-discord-bot/issues/20) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#5598bc4](https://github.com/xHyroM/leetcode/commit/5598bc4) feat(new solution): length of last world
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#1d5875c](https://github.com/xHyroM/leetcode/commit/1d5875c) feat(new solution): length of last world
 
 
 ___
