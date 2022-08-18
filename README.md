@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 💬 Commented on [#1099 what is the ms/iter means in table?](https://github.com/oven-sh/bun/issues/1099) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
   * [#8ec7106](https://github.com/xHyroM/device-mod/commit/8ec7106) fix: bring back gradle/ folder
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
   * [#5ed8c76](https://github.com/xHyroM/device-mod/commit/5ed8c76) fix: bring back gradle/ folder
-* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
-  * [#b8d2e67](https://github.com/xHyroM/device-mod/commit/b8d2e67) revert: use forgegradle v3.+
 
 
 ___
