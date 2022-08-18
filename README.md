@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
   * [#8ec7106](https://github.com/xHyroM/device-mod/commit/8ec7106) fix: bring back gradle/ folder
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
@@ -22,7 +23,6 @@ ___
   * [#b8d2e67](https://github.com/xHyroM/device-mod/commit/b8d2e67) revert: use forgegradle v3.+
 * ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
   * [#467b7dc](https://github.com/xHyroM/device-mod/commit/467b7dc) feat: use forgegradle v3+
-* ⏺️ Created new branch feat/add-websites in [xHyroM/device-mod](https://github.com/xHyroM/device-mod)
 
 
 ___
