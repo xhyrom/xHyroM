@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#ab03667](https://github.com/xHyroM/benchmarks/commit/ab03667) chore: cleanup &amp; install apexcharts
 * #️⃣ Opened [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#753d96e](https://github.com/xHyroM/leetcode/commit/753d96e) feat: integer to roman
@@ -24,8 +26,6 @@ fast 🚀 but fat 🥩
 * ➡️ Pushed 2 commits in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#ece6c93](https://github.com/xHyroM/leetcode/commit/ece6c93) upstream
   * [#560ee2f](https://github.com/xHyroM/leetcode/commit/560ee2f) feat: string to integer atoi
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#f6fbfa7](https://github.com/xHyroM/discord-list/commit/f6fbfa7) fix: remove activity config
 
 
 ___
