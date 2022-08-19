@@ -14,13 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#b9fc074](https://github.com/xHyroM/leetcode/commit/b9fc074) feat: check-if-numbers-are-ascending-in-a-sentence
+
+fast 🚀 but fat 🥩
+* ➡️ Pushed 2 commits in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
+  * [#ece6c93](https://github.com/xHyroM/leetcode/commit/ece6c93) upstream
+  * [#560ee2f](https://github.com/xHyroM/leetcode/commit/560ee2f) feat: string to integer atoi
+* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
+  * [#f6fbfa7](https://github.com/xHyroM/discord-list/commit/f6fbfa7) fix: remove activity config
 * 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * 💬 Commented on [#1099 what is the ms/iter means in table?](https://github.com/oven-sh/bun/issues/1099) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
-  * [#8ec7106](https://github.com/xHyroM/device-mod/commit/8ec7106) fix: bring back gradle/ folder
-* ➡️ Pushed 1 commit in [xHyroM/device-mod](https://github.com/xHyroM/device-mod) on branch `main`
-  * [#5ed8c76](https://github.com/xHyroM/device-mod/commit/5ed8c76) fix: bring back gradle/ folder
 
 
 ___
