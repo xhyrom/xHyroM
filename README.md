@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#3323 Labels for series data](https://github.com/apexcharts/apexcharts.js/issues/3323) in [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 * ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#9c9dd50](https://github.com/xHyroM/benchmarks/commit/9c9dd50) upstream
   * [#8a6cccf](https://github.com/xHyroM/benchmarks/commit/8a6cccf) feat: probably charts
@@ -22,10 +23,6 @@ ___
 * #️⃣ Opened [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#753d96e](https://github.com/xHyroM/leetcode/commit/753d96e) feat: integer to roman
-* ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#b9fc074](https://github.com/xHyroM/leetcode/commit/b9fc074) feat: check-if-numbers-are-ascending-in-a-sentence
-
-fast 🚀 but fat 🥩
 
 
 ___
