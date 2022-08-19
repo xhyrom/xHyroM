@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
   * [#753d96e](https://github.com/xHyroM/leetcode/commit/753d96e) feat: integer to roman
 * ➡️ Pushed 1 commit in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
@@ -25,7 +26,6 @@ fast 🚀 but fat 🥩
   * [#560ee2f](https://github.com/xHyroM/leetcode/commit/560ee2f) feat: string to integer atoi
 * ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
   * [#f6fbfa7](https://github.com/xHyroM/discord-list/commit/f6fbfa7) fix: remove activity config
-* 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 
 
 ___
