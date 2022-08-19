@@ -14,6 +14,9 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#9c9dd50](https://github.com/xHyroM/benchmarks/commit/9c9dd50) upstream
+  * [#8a6cccf](https://github.com/xHyroM/benchmarks/commit/8a6cccf) feat: probably charts
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#ab03667](https://github.com/xHyroM/benchmarks/commit/ab03667) chore: cleanup &amp; install apexcharts
 * #️⃣ Opened [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
@@ -23,9 +26,6 @@ ___
   * [#b9fc074](https://github.com/xHyroM/leetcode/commit/b9fc074) feat: check-if-numbers-are-ascending-in-a-sentence
 
 fast 🚀 but fat 🥩
-* ➡️ Pushed 2 commits in [xHyroM/leetcode](https://github.com/xHyroM/leetcode) on branch `main`
-  * [#ece6c93](https://github.com/xHyroM/leetcode/commit/ece6c93) upstream
-  * [#560ee2f](https://github.com/xHyroM/leetcode/commit/560ee2f) feat: string to integer atoi
 
 
 ___
