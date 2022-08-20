@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#79eef52](https://github.com/xhyrom-forks/bun/commit/79eef52) feat: add hostname (not sure iff works on all platforms)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#b259b87](https://github.com/xhyrom-forks/bun/commit/b259b87) feat: implement type function
 * 💬 Commented on [#762 Illegal hardware instruction](https://github.com/oven-sh/bun/issues/762) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#91f631c](https://github.com/xhyrom-forks/bun/commit/91f631c) feat: add platform function
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#24fe65a](https://github.com/xhyrom-forks/bun/commit/24fe65a) add comptime to homedir if
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#accdb53](https://github.com/xhyrom-forks/bun/commit/accdb53) feat: implement homedir function
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#65ef518](https://github.com/xhyrom-forks/bun/commit/65ef518) feat: implement arch function
 
 
 ___
