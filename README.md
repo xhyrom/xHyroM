@@ -14,17 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 4 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#9736817](https://github.com/xhyrom-forks/bun/commit/9736817) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
-* ➡️ Pushed 3 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#98a03c1](https://github.com/xhyrom-forks/bun/commit/98a03c1) Fix running zig tests
-  * [#f4419bd](https://github.com/xhyrom-forks/bun/commit/f4419bd) Fix crash on invalid JSX
-  * [#07e1a15](https://github.com/xhyrom-forks/bun/commit/07e1a15) Add `code` to `ResolveError`
-* 💬 Commented on [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#79eef52](https://github.com/xhyrom-forks/bun/commit/79eef52) feat: add hostname (not sure iff works on all platforms)
+  * [#7d80e40](https://github.com/xhyrom-forks/bun/commit/7d80e40) feat: add tests
+* 🔃 Opened [#1120 fix(ReferenceError): expected type in getCode](https://github.com/oven-sh/bun/pull/1120) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/fix/error-code-not-found-expected-type`
+  * [#07b2343](https://github.com/xhyrom-forks/bun/commit/07b2343) fix(ReferenceError): expected type in getCode
+* ⏺️ Created new branch xHyroM/fix/error-code-not-found-expected-type in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#b259b87](https://github.com/xhyrom-forks/bun/commit/b259b87) feat: implement type function
+  * [#398afd2](https://github.com/xhyrom-forks/bun/commit/398afd2) fix: store only string
 
 
 ___
