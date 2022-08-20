@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#762 Illegal hardware instruction](https://github.com/oven-sh/bun/issues/762) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#91f631c](https://github.com/xhyrom-forks/bun/commit/91f631c) feat: add platform function
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#24fe65a](https://github.com/xhyrom-forks/bun/commit/24fe65a) add comptime to homedir if
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#accdb53](https://github.com/xhyrom-forks/bun/commit/accdb53) feat: implement homedir function
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#65ef518](https://github.com/xhyrom-forks/bun/commit/65ef518) feat: implement arch function
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#1cef204](https://github.com/xhyrom-forks/bun/commit/1cef204) feat: implement EOL
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#503222d](https://github.com/xhyrom-forks/bun/commit/503222d) feat: implement EOL
-* 🔃 Opened [#1115 feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++15 --0`
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#6be1d7c](https://github.com/xhyrom-forks/bun/commit/6be1d7c) revert(bun-error): package-lock.json
 
 
 ___
