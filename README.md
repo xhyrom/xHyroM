@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#76f0e1a](https://github.com/xhyrom-forks/bun/commit/76f0e1a) revert javascript.zig fix
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#049c22d](https://github.com/xhyrom-forks/bun/commit/049c22d) feat: implement endianness &amp; fix release
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#e0c830c](https://github.com/xhyrom-forks/bun/commit/e0c830c) ususe toValue for devNull &amp; EOL
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#28815aa](https://github.com/xhyrom-forks/bun/commit/28815aa) feat: add endianness
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#7d80e40](https://github.com/xhyrom-forks/bun/commit/7d80e40) feat: add tests
-* 🔃 Opened [#1120 fix(ReferenceError): expected type in getCode](https://github.com/oven-sh/bun/pull/1120) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/fix/error-code-not-found-expected-type`
-  * [#07b2343](https://github.com/xhyrom-forks/bun/commit/07b2343) fix(ReferenceError): expected type in getCode
 
 
 ___
