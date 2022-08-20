@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#3323 Labels for series data](https://github.com/apexcharts/apexcharts.js/issues/3323) from [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#a079b28](https://github.com/xHyroM/benchmarks/commit/a079b28) build
 * ⏺️ Created new branch xHyroM/feat/implement-os in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
@@ -50,8 +51,6 @@ happend -&gt; happened
   * [#262f00d](https://github.com/xhyrom-forks/bun/commit/262f00d) Update bun-mac-x64-baseline.yml
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#3d795ed](https://github.com/xHyroM/benchmarks/commit/3d795ed) feat: colored collumns
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#f727ec1](https://github.com/xHyroM/benchmarks/commit/f727ec1) feat: better chart
 
 
 ___
