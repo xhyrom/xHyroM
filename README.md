@@ -14,26 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#65ef518](https://github.com/xhyrom-forks/bun/commit/65ef518) feat: implement arch function
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#1cef204](https://github.com/xhyrom-forks/bun/commit/1cef204) feat: implement EOL
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#503222d](https://github.com/xhyrom-forks/bun/commit/503222d) feat: implement EOL
 * 🔃 Opened [#1115 feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 1 file changed `++15 --0`
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#6be1d7c](https://github.com/xhyrom-forks/bun/commit/6be1d7c) revert(bun-error): package-lock.json
-* ➡️ Pushed 4 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#2511d12](https://github.com/xhyrom-forks/bun/commit/2511d12) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
-* ➡️ Pushed 3 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#2641884](https://github.com/xhyrom-forks/bun/commit/2641884) Add buffer.indexOf, includes and lastIndexOf (#1112)
-
-* Add buffer.indexOf, includes and lastIndexOf
-
-* use memmem
-
-* use int64_t
-
-* fix upon reviews
-  * [#b1bc549](https://github.com/xhyrom-forks/bun/commit/b1bc549) fix buffer.slice(0, 0) (#1114)
-  * [#8cf57eb](https://github.com/xhyrom-forks/bun/commit/8cf57eb) fix buffer.copy (#1113)
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#2cecd25](https://github.com/xhyrom-forks/bun/commit/2cecd25) feat: implement os module
 
 
 ___
