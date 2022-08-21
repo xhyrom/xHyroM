@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#fec5cf7](https://github.com/xhyrom-forks/bun/commit/fec5cf7) feat: implement cpus, not done
 * 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#8270a22](https://github.com/xhyrom-forks/bun/commit/8270a22) feat: finish userInfo implementation
@@ -21,8 +23,6 @@ ___
   * [#b09797e](https://github.com/xhyrom-forks/bun/commit/b09797e) feat: add getPriority (not finished, waiting for dc response)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#2f647a0](https://github.com/xhyrom-forks/bun/commit/2f647a0) feat: implement totalmem for macos
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#78e776a](https://github.com/xhyrom-forks/bun/commit/78e776a) feat: add userInfo
 
 
 ___
