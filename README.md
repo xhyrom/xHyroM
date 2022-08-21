@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#2f647a0](https://github.com/xhyrom-forks/bun/commit/2f647a0) feat: implement totalmem for macos
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#78e776a](https://github.com/xhyrom-forks/bun/commit/78e776a) feat: add userInfo
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#efcee86](https://github.com/xhyrom-forks/bun/commit/efcee86) feat: implement version
 * ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#90756b1](https://github.com/xhyrom-forks/bun/commit/90756b1) Merge branch &#39;xHyroM/feat/implement-os&#39; of https://github.com/xhyrom-forks/bun into xHyroM/feat/implement-os
@@ -32,10 +36,6 @@ ___
   * [#aaa019c](https://github.com/xhyrom-forks/bun/commit/aaa019c) Update WebKit
   * [#32d2be0](https://github.com/xhyrom-forks/bun/commit/32d2be0) Export `createSyntheticModule`
   * [#83e4d04](https://github.com/xhyrom-forks/bun/commit/83e4d04) wip support #!
-* ➡️ Pushed 14 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#99d4024](https://github.com/xhyrom-forks/bun/commit/99d4024) Merge branch &#39;main&#39; into xHyroM/feat/implement-os
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#3a155b7](https://github.com/xhyrom-forks/bun/commit/3a155b7) feat: implement totalmem, freemem, uptime
 
 
 ___
