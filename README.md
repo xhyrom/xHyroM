@@ -15,27 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#8270a22](https://github.com/xhyrom-forks/bun/commit/8270a22) feat: finish userInfo implementation
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#b09797e](https://github.com/xhyrom-forks/bun/commit/b09797e) feat: add getPriority (not finished, waiting for dc response)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#2f647a0](https://github.com/xhyrom-forks/bun/commit/2f647a0) feat: implement totalmem for macos
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#78e776a](https://github.com/xhyrom-forks/bun/commit/78e776a) feat: add userInfo
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#efcee86](https://github.com/xhyrom-forks/bun/commit/efcee86) feat: implement version
-* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#90756b1](https://github.com/xhyrom-forks/bun/commit/90756b1) Merge branch &#39;xHyroM/feat/implement-os&#39; of https://github.com/xhyrom-forks/bun into xHyroM/feat/implement-os
-* ➡️ Pushed 13 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#6ab53fc](https://github.com/xhyrom-forks/bun/commit/6ab53fc) Reduce allocations for `ObjectPool`
-  * [#8fafc2f](https://github.com/xhyrom-forks/bun/commit/8fafc2f) [bun-landing] inline via data uri
-  * [#c4580ee](https://github.com/xhyrom-forks/bun/commit/c4580ee) Rename reactdom-bun -&gt; react-dom-server.bun
-  * [#a8fa61e](https://github.com/xhyrom-forks/bun/commit/a8fa61e) Support running scripts in bun&#39;s runtime from a shebang
-  * [#f3779b8](https://github.com/xhyrom-forks/bun/commit/f3779b8) [breaking] `bun run &lt;missing script&gt;` should return a nonzero exit code
-  * [#ca5b996](https://github.com/xhyrom-forks/bun/commit/ca5b996) Support loading JavaScript files without extensions
-  * [#baf218c](https://github.com/xhyrom-forks/bun/commit/baf218c) Add a bench snippet for sha512
-  * [#7880e6e](https://github.com/xhyrom-forks/bun/commit/7880e6e) Remove usage of `fnctl64` so we can avoid the libc symbol
-  * [#97305b7](https://github.com/xhyrom-forks/bun/commit/97305b7) Add a binding for creating atomic strings
-  * [#1fca65f](https://github.com/xhyrom-forks/bun/commit/1fca65f) Slightly optimize escapeHTMLescapeHTML8 &amp; escapeHTML16
-  * [#aaa019c](https://github.com/xhyrom-forks/bun/commit/aaa019c) Update WebKit
-  * [#32d2be0](https://github.com/xhyrom-forks/bun/commit/32d2be0) Export `createSyntheticModule`
-  * [#83e4d04](https://github.com/xhyrom-forks/bun/commit/83e4d04) wip support #!
 
 
 ___
