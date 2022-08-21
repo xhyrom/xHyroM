@@ -22,8 +22,6 @@ ___
   * [#e0c830c](https://github.com/xhyrom-forks/bun/commit/e0c830c) ususe toValue for devNull &amp; EOL
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#28815aa](https://github.com/xhyrom-forks/bun/commit/28815aa) feat: add endianness
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#7d80e40](https://github.com/xhyrom-forks/bun/commit/7d80e40) feat: add tests
 
 
 ___
