@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#8270a22](https://github.com/xhyrom-forks/bun/commit/8270a22) feat: finish userInfo implementation
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
@@ -22,8 +23,6 @@ ___
   * [#2f647a0](https://github.com/xhyrom-forks/bun/commit/2f647a0) feat: implement totalmem for macos
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#78e776a](https://github.com/xhyrom-forks/bun/commit/78e776a) feat: add userInfo
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#efcee86](https://github.com/xhyrom-forks/bun/commit/efcee86) feat: implement version
 
 
 ___
