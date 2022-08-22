@@ -14,25 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 13 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#03a07a9](https://github.com/xhyrom-forks/bun/commit/03a07a9) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#e8cb4c7](https://github.com/xhyrom-forks/bun/commit/e8cb4c7) fix interface_addresses
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#3d9cadd](https://github.com/xhyrom-forks/bun/commit/3d9cadd) started working on interface addresses (in C)
+
+ill use C++ after it work
 * 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🔍 Reviewed [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#e3655aa](https://github.com/xhyrom-forks/bun/commit/e3655aa) fix: handle empty array
-  * [#710a413](https://github.com/xhyrom-forks/bun/commit/710a413) remov some files
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#d325b9e](https://github.com/xhyrom-forks/bun/commit/d325b9e) feat: add cpus()
-* ➡️ Pushed 11 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#2a0ab2a](https://github.com/xhyrom-forks/bun/commit/2a0ab2a) Fix build error
-  * [#fd5398c](https://github.com/xhyrom-forks/bun/commit/fd5398c) woops
-  * [#633bef7](https://github.com/xhyrom-forks/bun/commit/633bef7) [node:http] speed up assigning headers
-  * [#fcd09ab](https://github.com/xhyrom-forks/bun/commit/fcd09ab) reduce usage of protect
-  * [#38071ce](https://github.com/xhyrom-forks/bun/commit/38071ce) Update mime_type.zig
-  * [#8642ac8](https://github.com/xhyrom-forks/bun/commit/8642ac8) Improve error message when port is already in use
-  * [#57d6ef2](https://github.com/xhyrom-forks/bun/commit/57d6ef2) Update server.zig
-  * [#6a38441](https://github.com/xhyrom-forks/bun/commit/6a38441) Support emit Symbol events in EventEmitter (#1129)
-  * [#4b84090](https://github.com/xhyrom-forks/bun/commit/4b84090) faster way to read content-type
-  * [#39dc989](https://github.com/xhyrom-forks/bun/commit/39dc989) Fix `Buffer.isEncoding`
-  * [#5273415](https://github.com/xhyrom-forks/bun/commit/5273415) Add some optimizations to FetchHeaders
 
 
 ___
