@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#2e88f06](https://github.com/xhyrom-forks/bun/commit/2e88f06) feat: implement constants.dlope.xn, constants.priority.x, constants.UV_UDP_REUSEADDR
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#00f5ecf](https://github.com/xhyrom-forks/bun/commit/00f5ecf) reemove test.c
+* ➡️ Pushed 11 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#2ca4753](https://github.com/xhyrom-forks/bun/commit/2ca4753) Merge branch &#39;main&#39; into xHyroM/feat/implement-os
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#fb1246c](https://github.com/xhyrom-forks/bun/commit/fb1246c) feat: implement setPriority
 * ➡️ Pushed 10 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
   * [#47a91e7](https://github.com/xhyrom-forks/bun/commit/47a91e7) Fix import path
   * [#f5c6875](https://github.com/xhyrom-forks/bun/commit/f5c6875) 38% faster `node:http`
@@ -78,13 +86,6 @@ server.listen(port, hostname, () =&gt; {
 
 * fix upon review
   * [#d8f40e0](https://github.com/xhyrom-forks/bun/commit/d8f40e0) [env loader] Don&#39;t panic when .env fails to load for unexpected reasons
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#138c89b](https://github.com/xhyrom-forks/bun/commit/138c89b) feat: finish getPriority implementation &amp; stats cpus()
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#fec5cf7](https://github.com/xhyrom-forks/bun/commit/fec5cf7) feat: implement cpus, not done
-* 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#8270a22](https://github.com/xhyrom-forks/bun/commit/8270a22) feat: finish userInfo implementation
 
 
 ___
