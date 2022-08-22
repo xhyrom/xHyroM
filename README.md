@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#e06373b](https://github.com/xhyrom-forks/bun/commit/e06373b) increase object length
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#770223d](https://github.com/xhyrom-forks/bun/commit/770223d) updated cpus function, stilldoesnt work
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#4b85f44](https://github.com/xhyrom-forks/bun/commit/4b85f44) feat: implement signals, errno
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#2e88f06](https://github.com/xhyrom-forks/bun/commit/2e88f06) feat: implement constants.dlope.xn, constants.priority.x, constants.UV_UDP_REUSEADDR
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#00f5ecf](https://github.com/xhyrom-forks/bun/commit/00f5ecf) reemove test.c
-* ➡️ Pushed 11 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#2ca4753](https://github.com/xhyrom-forks/bun/commit/2ca4753) Merge branch &#39;main&#39; into xHyroM/feat/implement-os
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#fb1246c](https://github.com/xhyrom-forks/bun/commit/fb1246c) feat: implement setPriority
 
 
 ___
