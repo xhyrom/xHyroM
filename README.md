@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#24c5171](https://github.com/xhyrom-forks/bun/commit/24c5171) feat: add t more ests
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#e06373b](https://github.com/xhyrom-forks/bun/commit/e06373b) increase object length
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#770223d](https://github.com/xhyrom-forks/bun/commit/770223d) updated cpus function, stilldoesnt work
@@ -22,8 +24,6 @@ ___
   * [#4b85f44](https://github.com/xhyrom-forks/bun/commit/4b85f44) feat: implement signals, errno
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#2e88f06](https://github.com/xhyrom-forks/bun/commit/2e88f06) feat: implement constants.dlope.xn, constants.priority.x, constants.UV_UDP_REUSEADDR
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#00f5ecf](https://github.com/xhyrom-forks/bun/commit/00f5ecf) reemove test.c
 
 
 ___
