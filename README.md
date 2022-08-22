@@ -14,6 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#e3655aa](https://github.com/xhyrom-forks/bun/commit/e3655aa) fix: handle empty array
+  * [#710a413](https://github.com/xhyrom-forks/bun/commit/710a413) remov some files
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#d325b9e](https://github.com/xhyrom-forks/bun/commit/d325b9e) feat: add cpus()
 * ➡️ Pushed 11 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
   * [#2a0ab2a](https://github.com/xhyrom-forks/bun/commit/2a0ab2a) Fix build error
   * [#fd5398c](https://github.com/xhyrom-forks/bun/commit/fd5398c) woops
@@ -26,14 +33,6 @@ ___
   * [#4b84090](https://github.com/xhyrom-forks/bun/commit/4b84090) faster way to read content-type
   * [#39dc989](https://github.com/xhyrom-forks/bun/commit/39dc989) Fix `Buffer.isEncoding`
   * [#5273415](https://github.com/xhyrom-forks/bun/commit/5273415) Add some optimizations to FetchHeaders
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#24c5171](https://github.com/xhyrom-forks/bun/commit/24c5171) feat: add t more ests
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#e06373b](https://github.com/xhyrom-forks/bun/commit/e06373b) increase object length
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#770223d](https://github.com/xhyrom-forks/bun/commit/770223d) updated cpus function, stilldoesnt work
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#4b85f44](https://github.com/xhyrom-forks/bun/commit/4b85f44) feat: implement signals, errno
 
 
 ___
