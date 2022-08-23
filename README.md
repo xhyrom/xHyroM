@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💼 Added [Fire-The-Fox](https://github.com/Fire-The-Fox) as collaborator in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * ➡️ Pushed 13 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#03a07a9](https://github.com/xhyrom-forks/bun/commit/03a07a9) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
@@ -23,7 +24,6 @@ ___
 
 ill use C++ after it work
 * 💬 Commented on [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#1115 [WIP] feat: implement native os module](https://github.com/oven-sh/bun/pull/1115) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
