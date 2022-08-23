@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#84cd83e](https://github.com/xhyrom-forks/bun/commit/84cd83e) add missing benchs
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#2f9fa88](https://github.com/xhyrom-forks/bun/commit/2f9fa88) add tests
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#8c4561d](https://github.com/xhyrom-forks/bun/commit/8c4561d) add benchs &amp; fix code
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#f3a4b1f](https://github.com/xhyrom-forks/bun/commit/f3a4b1f) delete unnecessary files
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#1becf5c](https://github.com/xhyrom-forks/bun/commit/1becf5c) feat: networkInterfaces implementation
-* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#7a108d6](https://github.com/xhyrom-forks/bun/commit/7a108d6) Merge branch &#39;xHyroM/feat/implement-os&#39; of https://github.com/xhyrom-forks/bun into xHyroM/feat/implement-os
-* 💼 Added [Fire-The-Fox](https://github.com/Fire-The-Fox) as collaborator in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 
 
 ___
