@@ -14,16 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
+* 🌟 Starred [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
+* ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
+  * [#e6a1209](https://github.com/xhyrom-forks/bun/commit/e6a1209) Fix clearTimeout and linux timeout (#1138)
+  * [#f2316a8](https://github.com/xhyrom-forks/bun/commit/f2316a8) Add pad back to base64 (#1140)
+  * [#8f58e07](https://github.com/xhyrom-forks/bun/commit/8f58e07) updated minified url polyfill (#1132)
+  * [#9943ca9](https://github.com/xhyrom-forks/bun/commit/9943ca9) add SlowBuffer (#1133)
+  * [#75a76fb](https://github.com/xhyrom-forks/bun/commit/75a76fb) Remove response pool
+* ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#4462a8a](https://github.com/xhyrom-forks/bun/commit/4462a8a) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#4ff5673](https://github.com/xhyrom-forks/bun/commit/4ff5673) Update tasks.json
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#eb11386](https://github.com/xhyrom-forks/bun/commit/eb11386) Update c_cpp_properties.json
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#784fdad](https://github.com/xhyrom-forks/bun/commit/784fdad) Delete test.zig
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#a2c2af0](https://github.com/xhyrom-forks/bun/commit/a2c2af0) some fixes
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#437112a](https://github.com/xhyrom-forks/bun/commit/437112a) feat: support for macos version &amp; release
 
 
 ___
