@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#d7270f5](https://github.com/xhyrom-forks/bun/commit/d7270f5) feat: implement network interfaces for darwin
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#8edfe81](https://github.com/xhyrom-forks/bun/commit/8edfe81) fix system memory bindings
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#b161a17](https://github.com/xhyrom-forks/bun/commit/b161a17) feat: implement get free memory for darwin
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#1435f7b](https://github.com/xhyrom-forks/bun/commit/1435f7b) feat: implement system uptime
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#6055ea7](https://github.com/xhyrom-forks/bun/commit/6055ea7) feat: implement loadavg for darwin
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#6ce7a34](https://github.com/xhyrom-forks/bun/commit/6ce7a34) rename functions in bindings
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#cc73fa9](https://github.com/xhyrom-forks/bun/commit/cc73fa9) simplify functions
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#d166308](https://github.com/xhyrom-forks/bun/commit/d166308) fix typo
 
 
 ___
