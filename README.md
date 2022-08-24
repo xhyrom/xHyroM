@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#eaac690](https://github.com/xhyrom-forks/bun/commit/eaac690) code cleanup
+  * [#4ff5673](https://github.com/xhyrom-forks/bun/commit/4ff5673) Update tasks.json
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#d7270f5](https://github.com/xhyrom-forks/bun/commit/d7270f5) feat: implement network interfaces for darwin
+  * [#eb11386](https://github.com/xhyrom-forks/bun/commit/eb11386) Update c_cpp_properties.json
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#8edfe81](https://github.com/xhyrom-forks/bun/commit/8edfe81) fix system memory bindings
+  * [#784fdad](https://github.com/xhyrom-forks/bun/commit/784fdad) Delete test.zig
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#b161a17](https://github.com/xhyrom-forks/bun/commit/b161a17) feat: implement get free memory for darwin
+  * [#a2c2af0](https://github.com/xhyrom-forks/bun/commit/a2c2af0) some fixes
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#1435f7b](https://github.com/xhyrom-forks/bun/commit/1435f7b) feat: implement system uptime
+  * [#437112a](https://github.com/xhyrom-forks/bun/commit/437112a) feat: support for macos version &amp; release
 
 
 ___
