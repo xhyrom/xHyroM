@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#6ce7a34](https://github.com/xhyrom-forks/bun/commit/6ce7a34) rename functions in bindings
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#cc73fa9](https://github.com/xhyrom-forks/bun/commit/cc73fa9) simplify functions
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#d166308](https://github.com/xhyrom-forks/bun/commit/d166308) fix typo
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#34cdfa8](https://github.com/xhyrom-forks/bun/commit/34cdfa8) feat: add UV_UDP_REUSEADDR
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#eba0aab](https://github.com/xhyrom-forks/bun/commit/eba0aab) change functions to private
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#e26df83](https://github.com/xhyrom-forks/bun/commit/e26df83) feat: add dlopen constants
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#9f1fa11](https://github.com/xhyrom-forks/bun/commit/9f1fa11) fix: add E to ERRNO constants, add SIG to SIG constants
 
 
 ___
