@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#f5e7897](https://github.com/xhyrom-forks/bun/commit/f5e7897) feat: implement scopeid
 * 🌟 Starred [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
 * 🌟 Starred [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
 * ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
@@ -24,8 +26,6 @@ ___
   * [#75a76fb](https://github.com/xhyrom-forks/bun/commit/75a76fb) Remove response pool
 * ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#4462a8a](https://github.com/xhyrom-forks/bun/commit/4462a8a) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#4ff5673](https://github.com/xhyrom-forks/bun/commit/4ff5673) Update tasks.json
 
 
 ___
