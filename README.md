@@ -14,18 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen)
+* 🔍 Reviewed [#12 Static systemstat](https://github.com/xHyroM/bun-utilities/pull/12) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#f5e7897](https://github.com/xhyrom-forks/bun/commit/f5e7897) feat: implement scopeid
-* 🌟 Starred [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
-* 🌟 Starred [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
-* ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#e6a1209](https://github.com/xhyrom-forks/bun/commit/e6a1209) Fix clearTimeout and linux timeout (#1138)
-  * [#f2316a8](https://github.com/xhyrom-forks/bun/commit/f2316a8) Add pad back to base64 (#1140)
-  * [#8f58e07](https://github.com/xhyrom-forks/bun/commit/8f58e07) updated minified url polyfill (#1132)
-  * [#9943ca9](https://github.com/xhyrom-forks/bun/commit/9943ca9) add SlowBuffer (#1133)
-  * [#75a76fb](https://github.com/xhyrom-forks/bun/commit/75a76fb) Remove response pool
-* ➡️ Pushed 5 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#4462a8a](https://github.com/xhyrom-forks/bun/commit/4462a8a) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/implement-os
+  * [#3e3aa55](https://github.com/xhyrom-forks/bun/commit/3e3aa55) remove unnecesarry changes
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#61a2c26](https://github.com/xhyrom-forks/bun/commit/61a2c26) remove unnecesarry changes
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#b2664a2](https://github.com/xhyrom-forks/bun/commit/b2664a2) feat: implement cidr 🚀
 
 
 ___
