@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#b947fbd](https://github.com/xhyrom-forks/bun/commit/b947fbd) remove hardcoded constants
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#84cd83e](https://github.com/xhyrom-forks/bun/commit/84cd83e) add missing benchs
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#2f9fa88](https://github.com/xhyrom-forks/bun/commit/2f9fa88) add tests
@@ -22,8 +24,6 @@ ___
   * [#8c4561d](https://github.com/xhyrom-forks/bun/commit/8c4561d) add benchs &amp; fix code
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#f3a4b1f](https://github.com/xhyrom-forks/bun/commit/f3a4b1f) delete unnecessary files
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#1becf5c](https://github.com/xhyrom-forks/bun/commit/1becf5c) feat: networkInterfaces implementation
 
 
 ___
