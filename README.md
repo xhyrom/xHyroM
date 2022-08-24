@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#6ef31ef](https://github.com/xhyrom-forks/bun/commit/6ef31ef) feat: add signal constants
+  * [#9f1fa11](https://github.com/xhyrom-forks/bun/commit/9f1fa11) fix: add E to ERRNO constants, add SIG to SIG constants
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#22384cc](https://github.com/xhyrom-forks/bun/commit/22384cc) fix getWindowsErrorConstant
+  * [#e13476e](https://github.com/xhyrom-forks/bun/commit/e13476e) fix(__defineConstant): make some parameters comptime, change value to ?i32
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#cddfc3a](https://github.com/xhyrom-forks/bun/commit/cddfc3a) feat: implement errno constants
+  * [#a97c859](https://github.com/xhyrom-forks/bun/commit/a97c859) fix: change value to ?i16
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#b947fbd](https://github.com/xhyrom-forks/bun/commit/b947fbd) remove hardcoded constants
+  * [#5d2f344](https://github.com/xhyrom-forks/bun/commit/5d2f344) remove duplications
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#84cd83e](https://github.com/xhyrom-forks/bun/commit/84cd83e) add missing benchs
+  * [#fa89458](https://github.com/xhyrom-forks/bun/commit/fa89458) feat: implement priority constants
 
 
 ___
