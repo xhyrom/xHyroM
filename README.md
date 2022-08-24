@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#d166308](https://github.com/xhyrom-forks/bun/commit/d166308) fix typo
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#34cdfa8](https://github.com/xhyrom-forks/bun/commit/34cdfa8) feat: add UV_UDP_REUSEADDR
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#eba0aab](https://github.com/xhyrom-forks/bun/commit/eba0aab) change functions to private
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#e26df83](https://github.com/xhyrom-forks/bun/commit/e26df83) feat: add dlopen constants
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#9f1fa11](https://github.com/xhyrom-forks/bun/commit/9f1fa11) fix: add E to ERRNO constants, add SIG to SIG constants
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#e13476e](https://github.com/xhyrom-forks/bun/commit/e13476e) fix(__defineConstant): make some parameters comptime, change value to ?i32
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#a97c859](https://github.com/xhyrom-forks/bun/commit/a97c859) fix: change value to ?i16
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#5d2f344](https://github.com/xhyrom-forks/bun/commit/5d2f344) remove duplications
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#fa89458](https://github.com/xhyrom-forks/bun/commit/fa89458) feat: implement priority constants
 
 
 ___
