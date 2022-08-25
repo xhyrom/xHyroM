@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#f2e77e3](https://github.com/xHyroM/benchmarks/commit/f2e77e3) chore: remove comment
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#e905e2a](https://github.com/xHyroM/benchmarks/commit/e905e2a) fix(scripts): init should check for exists
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#fbe56df](https://github.com/xHyroM/benchmarks/commit/fbe56df) feat: use lines chart
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#5910ee7](https://github.com/xHyroM/benchmarks/commit/5910ee7) add cached outputs
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#222f025](https://github.com/xHyroM/benchmarks/commit/222f025) add cached outputs
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#ca114bf](https://github.com/xHyroM/benchmarks/commit/ca114bf) chore: add __pycache__ to gitignore
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#9663e12](https://github.com/xHyroM/benchmarks/commit/9663e12) chore: add __pycache__ to gitignore
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#3933845](https://github.com/xHyroM/benchmarks/commit/3933845) remove unecessary files
 
 
 ___
