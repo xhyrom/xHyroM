@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1115 feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#decd1d1](https://github.com/xhyrom-forks/bun/commit/decd1d1) Update tasks.json
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#2e713a6](https://github.com/xhyrom-forks/bun/commit/2e713a6) FINISH 🚀🚀🚀🚀🚀🚀
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#4da73fb](https://github.com/xhyrom-forks/bun/commit/4da73fb) revert: launch.json
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#1865c5b](https://github.com/xhyrom-forks/bun/commit/1865c5b) chore: make requested changes
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#b0867c5](https://github.com/xhyrom-forks/bun/commit/b0867c5) fix some things
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#83244ed](https://github.com/xhyrom-forks/bun/commit/83244ed) fix: change IPV6 to IPv6
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#ae31dd3](https://github.com/xhyrom-forks/bun/commit/ae31dd3) fix: import string
 
 
 ___
