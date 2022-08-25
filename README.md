@@ -14,14 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen)
-* 🔍 Reviewed [#12 Static systemstat](https://github.com/xHyroM/bun-utilities/pull/12) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#3e3aa55](https://github.com/xhyrom-forks/bun/commit/3e3aa55) remove unnecesarry changes
+  * [#b0867c5](https://github.com/xhyrom-forks/bun/commit/b0867c5) fix some things
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#61a2c26](https://github.com/xhyrom-forks/bun/commit/61a2c26) remove unnecesarry changes
+  * [#83244ed](https://github.com/xhyrom-forks/bun/commit/83244ed) fix: change IPV6 to IPv6
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#b2664a2](https://github.com/xhyrom-forks/bun/commit/b2664a2) feat: implement cidr 🚀
+  * [#ae31dd3](https://github.com/xhyrom-forks/bun/commit/ae31dd3) fix: import string
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#9bccd95](https://github.com/xhyrom-forks/bun/commit/9bccd95) chore: requested changes
+
+Co-authored-by: Jarred Sumner &lt;jarred@jarredsumner.com&gt;
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#34181ef](https://github.com/xhyrom-forks/bun/commit/34181ef) chore: requested changes
+
+Co-authored-by: Jarred Sumner &lt;jarred@jarredsumner.com&gt;
 
 
 ___
