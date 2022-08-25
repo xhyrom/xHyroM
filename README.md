@@ -14,27 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#1038a86](https://github.com/xHyroM/benchmarks/commit/1038a86) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks
+* #️⃣ Closed [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 💬 Commented on [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#456fb01](https://github.com/xHyroM/benchmarks/commit/456fb01) remove test.html
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#84993b0](https://github.com/xHyroM/benchmarks/commit/84993b0) feat: charts
-* ➡️ Pushed 11 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
-  * [#a28c561](https://github.com/xHyroM/bun-utilities/commit/a28c561) Static systemstat (https://github.com/xHyroM/bun-utilities/pull/12)
-
-Static systemstat
-  * [#00a15a7](https://github.com/xHyroM/bun-utilities/commit/00a15a7) In os.rs: fixed calling `System::new()` on every run for certain fns
-  * [#0fab531](https://github.com/xHyroM/bun-utilities/commit/0fab531) Cleanup
-  * [#23e44e8](https://github.com/xHyroM/bun-utilities/commit/23e44e8) Fixed `..` use for discarded match arms, this is incorrect (`_` is correct) and causes overhead. Also removed unnecessary allocations
-  * [#e7a7ad8](https://github.com/xHyroM/bun-utilities/commit/e7a7ad8) More cleanup in fs.rs
-  * [#d5ee69d](https://github.com/xHyroM/bun-utilities/commit/d5ee69d) More cleanup
-  * [#af222aa](https://github.com/xHyroM/bun-utilities/commit/af222aa) Cleanup/debugging
-  * [#fc33a98](https://github.com/xHyroM/bun-utilities/commit/fc33a98) Fixed typo
-  * [#6fdafeb](https://github.com/xHyroM/bun-utilities/commit/6fdafeb) Typo fix
-  * [#3262f05](https://github.com/xHyroM/bun-utilities/commit/3262f05) Fixed rustfmt to match current style
-  * [#2e32a63](https://github.com/xHyroM/bun-utilities/commit/2e32a63) Fixed typo and some tree-of-doom
-* 🔃 Merged [#12 Static systemstat](https://github.com/xHyroM/bun-utilities/pull/12) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-  * 5 files changed `++78 --100`
-* 💬 Commented on [#1115 feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
