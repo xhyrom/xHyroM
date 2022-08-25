@@ -16,13 +16,11 @@ ___
 **[📰 Recent activity](https://github.com/xHyroM)**
 * 💬 Commented on [#1115 feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#ce2608b](https://github.com/xhyrom-forks/bun/commit/ce2608b) FINISH 🚀🚀🚀
+* 💬 Commented on [#1143 Implement `process.stderr` and `process.stdout`](https://github.com/oven-sh/bun/issues/1143) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1115 feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#decd1d1](https://github.com/xhyrom-forks/bun/commit/decd1d1) Update tasks.json
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#2e713a6](https://github.com/xhyrom-forks/bun/commit/2e713a6) FINISH 🚀🚀🚀🚀🚀🚀
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#4da73fb](https://github.com/xhyrom-forks/bun/commit/4da73fb) revert: launch.json
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#1865c5b](https://github.com/xhyrom-forks/bun/commit/1865c5b) chore: make requested changes
 
 
 ___
