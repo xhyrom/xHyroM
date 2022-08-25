@@ -15,19 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#4da73fb](https://github.com/xhyrom-forks/bun/commit/4da73fb) revert: launch.json
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
+  * [#1865c5b](https://github.com/xhyrom-forks/bun/commit/1865c5b) chore: make requested changes
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#b0867c5](https://github.com/xhyrom-forks/bun/commit/b0867c5) fix some things
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#83244ed](https://github.com/xhyrom-forks/bun/commit/83244ed) fix: change IPV6 to IPv6
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
   * [#ae31dd3](https://github.com/xhyrom-forks/bun/commit/ae31dd3) fix: import string
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#9bccd95](https://github.com/xhyrom-forks/bun/commit/9bccd95) chore: requested changes
-
-Co-authored-by: Jarred Sumner &lt;jarred@jarredsumner.com&gt;
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#34181ef](https://github.com/xhyrom-forks/bun/commit/34181ef) chore: requested changes
-
-Co-authored-by: Jarred Sumner &lt;jarred@jarredsumner.com&gt;
 
 
 ___
