@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#456fb01](https://github.com/xHyroM/benchmarks/commit/456fb01) remove test.html
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#84993b0](https://github.com/xHyroM/benchmarks/commit/84993b0) feat: charts
 * ➡️ Pushed 11 commits in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities) on branch `master`
   * [#a28c561](https://github.com/xHyroM/bun-utilities/commit/a28c561) Static systemstat (https://github.com/xHyroM/bun-utilities/pull/12)
 
@@ -31,9 +35,6 @@ Static systemstat
 * 🔃 Merged [#12 Static systemstat](https://github.com/xHyroM/bun-utilities/pull/12) in [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
   * 5 files changed `++78 --100`
 * 💬 Commented on [#1115 feat: implement native os module](https://github.com/oven-sh/bun/issues/1115) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-os`
-  * [#ce2608b](https://github.com/xhyrom-forks/bun/commit/ce2608b) FINISH 🚀🚀🚀
-* 💬 Commented on [#1143 Implement `process.stderr` and `process.stdout`](https://github.com/oven-sh/bun/issues/1143) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
