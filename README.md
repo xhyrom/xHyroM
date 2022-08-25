@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Opened [#13 use denodrivers sqlite3 for sqlite bench](https://github.com/xHyroM/benchmarks/issues/13) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#1038a86](https://github.com/xHyroM/benchmarks/commit/1038a86) Merge branch &#39;main&#39; of https://github.com/xHyroM/benchmarks
-* #️⃣ Closed [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#12 add graphs](https://github.com/xHyroM/benchmarks/issues/12) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#456fb01](https://github.com/xHyroM/benchmarks/commit/456fb01) remove test.html
+  * [#5910ee7](https://github.com/xHyroM/benchmarks/commit/5910ee7) add cached outputs
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#222f025](https://github.com/xHyroM/benchmarks/commit/222f025) add cached outputs
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#ca114bf](https://github.com/xHyroM/benchmarks/commit/ca114bf) chore: add __pycache__ to gitignore
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#9663e12](https://github.com/xHyroM/benchmarks/commit/9663e12) chore: add __pycache__ to gitignore
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#3933845](https://github.com/xHyroM/benchmarks/commit/3933845) remove unecessary files
 
 
 ___
