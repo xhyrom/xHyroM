@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#c434a6d](https://github.com/xHyroM/benchmarks/commit/c434a6d) benchmarks(http): use --fasthttp lib
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
   * [#5692252](https://github.com/xHyroM/bun-discord-bot/commit/5692252) tags(lookbehinds): highlight
 * ➡️ Pushed 3 commits in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
@@ -21,8 +23,6 @@ ___
   * [#32165a5](https://github.com/xHyroM/bun-discord-bot/commit/32165a5) resolve problems
   * [#217d957](https://github.com/xHyroM/bun-discord-bot/commit/217d957) feat: add lookbehind tag
 * #️⃣ Closed [#20 add new tag (lookbehinds)](https://github.com/xHyroM/bun-discord-bot/issues/20) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-* 🔃 Merged [#21 feat: add lookbehinds tag](https://github.com/xHyroM/bun-discord-bot/pull/21) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-  * 1 file changed `++10 --2`
 
 
 ___
