@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#c17fc69](https://github.com/xHyroM/benchmarks/commit/c17fc69) chore(CI): remove comments
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d2c6ac7](https://github.com/xHyroM/benchmarks/commit/d2c6ac7) fix(CI): update install dependencies
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#89e8f77](https://github.com/xHyroM/benchmarks/commit/89e8f77) fix(scripts/generate): correct import
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#3828643](https://github.com/xHyroM/benchmarks/commit/3828643) chore: add -y flag
 * 🔃 Opened [#8 feat: add install script](https://github.com/LukeChannings/deno-arm64/pull/8) in [LukeChannings/deno-arm64](https://github.com/LukeChannings/deno-arm64)
   * 1 file changed `++43 --0`
-* ➡️ Pushed 1 commit in [xhyrom-forks/deno-arm64](https://github.com/xhyrom-forks/deno-arm64) on branch `feat/add_install_script`
-  * [#023e3e1](https://github.com/xhyrom-forks/deno-arm64/commit/023e3e1) Create install.sh
-* ⏺️ Created new branch feat/add_install_script in [xhyrom-forks/deno-arm64](https://github.com/xhyrom-forks/deno-arm64)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d3194b4](https://github.com/xHyroM/benchmarks/commit/d3194b4) chore: remove paperdave logger fork
 
 
 ___
