@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#c434a6d](https://github.com/xHyroM/benchmarks/commit/c434a6d) benchmarks(http): use --fasthttp lib
-* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#5692252](https://github.com/xHyroM/bun-discord-bot/commit/5692252) tags(lookbehinds): highlight
-* ➡️ Pushed 3 commits in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#9250cdb](https://github.com/xHyroM/bun-discord-bot/commit/9250cdb) feat: add lookbehinds tag (#21)
-  * [#32165a5](https://github.com/xHyroM/bun-discord-bot/commit/32165a5) resolve problems
-  * [#217d957](https://github.com/xHyroM/bun-discord-bot/commit/217d957) feat: add lookbehind tag
-* #️⃣ Closed [#20 add new tag (lookbehinds)](https://github.com/xHyroM/bun-discord-bot/issues/20) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+  * [#3828643](https://github.com/xHyroM/benchmarks/commit/3828643) chore: add -y flag
+* 🔃 Opened [#8 feat: add install script](https://github.com/LukeChannings/deno-arm64/pull/8) in [LukeChannings/deno-arm64](https://github.com/LukeChannings/deno-arm64)
+  * 1 file changed `++43 --0`
+* ➡️ Pushed 1 commit in [xhyrom-forks/deno-arm64](https://github.com/xhyrom-forks/deno-arm64) on branch `feat/add_install_script`
+  * [#023e3e1](https://github.com/xhyrom-forks/deno-arm64/commit/023e3e1) Create install.sh
+* ⏺️ Created new branch feat/add_install_script in [xhyrom-forks/deno-arm64](https://github.com/xhyrom-forks/deno-arm64)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d3194b4](https://github.com/xHyroM/benchmarks/commit/d3194b4) chore: remove paperdave logger fork
 
 
 ___
