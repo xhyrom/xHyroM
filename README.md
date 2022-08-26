@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d53b782](https://github.com/xHyroM/benchmarks/commit/d53b782) fix(scripts/generate): add css link
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#5bb06d6](https://github.com/xHyroM/benchmarks/commit/5bb06d6) feat: create css
 * ➡️ Pushed 7 commits in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `feat/support-for-djs-v14`
   * [#8800a5a](https://github.com/xHyroM/GCommands/commit/8800a5a) Merge branch &#39;next&#39; into feat/support-for-djs-v14
 * 💬 Commented on [#539 feat!: support for djs v14](https://github.com/Garlic-Team/gcommands/issues/539) from [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
 * ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
   * [#60e3e56](https://github.com/xHyroM/GCommands/commit/60e3e56) style: format
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#52142e6](https://github.com/xHyroM/GCommands/commit/52142e6) fix: husky
-* ➡️ Pushed 1 commit in [xHyroM/GCommands](https://github.com/xHyroM/GCommands) on branch `next`
-  * [#245b9c9](https://github.com/xHyroM/GCommands/commit/245b9c9) improvements
 
 
 ___
