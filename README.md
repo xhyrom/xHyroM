@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#dfe4527](https://github.com/xHyroM/benchmarks/commit/dfe4527) fix: charts
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#adfa99a](https://github.com/xHyroM/benchmarks/commit/adfa99a) chore(CI): update schedule cron
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#f0d489b](https://github.com/xHyroM/benchmarks/commit/f0d489b) fix: add category
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#b53c9bc](https://github.com/xHyroM/benchmarks/commit/b53c9bc) fix: add source
 * #️⃣ Opened [#45 Invalid FFI pointer type, expected null, integer or BigInt](https://github.com/denodrivers/sqlite3/issues/45) in [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#f2e77e3](https://github.com/xHyroM/benchmarks/commit/f2e77e3) chore: remove comment
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#e905e2a](https://github.com/xHyroM/benchmarks/commit/e905e2a) fix(scripts): init should check for exists
 
 
 ___
