@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1161 Can&#39;t import package inner directory](https://github.com/oven-sh/bun/issues/1161) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#3696994](https://github.com/xHyroM/benchmarks/commit/3696994) benchmarks(cli): add runtime property to npm
 * #️⃣ Closed [#5 add cli benchmark](https://github.com/xHyroM/benchmarks/issues/5) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * 💬 Commented on [#5 add cli benchmark](https://github.com/xHyroM/benchmarks/issues/5) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * #️⃣ Opened [#15 add version property](https://github.com/xHyroM/benchmarks/issues/15) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d094641](https://github.com/xHyroM/benchmarks/commit/d094641) benchmarks(cli): change node -v to npm -v
 
 
 ___
