@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `chore/website`
+  * [#0feca4b](https://github.com/xHyroM/benchmarks/commit/0feca4b) Merge branch &#39;chore/website&#39; of https://github.com/xHyroM/benchmarks into chore/website
 * ⏺️ Created new branch chore/website in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * 💬 Commented on [#1157 fix compile error](https://github.com/oven-sh/bun/issues/1157) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#c17fc69](https://github.com/xHyroM/benchmarks/commit/c17fc69) chore(CI): remove comments
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#d2c6ac7](https://github.com/xHyroM/benchmarks/commit/d2c6ac7) fix(CI): update install dependencies
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#89e8f77](https://github.com/xHyroM/benchmarks/commit/89e8f77) fix(scripts/generate): correct import
 
 
 ___
