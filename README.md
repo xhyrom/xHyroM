@@ -14,11 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1159 Official image on Docker Hub](https://github.com/oven-sh/bun/issues/1159) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#3a583e1](https://github.com/xHyroM/benchmarks/commit/3a583e1) fix(website): categories
 * ⏺️ Created new tag 1.1.3 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * 📦 Released **1.1.3** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#3003de9](https://github.com/xHyroM/benchmarks/commit/3003de9) fix(website): add missing base path plugin
-* #️⃣ Closed [#3 fix activities](https://github.com/xHyroM/discord-list/issues/3) in [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
 
 
 ___
