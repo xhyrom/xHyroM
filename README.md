@@ -14,14 +14,26 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 2 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `chore/website`
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#d43c0d6](https://github.com/xHyroM/benchmarks/commit/d43c0d6) chore: add _site to gitignore
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#e5c40bc](https://github.com/xHyroM/benchmarks/commit/e5c40bc) fix(website): add trailing slash
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#18e80dd](https://github.com/xHyroM/benchmarks/commit/18e80dd) fix(CI): add deploy to github pages step
+* ➡️ Pushed 9 commits in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#c412234](https://github.com/xHyroM/benchmarks/commit/c412234) chore: website (https://github.com/xHyroM/benchmarks/pull/14)
+
+chore: website
+  * [#7acbad7](https://github.com/xHyroM/benchmarks/commit/7acbad7) finish web
+  * [#26d7726](https://github.com/xHyroM/benchmarks/commit/26d7726) Merge branch &#39;chore/website&#39; of https://github.com/xHyroM/benchmarks into chore/website
+  * [#22a5c93](https://github.com/xHyroM/benchmarks/commit/22a5c93) finish website
+  * [#2250910](https://github.com/xHyroM/benchmarks/commit/2250910) Update benchmarks 2022-08-27T13:12:16Z 🚀
   * [#0feca4b](https://github.com/xHyroM/benchmarks/commit/0feca4b) Merge branch &#39;chore/website&#39; of https://github.com/xHyroM/benchmarks into chore/website
-* ⏺️ Created new branch chore/website in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
-* 💬 Commented on [#1157 fix compile error](https://github.com/oven-sh/bun/issues/1157) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#c17fc69](https://github.com/xHyroM/benchmarks/commit/c17fc69) chore(CI): remove comments
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#d2c6ac7](https://github.com/xHyroM/benchmarks/commit/d2c6ac7) fix(CI): update install dependencies
+  * [#2e95725](https://github.com/xHyroM/benchmarks/commit/2e95725) some updates
+  * [#abb39b1](https://github.com/xHyroM/benchmarks/commit/abb39b1) Update benchmarks 2022-08-27T12:25:42Z 🚀
+  * [#f1016e9](https://github.com/xHyroM/benchmarks/commit/f1016e9) feat: website
+* 🔃 Merged [#14 chore: website](https://github.com/xHyroM/benchmarks/pull/14) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+  * 24 files changed `++651 --4`
 
 
 ___
