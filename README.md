@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#1159 Official image on Docker Hub](https://github.com/oven-sh/bun/issues/1159) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#3a583e1](https://github.com/xHyroM/benchmarks/commit/3a583e1) fix(website): categories
-* ⏺️ Created new tag 1.1.3 in [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
-* 📦 Released **1.1.3** of [xHyroM/NexusBlock](https://github.com/xHyroM/NexusBlock)
+  * [#3696994](https://github.com/xHyroM/benchmarks/commit/3696994) benchmarks(cli): add runtime property to npm
+* #️⃣ Closed [#5 add cli benchmark](https://github.com/xHyroM/benchmarks/issues/5) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* 💬 Commented on [#5 add cli benchmark](https://github.com/xHyroM/benchmarks/issues/5) from [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
+* #️⃣ Opened [#15 add version property](https://github.com/xHyroM/benchmarks/issues/15) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#3003de9](https://github.com/xHyroM/benchmarks/commit/3003de9) fix(website): add missing base path plugin
+  * [#d094641](https://github.com/xHyroM/benchmarks/commit/d094641) benchmarks(cli): change node -v to npm -v
 
 
 ___
