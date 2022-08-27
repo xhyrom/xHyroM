@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch chore/website in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * 💬 Commented on [#1157 fix compile error](https://github.com/oven-sh/bun/issues/1157) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#c17fc69](https://github.com/xHyroM/benchmarks/commit/c17fc69) chore(CI): remove comments
@@ -21,8 +22,6 @@ ___
   * [#d2c6ac7](https://github.com/xHyroM/benchmarks/commit/d2c6ac7) fix(CI): update install dependencies
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#89e8f77](https://github.com/xHyroM/benchmarks/commit/89e8f77) fix(scripts/generate): correct import
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#3828643](https://github.com/xHyroM/benchmarks/commit/3828643) chore: add -y flag
 
 
 ___
