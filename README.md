@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#22 check if pr is draft](https://github.com/xHyroM/bun-discord-bot/issues/22) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
 * 💬 Commented on [#8 feat: add install script](https://github.com/LukeChannings/deno-arm64/issues/8) from [LukeChannings/deno-arm64](https://github.com/LukeChannings/deno-arm64)
 * ➡️ Pushed 64 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
   * [#65dd221](https://github.com/xhyrom-forks/bun/commit/65dd221) fix bun-tools location in macOSx zig instructions (#1124)
@@ -49,8 +50,6 @@ ___
 * 💬 Commented on [#450 Add Bun](https://github.com/discord/discord-open-source/issues/450) from [discord/discord-open-source](https://github.com/discord/discord-open-source)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
   * [#7dadd21](https://github.com/xhyrom-forks/bun/commit/7dadd21) remove useless function
-* 🔃 Opened [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
-  * 1 file changed `++11 --0`
 
 
 ___
