@@ -14,17 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#22 check if pr is draft](https://github.com/xHyroM/bun-discord-bot/issues/22) in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#f4e4175](https://github.com/xhyrom-forks/bun/commit/f4e4175) Update README.md
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#95b894e](https://github.com/xhyrom-forks/bun/commit/95b894e) init
+* ⏺️ Created new branch global_info in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
-  * [#a6affd1](https://github.com/xHyroM/bun-discord-bot/commit/a6affd1) feat: implement draft
-
-Closes https://github.com/xHyroM/bun-discord-bot/issues/22
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#32f8696](https://github.com/xhyrom-forks/bun/commit/32f8696) fix: make string_to_run nullable
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#e867ddf](https://github.com/xhyrom-forks/bun/commit/e867ddf) feat: implement new error
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#81b5602](https://github.com/xhyrom-forks/bun/commit/81b5602) feat: implement bun dot
+  * [#22a7810](https://github.com/xHyroM/bun-discord-bot/commit/22a7810) fix(githubUtils): add issue number to autocomplete
 
 
 ___
