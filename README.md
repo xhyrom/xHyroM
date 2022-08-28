@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#450 Add Bun](https://github.com/discord/discord-open-source/issues/450) from [discord/discord-open-source](https://github.com/discord/discord-open-source)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
   * [#7dadd21](https://github.com/xhyrom-forks/bun/commit/7dadd21) remove useless function
 * 🔃 Opened [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -21,8 +22,6 @@ ___
 * ⏺️ Created new branch xHyroM/feat/cli/implement-bun-dot in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * 🔃 Opened [#17 fix(process): add revision - git sha of bun](https://github.com/oven-sh/bun-types/pull/17) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
   * 1 file changed `++2 --0`
-* ➡️ Pushed 1 commit in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `xHyroM/fix/process/add-revision`
-  * [#c4c6f76](https://github.com/oven-sh/bun-types/commit/c4c6f76) fix(process): add revision - git sha of bun
 
 
 ___
