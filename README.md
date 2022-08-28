@@ -15,12 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
-  * [#a8eb7da](https://github.com/xhyrom-forks/bun/commit/a8eb7da) add in progress
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-versions-into-Bun-scope`
-  * [#449fe69](https://github.com/xhyrom-forks/bun/commit/449fe69) fix
-* #️⃣ Closed [#1139 bun compile project into single executable](https://github.com/oven-sh/bun/issues/1139) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1139 bun compile project into single executable](https://github.com/oven-sh/bun/issues/1139) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Closed [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * [#db5e0a2](https://github.com/xhyrom-forks/bun/commit/db5e0a2) feat: fetch pull request
+* #️⃣ Opened [#1 [IN PROGRESS] xHyroM/feat/cli/implement-bun-dot](https://github.com/xhyrom-forks/bun/issues/1) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#659d904](https://github.com/xhyrom-forks/bun/commit/659d904) feat(script): add comment
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#52a71d9](https://github.com/xhyrom-forks/bun/commit/52a71d9) feat: add workflow
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#8b80e68](https://github.com/xhyrom-forks/bun/commit/8b80e68) Create README.template.md
 
 
 ___
