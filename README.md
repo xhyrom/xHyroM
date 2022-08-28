@@ -14,10 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#dd56241](https://github.com/xHyroM/benchmarks/commit/dd56241) fix(website): change very low -&gt; very terrible
-* ⏺️ Created new branch xHyroM/feat/implement-versions-into-Bun-scope in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
-* ⏺️ Created new branch xHyroM/feat/implement-Bun-versions in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#a8eb7da](https://github.com/xhyrom-forks/bun/commit/a8eb7da) add in progress
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/implement-versions-into-Bun-scope`
+  * [#449fe69](https://github.com/xhyrom-forks/bun/commit/449fe69) fix
+* #️⃣ Closed [#1139 bun compile project into single executable](https://github.com/oven-sh/bun/issues/1139) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1139 bun compile project into single executable](https://github.com/oven-sh/bun/issues/1139) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Closed [#1091 Get request params from request object](https://github.com/oven-sh/bun/issues/1091) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
