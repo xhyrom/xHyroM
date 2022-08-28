@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#cae1990](https://github.com/xhyrom-forks/bun/commit/cae1990) Merge branch &#39;global_info&#39; of https://github.com/xhyrom-forks/bun into global_info
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
-  * [#db5e0a2](https://github.com/xhyrom-forks/bun/commit/db5e0a2) feat: fetch pull request
-* #️⃣ Opened [#1 [IN PROGRESS] xHyroM/feat/cli/implement-bun-dot](https://github.com/xhyrom-forks/bun/issues/1) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
-  * [#659d904](https://github.com/xhyrom-forks/bun/commit/659d904) feat(script): add comment
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
-  * [#52a71d9](https://github.com/xhyrom-forks/bun/commit/52a71d9) feat: add workflow
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
-  * [#8b80e68](https://github.com/xhyrom-forks/bun/commit/8b80e68) Create README.template.md
+  * [#b930748](https://github.com/xhyrom-forks/bun/commit/b930748) feat(scripts): add landed, closed
+* #️⃣ Opened [#5 [RO] xHyroM/feat/implement-os](https://github.com/xhyrom-forks/bun/issues/5) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
+* #️⃣ Opened [#4 [RO] xHyroM/fix/error-code-not-found-expected-type](https://github.com/xhyrom-forks/bun/issues/4) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
+* #️⃣ Opened [#3 [RO] xHyroM/feat/show-sha-in-version](https://github.com/xhyrom-forks/bun/issues/3) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 
 
 ___
