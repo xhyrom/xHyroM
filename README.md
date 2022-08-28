@@ -15,12 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
+  * [#f51bf89](https://github.com/xhyrom-forks/bun/commit/f51bf89) Merge branch &#39;global_info&#39; of https://github.com/xhyrom-forks/bun into global_info
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
+  * [#fe18d33](https://github.com/xhyrom-forks/bun/commit/fe18d33) add tildify
+* ➡️ Pushed 1 commit in [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot) on branch `main`
+  * [#07fd5bc](https://github.com/xHyroM/bun-discord-bot/commit/07fd5bc) fix(githubUtils): add null to setIssue
+* ➡️ Pushed 2 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
   * [#cae1990](https://github.com/xhyrom-forks/bun/commit/cae1990) Merge branch &#39;global_info&#39; of https://github.com/xhyrom-forks/bun into global_info
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `global_info`
   * [#b930748](https://github.com/xhyrom-forks/bun/commit/b930748) feat(scripts): add landed, closed
-* #️⃣ Opened [#5 [RO] xHyroM/feat/implement-os](https://github.com/xhyrom-forks/bun/issues/5) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
-* #️⃣ Opened [#4 [RO] xHyroM/fix/error-code-not-found-expected-type](https://github.com/xhyrom-forks/bun/issues/4) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
-* #️⃣ Opened [#3 [RO] xHyroM/feat/show-sha-in-version](https://github.com/xhyrom-forks/bun/issues/3) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 
 
 ___
