@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#16 add json, params benchmarks to http](https://github.com/xHyroM/benchmarks/issues/16) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
   * [#fcb3351](https://github.com/xhyrom-forks/bun/commit/fcb3351) fix: $XDG_CONFIG_HOME can be undefined
 
@@ -26,8 +27,6 @@ Co-authored-by: Wallunen &lt;44848747+Wallunen@users.noreply.github.com&gt;
   * [#f2fdcc5](https://github.com/xHyroM/benchmarks/commit/f2fdcc5) fix(website): correct header size
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#decda2b](https://github.com/xHyroM/benchmarks/commit/decda2b) fix(website): remove bg gray
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#38f6d98](https://github.com/xHyroM/benchmarks/commit/38f6d98) fix benchmark
 
 
 ___
