@@ -14,16 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
+  * [#fcb3351](https://github.com/xhyrom-forks/bun/commit/fcb3351) fix: $XDG_CONFIG_HOME can be undefined
+
+Co-authored-by: Wallunen &lt;44848747+Wallunen@users.noreply.github.com&gt;
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
+  * [#de2a14d](https://github.com/xhyrom-forks/bun/commit/de2a14d) fix: add equals true
+
+Co-authored-by: Wallunen &lt;44848747+Wallunen@users.noreply.github.com&gt;
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#f2fdcc5](https://github.com/xHyroM/benchmarks/commit/f2fdcc5) fix(website): correct header size
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#decda2b](https://github.com/xHyroM/benchmarks/commit/decda2b) fix(website): remove bg gray
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#38f6d98](https://github.com/xHyroM/benchmarks/commit/38f6d98) fix benchmark
-* ➡️ Pushed 8 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
-  * [#e2b1866](https://github.com/xhyrom-forks/bun/commit/e2b1866) Merge branch &#39;oven-sh:main&#39; into xHyroM/chore/install-script/automatically-add-to-path
-* ➡️ Pushed 10 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#c5c6699](https://github.com/xhyrom-forks/bun/commit/c5c6699) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/cli/implement-bun-dot
 
 
 ___
