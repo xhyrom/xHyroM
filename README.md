@@ -14,11 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#26a4aa9](https://github.com/xHyroM/benchmarks/commit/26a4aa9) benchmarks(cli): add install package bench
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
+  * [#2b4c2b3](https://github.com/xhyrom-forks/bun/commit/2b4c2b3) chore: make requested changes
 * 💬 Commented on [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Closed [#16 Missing `revision` in process.* types](https://github.com/oven-sh/bun-types/issues/16) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 
 
 ___
