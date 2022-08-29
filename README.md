@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#1168 chore(install-script): automatically add bun to path - bash shell](https://github.com/oven-sh/bun/pull/1168) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#16 Missing `revision` in process.* types](https://github.com/oven-sh/bun-types/issues/16) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * ➡️ Pushed 2 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
   * [#eddd0d7](https://github.com/oven-sh/bun-types/commit/eddd0d7) fix(process): add revision - git sha of bun (#17)
   * [#c4c6f76](https://github.com/oven-sh/bun-types/commit/c4c6f76) fix(process): add revision - git sha of bun
-* 🔃 Merged [#17 fix(process): add revision - git sha of bun](https://github.com/oven-sh/bun-types/pull/17) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 1 file changed `++2 --0`
-* 💬 Commented on [#1167 InstructionError at 0xF590D60200000000](https://github.com/oven-sh/bun/issues/1167) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
