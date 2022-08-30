@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1181 macOS build error - `ld: symbol(s) not found for architecture arm64`](https://github.com/oven-sh/bun/issues/1181) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1176 There is &#34;bun login --registry&#34;  like &#39;npm login --registry&#39;?](https://github.com/oven-sh/bun/issues/1176) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Opened [#16 add json, params benchmarks to http](https://github.com/xHyroM/benchmarks/issues/16) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/chore/install-script/automatically-add-to-path`
@@ -24,8 +25,6 @@ Co-authored-by: Wallunen &lt;44848747+Wallunen@users.noreply.github.com&gt;
   * [#de2a14d](https://github.com/xhyrom-forks/bun/commit/de2a14d) fix: add equals true
 
 Co-authored-by: Wallunen &lt;44848747+Wallunen@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#f2fdcc5](https://github.com/xHyroM/benchmarks/commit/f2fdcc5) fix(website): correct header size
 
 
 ___
