@@ -14,12 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e5d4c58](https://github.com/xHyroM/hykord/commit/e5d4c58) feat: improvements
 * ⏺️ Created new branch main in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* 💬 Commented on [#1181 macOS build error - `ld: symbol(s) not found for architecture arm64`](https://github.com/oven-sh/bun/issues/1181) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1176 There is &#34;bun login --registry&#34;  like &#39;npm login --registry&#39;?](https://github.com/oven-sh/bun/issues/1176) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Opened [#16 add json, params benchmarks to http](https://github.com/xHyroM/benchmarks/issues/16) in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks)
 
 
 ___
