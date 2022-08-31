@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e47126e](https://github.com/xHyroM/hykord/commit/e47126e) feat: experiments
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a7f56b1](https://github.com/xHyroM/hykord/commit/a7f56b1) feat: add settings
 * 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/issues/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Closed [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1184 Buffer.from is blank for specific base64 strings](https://github.com/oven-sh/bun/issues/1184) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e5d4c58](https://github.com/xHyroM/hykord/commit/e5d4c58) feat: improvements
 
 
 ___
