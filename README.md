@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#55fc263](https://github.com/xHyroM/hykord/commit/55fc263) feat: improvements
 * 💬 Commented on [#726 Bun not installing in Ubuntu 20 lts](https://github.com/oven-sh/bun/issues/726) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#cb338db](https://github.com/xHyroM/hykord/commit/cb338db) feat: support for plugins (partial)
 * 🌟 Starred [Fire-The-Fox/buchta](https://github.com/Fire-The-Fox/buchta)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#d40eed2](https://github.com/xHyroM/hykord/commit/d40eed2) feat: rework settings
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#0d4907b](https://github.com/xHyroM/hykord/commit/0d4907b) feat: add default value
 
 
 ___
