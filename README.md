@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#d40eed2](https://github.com/xHyroM/hykord/commit/d40eed2) feat: rework settings
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#0d4907b](https://github.com/xHyroM/hykord/commit/0d4907b) feat: add default value
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#18d9175](https://github.com/xHyroM/hykord/commit/18d9175) feat: add title for settings
@@ -22,8 +24,6 @@ ___
   * [#6a8ce29](https://github.com/xHyroM/hykord/commit/6a8ce29) feat: add minify
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e47126e](https://github.com/xHyroM/hykord/commit/e47126e) feat: experiments
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a7f56b1](https://github.com/xHyroM/hykord/commit/a7f56b1) feat: add settings
 
 
 ___
