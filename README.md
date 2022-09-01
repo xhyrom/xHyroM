@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#cb338db](https://github.com/xHyroM/hykord/commit/cb338db) feat: support for plugins (partial)
 * 🌟 Starred [Fire-The-Fox/buchta](https://github.com/Fire-The-Fox/buchta)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#d40eed2](https://github.com/xHyroM/hykord/commit/d40eed2) feat: rework settings
@@ -21,8 +23,6 @@ ___
   * [#0d4907b](https://github.com/xHyroM/hykord/commit/0d4907b) feat: add default value
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#18d9175](https://github.com/xHyroM/hykord/commit/18d9175) feat: add title for settings
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6a8ce29](https://github.com/xHyroM/hykord/commit/6a8ce29) feat: add minify
 
 
 ___
