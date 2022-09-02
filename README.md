@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#7d28bea](https://github.com/xHyroM/hykord/commit/7d28bea) feat: add debug info
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#182b7eb](https://github.com/xHyroM/hykord/commit/182b7eb) fix: unregister section on disable
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e1da06f](https://github.com/xHyroM/hykord/commit/e1da06f) feat: improvements
@@ -58,8 +60,6 @@ Fixes: https://github.com/oven-sh/bun/issues/1180
   * [#8651799](https://github.com/xhyrom-forks/bun/commit/8651799) Fixed JSBuffer write issues (#1175)
   * [#9d8fb81](https://github.com/xhyrom-forks/bun/commit/9d8fb81) Improve error when FFI fails to dlopen()
   * [#34c0f77](https://github.com/xhyrom-forks/bun/commit/34c0f77) chore: Clean buffer C API (#1174)
-* ➡️ Pushed 16 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#f93a6ed](https://github.com/xhyrom-forks/bun/commit/f93a6ed) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/cli/implement-bun-dot
 
 
 ___
