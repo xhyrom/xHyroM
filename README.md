@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#24d3748](https://github.com/xHyroM/hykord/commit/24d3748) feat: installer - not done
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e6fe17d](https://github.com/xHyroM/hykord/commit/e6fe17d) chore: improvements
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#51b631c](https://github.com/xHyroM/hykord/commit/51b631c) chore: improvements
@@ -23,8 +25,6 @@ ___
   * [#c98f763](https://github.com/xHyroM/hykord/commit/c98f763) feat(CI): add uploading
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#a0f05d4](https://github.com/xHyroM/hykord/commit/a0f05d4) chore(CI): add ls
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#379f742](https://github.com/xHyroM/hykord/commit/379f742) fix(injector/windows): add optional .?
 
 
 ___
