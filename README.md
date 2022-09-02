@@ -14,13 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
+  * [#c73469d](https://github.com/xhyrom-forks/bun/commit/c73469d) chore: mark tryToRun as private
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
+  * [#412f6c5](https://github.com/xhyrom-forks/bun/commit/412f6c5) chore: remove some comments
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
+  * [#6a26dbc](https://github.com/xhyrom-forks/bun/commit/6a26dbc) revert: make maybeOpenWithBunJS as private
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
+  * [#de357c8](https://github.com/xhyrom-forks/bun/commit/de357c8) chore: make requested changes
 * #️⃣ Closed [#1191 bun script runner fail to execute prisma](https://github.com/oven-sh/bun/issues/1191) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1191 bun script runner fail to execute prisma](https://github.com/oven-sh/bun/issues/1191) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1191 bun script runner fail to execute prisma](https://github.com/oven-sh/bun/issues/1191) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#7d28bea](https://github.com/xHyroM/hykord/commit/7d28bea) feat: add debug info
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#182b7eb](https://github.com/xHyroM/hykord/commit/182b7eb) fix: unregister section on disable
 
 
 ___
