@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#00bd08c](https://github.com/xHyroM/hykord/commit/00bd08c) feat(injector): add dev shortcut
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a218818](https://github.com/xHyroM/hykord/commit/a218818) feat: add modals
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#65d782b](https://github.com/xHyroM/hykord/commit/65d782b) chore: eslint
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#f30f783](https://github.com/xHyroM/hykord/commit/f30f783) feat: bring back eslintrc
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#ed83401](https://github.com/xHyroM/hykord/commit/ed83401) chore: prettier
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#dd38eeb](https://github.com/xHyroM/hykord/commit/dd38eeb) feat: plugins page, hykord dev experiment mod, improvements
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#55fc263](https://github.com/xHyroM/hykord/commit/55fc263) feat: improvements
 
 
 ___
