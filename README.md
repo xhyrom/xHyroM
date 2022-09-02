@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#182b7eb](https://github.com/xHyroM/hykord/commit/182b7eb) fix: unregister section on disable
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e1da06f](https://github.com/xHyroM/hykord/commit/e1da06f) feat: improvements
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
+  * [#7081b8c](https://github.com/xhyrom-forks/bun/commit/7081b8c) chore: make requested changes
 * ➡️ Pushed 15 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
   * [#89524d5](https://github.com/xhyrom-forks/bun/commit/89524d5) allow set proxy for github (#1198)
 
@@ -54,12 +60,6 @@ Fixes: https://github.com/oven-sh/bun/issues/1180
   * [#34c0f77](https://github.com/xhyrom-forks/bun/commit/34c0f77) chore: Clean buffer C API (#1174)
 * ➡️ Pushed 16 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
   * [#f93a6ed](https://github.com/xhyrom-forks/bun/commit/f93a6ed) Merge branch &#39;oven-sh:main&#39; into xHyroM/feat/cli/implement-bun-dot
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#00bd08c](https://github.com/xHyroM/hykord/commit/00bd08c) feat(injector): add dev shortcut
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a218818](https://github.com/xHyroM/hykord/commit/a218818) feat: add modals
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#65d782b](https://github.com/xHyroM/hykord/commit/65d782b) chore: eslint
 
 
 ___
