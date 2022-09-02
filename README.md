@@ -14,16 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#6246514](https://github.com/xHyroM/hykord/commit/6246514) feat(CI): add uploading
+  * [#c98f763](https://github.com/xHyroM/hykord/commit/c98f763) feat(CI): add uploading
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5115412](https://github.com/xHyroM/hykord/commit/5115412) feat(CI): build in ubuntu, mac, win
+  * [#a0f05d4](https://github.com/xHyroM/hykord/commit/a0f05d4) chore(CI): add ls
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#73a7c5e](https://github.com/xHyroM/hykord/commit/73a7c5e) feat: auto build
+  * [#379f742](https://github.com/xHyroM/hykord/commit/379f742) fix(injector/windows): add optional .?
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a739e2c](https://github.com/xHyroM/hykord/commit/a739e2c) feat: themes support, allow to disable &amp; enable plugins, disable plugin/theme if failed to load
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#c73469d](https://github.com/xhyrom-forks/bun/commit/c73469d) chore: mark tryToRun as private
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#412f6c5](https://github.com/xhyrom-forks/bun/commit/412f6c5) chore: remove some comments
+  * [#d02091f](https://github.com/xHyroM/hykord/commit/d02091f) fix(injector/windows): use std.process.getEnvVarOwned
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a325e23](https://github.com/xHyroM/hykord/commit/a325e23) fix(injector/windows): use does_file_exist instead doesFileExist
 
 
 ___
