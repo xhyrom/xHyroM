@@ -15,15 +15,16 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#d0a91ea](https://github.com/xHyroM/hykord/commit/d0a91ea) fix(injector/darwin): getenv dont throw error
+  * [#3c45b6e](https://github.com/xHyroM/hykord/commit/3c45b6e) chore(CI): add uname
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#b1996c6](https://github.com/xHyroM/hykord/commit/b1996c6) fix(utils): add if check for error handling
+  * [#8319675](https://github.com/xHyroM/hykord/commit/8319675) fix(hykord): remove } in patcher injectCss
+
+fixes theme unloading
+* #️⃣ Opened [#1468 extract url imports](https://github.com/webpack-contrib/css-loader/issues/1468) in [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a664f0d](https://github.com/xHyroM/hykord/commit/a664f0d) fix(installer): add debug print for now
-* ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#c04c8b5](https://github.com/xHyroM/hykord/commit/c04c8b5) Merge branch &#39;main&#39; of https://github.com/xHyroM/hykord
+  * [#149344b](https://github.com/xHyroM/hykord/commit/149344b) revert: add typescript as dev dependency
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#b329b84](https://github.com/xHyroM/hykord/commit/b329b84) fix(CI): add tag
+  * [#0beb867](https://github.com/xHyroM/hykord/commit/0beb867) chore: cleanup
 
 
 ___
