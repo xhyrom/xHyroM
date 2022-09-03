@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#487b037](https://github.com/xHyroM/hykord/commit/487b037) feat: add loaders
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e9d4f96](https://github.com/xHyroM/hykord/commit/e9d4f96) fix(CI): upload artifacts
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#5460d53](https://github.com/xHyroM/hykord/commit/5460d53) fix: dont use babel for paths
@@ -22,8 +24,6 @@ ___
   * [#88d418f](https://github.com/xHyroM/hykord/commit/88d418f) fix(hykord/dependencies): update gitignore
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#2032e2b](https://github.com/xHyroM/hykord/commit/2032e2b) fix(hykord): change dependency to dependencies in babelrc
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#c72d470](https://github.com/xHyroM/hykord/commit/c72d470) fix(hykord): correct alias path, use babel instead minimize-js
 
 
 ___
