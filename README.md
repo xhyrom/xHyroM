@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#d0a91ea](https://github.com/xHyroM/hykord/commit/d0a91ea) fix(injector/darwin): getenv dont throw error
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#b1996c6](https://github.com/xHyroM/hykord/commit/b1996c6) fix(utils): add if check for error handling
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a664f0d](https://github.com/xHyroM/hykord/commit/a664f0d) fix(installer): add debug print for now
+* ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#c04c8b5](https://github.com/xHyroM/hykord/commit/c04c8b5) Merge branch &#39;main&#39; of https://github.com/xHyroM/hykord
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#b329b84](https://github.com/xHyroM/hykord/commit/b329b84) fix(CI): add tag
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5ffe021](https://github.com/xHyroM/hykord/commit/5ffe021) feat(CI): create release
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#24d3748](https://github.com/xHyroM/hykord/commit/24d3748) feat: installer - not done
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e6fe17d](https://github.com/xHyroM/hykord/commit/e6fe17d) chore: improvements
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#51b631c](https://github.com/xHyroM/hykord/commit/51b631c) chore: improvements
 
 
 ___
