@@ -15,16 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#88d418f](https://github.com/xHyroM/hykord/commit/88d418f) fix(hykord/dependencies): update gitignore
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#2032e2b](https://github.com/xHyroM/hykord/commit/2032e2b) fix(hykord): change dependency to dependencies in babelrc
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#c72d470](https://github.com/xHyroM/hykord/commit/c72d470) fix(hykord): correct alias path, use babel instead minimize-js
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#889007a](https://github.com/xHyroM/hykord/commit/889007a) fix(hykord): correct dep path
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#3c45b6e](https://github.com/xHyroM/hykord/commit/3c45b6e) chore(CI): add uname
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#8319675](https://github.com/xHyroM/hykord/commit/8319675) fix(hykord): remove } in patcher injectCss
-
-fixes theme unloading
-* #️⃣ Opened [#1468 extract url imports](https://github.com/webpack-contrib/css-loader/issues/1468) in [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#149344b](https://github.com/xHyroM/hykord/commit/149344b) revert: add typescript as dev dependency
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#0beb867](https://github.com/xHyroM/hykord/commit/0beb867) chore: cleanup
 
 
 ___
