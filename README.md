@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#487b037](https://github.com/xHyroM/hykord/commit/487b037) feat: add loaders
+  * [#e0707aa](https://github.com/xHyroM/hykord/commit/e0707aa) fix(CI): idk
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e9d4f96](https://github.com/xHyroM/hykord/commit/e9d4f96) fix(CI): upload artifacts
+  * [#aa57891](https://github.com/xHyroM/hykord/commit/aa57891) fix(CI): idk
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5460d53](https://github.com/xHyroM/hykord/commit/5460d53) fix: dont use babel for paths
+  * [#ae77558](https://github.com/xHyroM/hykord/commit/ae77558) fix(CI): idk
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#88d418f](https://github.com/xHyroM/hykord/commit/88d418f) fix(hykord/dependencies): update gitignore
+  * [#d56354e](https://github.com/xHyroM/hykord/commit/d56354e) fix(CI): idk
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#2032e2b](https://github.com/xHyroM/hykord/commit/2032e2b) fix(hykord): change dependency to dependencies in babelrc
+  * [#5948df2](https://github.com/xHyroM/hykord/commit/5948df2) fix(CI): really idk
 
 
 ___
