@@ -15,11 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#b2b77bc](https://github.com/xHyroM/hykord/commit/b2b77bc) feat: add plugin related logger
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#b46a3c4](https://github.com/xHyroM/hykord/commit/b46a3c4) fix(CI): remove paths
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#af60c3c](https://github.com/xHyroM/hykord/commit/af60c3c) chore: automatically build
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#686a8a2](https://github.com/xHyroM/hykord/commit/686a8a2) fix: remove ready state checking
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#56671b6](https://github.com/xHyroM/hykord/commit/56671b6) chore(hykord): move hykord to renderer
-* 💬 Commented on [#1194 Looking for documentation on using bun to run existing tests ](https://github.com/oven-sh/bun/issues/1194) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Closed [#1194 Looking for documentation on using bun to run existing tests ](https://github.com/oven-sh/bun/issues/1194) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1194 Looking for documentation on using bun to run existing tests ](https://github.com/oven-sh/bun/issues/1194) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/issues/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
