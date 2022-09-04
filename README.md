@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#0e6af26](https://github.com/xHyroM/hykord/commit/0e6af26) fix: CI
+  * [#72bcb6b](https://github.com/xHyroM/hykord/commit/72bcb6b) chore: github actions....
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a7c9c53](https://github.com/xHyroM/hykord/commit/a7c9c53) fix: CI
+  * [#df7f9a0](https://github.com/xHyroM/hykord/commit/df7f9a0) chore: github actions....
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#435c3d8](https://github.com/xHyroM/hykord/commit/435c3d8) feat: add security check
+  * [#83f2fff](https://github.com/xHyroM/hykord/commit/83f2fff) fix: CI
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#4903a75](https://github.com/xHyroM/hykord/commit/4903a75) chore: try to fix ci
+  * [#bb851f3](https://github.com/xHyroM/hykord/commit/bb851f3) fix: CI
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#118a967](https://github.com/xHyroM/hykord/commit/118a967) fix(core): remake bun.lockb
+  * [#6db0264](https://github.com/xHyroM/hykord/commit/6db0264) fix: CI
 
 
 ___
