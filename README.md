@@ -14,12 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new branch main in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins)
-* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `xHyroM/feat/cli/implement-bun-dot`
-  * [#ee790a5](https://github.com/xhyrom-forks/bun/commit/ee790a5) chore: make requested changes
-* 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1206 SlowBuffer is missing - TypeError: undefined is not an object (evaluating &#39;SlowBuffer.prototype&#39;)](https://github.com/oven-sh/bun/issues/1206) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
+  * [#4b915d1](https://github.com/xhyrom-utils/hykord-plugins/commit/4b915d1) plugins: add xhyrom.github.io/hykord/plugin-plugin-zone
+* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
+  * [#ea66ce1](https://github.com/xhyrom-utils/hykord-plugins/commit/ea66ce1) chore: add script
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#69a7a0b](https://github.com/xHyroM/hykord/commit/69a7a0b) feat(plugins): add hykord_plugin_zone_manifest
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#8fe0ff6](https://github.com/xHyroM/hykord/commit/8fe0ff6) feat: add plugins
+* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
+  * [#6b50a20](https://github.com/xhyrom-utils/hykord-plugins/commit/6b50a20) chore: add plugins with data
 
 
 ___
