@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#0f5787c](https://github.com/xHyroM/hykord/commit/0f5787c) fix(plugins): mark path as external
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#8cc721f](https://github.com/xHyroM/hykord/commit/8cc721f) feat: started working on plugin-zone
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#4b915d1](https://github.com/xhyrom-utils/hykord-plugins/commit/4b915d1) plugins: add xhyrom.github.io/hykord/plugin-plugin-zone
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#ea66ce1](https://github.com/xhyrom-utils/hykord-plugins/commit/ea66ce1) chore: add script
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#69a7a0b](https://github.com/xHyroM/hykord/commit/69a7a0b) feat(plugins): add hykord_plugin_zone_manifest
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#8fe0ff6](https://github.com/xHyroM/hykord/commit/8fe0ff6) feat: add plugins
-* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
-  * [#6b50a20](https://github.com/xhyrom-utils/hykord-plugins/commit/6b50a20) chore: add plugins with data
 
 
 ___
