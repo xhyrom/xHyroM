@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#b2b77bc](https://github.com/xHyroM/hykord/commit/b2b77bc) feat: add plugin related logger
+  * [#0e6af26](https://github.com/xHyroM/hykord/commit/0e6af26) fix: CI
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#b46a3c4](https://github.com/xHyroM/hykord/commit/b46a3c4) fix(CI): remove paths
+  * [#a7c9c53](https://github.com/xHyroM/hykord/commit/a7c9c53) fix: CI
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#af60c3c](https://github.com/xHyroM/hykord/commit/af60c3c) chore: automatically build
+  * [#435c3d8](https://github.com/xHyroM/hykord/commit/435c3d8) feat: add security check
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#686a8a2](https://github.com/xHyroM/hykord/commit/686a8a2) fix: remove ready state checking
+  * [#4903a75](https://github.com/xHyroM/hykord/commit/4903a75) chore: try to fix ci
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#56671b6](https://github.com/xHyroM/hykord/commit/56671b6) chore(hykord): move hykord to renderer
+  * [#118a967](https://github.com/xHyroM/hykord/commit/118a967) fix(core): remake bun.lockb
 
 
 ___
