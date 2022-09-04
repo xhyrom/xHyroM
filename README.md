@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1206 SlowBuffer is missing - TypeError: undefined is not an object (evaluating &#39;SlowBuffer.prototype&#39;)](https://github.com/oven-sh/bun/issues/1206) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1205 bun install dependencies of os incompatible optionalDependencies](https://github.com/oven-sh/bun/issues/1205) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#72bcb6b](https://github.com/xHyroM/hykord/commit/72bcb6b) chore: github actions....
+  * [#1efab42](https://github.com/xHyroM/hykord/commit/1efab42) feat(core): custom modal in bypass_security_check_require option
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#df7f9a0](https://github.com/xHyroM/hykord/commit/df7f9a0) chore: github actions....
+  * [#cbb4a91](https://github.com/xHyroM/hykord/commit/cbb4a91) revert: some changes
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#83f2fff](https://github.com/xHyroM/hykord/commit/83f2fff) fix: CI
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#bb851f3](https://github.com/xHyroM/hykord/commit/bb851f3) fix: CI
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6db0264](https://github.com/xHyroM/hykord/commit/6db0264) fix: CI
+  * [#c0ff1d5](https://github.com/xHyroM/hykord/commit/c0ff1d5) fix: CI
 
 
 ___
