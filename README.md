@@ -14,16 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#2 support for powercord/replugged plugins](https://github.com/xHyroM/hykord/issues/2) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* #️⃣ Opened [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#4dad529](https://github.com/xHyroM/hykord/commit/4dad529) chore: remove test.js
+  * [#fd20c6e](https://github.com/xHyroM/hykord/commit/fd20c6e) feat(core): add support for new (new meta) BD themes
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#9532ab9](https://github.com/xhyrom-utils/hykord-plugins/commit/9532ab9) plugins: update xhyrom.github.io/hykord/plugin-plugin-zone
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#068a184](https://github.com/xHyroM/hykord/commit/068a184) fix(core): optional chaining in onEnable &amp; onDisable
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#ef625be](https://github.com/xHyroM/hykord/commit/ef625be) feat: finish plugin zone
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#034b215](https://github.com/xHyroM/hykord/commit/034b215) feat: finish injector &amp; installer for windows
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5ef6cde](https://github.com/xHyroM/hykord/commit/5ef6cde) fix(CI): macosx to macos
 
 
 ___
