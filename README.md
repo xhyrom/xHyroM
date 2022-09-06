@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#42e25b9](https://github.com/xHyroM/hykord/commit/42e25b9) feat(core): remove static from ThemesManagerBDCompat
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#8cbcf4e](https://github.com/xHyroM/hykord/commit/8cbcf4e) feat(core): export ThemeManagerBDCompat
 * 💬 Commented on [#14 `spawn`: allow setting environment variables in options](https://github.com/xHyroM/bun-utilities/issues/14) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * #️⃣ Opened [#2 support for powercord/replugged plugins](https://github.com/xHyroM/hykord/issues/2) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#4dad529](https://github.com/xHyroM/hykord/commit/4dad529) chore: remove test.js
-  * [#fd20c6e](https://github.com/xHyroM/hykord/commit/fd20c6e) feat(core): add support for new (new meta) BD themes
-* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
-  * [#9532ab9](https://github.com/xhyrom-utils/hykord-plugins/commit/9532ab9) plugins: update xhyrom.github.io/hykord/plugin-plugin-zone
 
 
 ___
