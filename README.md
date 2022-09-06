@@ -15,12 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e273fd6](https://github.com/xHyroM/hykord/commit/e273fd6) fix(core): add marginRight for Open Plugins Folder button
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#9373d2c](https://github.com/xHyroM/hykord/commit/9373d2c) chore: prettier
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#575519d](https://github.com/xHyroM/hykord/commit/575519d) feat(core): add reload buttons for Plugins &amp; Themes
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#42e25b9](https://github.com/xHyroM/hykord/commit/42e25b9) feat(core): remove static from ThemesManagerBDCompat
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#8cbcf4e](https://github.com/xHyroM/hykord/commit/8cbcf4e) feat(core): export ThemeManagerBDCompat
-* 💬 Commented on [#14 `spawn`: allow setting environment variables in options](https://github.com/xHyroM/bun-utilities/issues/14) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* #️⃣ Opened [#2 support for powercord/replugged plugins](https://github.com/xHyroM/hykord/issues/2) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* #️⃣ Opened [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
