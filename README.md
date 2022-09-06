@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#14 `spawn`: allow setting environment variables in options](https://github.com/xHyroM/bun-utilities/issues/14) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * #️⃣ Opened [#2 support for powercord/replugged plugins](https://github.com/xHyroM/hykord/issues/2) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 2 commits in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
@@ -21,8 +22,6 @@ ___
   * [#fd20c6e](https://github.com/xHyroM/hykord/commit/fd20c6e) feat(core): add support for new (new meta) BD themes
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#9532ab9](https://github.com/xhyrom-utils/hykord-plugins/commit/9532ab9) plugins: update xhyrom.github.io/hykord/plugin-plugin-zone
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#068a184](https://github.com/xHyroM/hykord/commit/068a184) fix(core): optional chaining in onEnable &amp; onDisable
 
 
 ___
