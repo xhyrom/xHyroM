@@ -16,12 +16,6 @@ ___
 **[📰 Recent activity](https://github.com/xHyroM)**
 * 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e273fd6](https://github.com/xHyroM/hykord/commit/e273fd6) fix(core): add marginRight for Open Plugins Folder button
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#9373d2c](https://github.com/xHyroM/hykord/commit/9373d2c) chore: prettier
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#575519d](https://github.com/xHyroM/hykord/commit/575519d) feat(core): add reload buttons for Plugins &amp; Themes
 
 
 ___
