@@ -15,7 +15,6 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
 
 
 ___
