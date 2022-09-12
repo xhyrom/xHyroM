@@ -14,7 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-No recent activity
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#538838e](https://github.com/xHyroM/hykord/commit/538838e) feat(plugins): add custom-volume-range
 
 
 ___
