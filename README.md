@@ -14,10 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#1235 ssr next example not working](https://github.com/oven-sh/bun/issues/1235) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1236 Bun drops arguments in process.argv](https://github.com/oven-sh/bun/issues/1236) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#538838e](https://github.com/xHyroM/hykord/commit/538838e) feat(plugins): add custom-volume-range
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#9f94cce](https://github.com/xHyroM/benchmarks/commit/9f94cce) fix: CI
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#54dac03](https://github.com/xHyroM/benchmarks/commit/54dac03) fix: CI
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#0db49f4](https://github.com/xHyroM/benchmarks/commit/0db49f4) fix: CI
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#907a77e](https://github.com/xHyroM/benchmarks/commit/907a77e) fix: CI
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#2ff593f](https://github.com/xHyroM/benchmarks/commit/2ff593f) fix(CI): install dependencies
 
 
 ___
