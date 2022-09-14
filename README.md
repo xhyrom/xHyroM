@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1235 ssr next example not working](https://github.com/oven-sh/bun/issues/1235) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1236 Bun drops arguments in process.argv](https://github.com/oven-sh/bun/issues/1236) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#538838e](https://github.com/xHyroM/hykord/commit/538838e) feat(plugins): add custom-volume-range
 
