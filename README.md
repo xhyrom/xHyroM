@@ -14,16 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [Garlic-Team/website](https://github.com/Garlic-Team/website) on branch `guide`
-  * [#185753b](https://github.com/Garlic-Team/website/commit/185753b) fix(plugins): typo
+* 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* #️⃣ Opened [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#15 Can&#39;t load bun-utilities, no error](https://github.com/xHyroM/bun-utilities/issues/15) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#e6d29ef](https://github.com/xHyroM/benchmarks/commit/e6d29ef) fix: CI
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#03c6c5a](https://github.com/xHyroM/benchmarks/commit/03c6c5a) fix: CI
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#9f94cce](https://github.com/xHyroM/benchmarks/commit/9f94cce) fix: CI
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#54dac03](https://github.com/xHyroM/benchmarks/commit/54dac03) fix: CI
+  * [#7a0e76f](https://github.com/xHyroM/benchmarks/commit/7a0e76f) chore(CI): use latest bun
 
 
 ___
