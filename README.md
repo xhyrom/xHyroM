@@ -15,12 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
-  * [#e1910f8](https://github.com/xhyrom-utils/hykord-plugins/commit/e1910f8) plugins: add plugin-custom-volume-range
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#3862c81](https://github.com/xHyroM/xHyroM/commit/3862c81) chore: downgrade mettrics
-* 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* #️⃣ Opened [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * [#a4b2370](https://github.com/xhyrom-utils/hykord-plugins/commit/a4b2370) plugin-plugin-zone: update
+* 💬 Commented on [#1235 ssr next example not working](https://github.com/oven-sh/bun/issues/1235) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#2fc7a1a](https://github.com/xHyroM/hykord/commit/2fc7a1a) fix(plugins): plugin zone
+* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
+  * [#b13a453](https://github.com/xhyrom-utils/hykord-plugins/commit/b13a453) plugin
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a19274a](https://github.com/xHyroM/hykord/commit/a19274a) fix: plugins
 
 
 ___
