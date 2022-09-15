@@ -14,12 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
+  * [#e1910f8](https://github.com/xhyrom-utils/hykord-plugins/commit/e1910f8) plugins: add plugin-custom-volume-range
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#3862c81](https://github.com/xHyroM/xHyroM/commit/3862c81) chore: downgrade mettrics
 * 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * #️⃣ Opened [#1240 Exports is broken on latest version](https://github.com/oven-sh/bun/issues/1240) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#15 Can&#39;t load bun-utilities, no error](https://github.com/xHyroM/bun-utilities/issues/15) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#7a0e76f](https://github.com/xHyroM/benchmarks/commit/7a0e76f) chore(CI): use latest bun
 
 
 ___
