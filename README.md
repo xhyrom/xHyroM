@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#025661f](https://github.com/xHyroM/hykord/commit/025661f) fix: some fixes
 * 💬 Commented on [#1235 ssr next example not working](https://github.com/oven-sh/bun/issues/1235) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#290f394](https://github.com/xHyroM/hykord/commit/290f394) fix(plugins): add semver to external
@@ -21,8 +23,6 @@ ___
   * [#872f404](https://github.com/xHyroM/hykord/commit/872f404) feat(plugins): add update system
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#739beb3](https://github.com/xhyrom-utils/hykord-plugins/commit/739beb3) feat: add plugin versions
-* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
-  * [#a4b2370](https://github.com/xhyrom-utils/hykord-plugins/commit/a4b2370) plugin-plugin-zone: update
 
 
 ___
