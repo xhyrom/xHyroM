@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#01a89dd](https://github.com/NoGodHenry/Alpha/commit/01a89dd) chore: add maintainers to readme
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#4af1b1f](https://github.com/NoGodHenry/Alpha/commit/4af1b1f) chore: support linux &amp; macos
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#df82d98](https://github.com/NoGodHenry/Alpha/commit/df82d98) chore: cleanup
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#e224fc3](https://github.com/NoGodHenry/Alpha/commit/e224fc3) chore: cleanup
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#0515c4f](https://github.com/NoGodHenry/Alpha/commit/0515c4f) chore: remove options.txt, optionsof.txt, optionsshaders.txt
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#d2d61a9](https://github.com/NoGodHenry/Alpha/commit/d2d61a9) chore: remove replaypid
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#b70495a](https://github.com/NoGodHenry/Alpha/commit/b70495a) chore: remove options.txt, optionsof.txt, optionsshaders.txt
 
 
 ___
