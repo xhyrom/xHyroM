@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#0634c88](https://github.com/xHyroM/hykord/commit/0634c88) feat: toast api
+
+PS: thanks powercord
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#2147a49](https://github.com/xHyroM/hykord/commit/2147a49) feat: notifications
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#01a89dd](https://github.com/NoGodHenry/Alpha/commit/01a89dd) chore: add maintainers to readme
@@ -22,8 +26,6 @@ ___
   * [#4af1b1f](https://github.com/NoGodHenry/Alpha/commit/4af1b1f) chore: support linux &amp; macos
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#df82d98](https://github.com/NoGodHenry/Alpha/commit/df82d98) chore: cleanup
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#e224fc3](https://github.com/NoGodHenry/Alpha/commit/e224fc3) chore: cleanup
 
 
 ___
