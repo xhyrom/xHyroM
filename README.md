@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#363cb9a](https://github.com/NoGodHenry/Alpha/commit/363cb9a) chore: remove ccrash reports
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#85d39e0](https://github.com/NoGodHenry/Alpha/commit/85d39e0) feat: partial implementation of js
 * ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#b5f6c08](https://github.com/NoGodHenry/Alpha/commit/b5f6c08) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#36a6834](https://github.com/xHyroM/hykord/commit/36a6834) feat(core): save enabled themes instead of disabled
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#e811231](https://github.com/xHyroM/hykord/commit/e811231) feat: support hykord_manifest.json for Plugins, Themes
-* ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
-  * [#1a03246](https://github.com/xhyrom-utils/hykord-plugins/commit/1a03246) chore: use hykord_manifest instead hykord_plugin_manifest
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#eb38514](https://github.com/xHyroM/hykord/commit/eb38514) chore(CI): fix typo
 
 
 ___
