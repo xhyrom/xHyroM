@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#b5f6c08](https://github.com/NoGodHenry/Alpha/commit/b5f6c08) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#36a6834](https://github.com/xHyroM/hykord/commit/36a6834) feat(core): save enabled themes instead of disabled
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
@@ -22,7 +24,6 @@ ___
   * [#1a03246](https://github.com/xhyrom-utils/hykord-plugins/commit/1a03246) chore: use hykord_manifest instead hykord_plugin_manifest
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#eb38514](https://github.com/xHyroM/hykord/commit/eb38514) chore(CI): fix typo
-* ⏺️ Created new branch built-plugins in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
