@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#1250 blank template not working on linux](https://github.com/oven-sh/bun/issues/1250) in [oven-sh/bun](https://github.com/oven-sh/bun)
+* 💬 Commented on [#1250 blank template not working on linux](https://github.com/oven-sh/bun/issues/1250) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#32941d2](https://github.com/NoGodHenry/Alpha/commit/32941d2) style: remove line
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#069fa2e](https://github.com/NoGodHenry/Alpha/commit/069fa2e) style(Client): cleanup
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#64578a3](https://github.com/NoGodHenry/Alpha/commit/64578a3) style: fix tabs
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#12b1dfe](https://github.com/NoGodHenry/Alpha/commit/12b1dfe) chore: remove unused imports
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#034084e](https://github.com/NoGodHenry/Alpha/commit/034084e) fix(scripts): register and unregister on onEnable, onDisable
 
 
 ___
