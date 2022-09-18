@@ -14,15 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#36a6834](https://github.com/xHyroM/hykord/commit/36a6834) feat(core): save enabled themes instead of disabled
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e811231](https://github.com/xHyroM/hykord/commit/e811231) feat: support hykord_manifest.json for Plugins, Themes
 * ➡️ Pushed 1 commit in [xhyrom-utils/hykord-plugins](https://github.com/xhyrom-utils/hykord-plugins) on branch `main`
   * [#1a03246](https://github.com/xhyrom-utils/hykord-plugins/commit/1a03246) chore: use hykord_manifest instead hykord_plugin_manifest
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#eb38514](https://github.com/xHyroM/hykord/commit/eb38514) chore(CI): fix typo
 * ⏺️ Created new branch built-plugins in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#0634c88](https://github.com/xHyroM/hykord/commit/0634c88) feat: toast api
-
-PS: thanks powercord
 
 
 ___
