@@ -14,14 +14,18 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#1250 blank template not working on linux](https://github.com/oven-sh/bun/issues/1250) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* 💬 Commented on [#1250 blank template not working on linux](https://github.com/oven-sh/bun/issues/1250) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#32941d2](https://github.com/NoGodHenry/Alpha/commit/32941d2) style: remove line
+  * [#97e1fd0](https://github.com/NoGodHenry/Alpha/commit/97e1fd0) fix(scripts): use fitAsInt
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#069fa2e](https://github.com/NoGodHenry/Alpha/commit/069fa2e) style(Client): cleanup
+  * [#a0abe7a](https://github.com/NoGodHenry/Alpha/commit/a0abe7a) chore: fix what
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#64578a3](https://github.com/NoGodHenry/Alpha/commit/64578a3) style: fix tabs
+  * [#4784d33](https://github.com/NoGodHenry/Alpha/commit/4784d33) feat(scripts): add utility functions to ScriptManager
+
+ALSO CLEANUP BECAUSE EEEEEEEEEEEEEEEEEE
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#ec77afa](https://github.com/NoGodHenry/Alpha/commit/ec77afa) chore(scripts): remove some logging
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#ecbb240](https://github.com/NoGodHenry/Alpha/commit/ecbb240) chore(scripts): cleanup file.js
 
 
 ___
