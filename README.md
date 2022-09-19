@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#16 `spawn` hangs on long-running process](https://github.com/xHyroM/bun-utilities/issues/16) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#b940d4f](https://github.com/NoGodHenry/Alpha/commit/b940d4f) fix: resolve conflicts
   * [#54dedaa](https://github.com/NoGodHenry/Alpha/commit/54dedaa) feat: add command suggestions - not finished
@@ -25,8 +26,6 @@ ___
   * [#4784d33](https://github.com/NoGodHenry/Alpha/commit/4784d33) feat(scripts): add utility functions to ScriptManager
 
 ALSO CLEANUP BECAUSE EEEEEEEEEEEEEEEEEE
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#ec77afa](https://github.com/NoGodHenry/Alpha/commit/ec77afa) chore(scripts): remove some logging
 
 
 ___
