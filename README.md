@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1252 Kingworld example not working](https://github.com/oven-sh/bun/issues/1252) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#16 `spawn` hangs on long-running process](https://github.com/xHyroM/bun-utilities/issues/16) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 * ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#b940d4f](https://github.com/NoGodHenry/Alpha/commit/b940d4f) fix: resolve conflicts
@@ -22,10 +23,6 @@ ___
   * [#97e1fd0](https://github.com/NoGodHenry/Alpha/commit/97e1fd0) fix(scripts): use fitAsInt
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#a0abe7a](https://github.com/NoGodHenry/Alpha/commit/a0abe7a) chore: fix what
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#4784d33](https://github.com/NoGodHenry/Alpha/commit/4784d33) feat(scripts): add utility functions to ScriptManager
-
-ALSO CLEANUP BECAUSE EEEEEEEEEEEEEEEEEE
 
 
 ___
