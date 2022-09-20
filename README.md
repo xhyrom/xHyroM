@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#47eb1d8](https://github.com/NoGodHenry/Alpha/commit/47eb1d8) fix(Logger): check if color is null
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#3a07480](https://github.com/NoGodHenry/Alpha/commit/3a07480) feat(Logger): add translate system
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#7133234](https://github.com/NoGodHenry/Alpha/commit/7133234) chore: remove dead code
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#22bcb6d](https://github.com/NoGodHenry/Alpha/commit/22bcb6d) fix: call onKey
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#0c188a4](https://github.com/NoGodHenry/Alpha/commit/0c188a4) feat: add managerlist, update logger
-* #️⃣ Opened [#3 Support embeds](https://github.com/xHyroM/roles-bot/issues/3) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#e27a261](https://github.com/NoGodHenry/Alpha/commit/e27a261) feat: add addon manager
 
 
 ___
