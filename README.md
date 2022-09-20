@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#7133234](https://github.com/NoGodHenry/Alpha/commit/7133234) chore: remove dead code
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#22bcb6d](https://github.com/NoGodHenry/Alpha/commit/22bcb6d) fix: call onKey
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#0c188a4](https://github.com/NoGodHenry/Alpha/commit/0c188a4) feat: add managerlist, update logger
 * #️⃣ Opened [#3 Support embeds](https://github.com/xHyroM/roles-bot/issues/3) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#e27a261](https://github.com/NoGodHenry/Alpha/commit/e27a261) feat: add addon manager
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#373501f](https://github.com/NoGodHenry/Alpha/commit/373501f) feat: add Feature util class
-* ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#1cb1306](https://github.com/NoGodHenry/Alpha/commit/1cb1306) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
 
 
 ___
