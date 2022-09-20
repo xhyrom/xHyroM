@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#0c188a4](https://github.com/NoGodHenry/Alpha/commit/0c188a4) feat: add managerlist, update logger
 * #️⃣ Opened [#3 Support embeds](https://github.com/xHyroM/roles-bot/issues/3) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#e27a261](https://github.com/NoGodHenry/Alpha/commit/e27a261) feat: add addon manager
@@ -21,8 +23,6 @@ ___
   * [#373501f](https://github.com/NoGodHenry/Alpha/commit/373501f) feat: add Feature util class
 * ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#1cb1306](https://github.com/NoGodHenry/Alpha/commit/1cb1306) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
-* ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#a39970c](https://github.com/NoGodHenry/Alpha/commit/a39970c) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
 
 
 ___
