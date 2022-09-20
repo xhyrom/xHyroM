@@ -15,15 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#9bfdf10](https://github.com/NoGodHenry/Alpha/commit/9bfdf10) feat(Settings): simplify castAsX functions
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#8defe9a](https://github.com/NoGodHenry/Alpha/commit/8defe9a) feat(Settings): add setting type, isX, castAsX functions
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#b54425e](https://github.com/NoGodHenry/Alpha/commit/b54425e) feat: add command suggestions
+
+missing arguments
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#47eb1d8](https://github.com/NoGodHenry/Alpha/commit/47eb1d8) fix(Logger): check if color is null
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#3a07480](https://github.com/NoGodHenry/Alpha/commit/3a07480) feat(Logger): add translate system
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#7133234](https://github.com/NoGodHenry/Alpha/commit/7133234) chore: remove dead code
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#22bcb6d](https://github.com/NoGodHenry/Alpha/commit/22bcb6d) fix: call onKey
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#0c188a4](https://github.com/NoGodHenry/Alpha/commit/0c188a4) feat: add managerlist, update logger
 
 
 ___
