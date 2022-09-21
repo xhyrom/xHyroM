@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#ad0b529](https://github.com/NoGodHenry/Alpha/commit/ad0b529) fix(Assertions): handle exception
 * #️⃣ Opened [#1 custom annotation processor](https://github.com/NoGodHenry/Alpha/issues/1) in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#9239a28](https://github.com/NoGodHenry/Alpha/commit/9239a28) feat: add Annotations object for @VerbosityLevel
@@ -25,8 +27,6 @@ We __SHOULD__ build annotation processor for **BETTER** optimalization instead o
   * [#c3a333c](https://github.com/NoGodHenry/Alpha/commit/c3a333c) refactor: change Managers classes to final
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#7fe02b3](https://github.com/NoGodHenry/Alpha/commit/7fe02b3) feat: implement FolderManager
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#826f8a5](https://github.com/NoGodHenry/Alpha/commit/826f8a5) chore: move file.js to src/test
 
 
 ___
