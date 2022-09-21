@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#a030787](https://github.com/NoGodHenry/Alpha/commit/a030787) feat: add nonnull
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#9bfdf10](https://github.com/NoGodHenry/Alpha/commit/9bfdf10) feat(Settings): simplify castAsX functions
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#8defe9a](https://github.com/NoGodHenry/Alpha/commit/8defe9a) feat(Settings): add setting type, isX, castAsX functions
@@ -24,8 +26,6 @@ ___
 missing arguments
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#47eb1d8](https://github.com/NoGodHenry/Alpha/commit/47eb1d8) fix(Logger): check if color is null
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#3a07480](https://github.com/NoGodHenry/Alpha/commit/3a07480) feat(Logger): add translate system
 
 
 ___
