@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#08131be](https://github.com/NoGodHenry/Alpha/commit/08131be) chore: remove
+* ➡️ Pushed 2 commits in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#76b11aa](https://github.com/NoGodHenry/Alpha/commit/76b11aa) Merge branch &#39;master&#39; of https://github.com/NoGodHenry/Alpha
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#ad0b529](https://github.com/NoGodHenry/Alpha/commit/ad0b529) fix(Assertions): handle exception
 * #️⃣ Opened [#1 custom annotation processor](https://github.com/NoGodHenry/Alpha/issues/1) in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
@@ -23,10 +27,6 @@ ___
 **TEMPORARY SOLUTION**
 
 We __SHOULD__ build annotation processor for **BETTER** optimalization instead of for loop each every method
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#c3a333c](https://github.com/NoGodHenry/Alpha/commit/c3a333c) refactor: change Managers classes to final
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#7fe02b3](https://github.com/NoGodHenry/Alpha/commit/7fe02b3) feat: implement FolderManager
 
 
 ___
