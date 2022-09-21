@@ -15,17 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#826f8a5](https://github.com/NoGodHenry/Alpha/commit/826f8a5) chore: move file.js to src/test
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#b8a93ac](https://github.com/NoGodHenry/Alpha/commit/b8a93ac) feat: add custom colors and more chat() functions
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#8bdd5b2](https://github.com/NoGodHenry/Alpha/commit/8bdd5b2) feat: add getSetting into Addon
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#a030787](https://github.com/NoGodHenry/Alpha/commit/a030787) feat: add nonnull
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#9bfdf10](https://github.com/NoGodHenry/Alpha/commit/9bfdf10) feat(Settings): simplify castAsX functions
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#8defe9a](https://github.com/NoGodHenry/Alpha/commit/8defe9a) feat(Settings): add setting type, isX, castAsX functions
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#b54425e](https://github.com/NoGodHenry/Alpha/commit/b54425e) feat: add command suggestions
-
-missing arguments
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#47eb1d8](https://github.com/NoGodHenry/Alpha/commit/47eb1d8) fix(Logger): check if color is null
 
 
 ___
