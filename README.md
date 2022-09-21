@@ -14,16 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#1 custom annotation processor](https://github.com/NoGodHenry/Alpha/issues/1) in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha)
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#9239a28](https://github.com/NoGodHenry/Alpha/commit/9239a28) feat: add Annotations object for @VerbosityLevel
+
+**TEMPORARY SOLUTION**
+
+We __SHOULD__ build annotation processor for **BETTER** optimalization instead of for loop each every method
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#c3a333c](https://github.com/NoGodHenry/Alpha/commit/c3a333c) refactor: change Managers classes to final
+* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
+  * [#7fe02b3](https://github.com/NoGodHenry/Alpha/commit/7fe02b3) feat: implement FolderManager
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#826f8a5](https://github.com/NoGodHenry/Alpha/commit/826f8a5) chore: move file.js to src/test
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#b8a93ac](https://github.com/NoGodHenry/Alpha/commit/b8a93ac) feat: add custom colors and more chat() functions
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#8bdd5b2](https://github.com/NoGodHenry/Alpha/commit/8bdd5b2) feat: add getSetting into Addon
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#a030787](https://github.com/NoGodHenry/Alpha/commit/a030787) feat: add nonnull
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#9bfdf10](https://github.com/NoGodHenry/Alpha/commit/9bfdf10) feat(Settings): simplify castAsX functions
 
 
 ___
