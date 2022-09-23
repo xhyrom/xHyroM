@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
+  * [#750ad27](https://github.com/Mr-Infinity-Bot/bot/commit/750ad27) Update antispam.ts
 * ⏺️ Created new repository  [xHyroM/mashe](https://github.com/xHyroM/mashe)
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#66418bc](https://github.com/xHyroM/benchmarks/commit/66418bc) chore: resolve protected branch
@@ -23,8 +25,6 @@ ___
   * [#eab3be4](https://github.com/NoGodHenry/Alpha/commit/eab3be4) feat: packages
 
 add testserver-plugin
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#36c20cd](https://github.com/NoGodHenry/Alpha/commit/36c20cd) feat: command list
 
 
 ___
