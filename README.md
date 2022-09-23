@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
+  * [#0780cc0](https://github.com/xHyroM/discord-list/commit/0780cc0) Update guilds.mjs
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#750ad27](https://github.com/Mr-Infinity-Bot/bot/commit/750ad27) Update antispam.ts
 * ⏺️ Created new repository  [xHyroM/mashe](https://github.com/xHyroM/mashe)
@@ -21,10 +23,6 @@ ___
   * [#66418bc](https://github.com/xHyroM/benchmarks/commit/66418bc) chore: resolve protected branch
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#582994f](https://github.com/NoGodHenry/Alpha/commit/582994f) feat: add jslogger, jsrenderutils
-* ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
-  * [#eab3be4](https://github.com/NoGodHenry/Alpha/commit/eab3be4) feat: packages
-
-add testserver-plugin
 
 
 ___
