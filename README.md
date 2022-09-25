@@ -14,15 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#0ee62ef](https://github.com/xHyroM/typing-test/commit/0ee62ef) Update words.ts
-* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
-  * [#6bb8307](https://github.com/xHyroM/benchmarks/commit/6bb8307) chore: CI
-* ➡️ Pushed 1 commit in [xHyroM/discord-list](https://github.com/xHyroM/discord-list) on branch `master`
-  * [#0780cc0](https://github.com/xHyroM/discord-list/commit/0780cc0) Update guilds.mjs
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#750ad27](https://github.com/Mr-Infinity-Bot/bot/commit/750ad27) Update antispam.ts
-* ⏺️ Created new repository  [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* ⏺️ Created new tag v0.1.0 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* 📦 Released **v0.1.0** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#d9ccb06](https://github.com/xHyroM/mashe/commit/d9ccb06) chore: update gitignore
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#f1f47e7](https://github.com/xHyroM/mashe/commit/f1f47e7) chore: add CI for publishing packages
+* ⏺️ Created new branch main in [xHyroM/mashe](https://github.com/xHyroM/mashe)
 
 
 ___
