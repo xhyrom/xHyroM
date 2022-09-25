@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#99b22c9](https://github.com/xHyroM/mashe/commit/99b22c9) fix: generify issue in Mashe
+  * [#3994881](https://github.com/xHyroM/mashe/commit/3994881) chore(CI): fix deploy step
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#3b21456](https://github.com/xHyroM/mashe/commit/3b21456) performance: dont use containsKey
+  * [#de792f7](https://github.com/xHyroM/mashe/commit/de792f7) chore(CI): fix deploy step
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#6e4184d](https://github.com/xHyroM/mashe/commit/6e4184d) performance: use for each instead forEach
+  * [#1796148](https://github.com/xHyroM/mashe/commit/1796148) chore(CI): use commit hash
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#0554b70](https://github.com/xHyroM/mashe/commit/0554b70) refactor: use Comparator.comparingInt
+  * [#7f0b709](https://github.com/xHyroM/mashe/commit/7f0b709) chore: add javadoc
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#fc471c3](https://github.com/xHyroM/mashe/commit/fc471c3) fix: test &amp; readme
+  * [#672cb9e](https://github.com/xHyroM/mashe/commit/672cb9e) chore: add more comments
 
 
 ___
