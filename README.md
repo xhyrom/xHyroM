@@ -15,11 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#831b258](https://github.com/xHyroM/mashe/commit/831b258) chore(README): update informations
-* ⏺️ Created new tag v0.1.0 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
-* 📦 Released **v0.1.0** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
+  * [#8a84b80](https://github.com/xHyroM/mashe/commit/8a84b80) chore(CI/build): simplify
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#435a52f](https://github.com/xHyroM/mashe/commit/435a52f) chore: change groupId
+  * [#e38e7b7](https://github.com/xHyroM/mashe/commit/e38e7b7) chore(CI/build): simplify
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#cb7fbfc](https://github.com/xHyroM/mashe/commit/cb7fbfc) chore: add build workflow
+* ⏺️ Created new repository  [xhyrom-utils/maven-repository](https://github.com/xhyrom-utils/maven-repository)
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#831b258](https://github.com/xHyroM/mashe/commit/831b258) chore(README): update informations
 
 
 ___
