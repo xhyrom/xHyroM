@@ -14,13 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#831b258](https://github.com/xHyroM/mashe/commit/831b258) chore(README): update informations
 * ⏺️ Created new tag v0.1.0 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
 * 📦 Released **v0.1.0** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#d9ccb06](https://github.com/xHyroM/mashe/commit/d9ccb06) chore: update gitignore
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#f1f47e7](https://github.com/xHyroM/mashe/commit/f1f47e7) chore: add CI for publishing packages
-* ⏺️ Created new branch main in [xHyroM/mashe](https://github.com/xHyroM/mashe)
+  * [#435a52f](https://github.com/xHyroM/mashe/commit/435a52f) chore: change groupId
 
 
 ___
