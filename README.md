@@ -14,16 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#88d6818](https://github.com/NoGodHenry/MinecraftServer/commit/88d6818) chore: remove target
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#aee319c](https://github.com/NoGodHenry/MinecraftServer/commit/aee319c) feat: add TpCommand
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#3994881](https://github.com/xHyroM/mashe/commit/3994881) chore(CI): fix deploy step
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#de792f7](https://github.com/xHyroM/mashe/commit/de792f7) chore(CI): fix deploy step
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#1796148](https://github.com/xHyroM/mashe/commit/1796148) chore(CI): use commit hash
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#7f0b709](https://github.com/xHyroM/mashe/commit/7f0b709) chore: add javadoc
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#672cb9e](https://github.com/xHyroM/mashe/commit/672cb9e) chore: add more comments
 
 
 ___
