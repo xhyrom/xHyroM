@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#88d6818](https://github.com/NoGodHenry/MinecraftServer/commit/88d6818) chore: remove target
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#3994881](https://github.com/xHyroM/mashe/commit/3994881) chore(CI): fix deploy step
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#de792f7](https://github.com/xHyroM/mashe/commit/de792f7) chore(CI): fix deploy step
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#1796148](https://github.com/xHyroM/mashe/commit/1796148) chore(CI): use commit hash
 
 
 ___
