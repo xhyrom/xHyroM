@@ -15,13 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#b8a4334](https://github.com/xHyroM/mashe/commit/b8a4334) chore(README): add missing tabs
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#e190380](https://github.com/xHyroM/mashe/commit/e190380) chore(README): add github packages
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#a692abe](https://github.com/xHyroM/mashe/commit/a692abe) chore: update readme
 * 💬 Commented on [#4 Do you have some android example project anywhere ? ](https://github.com/elect86/magik/issues/4) from [elect86/magik](https://github.com/elect86/magik)
 * ➡️ Pushed 1 commit in [NoGodHenry/Alpha](https://github.com/NoGodHenry/Alpha) on branch `master`
   * [#16069a3](https://github.com/NoGodHenry/Alpha/commit/16069a3) changes
-* 📦 Released **v0.1.1** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
 
 
 ___
