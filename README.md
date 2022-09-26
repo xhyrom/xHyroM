@@ -15,12 +15,13 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#c7a2440](https://github.com/xHyroM/mashe/commit/c7a2440) fix: set default priority to normal
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#424fbaa](https://github.com/xHyroM/mashe/commit/424fbaa) chore(README): fix usage example
 * ⏺️ Created new tag v0.1.2 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
 * 📦 Released **v0.1.2** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#1c3941c](https://github.com/xHyroM/mashe/commit/1c3941c) feat: use LambdaMetafactory instead of reflections
-* 💬 Commented on [#16 `spawn` hangs on long-running process](https://github.com/xHyroM/bun-utilities/issues/16) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
 
 
 ___
