@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#c7a2440](https://github.com/xHyroM/mashe/commit/c7a2440) fix: set default priority to normal
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#424fbaa](https://github.com/xHyroM/mashe/commit/424fbaa) chore(README): fix usage example
 * ⏺️ Created new tag v0.1.2 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
-* 📦 Released **v0.1.2** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#1c3941c](https://github.com/xHyroM/mashe/commit/1c3941c) feat: use LambdaMetafactory instead of reflections
 
 
 ___
