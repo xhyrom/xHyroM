@@ -14,14 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#424fbaa](https://github.com/xHyroM/mashe/commit/424fbaa) chore(README): fix usage example
+* ⏺️ Created new tag v0.1.2 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* 📦 Released **v0.1.2** of [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
+  * [#1c3941c](https://github.com/xHyroM/mashe/commit/1c3941c) feat: use LambdaMetafactory instead of reflections
 * 💬 Commented on [#16 `spawn` hangs on long-running process](https://github.com/xHyroM/bun-utilities/issues/16) from [xHyroM/bun-utilities](https://github.com/xHyroM/bun-utilities)
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#b8a4334](https://github.com/xHyroM/mashe/commit/b8a4334) chore(README): add missing tabs
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#e190380](https://github.com/xHyroM/mashe/commit/e190380) chore(README): add github packages
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#a692abe](https://github.com/xHyroM/mashe/commit/a692abe) chore: update readme
-* 💬 Commented on [#4 Do you have some android example project anywhere ? ](https://github.com/elect86/magik/issues/4) from [elect86/magik](https://github.com/elect86/magik)
 
 
 ___
