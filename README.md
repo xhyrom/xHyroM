@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 3 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#26ba146](https://github.com/NoGodHenry/MinecraftServer/commit/26ba146) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#11cf21e](https://github.com/NoGodHenry/MinecraftServer/commit/11cf21e) style: add space
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
@@ -22,8 +24,6 @@ ___
   * [#a5a3e7a](https://github.com/NoGodHenry/MinecraftServer/commit/a5a3e7a) fix: remove dead code
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#4dda55d](https://github.com/NoGodHenry/MinecraftServer/commit/4dda55d) refactor: better command handling
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#71d6b97](https://github.com/NoGodHenry/MinecraftServer/commit/71d6b97) feat: implement chat formatting
 
 
 ___
