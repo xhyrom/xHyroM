@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#798 Bun&#39;s priorities](https://github.com/oven-sh/bun/issues/798) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#c7a2440](https://github.com/xHyroM/mashe/commit/c7a2440) fix: set default priority to normal
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#424fbaa](https://github.com/xHyroM/mashe/commit/424fbaa) chore(README): fix usage example
-* ⏺️ Created new tag v0.1.2 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
 
 
 ___
