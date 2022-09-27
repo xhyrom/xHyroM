@@ -15,12 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#9368e73](https://github.com/xHyroM/hykord/commit/9368e73) fix: some more fixes
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#c0537ce](https://github.com/xHyroM/hykord/commit/c0537ce) fix: partial fix for new discord update :P
 * 💬 Commented on [#798 Bun&#39;s priorities](https://github.com/oven-sh/bun/issues/798) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 💬 Commented on [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) from [oven-sh/bun](https://github.com/oven-sh/bun)
 * 🔍 Reviewed [#1164 feat(cli): implement bun .](https://github.com/oven-sh/bun/pull/1164) in [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#c7a2440](https://github.com/xHyroM/mashe/commit/c7a2440) fix: set default priority to normal
 
 
 ___
