@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#25e86f5](https://github.com/NoGodHenry/MinecraftServer/commit/25e86f5) fix: dont allow empty messages
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#840fae4](https://github.com/NoGodHenry/MinecraftServer/commit/840fae4) feat: add postjoin, prejoin events
 * ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#00e8982](https://github.com/NoGodHenry/MinecraftServer/commit/00e8982) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
@@ -22,8 +24,6 @@ ___
   * [#612d883](https://github.com/NoGodHenry/MinecraftServer/commit/612d883) feat(PacketPlayOutPlayerListItem): normal ping, minimessage, fix: gamemode type
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#4ee1490](https://github.com/NoGodHenry/MinecraftServer/commit/4ee1490) feat(PacketLoginInStart): add disconnect message
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#b61fbf2](https://github.com/NoGodHenry/MinecraftServer/commit/b61fbf2) chore: some updates
 
 
 ___
