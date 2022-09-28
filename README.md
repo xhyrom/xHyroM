@@ -15,16 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#612d883](https://github.com/NoGodHenry/MinecraftServer/commit/612d883) feat(PacketPlayOutPlayerListItem): normal ping, minimessage, fix: gamemode type
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#4ee1490](https://github.com/NoGodHenry/MinecraftServer/commit/4ee1490) feat(PacketLoginInStart): add disconnect message
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#b61fbf2](https://github.com/NoGodHenry/MinecraftServer/commit/b61fbf2) chore: some updates
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#c64e270](https://github.com/NoGodHenry/MinecraftServer/commit/c64e270) fix(PacketLoginInStart): checks if players &gt; slots
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#b67a1da](https://github.com/NoGodHenry/MinecraftServer/commit/b67a1da) fix(PacketStatusInRequest): add missing data
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#271165d](https://github.com/NoGodHenry/MinecraftServer/commit/271165d) fix(PacketPlayInChatMessage): remove support for sending colored messages
-
-__THIS IS PARTIAL FIX__ - we dont want to remove tags, only escape but escapeTokens is broken
-* #️⃣ Opened [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) in [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#6bd95e8](https://github.com/xHyroM/mashe/commit/6bd95e8) chore: some comments
 
 
 ___
