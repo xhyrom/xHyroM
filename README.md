@@ -14,15 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#c64e270](https://github.com/NoGodHenry/MinecraftServer/commit/c64e270) fix(PacketLoginInStart): checks if players &gt; slots
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#b67a1da](https://github.com/NoGodHenry/MinecraftServer/commit/b67a1da) fix(PacketStatusInRequest): add missing data
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#271165d](https://github.com/NoGodHenry/MinecraftServer/commit/271165d) fix(PacketPlayInChatMessage): remove support for sending colored messages
+
+__THIS IS PARTIAL FIX__ - we dont want to remove tags, only escape but escapeTokens is broken
+* #️⃣ Opened [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) in [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
   * [#6bd95e8](https://github.com/xHyroM/mashe/commit/6bd95e8) chore: some comments
-* ➡️ Pushed 1 commit in [xHyroM/mashe](https://github.com/xHyroM/mashe) on branch `main`
-  * [#d9dc086](https://github.com/xHyroM/mashe/commit/d9dc086) feat: add unregister functions
-* #️⃣ Opened [#3 new Discord](https://github.com/xHyroM/hykord/issues/3) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#d01af4c](https://github.com/NoGodHenry/MinecraftServer/commit/d01af4c) chore: remove dead code
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#ef466c5](https://github.com/NoGodHenry/MinecraftServer/commit/ef466c5) feat(Events): move to categories
 
 
 ___
