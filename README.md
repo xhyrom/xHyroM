@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#2580 define doesnt apply for function names](https://github.com/evanw/esbuild/issues/2580) in [evanw/esbuild](https://github.com/evanw/esbuild)
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#25e86f5](https://github.com/NoGodHenry/MinecraftServer/commit/25e86f5) fix: dont allow empty messages
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
@@ -22,8 +23,6 @@ ___
   * [#00e8982](https://github.com/NoGodHenry/MinecraftServer/commit/00e8982) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#612d883](https://github.com/NoGodHenry/MinecraftServer/commit/612d883) feat(PacketPlayOutPlayerListItem): normal ping, minimessage, fix: gamemode type
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#4ee1490](https://github.com/NoGodHenry/MinecraftServer/commit/4ee1490) feat(PacketLoginInStart): add disconnect message
 
 
 ___
