@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-5c64d5cbc7f1846a92ae56192806b0a0`
+  * [#a2f14ef](https://github.com/xHyroM/Uptimo/commit/a2f14ef) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-3035577
+* ⏺️ Created new branch snyk-fix-5c64d5cbc7f1846a92ae56192806b0a0 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
 * ⏺️ Created new branch rewrite in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#2580 define doesnt apply for function names](https://github.com/evanw/esbuild/issues/2580) in [evanw/esbuild](https://github.com/evanw/esbuild)
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#25e86f5](https://github.com/NoGodHenry/MinecraftServer/commit/25e86f5) fix: dont allow empty messages
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#840fae4](https://github.com/NoGodHenry/MinecraftServer/commit/840fae4) feat: add postjoin, prejoin events
-* ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#00e8982](https://github.com/NoGodHenry/MinecraftServer/commit/00e8982) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
 
 
 ___
