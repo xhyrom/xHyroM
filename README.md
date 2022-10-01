@@ -14,14 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#d85d8d8](https://github.com/xHyroM/hykord/commit/d85d8d8) feat: add progress
+
+TODO: components module
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#b1f4694](https://github.com/NoGodHenry/MinecraftServer/commit/b1f4694) chore: remove dead code
 * ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#4293d6e](https://github.com/NoGodHenry/MinecraftServer/commit/4293d6e) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
 * 💬 Commented on [#1423 [Bug] ](https://github.com/BetterDiscord/BetterDiscord/issues/1423) from [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 * 💬 Commented on [#3 new Discord](https://github.com/xHyroM/hykord/issues/3) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#06d6aa2](https://github.com/xHyroM/hykord/commit/06d6aa2) feat: big improvements
 
 
 ___
