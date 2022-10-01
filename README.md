@@ -14,17 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#1423 [Bug] ](https://github.com/BetterDiscord/BetterDiscord/issues/1423) from [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+* 💬 Commented on [#3 new Discord](https://github.com/xHyroM/hykord/issues/3) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#06d6aa2](https://github.com/xHyroM/hykord/commit/06d6aa2) feat: big improvements
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#9afd16b](https://github.com/NoGodHenry/MinecraftServer/commit/9afd16b) feat: add plugins into list
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#8e30c8d](https://github.com/xHyroM/hykord/commit/8e30c8d) some updates
-* ➡️ Pushed 1 commit in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo) on branch `snyk-fix-5c64d5cbc7f1846a92ae56192806b0a0`
-  * [#a2f14ef](https://github.com/xHyroM/Uptimo/commit/a2f14ef) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-NEXTAUTH-3035577
-* ⏺️ Created new branch snyk-fix-5c64d5cbc7f1846a92ae56192806b0a0 in [xHyroM/Uptimo](https://github.com/xHyroM/Uptimo)
-* ⏺️ Created new branch rewrite in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
