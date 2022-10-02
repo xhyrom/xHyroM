@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#a042d71](https://github.com/xHyroM/hykord/commit/a042d71) feat: add settings internal plugin
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#357c740](https://github.com/xHyroM/xHyroM/commit/357c740) chore: add better streak service
 * ⏺️ Created new branch main in [CDN-Github/dot](https://github.com/CDN-Github/dot)
@@ -23,8 +25,6 @@ ___
 TODO: components module
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#b1f4694](https://github.com/NoGodHenry/MinecraftServer/commit/b1f4694) chore: remove dead code
-* ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#4293d6e](https://github.com/NoGodHenry/MinecraftServer/commit/4293d6e) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
 
 
 ___
