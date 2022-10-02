@@ -14,19 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `gradlesetup`
+  * [#9f37403](https://github.com/NoGodHenry/MinecraftServer/commit/9f37403) feat: bring back server
+* 🔃 Opened [#1 feat: started working](https://github.com/NoGodHenry/MinecraftServer/pull/1) in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer)
+  * 214 files changed `++563 --11061`
+* ⏺️ Created new branch gradlesetup in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer)
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#a4ad1e2](https://github.com/Garlic-Team/docs/commit/a4ad1e2) Docs build for branch next: cc121c0f55c5323bc5bb9fcb3a9834b2c1d0d4f7
-* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#cc121c0](https://github.com/Garlic-Team/gcommands/commit/cc121c0) chore(release): 10.0.0 🎉
-
-chore(release): 10.0.0 🎉
-  * [#92aa6f5](https://github.com/Garlic-Team/gcommands/commit/92aa6f5) chore(Release): 10.0.0 🎉
-
-Build ran for bb6274c805580a572bcc8115450ed319c51ca767
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#d381739](https://github.com/Garlic-Team/docs/commit/d381739) Docs build for branch next: bb6274c805580a572bcc8115450ed319c51ca767
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
-  * [#bb6274c](https://github.com/Garlic-Team/gcommands/commit/bb6274c) chore: try fix release actiong
 
 
 ___
