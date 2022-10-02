@@ -14,13 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `gradlesetup`
-  * [#9f37403](https://github.com/NoGodHenry/MinecraftServer/commit/9f37403) feat: bring back server
-* 🔃 Opened [#1 feat: started working](https://github.com/NoGodHenry/MinecraftServer/pull/1) in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer)
-  * 214 files changed `++563 --11061`
-* ⏺️ Created new branch gradlesetup in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer)
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#a4ad1e2](https://github.com/Garlic-Team/docs/commit/a4ad1e2) Docs build for branch next: cc121c0f55c5323bc5bb9fcb3a9834b2c1d0d4f7
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#3b07312](https://github.com/NoGodHenry/MinecraftServer/commit/3b07312) chore: add setup task
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#f07a6cd](https://github.com/NoGodHenry/MinecraftServer/commit/f07a6cd) feat: add all task
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#49dfe4c](https://github.com/NoGodHenry/MinecraftServer/commit/49dfe4c) feat: add base for plugins
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#339c40f](https://github.com/NoGodHenry/MinecraftServer/commit/339c40f) chore: add run/plugins/*.jar into gitignore
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#bc1d352](https://github.com/NoGodHenry/MinecraftServer/commit/bc1d352) chore: add missing folders
 
 
 ___
