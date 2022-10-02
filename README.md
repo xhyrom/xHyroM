@@ -14,14 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#2b44a33](https://github.com/xHyroM/hacktoberfest/commit/2b44a33) rename config.toml to contributors.toml
+* ➡️ Pushed 1 commit in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#e55ecd8](https://github.com/xHyroM/hacktoberfest/commit/e55ecd8) update README, config.toml
+* ➡️ Pushed 1 commit in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#e1c0d60](https://github.com/xHyroM/hacktoberfest/commit/e1c0d60) update CONTRIBUTING.md
+* ⏺️ Created new branch master in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ⏺️ Created new repository  [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#3 new Discord](https://github.com/xHyroM/hykord/issues/3) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#a60532a](https://github.com/NoGodHenry/MinecraftServer/commit/a60532a) fix: run build on runServer &amp; build iridium as fat jar
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#a36d02e](https://github.com/NoGodHenry/MinecraftServer/commit/a36d02e) add out
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#3b07312](https://github.com/NoGodHenry/MinecraftServer/commit/3b07312) chore: add setup task
 
 
 ___
