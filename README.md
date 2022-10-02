@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#a36d02e](https://github.com/NoGodHenry/MinecraftServer/commit/a36d02e) add out
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#3b07312](https://github.com/NoGodHenry/MinecraftServer/commit/3b07312) chore: add setup task
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#f07a6cd](https://github.com/NoGodHenry/MinecraftServer/commit/f07a6cd) feat: add all task
@@ -22,8 +24,6 @@ ___
   * [#49dfe4c](https://github.com/NoGodHenry/MinecraftServer/commit/49dfe4c) feat: add base for plugins
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#339c40f](https://github.com/NoGodHenry/MinecraftServer/commit/339c40f) chore: add run/plugins/*.jar into gitignore
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#bc1d352](https://github.com/NoGodHenry/MinecraftServer/commit/bc1d352) chore: add missing folders
 
 
 ___
