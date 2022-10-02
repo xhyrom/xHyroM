@@ -14,17 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [oven-sh/bun](https://github.com/oven-sh/bun)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#a042d71](https://github.com/xHyroM/hykord/commit/a042d71) feat: add settings internal plugin
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#357c740](https://github.com/xHyroM/xHyroM/commit/357c740) chore: add better streak service
-* ⏺️ Created new branch main in [CDN-Github/dot](https://github.com/CDN-Github/dot)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#d85d8d8](https://github.com/xHyroM/hykord/commit/d85d8d8) feat: add progress
-
-TODO: components module
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#b1f4694](https://github.com/NoGodHenry/MinecraftServer/commit/b1f4694) chore: remove dead code
+  * [#2a0aad5](https://github.com/xHyroM/hykord/commit/2a0aad5) refactor: simplify webpack module
+* 💬 Commented on [#1252 Kingworld example not working](https://github.com/oven-sh/bun/issues/1252) from [oven-sh/bun](https://github.com/oven-sh/bun)
+* ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#44c6436](https://github.com/NoGodHenry/MinecraftServer/commit/44c6436) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
+* ⏺️ Created new tag v0.1.3 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
 
 
 ___
