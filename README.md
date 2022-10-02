@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#3 new Discord](https://github.com/xHyroM/hykord/issues/3) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#a60532a](https://github.com/NoGodHenry/MinecraftServer/commit/a60532a) fix: run build on runServer &amp; build iridium as fat jar
@@ -21,8 +22,6 @@ ___
   * [#a36d02e](https://github.com/NoGodHenry/MinecraftServer/commit/a36d02e) add out
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#3b07312](https://github.com/NoGodHenry/MinecraftServer/commit/3b07312) chore: add setup task
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#f07a6cd](https://github.com/NoGodHenry/MinecraftServer/commit/f07a6cd) feat: add all task
 
 
 ___
