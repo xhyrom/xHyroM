@@ -14,13 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 🌟 Starred [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#2a0aad5](https://github.com/xHyroM/hykord/commit/2a0aad5) refactor: simplify webpack module
-* 💬 Commented on [#1252 Kingworld example not working](https://github.com/oven-sh/bun/issues/1252) from [oven-sh/bun](https://github.com/oven-sh/bun)
-* ➡️ Pushed 2 commits in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#44c6436](https://github.com/NoGodHenry/MinecraftServer/commit/44c6436) Merge branch &#39;main&#39; of https://github.com/NoGodHenry/MinecraftServer
-* ⏺️ Created new tag v0.1.3 in [xHyroM/mashe](https://github.com/xHyroM/mashe)
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#a4ad1e2](https://github.com/Garlic-Team/docs/commit/a4ad1e2) Docs build for branch next: cc121c0f55c5323bc5bb9fcb3a9834b2c1d0d4f7
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#cc121c0](https://github.com/Garlic-Team/gcommands/commit/cc121c0) chore(release): 10.0.0 🎉
+
+chore(release): 10.0.0 🎉
+  * [#92aa6f5](https://github.com/Garlic-Team/gcommands/commit/92aa6f5) chore(Release): 10.0.0 🎉
+
+Build ran for bb6274c805580a572bcc8115450ed319c51ca767
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#d381739](https://github.com/Garlic-Team/docs/commit/d381739) Docs build for branch next: bb6274c805580a572bcc8115450ed319c51ca767
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#bb6274c](https://github.com/Garlic-Team/gcommands/commit/bb6274c) chore: try fix release actiong
 
 
 ___
