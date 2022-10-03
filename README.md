@@ -14,8 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#4d8c124](https://github.com/xHyroM/hykord/commit/4d8c124) feat: add some progress
+No recent activity
 
 
 ___
