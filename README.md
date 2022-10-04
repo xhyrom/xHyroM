@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#233c4af](https://github.com/xHyroM/hykord/commit/233c4af) feat: start working on AddonCard
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
   * [#ad83e11](https://github.com/xHyroM/aktdwb/commit/ad83e11) Update README.md
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
