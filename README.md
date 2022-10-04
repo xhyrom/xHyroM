@@ -15,9 +15,11 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#a31990b](https://github.com/xHyroM/hykord/commit/a31990b) fix(ErrorBoundary): show message in Card
+  * [#99ec7a7](https://github.com/xHyroM/hykord/commit/99ec7a7) feat: allow enable react devtools
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#2991eac](https://github.com/xHyroM/hykord/commit/2991eac) fix: correct Switch input
+  * [#97ca600](https://github.com/xHyroM/hykord/commit/97ca600) chore: add progress
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#a31990b](https://github.com/xHyroM/hykord/commit/a31990b) fix(ErrorBoundary): show message in Card
 
 
 ___
