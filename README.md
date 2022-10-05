@@ -14,16 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#233c4af](https://github.com/xHyroM/hykord/commit/233c4af) feat: start working on AddonCard
 * ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#ad83e11](https://github.com/xHyroM/aktdwb/commit/ad83e11) Update README.md
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#99ec7a7](https://github.com/xHyroM/hykord/commit/99ec7a7) feat: allow enable react devtools
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#97ca600](https://github.com/xHyroM/hykord/commit/97ca600) chore: add progress
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#a31990b](https://github.com/xHyroM/hykord/commit/a31990b) fix(ErrorBoundary): show message in Card
+  * [#761b69e](https://github.com/xHyroM/aktdwb/commit/761b69e) Update README.md
+* 🔍 Reviewed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 💬 Commented on [#3 To_Check_If_the_number_is_odd_or_even](https://github.com/xHyroM/hacktoberfest/issues/3) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 🔍 Reviewed [#3 To_Check_If_the_number_is_odd_or_even](https://github.com/xHyroM/hacktoberfest/pull/3) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 🔍 Reviewed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
