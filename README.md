@@ -14,12 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/aktdwb](https://github.com/xHyroM/aktdwb) on branch `master`
-  * [#761b69e](https://github.com/xHyroM/aktdwb/commit/761b69e) Update README.md
-* 🔍 Reviewed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#3 To_Check_If_the_number_is_odd_or_even](https://github.com/xHyroM/hacktoberfest/issues/3) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 🔍 Reviewed [#3 To_Check_If_the_number_is_odd_or_even](https://github.com/xHyroM/hacktoberfest/pull/3) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 🔍 Reviewed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#45dd5f5](https://github.com/xHyroM/hacktoberfest/commit/45dd5f5) Merge pull request #1 from Devanshu2310/Largest_num
+
+Largest_of_three_number
+  * [#00a249a](https://github.com/xHyroM/hacktoberfest/commit/00a249a) Largest_of_three_number
+* 🔃 Merged [#1 Largest_of_three_number](https://github.com/xHyroM/hacktoberfest/pull/1) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++15 --0`
+* 💬 Commented on [#4 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/issues/4) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#aa18427](https://github.com/xHyroM/hacktoberfest/commit/aa18427) Merge pull request #4 from Devanshu2310/patch-1
+
+Update contributors.toml
+  * [#788e0c3](https://github.com/xHyroM/hacktoberfest/commit/788e0c3) Merge branch &#39;master&#39; into patch-1
+  * [#fcf847a](https://github.com/xHyroM/hacktoberfest/commit/fcf847a) Update contributors.toml
+* 🔃 Merged [#4 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/4) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++1 --0`
 
 
 ___
