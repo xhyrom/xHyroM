@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#f65ac9b](https://github.com/xHyroM/hykord/commit/f65ac9b) chore: move generate internal theme to plugins/ folder
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#6afb5ce](https://github.com/xHyroM/hykord/commit/6afb5ce) feat: auto generate internal theme
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#77b5145](https://github.com/xHyroM/hykord/commit/77b5145) feat: add eslint &amp; theme loading
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#0ae1719](https://github.com/Garlic-Team/docs/commit/0ae1719) Docs build for branch next: 35cdd9ad9218e9a4e07add2f9125b5bb77910d94
@@ -174,10 +178,6 @@ repository job log
 
 &lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzMi4yMTEuMiIsInVwZGF0ZWRJblZlciI6IjMyLjIxMS4yIn0=--&gt;
   * [#cd82a3e](https://github.com/Garlic-Team/gcommands/commit/cd82a3e) chore(deps): update kentaro-m/auto-assign-action action to v1.2.3
-* 🔃 Merged [#565 chore(deps): update kentaro-m/auto-assign-action action to v1.2.3](https://github.com/Garlic-Team/gcommands/pull/565) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#13d2931](https://github.com/Garlic-Team/docs/commit/13d2931) Docs build for branch next: 50c78c8b4ecca0e683ab8a2023cadfccde8ffecb
 
 
 ___
