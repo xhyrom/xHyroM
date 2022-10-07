@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#77b5145](https://github.com/xHyroM/hykord/commit/77b5145) feat: add eslint &amp; theme loading
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#0ae1719](https://github.com/Garlic-Team/docs/commit/0ae1719) Docs build for branch next: 35cdd9ad9218e9a4e07add2f9125b5bb77910d94
 * ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
@@ -176,8 +178,6 @@ repository job log
   * 1 file changed `++1 --1`
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#13d2931](https://github.com/Garlic-Team/docs/commit/13d2931) Docs build for branch next: 50c78c8b4ecca0e683ab8a2023cadfccde8ffecb
-* 🔃 Merged [#569 chore(deps): update typescript-eslint monorepo to v5.39.0](https://github.com/Garlic-Team/gcommands/pull/569) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
-  * 2 files changed `++84 --84`
 
 
 ___
