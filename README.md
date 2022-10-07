@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#cefe2ae](https://github.com/xHyroM/hykord/commit/cefe2ae) revert: some things
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#5f73587](https://github.com/xHyroM/hykord/commit/5f73587) feat: add progress
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#208bc0d](https://github.com/xHyroM/hykord/commit/208bc0d) feat: add experiments plugin
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#5ab0059](https://github.com/xHyroM/hykord/commit/5ab0059) chore: update readme
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#0eeb585](https://github.com/xHyroM/hykord/commit/0eeb585) chore: add readme
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#00b34ea](https://github.com/xHyroM/hykord/commit/00b34ea) chore: add readme
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#d35b8c7](https://github.com/xHyroM/hykord/commit/d35b8c7) chore: add patch
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#f66b2c4](https://github.com/xHyroM/hykord/commit/f66b2c4) chore: add readme
 
 
 ___
