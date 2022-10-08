@@ -14,15 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#0f84f9c](https://github.com/xHyroM/hykord/commit/0f84f9c) feat: updater - not finished
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#da64a6e](https://github.com/xHyroM/hykord/commit/da64a6e) chore: some updates
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#9eaf11f](https://github.com/xHyroM/hykord/commit/9eaf11f) chore: add watch, export loaders
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#8071da4](https://github.com/xHyroM/hykord/commit/8071da4) chore: lint
-* 💬 Commented on [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/issues/2) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#c535cdc](https://github.com/xHyroM/hykord/commit/c535cdc) chore: readme
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#095cfab](https://github.com/xHyroM/hykord/commit/095cfab) chore: some readme changes
+* ⏺️ Created new branch main in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* ⏺️ Created new branch main-old in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
