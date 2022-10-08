@@ -15,11 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#8e0e967](https://github.com/xHyroM/hykord/commit/8e0e967) fix: remove electron-fetch
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#c3df5b1](https://github.com/xHyroM/hykord/commit/c3df5b1) feat: some updates for Updater
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#c535cdc](https://github.com/xHyroM/hykord/commit/c535cdc) chore: readme
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#095cfab](https://github.com/xHyroM/hykord/commit/095cfab) chore: some readme changes
 * ⏺️ Created new branch main in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ⏺️ Created new branch main-old in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
