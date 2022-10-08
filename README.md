@@ -15,17 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#0f84f9c](https://github.com/xHyroM/hykord/commit/0f84f9c) feat: updater - not finished
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#da64a6e](https://github.com/xHyroM/hykord/commit/da64a6e) chore: some updates
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#9eaf11f](https://github.com/xHyroM/hykord/commit/9eaf11f) chore: add watch, export loaders
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
   * [#8071da4](https://github.com/xHyroM/hykord/commit/8071da4) chore: lint
 * 💬 Commented on [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/issues/2) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 🔃 Closed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++49 --0`
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#f816c5e](https://github.com/xHyroM/hacktoberfest/commit/f816c5e) Merge pull request #6 from Shivaminc/patch-1
-
-Added rotating_donut_imagery.c++
-  * [#e546229](https://github.com/xHyroM/hacktoberfest/commit/e546229) Create rotating_donut_imagery.c++
 
 
 ___
