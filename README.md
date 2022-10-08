@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#9eaf11f](https://github.com/xHyroM/hykord/commit/9eaf11f) chore: add watch, export loaders
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
+  * [#8071da4](https://github.com/xHyroM/hykord/commit/8071da4) chore: lint
 * 💬 Commented on [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/issues/2) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 🔃 Closed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++49 --0`
@@ -22,9 +26,6 @@ ___
 
 Added rotating_donut_imagery.c++
   * [#e546229](https://github.com/xHyroM/hacktoberfest/commit/e546229) Create rotating_donut_imagery.c++
-* 🔃 Merged [#6 Added rotating_donut_imagery.c++](https://github.com/xHyroM/hacktoberfest/pull/6) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++49 --0`
-* 🔍 Reviewed [#6 Added rotating_donut_imagery.c++](https://github.com/xHyroM/hacktoberfest/pull/6) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
