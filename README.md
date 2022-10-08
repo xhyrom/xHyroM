@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#9ad595f](https://github.com/xHyroM/hykord/commit/9ad595f) style: use single quotes
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#5170f0e](https://github.com/xHyroM/hykord/commit/5170f0e) feat(AddonCard). use addon.getSettingSync
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#5453fdb](https://github.com/xHyroM/hykord/commit/5453fdb) chore: lint
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#604ab13](https://github.com/xHyroM/hykord/commit/604ab13) feat: simple addon settings
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#17c14df](https://github.com/xHyroM/hykord/commit/17c14df) feat: add receiveMessage into messageApi
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#31a28c4](https://github.com/xHyroM/hykord/commit/31a28c4) chore: add discord into readme
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#321886a](https://github.com/xHyroM/hykord/commit/321886a) feat: message api, @hykord/apis module
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6885cc7](https://github.com/xHyroM/hykord/commit/6885cc7) fix: some fixes
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#3be67b6](https://github.com/xHyroM/hykord/commit/3be67b6) chore: lint
 
 
 ___
