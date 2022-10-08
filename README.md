@@ -14,16 +14,17 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#cefe2ae](https://github.com/xHyroM/hykord/commit/cefe2ae) revert: some things
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#5f73587](https://github.com/xHyroM/hykord/commit/5f73587) feat: add progress
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#208bc0d](https://github.com/xHyroM/hykord/commit/208bc0d) feat: add experiments plugin
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#5ab0059](https://github.com/xHyroM/hykord/commit/5ab0059) chore: update readme
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `rewrite`
-  * [#0eeb585](https://github.com/xHyroM/hykord/commit/0eeb585) chore: add readme
+* 💬 Commented on [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/issues/2) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 🔃 Closed [#2 C++ program for rotating donut imagery](https://github.com/xHyroM/hacktoberfest/pull/2) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++49 --0`
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#f816c5e](https://github.com/xHyroM/hacktoberfest/commit/f816c5e) Merge pull request #6 from Shivaminc/patch-1
+
+Added rotating_donut_imagery.c++
+  * [#e546229](https://github.com/xHyroM/hacktoberfest/commit/e546229) Create rotating_donut_imagery.c++
+* 🔃 Merged [#6 Added rotating_donut_imagery.c++](https://github.com/xHyroM/hacktoberfest/pull/6) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++49 --0`
+* 🔍 Reviewed [#6 Added rotating_donut_imagery.c++](https://github.com/xHyroM/hacktoberfest/pull/6) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
