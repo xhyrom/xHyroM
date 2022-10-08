@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#6885cc7](https://github.com/xHyroM/hykord/commit/6885cc7) fix: some fixes
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#3be67b6](https://github.com/xHyroM/hykord/commit/3be67b6) chore: lint
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#1fa6de6](https://github.com/xHyroM/hykord/commit/1fa6de6) chore: lint
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e0e2cb5](https://github.com/xHyroM/hykord/commit/e0e2cb5) feat: finish updater
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#deda3ab](https://github.com/xHyroM/hykord/commit/deda3ab) chore: update again
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#ded56c2](https://github.com/xHyroM/hykord/commit/ded56c2) chore: update readme
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#8e0e967](https://github.com/xHyroM/hykord/commit/8e0e967) fix: remove electron-fetch
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#c3df5b1](https://github.com/xHyroM/hykord/commit/c3df5b1) feat: some updates for Updater
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#c535cdc](https://github.com/xHyroM/hykord/commit/c535cdc) chore: readme
 
 
 ___
