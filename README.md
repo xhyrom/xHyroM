@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6b9ab5e](https://github.com/xHyroM/hykord/commit/6b9ab5e) feat: finish deletion system
+  * [#712eb0a](https://github.com/xHyroM/hykord/commit/712eb0a) feat: modernify
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#2727e3e](https://github.com/xHyroM/hykord/commit/2727e3e) feat: delete system
+  * [#9565c80](https://github.com/xHyroM/hykord/commit/9565c80) feat: add git hash into settings
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#ec4a8af](https://github.com/xHyroM/hykord/commit/ec4a8af) feat: load external plugins &amp; themes - ts
+  * [#a060e94](https://github.com/xHyroM/hykord/commit/a060e94) feat: move settings
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6871735](https://github.com/xHyroM/hykord/commit/6871735) feat: add Addon structure
+  * [#a3f5c52](https://github.com/xHyroM/hykord/commit/a3f5c52) fix(Settings/Updater): set card type to primary
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#ff64140](https://github.com/xHyroM/hykord/commit/ff64140) fix: removeFromSetting, loaders
+  * [#397b7ed](https://github.com/xHyroM/hykord/commit/397b7ed) fix(Settings): use size not length
 
 
 ___
