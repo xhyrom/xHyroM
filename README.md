@@ -15,15 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#adca9fd](https://github.com/xHyroM/hykord/commit/adca9fd) fix(Filters): byProps, byProtos
+
+feat: add FluxDispatcher
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#acdddf3](https://github.com/xHyroM/hykord/commit/acdddf3) refactor: rename get* to find*
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#6735bd3](https://github.com/xHyroM/hykord/commit/6735bd3) refactor: packages/patch -&gt; packages/injector
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#858fc57](https://github.com/xHyroM/hykord/commit/858fc57) fix(plugins/snippets): unregister section
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#80344cb](https://github.com/xHyroM/hykord/commit/80344cb) chore: remove tdist
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#338d231](https://github.com/xHyroM/hykord/commit/338d231) feat(typess): add Hykord &amp; HykordNative
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e07cc67](https://github.com/xHyroM/hykord/commit/e07cc67) feat: types package
 
 
 ___
