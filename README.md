@@ -15,15 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a4fb8e3](https://github.com/xHyroM/hykord/commit/a4fb8e3) chore: cleanup
+  * [#6871735](https://github.com/xHyroM/hykord/commit/6871735) feat: add Addon structure
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#9bac38b](https://github.com/xHyroM/hykord/commit/9bac38b) feat: improve typings
+  * [#ff64140](https://github.com/xHyroM/hykord/commit/ff64140) fix: removeFromSetting, loaders
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#4220848](https://github.com/xHyroM/hykord/commit/4220848) fix: some fixes about enabling &amp; disabling addons
+  * [#691b45d](https://github.com/xHyroM/hykord/commit/691b45d) chore: lint, cleanup
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#84503df](https://github.com/xHyroM/hykord/commit/84503df) chore: lint
+  * [#d28373c](https://github.com/xHyroM/hykord/commit/d28373c) feat: use set instead arrays
+
+performance boost 🚀⚡
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#42c985c](https://github.com/xHyroM/hykord/commit/42c985c) fix(loaders/Plugin): typo enabled-plugins
+  * [#ff0edfd](https://github.com/xHyroM/hykord/commit/ff0edfd) fix: correct jsx factory
 
 
 ___
