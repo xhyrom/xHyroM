@@ -14,16 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch v1 in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#381bf82](https://github.com/xHyroM/hykord/commit/381bf82) revert: remove test.js
+  * [#8c9148f](https://github.com/xHyroM/hykord/commit/8c9148f) chore: lint
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#dc4b608](https://github.com/xHyroM/hykord/commit/dc4b608) feat: some improvements
+  * [#82d86f2](https://github.com/xHyroM/hykord/commit/82d86f2) revert: fix(main): patch settings correctly
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#712eb0a](https://github.com/xHyroM/hykord/commit/712eb0a) feat: modernify
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#9565c80](https://github.com/xHyroM/hykord/commit/9565c80) feat: add git hash into settings
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a060e94](https://github.com/xHyroM/hykord/commit/a060e94) feat: move settings
+  * [#f93e833](https://github.com/xHyroM/hykord/commit/f93e833) fix(main): patch settings correctly
 
 
 ___
