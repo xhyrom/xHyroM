@@ -15,17 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#6b9ab5e](https://github.com/xHyroM/hykord/commit/6b9ab5e) feat: finish deletion system
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#2727e3e](https://github.com/xHyroM/hykord/commit/2727e3e) feat: delete system
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#ec4a8af](https://github.com/xHyroM/hykord/commit/ec4a8af) feat: load external plugins &amp; themes - ts
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#6871735](https://github.com/xHyroM/hykord/commit/6871735) feat: add Addon structure
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#ff64140](https://github.com/xHyroM/hykord/commit/ff64140) fix: removeFromSetting, loaders
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#691b45d](https://github.com/xHyroM/hykord/commit/691b45d) chore: lint, cleanup
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#d28373c](https://github.com/xHyroM/hykord/commit/d28373c) feat: use set instead arrays
-
-performance boost 🚀⚡
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#ff0edfd](https://github.com/xHyroM/hykord/commit/ff0edfd) fix: correct jsx factory
 
 
 ___
