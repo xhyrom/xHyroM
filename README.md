@@ -14,13 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#663c65c](https://github.com/xHyroM/hykord/commit/663c65c) chore: lint, sorting
 * ⏺️ Created new branch v1 in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#8c9148f](https://github.com/xHyroM/hykord/commit/8c9148f) chore: lint
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#82d86f2](https://github.com/xHyroM/hykord/commit/82d86f2) revert: fix(main): patch settings correctly
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#f93e833](https://github.com/xHyroM/hykord/commit/f93e833) fix(main): patch settings correctly
 
 
 ___
