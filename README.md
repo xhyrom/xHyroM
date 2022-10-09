@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#84503df](https://github.com/xHyroM/hykord/commit/84503df) chore: lint
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#42c985c](https://github.com/xHyroM/hykord/commit/42c985c) fix(loaders/Plugin): typo enabled-plugins
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#9b22665](https://github.com/xHyroM/hykord/commit/9b22665) feat: save enabled plugins &amp; themes
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#9ad595f](https://github.com/xHyroM/hykord/commit/9ad595f) style: use single quotes
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#5170f0e](https://github.com/xHyroM/hykord/commit/5170f0e) feat(AddonCard). use addon.getSettingSync
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5453fdb](https://github.com/xHyroM/hykord/commit/5453fdb) chore: lint
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#604ab13](https://github.com/xHyroM/hykord/commit/604ab13) feat: simple addon settings
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#17c14df](https://github.com/xHyroM/hykord/commit/17c14df) feat: add receiveMessage into messageApi
 
 
 ___
