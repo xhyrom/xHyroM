@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#19d5058](https://github.com/xHyroM/hykord/commit/19d5058) fix: search for correct FormDivider, feat: implement waitFor &amp; waitForSync
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#7c6fe3c](https://github.com/xHyroM/hykord/commit/7c6fe3c) feaT: add InviteStore, RelationshipStore
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#8bf235e](https://github.com/xHyroM/hykord/commit/8bf235e) feat: add stores into Common and discord utils
@@ -24,8 +26,6 @@ ___
   * [#adca9fd](https://github.com/xHyroM/hykord/commit/adca9fd) fix(Filters): byProps, byProtos
 
 feat: add FluxDispatcher
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#acdddf3](https://github.com/xHyroM/hykord/commit/acdddf3) refactor: rename get* to find*
 
 
 ___
