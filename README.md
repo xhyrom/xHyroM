@@ -14,15 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* #️⃣ Closed [#3 fully rewrite](https://github.com/xHyroM/hykord/issues/3) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#f653509](https://github.com/xHyroM/hykord/commit/f653509) refactor: rename disable-science-requests to disable-tracking &amp; kill sentry
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#19d5058](https://github.com/xHyroM/hykord/commit/19d5058) fix: search for correct FormDivider, feat: implement waitFor &amp; waitForSync
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#7c6fe3c](https://github.com/xHyroM/hykord/commit/7c6fe3c) feaT: add InviteStore, RelationshipStore
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#8bf235e](https://github.com/xHyroM/hykord/commit/8bf235e) feat: add stores into Common and discord utils
+* #️⃣ Opened [#7 Make wiki](https://github.com/xHyroM/hykord/issues/7) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* #️⃣ Opened [#6 Make installer](https://github.com/xHyroM/hykord/issues/6) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* #️⃣ Opened [#5 Add some things into addons](https://github.com/xHyroM/hykord/issues/5) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* #️⃣ Opened [#4 Create built-in themes &amp; plugins store](https://github.com/xHyroM/hykord/issues/4) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* #️⃣ Closed [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
