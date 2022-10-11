@@ -14,11 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#be6b3d0](https://github.com/xHyroM/hykord/commit/be6b3d0) feat: add installer - base
 * #️⃣ Opened [#7 Make wiki](https://github.com/xHyroM/hykord/issues/7) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#6 Make installer](https://github.com/xHyroM/hykord/issues/6) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#5 Add some things into addons](https://github.com/xHyroM/hykord/issues/5) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * #️⃣ Opened [#4 Create built-in themes &amp; plugins store](https://github.com/xHyroM/hykord/issues/4) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* #️⃣ Closed [#1 support for BD plugins](https://github.com/xHyroM/hykord/issues/1) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
