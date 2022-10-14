@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#d601f5a](https://github.com/xHyroM/hykord/commit/d601f5a) style(installer): use import
+  * [#10c045e](https://github.com/xHyroM/hykord/commit/10c045e) chore(CI): use bun for pkg manager
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#065f15b](https://github.com/xHyroM/hykord/commit/065f15b) feat(installer): find discord function
+  * [#26f0f85](https://github.com/xHyroM/hykord/commit/26f0f85) chore: add packageManager
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#88112aa](https://github.com/xHyroM/hykord/commit/88112aa) feat: add themes reload button
+  * [#dedda87](https://github.com/xHyroM/hykord/commit/dedda87) chore -&gt; .github/workspaces -&gt; workflowes
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#58ecbe9](https://github.com/xHyroM/hykord/commit/58ecbe9) feat(installer): add args parsing
+  * [#e154cf3](https://github.com/xHyroM/hykord/commit/e154cf3) chore: add CI
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#be6b3d0](https://github.com/xHyroM/hykord/commit/be6b3d0) feat: add installer - base
+  * [#2605fb2](https://github.com/xHyroM/hykord/commit/2605fb2) feat(installer): better discord find
 
 
 ___
