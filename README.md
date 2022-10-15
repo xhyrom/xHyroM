@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
+  * [#6e37eaf](https://github.com/NoGodHenry/MinecraftServer/commit/6e37eaf) fix: correct tags escaping
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * ➡️ Pushed 5 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#a4b6f70](https://github.com/xHyroM/hacktoberfest/commit/a4b6f70) Merge pull request #10 from elmkar/master
@@ -26,8 +28,6 @@ Create largest of n numbers
 * 🔃 Merged [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 2 files changed `++10 --1`
 * 🔍 Reviewed [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#babb875](https://github.com/xHyroM/hykord/commit/babb875) feat(installer): add resources
 
 
 ___
