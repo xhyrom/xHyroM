@@ -15,20 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#08f33b2](https://github.com/xHyroM/hykord/commit/08f33b2) chore: add Cargo.lock to gitignore
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#42a6776](https://github.com/xHyroM/hykord/commit/42a6776) chore: remove dead code
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#46f4ed8](https://github.com/xHyroM/hykord/commit/46f4ed8) fix: make electron-devtools-installer as optional
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#f4ed849](https://github.com/xHyroM/hykord/commit/f4ed849) feat(installer): finish injection &amp; installer
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#6e37eaf](https://github.com/NoGodHenry/MinecraftServer/commit/6e37eaf) fix: correct tags escaping
-* 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
-* ➡️ Pushed 5 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#a4b6f70](https://github.com/xHyroM/hacktoberfest/commit/a4b6f70) Merge pull request #10 from elmkar/master
-
-Create largest of n numbers
-  * [#8e60fee](https://github.com/xHyroM/hacktoberfest/commit/8e60fee) Update contributors.toml
-  * [#5d1d386](https://github.com/xHyroM/hacktoberfest/commit/5d1d386) Rename largest of n numbers to largest_of_n_numbers.py
-  * [#597bf5e](https://github.com/xHyroM/hacktoberfest/commit/597bf5e) Merge branch &#39;xHyroM:master&#39; into master
-  * [#c947437](https://github.com/xHyroM/hacktoberfest/commit/c947437) Create largest of n numbers
 
 
 ___
