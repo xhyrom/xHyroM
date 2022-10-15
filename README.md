@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#46aa2a8](https://github.com/xHyroM/hykord/commit/46aa2a8) feat: support releases updater
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#08f33b2](https://github.com/xHyroM/hykord/commit/08f33b2) chore: add Cargo.lock to gitignore
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#42a6776](https://github.com/xHyroM/hykord/commit/42a6776) chore: remove dead code
@@ -22,8 +24,6 @@ ___
   * [#46f4ed8](https://github.com/xHyroM/hykord/commit/46f4ed8) fix: make electron-devtools-installer as optional
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#f4ed849](https://github.com/xHyroM/hykord/commit/f4ed849) feat(installer): finish injection &amp; installer
-* ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
-  * [#6e37eaf](https://github.com/NoGodHenry/MinecraftServer/commit/6e37eaf) fix: correct tags escaping
 
 
 ___
