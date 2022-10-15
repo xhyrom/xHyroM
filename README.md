@@ -15,15 +15,18 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#10c045e](https://github.com/xHyroM/hykord/commit/10c045e) chore(CI): use bun for pkg manager
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#26f0f85](https://github.com/xHyroM/hykord/commit/26f0f85) chore: add packageManager
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#dedda87](https://github.com/xHyroM/hykord/commit/dedda87) chore -&gt; .github/workspaces -&gt; workflowes
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e154cf3](https://github.com/xHyroM/hykord/commit/e154cf3) chore: add CI
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#2605fb2](https://github.com/xHyroM/hykord/commit/2605fb2) feat(installer): better discord find
+  * [#babb875](https://github.com/xHyroM/hykord/commit/babb875) feat(installer): add resources
+* 💬 Commented on [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/issues/10) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#d496272](https://github.com/xHyroM/hacktoberfest/commit/d496272) Added rock-paper-scissor
+
+Added rock-paper-scissor
+  * [#a63d6f8](https://github.com/xHyroM/hacktoberfest/commit/a63d6f8) Update contributors.toml
+  * [#c969120](https://github.com/xHyroM/hacktoberfest/commit/c969120) Update rock-paper-scissors.js
+  * [#a7cc9fc](https://github.com/xHyroM/hacktoberfest/commit/a7cc9fc) Creat rock-paper-scissors
+* 🔃 Merged [#11 Added rock-paper-scissor](https://github.com/xHyroM/hacktoberfest/pull/11) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++137 --1`
+* 🔍 Reviewed [#11 Added rock-paper-scissor](https://github.com/xHyroM/hacktoberfest/pull/11) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
