@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#46f4ed8](https://github.com/xHyroM/hykord/commit/46f4ed8) fix: make electron-devtools-installer as optional
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#f4ed849](https://github.com/xHyroM/hykord/commit/f4ed849) feat(installer): finish injection &amp; installer
 * ➡️ Pushed 1 commit in [NoGodHenry/MinecraftServer](https://github.com/NoGodHenry/MinecraftServer) on branch `main`
   * [#6e37eaf](https://github.com/NoGodHenry/MinecraftServer/commit/6e37eaf) fix: correct tags escaping
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
@@ -25,9 +29,6 @@ Create largest of n numbers
   * [#5d1d386](https://github.com/xHyroM/hacktoberfest/commit/5d1d386) Rename largest of n numbers to largest_of_n_numbers.py
   * [#597bf5e](https://github.com/xHyroM/hacktoberfest/commit/597bf5e) Merge branch &#39;xHyroM:master&#39; into master
   * [#c947437](https://github.com/xHyroM/hacktoberfest/commit/c947437) Create largest of n numbers
-* 🔃 Merged [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 2 files changed `++10 --1`
-* 🔍 Reviewed [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
