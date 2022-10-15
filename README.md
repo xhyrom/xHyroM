@@ -14,15 +14,19 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new repository  [poludis/poludis](https://github.com/poludis/poludis)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#46aa2a8](https://github.com/xHyroM/hykord/commit/46aa2a8) feat: support releases updater
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#08f33b2](https://github.com/xHyroM/hykord/commit/08f33b2) chore: add Cargo.lock to gitignore
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#42a6776](https://github.com/xHyroM/hykord/commit/42a6776) chore: remove dead code
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#46f4ed8](https://github.com/xHyroM/hykord/commit/46f4ed8) fix: make electron-devtools-installer as optional
+  * [#98f1616](https://github.com/xHyroM/hykord/commit/98f1616) chore(README): use correct script
+* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#cd93e96](https://github.com/xHyroM/hacktoberfest/commit/cd93e96) Merge pull request #12 from mhenrique94/add_python_gradechecker
+
+Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer
+  * [#105fb17](https://github.com/xHyroM/hacktoberfest/commit/105fb17) Update contributors.toml
+  * [#9a1c177](https://github.com/xHyroM/hacktoberfest/commit/9a1c177) Adds a python code of a simple test correction
+* 🔃 Merged [#12 Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer](https://github.com/xHyroM/hacktoberfest/pull/12) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 3 files changed `++43 --2`
+* 🔍 Reviewed [#12 Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer](https://github.com/xHyroM/hacktoberfest/pull/12) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 1 commit in [mhenrique94/hacktoberfest-codes](https://github.com/mhenrique94/hacktoberfest-codes) on branch `add_python_gradechecker`
+  * [#105fb17](https://github.com/mhenrique94/hacktoberfest-codes/commit/105fb17) Update contributors.toml
 
 
 ___
