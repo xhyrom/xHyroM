@@ -14,19 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 5 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#a4b6f70](https://github.com/xHyroM/hacktoberfest/commit/a4b6f70) Merge pull request #10 from elmkar/master
+
+Create largest of n numbers
+  * [#8e60fee](https://github.com/xHyroM/hacktoberfest/commit/8e60fee) Update contributors.toml
+  * [#5d1d386](https://github.com/xHyroM/hacktoberfest/commit/5d1d386) Rename largest of n numbers to largest_of_n_numbers.py
+  * [#597bf5e](https://github.com/xHyroM/hacktoberfest/commit/597bf5e) Merge branch &#39;xHyroM:master&#39; into master
+  * [#c947437](https://github.com/xHyroM/hacktoberfest/commit/c947437) Create largest of n numbers
+* 🔃 Merged [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++10 --1`
+* 🔍 Reviewed [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/pull/10) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#babb875](https://github.com/xHyroM/hykord/commit/babb875) feat(installer): add resources
 * 💬 Commented on [#10 Create largest of n numbers](https://github.com/xHyroM/hacktoberfest/issues/10) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#d496272](https://github.com/xHyroM/hacktoberfest/commit/d496272) Added rock-paper-scissor
-
-Added rock-paper-scissor
-  * [#a63d6f8](https://github.com/xHyroM/hacktoberfest/commit/a63d6f8) Update contributors.toml
-  * [#c969120](https://github.com/xHyroM/hacktoberfest/commit/c969120) Update rock-paper-scissors.js
-  * [#a7cc9fc](https://github.com/xHyroM/hacktoberfest/commit/a7cc9fc) Creat rock-paper-scissors
-* 🔃 Merged [#11 Added rock-paper-scissor](https://github.com/xHyroM/hacktoberfest/pull/11) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 2 files changed `++137 --1`
-* 🔍 Reviewed [#11 Added rock-paper-scissor](https://github.com/xHyroM/hacktoberfest/pull/11) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
