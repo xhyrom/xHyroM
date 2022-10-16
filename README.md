@@ -14,24 +14,23 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#2f166b7](https://github.com/xHyroM/hacktoberfest/commit/2f166b7) Merge pull request #23 from NitishPal2013/hacktoberfest
+
+21 MatchStick game in C language.
+  * [#8a74c41](https://github.com/xHyroM/hacktoberfest/commit/8a74c41) 21 MatchStick game in C language.
+* 🔃 Merged [#23 21 MatchStick game in C language.](https://github.com/xHyroM/hacktoberfest/pull/23) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++29 --0`
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#5e17626](https://github.com/xHyroM/hykord/commit/5e17626) chore: lint
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#e422553](https://github.com/xHyroM/hykord/commit/e422553) feat: implement Addon - search
 * ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#bfc4156](https://github.com/xHyroM/hacktoberfest/commit/bfc4156) Merge pull request #21 from YorLecaros/feature/AbsoluteValue
 
 Added Absolute Value to Code folder
   * [#99c7281](https://github.com/xHyroM/hacktoberfest/commit/99c7281) Update contributors.toml
   * [#b33d17c](https://github.com/xHyroM/hacktoberfest/commit/b33d17c) Added Absolute Value to Code folder
-* 🔃 Merged [#21 Added Absolute Value to Code folder](https://github.com/xHyroM/hacktoberfest/pull/21) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 2 files changed `++6 --1`
-* ➡️ Pushed 1 commit in [YorLecaros/hacktoberfest-1](https://github.com/YorLecaros/hacktoberfest-1) on branch `feature/AbsoluteValue`
-  * [#99c7281](https://github.com/YorLecaros/hacktoberfest-1/commit/99c7281) Update contributors.toml
-* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#ea6de45](https://github.com/xHyroM/hacktoberfest/commit/ea6de45) Merge pull request #22 from NitishPal2013/hacktoberfest
-
-C++ program to Convert temperature units
-  * [#806a2aa](https://github.com/xHyroM/hacktoberfest/commit/806a2aa) Temperature Converter in C++
-  * [#c301e3c](https://github.com/xHyroM/hacktoberfest/commit/c301e3c) Temperature converter in C++.
-* 🔃 Merged [#22 C++ program to Convert temperature units](https://github.com/xHyroM/hacktoberfest/pull/22) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++66 --0`
 
 
 ___
