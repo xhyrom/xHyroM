@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#419c061](https://github.com/xHyroM/benchmarks/commit/419c061) fix(tools): use performance.now in deno
 * ➡️ Pushed 5 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#d04d206](https://github.com/xHyroM/hacktoberfest/commit/d04d206) Merge pull request #20 from NitishPal2013/hacktoberfest
 
@@ -27,8 +29,6 @@ Hacktoberfest
 * 🔍 Reviewed [#20 Hacktoberfest](https://github.com/xHyroM/hacktoberfest/pull/20) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 1 commit in [NitishPal2013/hacktoberfest](https://github.com/NitishPal2013/hacktoberfest) on branch `hacktoberfest`
   * [#1b6c8c3](https://github.com/NitishPal2013/hacktoberfest/commit/1b6c8c3) Update contributors.toml
-* ➡️ Pushed 1 commit in [NitishPal2013/hacktoberfest](https://github.com/NitishPal2013/hacktoberfest) on branch `hacktoberfest`
-  * [#4008829](https://github.com/NitishPal2013/hacktoberfest/commit/4008829) Delete config.toml
 
 
 ___
