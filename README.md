@@ -14,18 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/rylen](https://github.com/xHyroM/rylen)
+* 🔃 Opened [#5 refactor: rewrite](https://github.com/xHyroM/roles-bot/pull/5) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
+  * 50 files changed `++3457 --11519`
+* ⏺️ Created new branch rewrite in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#2a9c1a2](https://github.com/xHyroM/hykord/commit/2a9c1a2) refactor: remove findAllByDisplayName
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#c3bd2d2](https://github.com/xHyroM/hykord/commit/c3bd2d2) feat: add findByDisplayName
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#06e23bd](https://github.com/xHyroM/hykord/commit/06e23bd) feat: some work on bd compat
-* 💬 Commented on [#18 Create Kruskal&#39;s_Algorithm.cpp](https://github.com/xHyroM/hacktoberfest/issues/18) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#8cc841f](https://github.com/xHyroM/hacktoberfest/commit/8cc841f) Merge pull request #19 from xdpooja/calculator-py
-
-Python calculator
-  * [#954597e](https://github.com/xHyroM/hacktoberfest/commit/954597e) Python calculator
 
 
 ___
