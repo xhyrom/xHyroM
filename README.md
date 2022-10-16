@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#fd8ebe2](https://github.com/xHyroM/hykord/commit/fd8ebe2) feat: add stream patch for electron 17+
+
+thanks https://gist.github.com/Vendicated/5e5eee64348ee936349367fe7cedd8c3
 * #️⃣ Opened [#4 Support for new select menu - roles](https://github.com/xHyroM/roles-bot/issues/4) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
 * 🔃 Merged [#16 Create avl_tree.cpp](https://github.com/xHyroM/hacktoberfest/pull/16) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++333 --0`
@@ -29,8 +33,6 @@ code for avl tree in c++
 
 Update contributors.toml
   * [#f6fc363](https://github.com/xHyroM/hacktoberfest/commit/f6fc363) Update contributors.toml
-* 🔃 Merged [#17 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/17) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++2 --1`
 
 
 ___
