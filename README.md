@@ -14,19 +14,23 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#98f1616](https://github.com/xHyroM/hykord/commit/98f1616) chore(README): use correct script
-* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#cd93e96](https://github.com/xHyroM/hacktoberfest/commit/cd93e96) Merge pull request #12 from mhenrique94/add_python_gradechecker
+* #️⃣ Opened [#4 Support for new select menu - roles](https://github.com/xHyroM/roles-bot/issues/4) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
+* 🔃 Merged [#16 Create avl_tree.cpp](https://github.com/xHyroM/hacktoberfest/pull/16) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++333 --0`
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#513b1dc](https://github.com/xHyroM/hacktoberfest/commit/513b1dc) Merge pull request #16 from SaahilSabu/patch-1
 
-Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer
-  * [#105fb17](https://github.com/xHyroM/hacktoberfest/commit/105fb17) Update contributors.toml
-  * [#9a1c177](https://github.com/xHyroM/hacktoberfest/commit/9a1c177) Adds a python code of a simple test correction
-* 🔃 Merged [#12 Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer](https://github.com/xHyroM/hacktoberfest/pull/12) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 3 files changed `++43 --2`
-* 🔍 Reviewed [#12 Adds a python code of a simple test correction (grade checker) and corrects th python disclaimer](https://github.com/xHyroM/hacktoberfest/pull/12) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 1 commit in [mhenrique94/hacktoberfest-codes](https://github.com/mhenrique94/hacktoberfest-codes) on branch `add_python_gradechecker`
-  * [#105fb17](https://github.com/mhenrique94/hacktoberfest-codes/commit/105fb17) Update contributors.toml
+Create avl_tree.cpp
+  * [#29a0f50](https://github.com/xHyroM/hacktoberfest/commit/29a0f50) Create avl_tree.cpp
+
+code for avl tree in c++
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#292e136](https://github.com/xHyroM/hacktoberfest/commit/292e136) Merge pull request #17 from SaahilSabu/patch-2
+
+Update contributors.toml
+  * [#f6fc363](https://github.com/xHyroM/hacktoberfest/commit/f6fc363) Update contributors.toml
+* 🔃 Merged [#17 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/17) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++2 --1`
 
 
 ___
