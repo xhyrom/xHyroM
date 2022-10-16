@@ -14,18 +14,24 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#9ab32c9](https://github.com/xHyroM/hykord/commit/9ab32c9) feat: implement plugin patches
+* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#bfc4156](https://github.com/xHyroM/hacktoberfest/commit/bfc4156) Merge pull request #21 from YorLecaros/feature/AbsoluteValue
 
-like Vencord, from Vencord
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#d61b1cf](https://github.com/Garlic-Team/docs/commit/d61b1cf) Docs build for branch next: 3f81e458a9fecb379290a62490fd8ce176220f42
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#a39ec15](https://github.com/Garlic-Team/docs/commit/a39ec15) Docs build for branch next: 47e9bc047af3bc54b1da129757d1e9c1acc30a8d
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#bc7cbc3](https://github.com/Garlic-Team/docs/commit/bc7cbc3) Docs build for branch next: a7a196bcad59c7daa03a7e8e4d685d0cbfd36d7b
-* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
-  * [#e0b2172](https://github.com/Garlic-Team/docs/commit/e0b2172) Docs build for branch next: ffbdf240b003dde0055912913cd83aea6a1ededa
+Added Absolute Value to Code folder
+  * [#99c7281](https://github.com/xHyroM/hacktoberfest/commit/99c7281) Update contributors.toml
+  * [#b33d17c](https://github.com/xHyroM/hacktoberfest/commit/b33d17c) Added Absolute Value to Code folder
+* 🔃 Merged [#21 Added Absolute Value to Code folder](https://github.com/xHyroM/hacktoberfest/pull/21) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++6 --1`
+* ➡️ Pushed 1 commit in [YorLecaros/hacktoberfest-1](https://github.com/YorLecaros/hacktoberfest-1) on branch `feature/AbsoluteValue`
+  * [#99c7281](https://github.com/YorLecaros/hacktoberfest-1/commit/99c7281) Update contributors.toml
+* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#ea6de45](https://github.com/xHyroM/hacktoberfest/commit/ea6de45) Merge pull request #22 from NitishPal2013/hacktoberfest
+
+C++ program to Convert temperature units
+  * [#806a2aa](https://github.com/xHyroM/hacktoberfest/commit/806a2aa) Temperature Converter in C++
+  * [#c301e3c](https://github.com/xHyroM/hacktoberfest/commit/c301e3c) Temperature converter in C++.
+* 🔃 Merged [#22 C++ program to Convert temperature units](https://github.com/xHyroM/hacktoberfest/pull/22) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++66 --0`
 
 
 ___
