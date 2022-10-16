@@ -15,24 +15,17 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#fd8ebe2](https://github.com/xHyroM/hykord/commit/fd8ebe2) feat: add stream patch for electron 17+
-
-thanks https://gist.github.com/Vendicated/5e5eee64348ee936349367fe7cedd8c3
-* #️⃣ Opened [#4 Support for new select menu - roles](https://github.com/xHyroM/roles-bot/issues/4) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
-* 🔃 Merged [#16 Create avl_tree.cpp](https://github.com/xHyroM/hacktoberfest/pull/16) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++333 --0`
+  * [#2a9c1a2](https://github.com/xHyroM/hykord/commit/2a9c1a2) refactor: remove findAllByDisplayName
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#c3bd2d2](https://github.com/xHyroM/hykord/commit/c3bd2d2) feat: add findByDisplayName
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#06e23bd](https://github.com/xHyroM/hykord/commit/06e23bd) feat: some work on bd compat
+* 💬 Commented on [#18 Create Kruskal&#39;s_Algorithm.cpp](https://github.com/xHyroM/hacktoberfest/issues/18) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#513b1dc](https://github.com/xHyroM/hacktoberfest/commit/513b1dc) Merge pull request #16 from SaahilSabu/patch-1
+  * [#8cc841f](https://github.com/xHyroM/hacktoberfest/commit/8cc841f) Merge pull request #19 from xdpooja/calculator-py
 
-Create avl_tree.cpp
-  * [#29a0f50](https://github.com/xHyroM/hacktoberfest/commit/29a0f50) Create avl_tree.cpp
-
-code for avl tree in c++
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#292e136](https://github.com/xHyroM/hacktoberfest/commit/292e136) Merge pull request #17 from SaahilSabu/patch-2
-
-Update contributors.toml
-  * [#f6fc363](https://github.com/xHyroM/hacktoberfest/commit/f6fc363) Update contributors.toml
+Python calculator
+  * [#954597e](https://github.com/xHyroM/hacktoberfest/commit/954597e) Python calculator
 
 
 ___
