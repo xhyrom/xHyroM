@@ -14,14 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new repository  [xHyroM/rylen](https://github.com/xHyroM/rylen)
-* 🔃 Opened [#5 refactor: rewrite](https://github.com/xHyroM/roles-bot/pull/5) in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
-  * 50 files changed `++3457 --11519`
-* ⏺️ Created new branch rewrite in [xHyroM/roles-bot](https://github.com/xHyroM/roles-bot)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#2a9c1a2](https://github.com/xHyroM/hykord/commit/2a9c1a2) refactor: remove findAllByDisplayName
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#c3bd2d2](https://github.com/xHyroM/hykord/commit/c3bd2d2) feat: add findByDisplayName
+* ➡️ Pushed 5 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#d04d206](https://github.com/xHyroM/hacktoberfest/commit/d04d206) Merge pull request #20 from NitishPal2013/hacktoberfest
+
+Hacktoberfest
+  * [#1b6c8c3](https://github.com/xHyroM/hacktoberfest/commit/1b6c8c3) Update contributors.toml
+  * [#4008829](https://github.com/xHyroM/hacktoberfest/commit/4008829) Delete config.toml
+  * [#6ee1f27](https://github.com/xHyroM/hacktoberfest/commit/6ee1f27) Added python code for converting  temperature in celsius to  Fahrenheit and config.toml file with details.
+  * [#4eb021c](https://github.com/xHyroM/hacktoberfest/commit/4eb021c) added contributor details
+* 🔃 Merged [#20 Hacktoberfest](https://github.com/xHyroM/hacktoberfest/pull/20) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++8 --0`
+* 🔍 Reviewed [#20 Hacktoberfest](https://github.com/xHyroM/hacktoberfest/pull/20) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 1 commit in [NitishPal2013/hacktoberfest](https://github.com/NitishPal2013/hacktoberfest) on branch `hacktoberfest`
+  * [#1b6c8c3](https://github.com/NitishPal2013/hacktoberfest/commit/1b6c8c3) Update contributors.toml
+* ➡️ Pushed 1 commit in [NitishPal2013/hacktoberfest](https://github.com/NitishPal2013/hacktoberfest) on branch `hacktoberfest`
+  * [#4008829](https://github.com/NitishPal2013/hacktoberfest/commit/4008829) Delete config.toml
 
 
 ___
