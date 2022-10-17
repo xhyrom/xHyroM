@@ -25,14 +25,6 @@ tempatureconversion python program is added with correction check. any Issue com
 Goodday
 * 🔃 Merged [#24 tempatureconversion python program](https://github.com/xHyroM/hacktoberfest/pull/24) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++5 --0`
-* 🔍 Reviewed [#24 tempatureconversion python program](https://github.com/xHyroM/hacktoberfest/pull/24) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#863309c](https://github.com/xHyroM/hacktoberfest/commit/863309c) Merge pull request #25 from Meghwantsingh/patch-1
-
-Update contributors.toml
-  * [#083ec62](https://github.com/xHyroM/hacktoberfest/commit/083ec62) Update contributors.toml
-  * [#d81df32](https://github.com/xHyroM/hacktoberfest/commit/d81df32) Update contributors.toml
-  * [#3cfd117](https://github.com/xHyroM/hacktoberfest/commit/3cfd117) Update contributors.toml
 
 
 ___
