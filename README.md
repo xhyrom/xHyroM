@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#d898ed4](https://github.com/xHyroM/hykord/commit/d898ed4) fix: show modals
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#04704b7](https://github.com/xHyroM/hykord/commit/04704b7) feat: start working on modals
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#5017ddc](https://github.com/xHyroM/hykord/commit/5017ddc) chore: lint
@@ -27,8 +29,6 @@ Create LeetCode-593. Valid Square.cpp
   * [#60487fa](https://github.com/xHyroM/hacktoberfest/commit/60487fa) Create LeetCode-593. Valid Square.cpp
 
 Please add this medium level popular interview from LeetCode asked in various tech rounds.
-* 🔃 Merged [#26 Create LeetCode-593. Valid Square.cpp](https://github.com/xHyroM/hacktoberfest/pull/26) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++13 --0`
 
 
 ___
