@@ -14,17 +14,9 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#14 add function to transform temperature from degrees celsius to degrees…](https://github.com/xHyroM/hacktoberfest/issues/14) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 💬 Commented on [#26 Create LeetCode-593. Valid Square.cpp](https://github.com/xHyroM/hacktoberfest/issues/26) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#6 `set-output` is deprecated](https://github.com/xHyroM/setup-bun/issues/6) from [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#c95f76c](https://github.com/xHyroM/hacktoberfest/commit/c95f76c) Merge pull request #24 from Meghwantsingh/master
-
-tempatureconversion python program
-  * [#d247c96](https://github.com/xHyroM/hacktoberfest/commit/d247c96) tempatureconversion python program
-
-tempatureconversion python program is added with correction check. any Issue comment kindly.
-Goodday
-* 🔃 Merged [#24 tempatureconversion python program](https://github.com/xHyroM/hacktoberfest/pull/24) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++5 --0`
 
 
 ___
