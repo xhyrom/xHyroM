@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#04704b7](https://github.com/xHyroM/hykord/commit/04704b7) feat: start working on modals
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#5017ddc](https://github.com/xHyroM/hykord/commit/5017ddc) chore: lint
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#26e6659](https://github.com/xHyroM/hykord/commit/26e6659) feat: better command api
@@ -27,11 +29,6 @@ Create LeetCode-593. Valid Square.cpp
 Please add this medium level popular interview from LeetCode asked in various tech rounds.
 * 🔃 Merged [#26 Create LeetCode-593. Valid Square.cpp](https://github.com/xHyroM/hacktoberfest/pull/26) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++13 --0`
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#673b415](https://github.com/xHyroM/hacktoberfest/commit/673b415) Merge pull request #27 from Priyanshu88/patch-2
-
-Update contributors.toml
-  * [#1389dde](https://github.com/xHyroM/hacktoberfest/commit/1389dde) Update contributors.toml
 
 
 ___
