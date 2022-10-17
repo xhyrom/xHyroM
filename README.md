@@ -14,9 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#14 add function to transform temperature from degrees celsius to degrees…](https://github.com/xHyroM/hacktoberfest/issues/14) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#26 Create LeetCode-593. Valid Square.cpp](https://github.com/xHyroM/hacktoberfest/issues/26) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#6 `set-output` is deprecated](https://github.com/xHyroM/setup-bun/issues/6) from [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#9d86d22](https://github.com/xHyroM/hykord/commit/9d86d22) feat(PluginInfo): add restartRequired
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#1b21db4](https://github.com/xHyroM/hykord/commit/1b21db4) feat: use Hykord.Settings instead of HykordNative.getManagers().getSettings()
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#975396a](https://github.com/xHyroM/hykord/commit/975396a) chore: fix typo in getMetadata
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#bba779a](https://github.com/xHyroM/hykord/commit/bba779a) feat: add patches condition
+* #️⃣ Opened [#9 Use IPC for all node related things](https://github.com/xHyroM/hykord/issues/9) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
