@@ -15,14 +15,23 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#9d86d22](https://github.com/xHyroM/hykord/commit/9d86d22) feat(PluginInfo): add restartRequired
+  * [#5017ddc](https://github.com/xHyroM/hykord/commit/5017ddc) chore: lint
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#1b21db4](https://github.com/xHyroM/hykord/commit/1b21db4) feat: use Hykord.Settings instead of HykordNative.getManagers().getSettings()
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#975396a](https://github.com/xHyroM/hykord/commit/975396a) chore: fix typo in getMetadata
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#bba779a](https://github.com/xHyroM/hykord/commit/bba779a) feat: add patches condition
-* #️⃣ Opened [#9 Use IPC for all node related things](https://github.com/xHyroM/hykord/issues/9) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+  * [#26e6659](https://github.com/xHyroM/hykord/commit/26e6659) feat: better command api
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#35e7cb5](https://github.com/xHyroM/hacktoberfest/commit/35e7cb5) Merge pull request #26 from Priyanshu88/patch-1
+
+Create LeetCode-593. Valid Square.cpp
+  * [#60487fa](https://github.com/xHyroM/hacktoberfest/commit/60487fa) Create LeetCode-593. Valid Square.cpp
+
+Please add this medium level popular interview from LeetCode asked in various tech rounds.
+* 🔃 Merged [#26 Create LeetCode-593. Valid Square.cpp](https://github.com/xHyroM/hacktoberfest/pull/26) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++13 --0`
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#673b415](https://github.com/xHyroM/hacktoberfest/commit/673b415) Merge pull request #27 from Priyanshu88/patch-2
+
+Update contributors.toml
+  * [#1389dde](https://github.com/xHyroM/hacktoberfest/commit/1389dde) Update contributors.toml
 
 
 ___
