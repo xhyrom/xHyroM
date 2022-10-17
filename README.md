@@ -14,23 +14,25 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 `set-output` is deprecated](https://github.com/xHyroM/setup-bun/issues/6) from [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#2f166b7](https://github.com/xHyroM/hacktoberfest/commit/2f166b7) Merge pull request #23 from NitishPal2013/hacktoberfest
+  * [#c95f76c](https://github.com/xHyroM/hacktoberfest/commit/c95f76c) Merge pull request #24 from Meghwantsingh/master
 
-21 MatchStick game in C language.
-  * [#8a74c41](https://github.com/xHyroM/hacktoberfest/commit/8a74c41) 21 MatchStick game in C language.
-* 🔃 Merged [#23 21 MatchStick game in C language.](https://github.com/xHyroM/hacktoberfest/pull/23) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++29 --0`
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5e17626](https://github.com/xHyroM/hykord/commit/5e17626) chore: lint
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#e422553](https://github.com/xHyroM/hykord/commit/e422553) feat: implement Addon - search
-* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#bfc4156](https://github.com/xHyroM/hacktoberfest/commit/bfc4156) Merge pull request #21 from YorLecaros/feature/AbsoluteValue
+tempatureconversion python program
+  * [#d247c96](https://github.com/xHyroM/hacktoberfest/commit/d247c96) tempatureconversion python program
 
-Added Absolute Value to Code folder
-  * [#99c7281](https://github.com/xHyroM/hacktoberfest/commit/99c7281) Update contributors.toml
-  * [#b33d17c](https://github.com/xHyroM/hacktoberfest/commit/b33d17c) Added Absolute Value to Code folder
+tempatureconversion python program is added with correction check. any Issue comment kindly.
+Goodday
+* 🔃 Merged [#24 tempatureconversion python program](https://github.com/xHyroM/hacktoberfest/pull/24) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++5 --0`
+* 🔍 Reviewed [#24 tempatureconversion python program](https://github.com/xHyroM/hacktoberfest/pull/24) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#863309c](https://github.com/xHyroM/hacktoberfest/commit/863309c) Merge pull request #25 from Meghwantsingh/patch-1
+
+Update contributors.toml
+  * [#083ec62](https://github.com/xHyroM/hacktoberfest/commit/083ec62) Update contributors.toml
+  * [#d81df32](https://github.com/xHyroM/hacktoberfest/commit/d81df32) Update contributors.toml
+  * [#3cfd117](https://github.com/xHyroM/hacktoberfest/commit/3cfd117) Update contributors.toml
 
 
 ___
