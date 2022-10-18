@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#33 hangman game](https://github.com/xHyroM/hacktoberfest/issues/33) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/issues/28) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
@@ -23,7 +24,6 @@ SquareRoot finding program in C language
   * [#2651f92](https://github.com/xHyroM/hacktoberfest/commit/2651f92) SquareRoot finding program in C language
 * 🔃 Merged [#30 SquareRoot finding program in C language](https://github.com/xHyroM/hacktoberfest/pull/30) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++27 --0`
-* 🔍 Reviewed [#30 SquareRoot finding program in C language](https://github.com/xHyroM/hacktoberfest/pull/30) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
