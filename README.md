@@ -14,21 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#d898ed4](https://github.com/xHyroM/hykord/commit/d898ed4) fix: show modals
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#04704b7](https://github.com/xHyroM/hykord/commit/04704b7) feat: start working on modals
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#5017ddc](https://github.com/xHyroM/hykord/commit/5017ddc) chore: lint
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#26e6659](https://github.com/xHyroM/hykord/commit/26e6659) feat: better command api
+* 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 💬 Commented on [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/issues/28) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#35e7cb5](https://github.com/xHyroM/hacktoberfest/commit/35e7cb5) Merge pull request #26 from Priyanshu88/patch-1
+  * [#19d8896](https://github.com/xHyroM/hacktoberfest/commit/19d8896) Merge pull request #30 from NitishPal2013/hacktoberfest
 
-Create LeetCode-593. Valid Square.cpp
-  * [#60487fa](https://github.com/xHyroM/hacktoberfest/commit/60487fa) Create LeetCode-593. Valid Square.cpp
-
-Please add this medium level popular interview from LeetCode asked in various tech rounds.
+SquareRoot finding program in C language
+  * [#2651f92](https://github.com/xHyroM/hacktoberfest/commit/2651f92) SquareRoot finding program in C language
+* 🔃 Merged [#30 SquareRoot finding program in C language](https://github.com/xHyroM/hacktoberfest/pull/30) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++27 --0`
+* 🔍 Reviewed [#30 SquareRoot finding program in C language](https://github.com/xHyroM/hacktoberfest/pull/30) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 
 
 ___
