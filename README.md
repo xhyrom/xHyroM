@@ -14,15 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#1ed8c1d](https://github.com/xHyroM/hykord/commit/1ed8c1d) feat: add addon informations - not finished
 * 💬 Commented on [#25 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/issues/25) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#33 hangman game](https://github.com/xHyroM/hacktoberfest/issues/33) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/issues/28) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#19d8896](https://github.com/xHyroM/hacktoberfest/commit/19d8896) Merge pull request #30 from NitishPal2013/hacktoberfest
-
-SquareRoot finding program in C language
-  * [#2651f92](https://github.com/xHyroM/hacktoberfest/commit/2651f92) SquareRoot finding program in C language
 
 
 ___
