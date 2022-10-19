@@ -14,12 +14,20 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#1ed8c1d](https://github.com/xHyroM/hykord/commit/1ed8c1d) feat: add addon informations - not finished
-* 💬 Commented on [#25 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/issues/25) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#33 hangman game](https://github.com/xHyroM/hacktoberfest/issues/33) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 💬 Commented on [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/issues/34) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/issues/28) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#f2c4371](https://github.com/xHyroM/hacktoberfest/commit/f2c4371) Merge pull request #28 from Vmaddikera/patch-1
+
+Why do you think Billionaires are funding the massive treasure hunts in Greenland?
+  * [#f98da8e](https://github.com/xHyroM/hacktoberfest/commit/f98da8e) Create Article
+* 🔃 Merged [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/pull/28) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++8 --0`
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#4a115b1](https://github.com/xHyroM/hacktoberfest/commit/4a115b1) Merge pull request #35 from Vmaddikera/patch-3
+
+Update contributors.toml
+  * [#882fa8f](https://github.com/xHyroM/hacktoberfest/commit/882fa8f) Update contributors.toml
 
 
 ___
