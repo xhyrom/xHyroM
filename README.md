@@ -14,20 +14,25 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/issues/34) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#f2c4371](https://github.com/xHyroM/hacktoberfest/commit/f2c4371) Merge pull request #28 from Vmaddikera/patch-1
+* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#5efcfca](https://github.com/xHyroM/hacktoberfest/commit/5efcfca) Merge pull request #34 from Kratika2314/master
 
-Why do you think Billionaires are funding the massive treasure hunts in Greenland?
-  * [#f98da8e](https://github.com/xHyroM/hacktoberfest/commit/f98da8e) Create Article
-* 🔃 Merged [#28 Why do you think Billionaires are funding the massive treasure hunts in Greenland?](https://github.com/xHyroM/hacktoberfest/pull/28) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++8 --0`
+Tic Tac Toe Game
+  * [#6624d4d](https://github.com/xHyroM/hacktoberfest/commit/6624d4d) Merge pull request #1 from Kratika2314/Kratika2314-patch-1
+
+Rock Paper Scissors
+  * [#3adf7a7](https://github.com/xHyroM/hacktoberfest/commit/3adf7a7) Rock Paper Scissors
+  * [#6b322b9](https://github.com/xHyroM/hacktoberfest/commit/6b322b9) Add files via upload
+* 🔃 Merged [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/pull/34) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++213 --0`
+* 🔍 Reviewed [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/pull/34) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#4a115b1](https://github.com/xHyroM/hacktoberfest/commit/4a115b1) Merge pull request #35 from Vmaddikera/patch-3
+  * [#7f02b42](https://github.com/xHyroM/hacktoberfest/commit/7f02b42) Merge pull request #37 from Kratika2314/patch-1
 
 Update contributors.toml
-  * [#882fa8f](https://github.com/xHyroM/hacktoberfest/commit/882fa8f) Update contributors.toml
+  * [#17cb465](https://github.com/xHyroM/hacktoberfest/commit/17cb465) Update contributors.toml
+* 🔃 Merged [#37 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/37) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++1 --0`
 
 
 ___
