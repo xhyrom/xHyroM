@@ -14,25 +14,22 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 4 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#5efcfca](https://github.com/xHyroM/hacktoberfest/commit/5efcfca) Merge pull request #34 from Kratika2314/master
+* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#6dfe7e5](https://github.com/xHyroM/hacktoberfest/commit/6dfe7e5) Merge pull request #38 from gobar07/master
 
-Tic Tac Toe Game
-  * [#6624d4d](https://github.com/xHyroM/hacktoberfest/commit/6624d4d) Merge pull request #1 from Kratika2314/Kratika2314-patch-1
-
-Rock Paper Scissors
-  * [#3adf7a7](https://github.com/xHyroM/hacktoberfest/commit/3adf7a7) Rock Paper Scissors
-  * [#6b322b9](https://github.com/xHyroM/hacktoberfest/commit/6b322b9) Add files via upload
-* 🔃 Merged [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/pull/34) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 2 files changed `++213 --0`
-* 🔍 Reviewed [#34 Tic Tac Toe Game](https://github.com/xHyroM/hacktoberfest/pull/34) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+Added URL Shortner in Python
+  * [#fa818cf](https://github.com/xHyroM/hacktoberfest/commit/fa818cf) URL Shortner in Python
+  * [#dfcd85b](https://github.com/xHyroM/hacktoberfest/commit/dfcd85b) Update contributors.toml
+* 🔃 Merged [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 2 files changed `++9 --0`
+* 🔍 Reviewed [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#7f02b42](https://github.com/xHyroM/hacktoberfest/commit/7f02b42) Merge pull request #37 from Kratika2314/patch-1
+  * [#08a06d0](https://github.com/xHyroM/hacktoberfest/commit/08a06d0) Merge pull request #39 from NitishPal2013/hacktoberfest
 
-Update contributors.toml
-  * [#17cb465](https://github.com/xHyroM/hacktoberfest/commit/17cb465) Update contributors.toml
-* 🔃 Merged [#37 Update contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/37) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++1 --0`
+Program in C language for Ascii Characters table
+  * [#a8b0415](https://github.com/xHyroM/hacktoberfest/commit/a8b0415) Program in C language for Ascii Characters table
+* 🔃 Merged [#39 Program in C language for Ascii Characters table](https://github.com/xHyroM/hacktoberfest/pull/39) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++25 --0`
 
 
 ___
