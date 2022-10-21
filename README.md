@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* 💬 Commented on [#40 Rust](https://github.com/xHyroM/hacktoberfest/issues/40) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#6dfe7e5](https://github.com/xHyroM/hacktoberfest/commit/6dfe7e5) Merge pull request #38 from gobar07/master
 
@@ -23,13 +25,6 @@ Added URL Shortner in Python
 * 🔃 Merged [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 2 files changed `++9 --0`
 * 🔍 Reviewed [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#08a06d0](https://github.com/xHyroM/hacktoberfest/commit/08a06d0) Merge pull request #39 from NitishPal2013/hacktoberfest
-
-Program in C language for Ascii Characters table
-  * [#a8b0415](https://github.com/xHyroM/hacktoberfest/commit/a8b0415) Program in C language for Ascii Characters table
-* 🔃 Merged [#39 Program in C language for Ascii Characters table](https://github.com/xHyroM/hacktoberfest/pull/39) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++25 --0`
 
 
 ___
