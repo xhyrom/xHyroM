@@ -14,17 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* 💬 Commented on [#29 Make a Calculator using C++](https://github.com/xHyroM/hacktoberfest/issues/29) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* 💬 Commented on [#40 Rust](https://github.com/xHyroM/hacktoberfest/issues/40) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 3 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#6dfe7e5](https://github.com/xHyroM/hacktoberfest/commit/6dfe7e5) Merge pull request #38 from gobar07/master
-
-Added URL Shortner in Python
-  * [#fa818cf](https://github.com/xHyroM/hacktoberfest/commit/fa818cf) URL Shortner in Python
-  * [#dfcd85b](https://github.com/xHyroM/hacktoberfest/commit/dfcd85b) Update contributors.toml
-* 🔃 Merged [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 2 files changed `++9 --0`
-* 🔍 Reviewed [#38 Added URL Shortner in Python ](https://github.com/xHyroM/hacktoberfest/pull/38) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#d71862f](https://github.com/xHyroM/hykord/commit/d71862f) refactor(Patcher): move plugin argument before patches
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#aeca31c](https://github.com/xHyroM/hykord/commit/aeca31c) feat: move patches into Hykord.Patcher &amp; add patchPlaintext
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#a400875](https://github.com/xHyroM/hykord/commit/a400875) fix: correct devtools loading
+* #️⃣ Closed [#9 Use IPC for all node related things](https://github.com/xHyroM/hykord/issues/9) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#6bd2504](https://github.com/xHyroM/hykord/commit/6bd2504) chore: lint
 
 
 ___
