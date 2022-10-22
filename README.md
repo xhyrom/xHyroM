@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
+  * [#4f2251a](https://github.com/xHyroM/hykord/commit/4f2251a) feat: add Hykord.Modules
+* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#d71862f](https://github.com/xHyroM/hykord/commit/d71862f) refactor(Patcher): move plugin argument before patches
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#aeca31c](https://github.com/xHyroM/hykord/commit/aeca31c) feat: move patches into Hykord.Patcher &amp; add patchPlaintext
 * ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
   * [#a400875](https://github.com/xHyroM/hykord/commit/a400875) fix: correct devtools loading
 * #️⃣ Closed [#9 Use IPC for all node related things](https://github.com/xHyroM/hykord/issues/9) in [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#6bd2504](https://github.com/xHyroM/hykord/commit/6bd2504) chore: lint
 
 
 ___
