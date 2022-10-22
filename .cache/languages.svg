@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.7483085313072" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="345.7483085313072" y="0" width="338.93511551978787" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="684.6834240510951" y="0" width="161.52197219087546" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="846.2053962419706" y="0" width="49.954292774271366" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="896.1596890162418" y="0" width="23.840310983758116" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.4417599995059" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="345.4417599995059" y="0" width="338.63460772416096" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="684.0763677236667" y="0" width="162.19445653885703" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="846.2708242625239" y="0" width="49.91000213067524" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="896.1808263931991" y="0" width="23.819173606800867" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>972 kB</div>
-                                <div>37.58%</div>
+                                <div>37.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>953 kB</div>
-                                <div>36.84%</div>
+                                <div>36.81%</div>
                             </small>
                         </div>
                     </section>
@@ -77,8 +77,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>454 kB</div>
-                                <div>17.56%</div>
+                                <div>456 kB</div>
+                                <div>17.63%</div>
                             </small>
                         </div>
                     </section>
