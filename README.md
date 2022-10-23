@@ -14,16 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#0de8cef](https://github.com/xHyroM/hykord/commit/0de8cef) feat: add no devtools warning plugin
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#4f2251a](https://github.com/xHyroM/hykord/commit/4f2251a) feat: add Hykord.Modules
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#d71862f](https://github.com/xHyroM/hykord/commit/d71862f) refactor(Patcher): move plugin argument before patches
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#aeca31c](https://github.com/xHyroM/hykord/commit/aeca31c) feat: move patches into Hykord.Patcher &amp; add patchPlaintext
-* ➡️ Pushed 1 commit in [xHyroM/hykord](https://github.com/xHyroM/hykord) on branch `main`
-  * [#a400875](https://github.com/xHyroM/hykord/commit/a400875) fix: correct devtools loading
+* ➡️ Pushed 1 commit in [xHyroM/things](https://github.com/xHyroM/things) on branch `master`
+  * [#2b99007](https://github.com/xHyroM/things/commit/2b99007) feat: add few repositories
+* ➡️ Pushed 1 commit in [xHyroM/things](https://github.com/xHyroM/things) on branch `master`
+  * [#9cebe2b](https://github.com/xHyroM/things/commit/9cebe2b) feat: add typing test, xeon
+* ⏺️ Created new branch master in [xHyroM/things](https://github.com/xHyroM/things)
+* ⏺️ Created new branch main in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation)
+* ⏺️ Created new repository  [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation)
 
 
 ___
