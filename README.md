@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
+  * [#8b8e083](https://github.com/xHyroM/frogawee/commit/8b8e083) chore: add TODO comments
+* ⏺️ Created new branch main in [xHyroM/frogawee](https://github.com/xHyroM/frogawee)
+* ⏺️ Created new repository  [xHyroM/frogawee](https://github.com/xHyroM/frogawee)
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#e88abcc](https://github.com/xHyroM/hacktoberfest/commit/e88abcc) Merge pull request #41 from Anushka-Singh1/master
 
@@ -21,11 +25,6 @@ AI-revolution
   * [#8901548](https://github.com/xHyroM/hacktoberfest/commit/8901548) AI-revolution
 * 🔃 Merged [#41 AI-revolution](https://github.com/xHyroM/hacktoberfest/pull/41) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 2 files changed `++57 --0`
-* 🔍 Reviewed [#41 AI-revolution](https://github.com/xHyroM/hacktoberfest/pull/41) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 1 commit in [xHyroM/things](https://github.com/xHyroM/things) on branch `master`
-  * [#2b99007](https://github.com/xHyroM/things/commit/2b99007) feat: add few repositories
-* ➡️ Pushed 1 commit in [xHyroM/things](https://github.com/xHyroM/things) on branch `master`
-  * [#9cebe2b](https://github.com/xHyroM/things/commit/9cebe2b) feat: add typing test, xeon
 
 
 ___
