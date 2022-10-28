@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
+  * [#0926312](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/0926312) feat: add db
 * 🔃 Closed [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/pull/43) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++40 --0`
 * 💬 Commented on [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/issues/43) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
@@ -26,8 +28,6 @@ Added Ceasor Cipher program in c++
   * [#abd7a5c](https://github.com/xHyroM/hacktoberfest/commit/abd7a5c) Added Ceasor Cipher program in c++
 
 Ceasor Cipher program in c++.
-* 🔃 Merged [#42 Added Ceasor Cipher program in c++](https://github.com/xHyroM/hacktoberfest/pull/42) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++44 --0`
 
 
 ___
