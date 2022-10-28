@@ -14,6 +14,9 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Closed [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/pull/43) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++40 --0`
+* 💬 Commented on [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/issues/43) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#730c5cf](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/730c5cf) feat: some improvements
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
@@ -25,9 +28,6 @@ Added Ceasor Cipher program in c++
 Ceasor Cipher program in c++.
 * 🔃 Merged [#42 Added Ceasor Cipher program in c++](https://github.com/xHyroM/hacktoberfest/pull/42) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++44 --0`
-* 🔍 Reviewed [#42 Added Ceasor Cipher program in c++](https://github.com/xHyroM/hacktoberfest/pull/42) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
-  * [#8b8e083](https://github.com/xHyroM/frogawee/commit/8b8e083) chore: add TODO comments
 
 
 ___
