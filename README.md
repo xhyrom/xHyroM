@@ -15,19 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
+  * [#3b4b04c](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/3b4b04c) feat: add player saving
+* ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#0926312](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/0926312) feat: add db
 * 🔃 Closed [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/pull/43) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++40 --0`
 * 💬 Commented on [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/issues/43) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#730c5cf](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/730c5cf) feat: some improvements
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#3f3ca6d](https://github.com/xHyroM/hacktoberfest/commit/3f3ca6d) Merge pull request #42 from NitishPal2013/hacktoberfest
-
-Added Ceasor Cipher program in c++
-  * [#abd7a5c](https://github.com/xHyroM/hacktoberfest/commit/abd7a5c) Added Ceasor Cipher program in c++
-
-Ceasor Cipher program in c++.
 
 
 ___
