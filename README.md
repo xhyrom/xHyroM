@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#6 `set-output` is deprecated](https://github.com/xHyroM/setup-bun/issues/6) from [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#3b4b04c](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/3b4b04c) feat: add player saving
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
@@ -21,8 +22,6 @@ ___
 * 🔃 Closed [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/pull/43) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++40 --0`
 * 💬 Commented on [#43 Create Calculator.cpp](https://github.com/xHyroM/hacktoberfest/issues/43) from [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
-  * [#730c5cf](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/730c5cf) feat: some improvements
 
 
 ___
