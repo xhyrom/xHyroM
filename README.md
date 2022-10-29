@@ -14,10 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ⏺️ Created new repository  [Mr-Infinity-Bot/monorepo](https://github.com/Mr-Infinity-Bot/monorepo)
-* ⏺️ Created new repository  [Mr-Infinity-Bot/modules](https://github.com/Mr-Infinity-Bot/modules)
-* ⏺️ Created new tag v0.1.8 in [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
-* 📦 Released **v0.1.8** of [xHyroM/setup-bun](https://github.com/xHyroM/setup-bun)
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/modules](https://github.com/Mr-Infinity-Bot/modules) on branch `main`
+  * [#df7ce1c](https://github.com/Mr-Infinity-Bot/modules/commit/df7ce1c) Update package.json
+* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/modules](https://github.com/Mr-Infinity-Bot/modules) on branch `main`
+  * [#2743e7f](https://github.com/Mr-Infinity-Bot/modules/commit/2743e7f) Create package.json
+* ⏺️ Created new branch main in [Mr-Infinity-Bot/monorepo](https://github.com/Mr-Infinity-Bot/monorepo)
+* ⏺️ Created new repository  [Mr-Infinity-Bot/commands](https://github.com/Mr-Infinity-Bot/commands)
+* ⏺️ Created new branch main in [Mr-Infinity-Bot/modules](https://github.com/Mr-Infinity-Bot/modules)
 
 
 ___
