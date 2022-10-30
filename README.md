@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
+  * [#fcd9b3b](https://github.com/xHyroM/frogawee/commit/fcd9b3b) feat: updates
+* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
   * [#c4939ec](https://github.com/xHyroM/frogawee/commit/c4939ec) feat: add prisma
 * ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
   * [#13a1793](https://github.com/xHyroM/frogawee/commit/13a1793) feat: improvements
 * ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
   * [#35f4c81](https://github.com/xHyroM/frogawee/commit/35f4c81) chore: prettier
 * 💬 Commented on [#175 Vencord Not Working on Latest Canary](https://github.com/Vendicated/Vencord/issues/175) from [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/monorepo](https://github.com/Mr-Infinity-Bot/monorepo) on branch `main`
-  * [#ef5faa0](https://github.com/Mr-Infinity-Bot/monorepo/commit/ef5faa0) feat: updates
 
 
 ___
