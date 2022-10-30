@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
+  * [#834e623](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/834e623) feat: finish
+* ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#0de8eb8](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/0de8eb8) feat: updates
 * ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
   * [#a109098](https://github.com/xHyroM/frogawee/commit/a109098) feat: classes
@@ -22,8 +24,6 @@ ___
   * [#fcd9b3b](https://github.com/xHyroM/frogawee/commit/fcd9b3b) feat: updates
 * ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
   * [#c4939ec](https://github.com/xHyroM/frogawee/commit/c4939ec) feat: add prisma
-* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
-  * [#13a1793](https://github.com/xHyroM/frogawee/commit/13a1793) feat: improvements
 
 
 ___
