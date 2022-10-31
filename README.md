@@ -15,13 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#925798c](https://github.com/xHyroM/frog/commit/925798c) feat: add language enum
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#20ae4ce](https://github.com/xHyroM/frog/commit/20ae4ce) feat(core): config parser
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#844f86d](https://github.com/xHyroM/frog/commit/844f86d) feat: implement logger
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#e8dba6c](https://github.com/xHyroM/frog/commit/e8dba6c) chore: add readme
 * ⏺️ Created new branch main in [xHyroM/frog](https://github.com/xHyroM/frog)
-* ⏺️ Created new repository  [xHyroM/frog](https://github.com/xHyroM/frog)
-* ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
-  * [#834e623](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/834e623) feat: finish
 
 
 ___
