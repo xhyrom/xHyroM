@@ -14,16 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#e8dba6c](https://github.com/xHyroM/frog/commit/e8dba6c) chore: add readme
+* ⏺️ Created new branch main in [xHyroM/frog](https://github.com/xHyroM/frog)
+* ⏺️ Created new repository  [xHyroM/frog](https://github.com/xHyroM/frog)
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#834e623](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/834e623) feat: finish
 * ➡️ Pushed 1 commit in [xhyrom-utils/okkkkkkkkkk-annihilation](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation) on branch `main`
   * [#0de8eb8](https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation/commit/0de8eb8) feat: updates
-* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
-  * [#a109098](https://github.com/xHyroM/frogawee/commit/a109098) feat: classes
-* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
-  * [#fcd9b3b](https://github.com/xHyroM/frogawee/commit/fcd9b3b) feat: updates
-* ➡️ Pushed 1 commit in [xHyroM/frogawee](https://github.com/xHyroM/frogawee) on branch `main`
-  * [#c4939ec](https://github.com/xHyroM/frogawee/commit/c4939ec) feat: add prisma
 
 
 ___
