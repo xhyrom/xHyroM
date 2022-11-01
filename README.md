@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#48b2073](https://github.com/xHyroM/frog/commit/48b2073) feat: version command
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#c26e915](https://github.com/xHyroM/frog/commit/c26e915) feat: use env
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#925798c](https://github.com/xHyroM/frog/commit/925798c) feat: add language enum
@@ -22,8 +24,6 @@ ___
   * [#20ae4ce](https://github.com/xHyroM/frog/commit/20ae4ce) feat(core): config parser
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#844f86d](https://github.com/xHyroM/frog/commit/844f86d) feat: implement logger
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#e8dba6c](https://github.com/xHyroM/frog/commit/e8dba6c) chore: add readme
 
 
 ___
