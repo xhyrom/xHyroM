@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#9792b94](https://github.com/xHyroM/frog/commit/9792b94) chore: move lang from core to lang pkg
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#20e8627](https://github.com/xHyroM/frog/commit/20e8627) feat(core): add logger as dep, use in parser
+
+ONLY FOR PARSER ERRORS
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#00f993a](https://github.com/xHyroM/frog/commit/00f993a) feat(core): add new config parsing
 * ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
   * [#09ffbea](https://github.com/xHyroM/hacktoberfest/commit/09ffbea) Merge pull request #45 from DaneeSkripter/master
 
@@ -21,14 +29,6 @@ Add game for microbit
   * [#4305265](https://github.com/xHyroM/hacktoberfest/commit/4305265) Add game for microbit
 * 🔃 Merged [#45 Add game for microbit](https://github.com/xHyroM/hacktoberfest/pull/45) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
   * 1 file changed `++47 --0`
-* 🔍 Reviewed [#45 Add game for microbit](https://github.com/xHyroM/hacktoberfest/pull/45) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#6ba0b3a](https://github.com/xHyroM/hacktoberfest/commit/6ba0b3a) Merge pull request #44 from DaneeSkripter/patch-1
-
-Add DaneeSkripter to contributors.toml
-  * [#2543549](https://github.com/xHyroM/hacktoberfest/commit/2543549) Add DaneeSkripter to contributors.toml
-* 🔃 Merged [#44 Add DaneeSkripter to contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/44) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++1 --1`
 
 
 ___
