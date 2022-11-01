@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [oxetene/sos](https://github.com/oxetene/sos)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#9792b94](https://github.com/xHyroM/frog/commit/9792b94) chore: move lang from core to lang pkg
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
@@ -27,8 +28,6 @@ ONLY FOR PARSER ERRORS
 
 Add game for microbit
   * [#4305265](https://github.com/xHyroM/hacktoberfest/commit/4305265) Add game for microbit
-* 🔃 Merged [#45 Add game for microbit](https://github.com/xHyroM/hacktoberfest/pull/45) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
-  * 1 file changed `++47 --0`
 
 
 ___
