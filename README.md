@@ -14,16 +14,21 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#48b2073](https://github.com/xHyroM/frog/commit/48b2073) feat: version command
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#c26e915](https://github.com/xHyroM/frog/commit/c26e915) feat: use env
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#925798c](https://github.com/xHyroM/frog/commit/925798c) feat: add language enum
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#20ae4ce](https://github.com/xHyroM/frog/commit/20ae4ce) feat(core): config parser
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#844f86d](https://github.com/xHyroM/frog/commit/844f86d) feat: implement logger
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#09ffbea](https://github.com/xHyroM/hacktoberfest/commit/09ffbea) Merge pull request #45 from DaneeSkripter/master
+
+Add game for microbit
+  * [#4305265](https://github.com/xHyroM/hacktoberfest/commit/4305265) Add game for microbit
+* 🔃 Merged [#45 Add game for microbit](https://github.com/xHyroM/hacktoberfest/pull/45) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++47 --0`
+* 🔍 Reviewed [#45 Add game for microbit](https://github.com/xHyroM/hacktoberfest/pull/45) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
+  * [#6ba0b3a](https://github.com/xHyroM/hacktoberfest/commit/6ba0b3a) Merge pull request #44 from DaneeSkripter/patch-1
+
+Add DaneeSkripter to contributors.toml
+  * [#2543549](https://github.com/xHyroM/hacktoberfest/commit/2543549) Add DaneeSkripter to contributors.toml
+* 🔃 Merged [#44 Add DaneeSkripter to contributors.toml](https://github.com/xHyroM/hacktoberfest/pull/44) in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest)
+  * 1 file changed `++1 --1`
 
 
 ___
