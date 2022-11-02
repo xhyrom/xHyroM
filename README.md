@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#441e9ea](https://github.com/xHyroM/frog/commit/441e9ea) refactor: new lang parsing, lexing, evaluator
 * 🌟 Starred [oxetene/sos](https://github.com/oxetene/sos)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#9792b94](https://github.com/xHyroM/frog/commit/9792b94) chore: move lang from core to lang pkg
@@ -23,11 +25,6 @@ ___
 ONLY FOR PARSER ERRORS
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#00f993a](https://github.com/xHyroM/frog/commit/00f993a) feat(core): add new config parsing
-* ➡️ Pushed 2 commits in [xHyroM/hacktoberfest](https://github.com/xHyroM/hacktoberfest) on branch `master`
-  * [#09ffbea](https://github.com/xHyroM/hacktoberfest/commit/09ffbea) Merge pull request #45 from DaneeSkripter/master
-
-Add game for microbit
-  * [#4305265](https://github.com/xHyroM/hacktoberfest/commit/4305265) Add game for microbit
 
 
 ___
