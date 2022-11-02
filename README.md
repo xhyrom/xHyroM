@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#bba9246](https://github.com/xHyroM/frog/commit/bba9246) feat(cli): support args in task, feat(lang): support char type and bash function
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#441e9ea](https://github.com/xHyroM/frog/commit/441e9ea) refactor: new lang parsing, lexing, evaluator
 * 🌟 Starred [oxetene/sos](https://github.com/oxetene/sos)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
@@ -23,8 +25,6 @@ ___
   * [#20e8627](https://github.com/xHyroM/frog/commit/20e8627) feat(core): add logger as dep, use in parser
 
 ONLY FOR PARSER ERRORS
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#00f993a](https://github.com/xHyroM/frog/commit/00f993a) feat(core): add new config parsing
 
 
 ___
