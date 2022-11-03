@@ -14,15 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#126e053](https://github.com/xHyroM/frog/commit/126e053) fix(lang): dont return illegal token in consume_char
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#bba9246](https://github.com/xHyroM/frog/commit/bba9246) feat(cli): support args in task, feat(lang): support char type and bash function
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#441e9ea](https://github.com/xHyroM/frog/commit/441e9ea) refactor: new lang parsing, lexing, evaluator
-* 🌟 Starred [oxetene/sos](https://github.com/oxetene/sos)
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#9792b94](https://github.com/xHyroM/frog/commit/9792b94) chore: move lang from core to lang pkg
+* #️⃣ Opened [#8 [INP] xHyroM/chore/remove-unecessary-unecessary](https://github.com/xhyrom-forks/bun/issues/8) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
+* 🔃 Opened [#1457 chore: remove unecessary files](https://github.com/oven-sh/bun/pull/1457) in [oven-sh/bun](https://github.com/oven-sh/bun)
+  * 2 files changed `++0 --118`
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `chore/remove-unecessary-unecessary`
+  * [#6ab017f](https://github.com/xhyrom-forks/bun/commit/6ab017f) Delete labels.yml
+* ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `chore/remove-unecessary-unecessary`
+  * [#2e05afb](https://github.com/xhyrom-forks/bun/commit/2e05afb) Delete labeler.yml
+* ⏺️ Created new branch chore/remove-unecessary-unecessary in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 
 
 ___
