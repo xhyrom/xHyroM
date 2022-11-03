@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#1 Add register_workspace](https://github.com/xHyroM/frog/issues/1) in [xHyroM/frog](https://github.com/xHyroM/frog)
 * #️⃣ Opened [#8 [INP] xHyroM/chore/remove-unecessary-unecessary](https://github.com/xhyrom-forks/bun/issues/8) in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * 🔃 Opened [#1457 chore: remove unecessary files](https://github.com/oven-sh/bun/pull/1457) in [oven-sh/bun](https://github.com/oven-sh/bun)
   * 2 files changed `++0 --118`
@@ -21,7 +22,6 @@ ___
   * [#6ab017f](https://github.com/xhyrom-forks/bun/commit/6ab017f) Delete labels.yml
 * ➡️ Pushed 1 commit in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `chore/remove-unecessary-unecessary`
   * [#2e05afb](https://github.com/xhyrom-forks/bun/commit/2e05afb) Delete labeler.yml
-* ⏺️ Created new branch chore/remove-unecessary-unecessary in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 
 
 ___
