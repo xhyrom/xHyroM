@@ -1017,10 +1017,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2541966426858515 0,1.2541966426858513 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2541966426858513 1.7,2.2541966426858515 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.73621103117506)">
+                            <g transform="translate(-6.8, 9.741007194244604)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.26378896882494 0,1.2637889688249402 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2637889688249402 1.7,2.26378896882494 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.258992805755396 0,1.2589928057553956 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2589928057553956 1.7,2.258992805755396 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.683453237410072)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
