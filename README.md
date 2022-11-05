@@ -14,14 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#a94d0c5](https://github.com/xHyroM/frog/commit/a94d0c5) fix(core): use fun not task
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#715e434](https://github.com/xHyroM/frog/commit/715e434) refactor: remove unnecessary things
 * #️⃣ Closed [#1 Add register_workspace](https://github.com/xHyroM/frog/issues/1) in [xHyroM/frog](https://github.com/xHyroM/frog)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#523684c](https://github.com/xHyroM/frog/commit/523684c) chore: fmt
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#76a7bd2](https://github.com/xHyroM/frog/commit/76a7bd2) feat: simple monorepo support
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#72f67f8](https://github.com/xHyroM/frog/commit/72f67f8) feat: better config finder
-* #️⃣ Opened [#1 Add register_workspace](https://github.com/xHyroM/frog/issues/1) in [xHyroM/frog](https://github.com/xHyroM/frog)
 
 
 ___
