@@ -15,14 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#9506c7f](https://github.com/xHyroM/frog/commit/9506c7f) feat: mini changes
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#2c93b29](https://github.com/xHyroM/frog/commit/2c93b29) feat: create vscode extensio
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#ea2bd44](https://github.com/xHyroM/frog/commit/ea2bd44) refactor: *
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#a94d0c5](https://github.com/xHyroM/frog/commit/a94d0c5) fix(core): use fun not task
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#715e434](https://github.com/xHyroM/frog/commit/715e434) refactor: remove unnecessary things
-* #️⃣ Closed [#1 Add register_workspace](https://github.com/xHyroM/frog/issues/1) in [xHyroM/frog](https://github.com/xHyroM/frog)
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#523684c](https://github.com/xHyroM/frog/commit/523684c) chore: fmt
 
 
 ___
