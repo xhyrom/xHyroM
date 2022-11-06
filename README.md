@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#9bba439](https://github.com/xHyroM/xHyroM/commit/9bba439) Update Metrics.yml
 * ⏺️ Created new repository  [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#0b0ca7a](https://github.com/xHyroM/frog/commit/0b0ca7a) feat: use print! instead println!
@@ -21,8 +23,6 @@ ___
   * [#880c44f](https://github.com/xHyroM/frog/commit/880c44f) feat: more math functions, allow numbers in function name
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#8f456ae](https://github.com/xHyroM/frog/commit/8f456ae) refactor: rename builtins_x to builtin_x
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#a4d8ef3](https://github.com/xHyroM/frog/commit/a4d8ef3) feat: add pub keyword, allow compare string in if
 
 
 ___
