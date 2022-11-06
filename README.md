@@ -14,14 +14,15 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#90e7cfc](https://github.com/xHyroM/frog/commit/90e7cfc) chore: fmt
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#43d5ca1](https://github.com/xHyroM/frog/commit/43d5ca1) feat: run every import in separate env
 * #️⃣ Opened [#3 allow anonymous functions](https://github.com/xHyroM/frog/issues/3) in [xHyroM/frog](https://github.com/xHyroM/frog)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#a53f132](https://github.com/xHyroM/frog/commit/a53f132) feat: module namespaces (built-in, like math.x)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#cd1b507](https://github.com/xHyroM/frog/commit/cd1b507) feat: support dot notation acess
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#90f7679](https://github.com/xHyroM/frog/commit/90f7679) feat(evaluator): add builtin modules
-* #️⃣ Closed [#2 thread &#39;main&#39; has overflowed its stack ( recursive imports )](https://github.com/xHyroM/frog/issues/2) in [xHyroM/frog](https://github.com/xHyroM/frog)
 
 
 ___
