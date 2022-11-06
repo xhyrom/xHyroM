@@ -15,14 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#8f456ae](https://github.com/xHyroM/frog/commit/8f456ae) refactor: rename builtins_x to builtin_x
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#a4d8ef3](https://github.com/xHyroM/frog/commit/a4d8ef3) feat: add pub keyword, allow compare string in if
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#90e7cfc](https://github.com/xHyroM/frog/commit/90e7cfc) chore: fmt
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#43d5ca1](https://github.com/xHyroM/frog/commit/43d5ca1) feat: run every import in separate env
 * #️⃣ Opened [#3 allow anonymous functions](https://github.com/xHyroM/frog/issues/3) in [xHyroM/frog](https://github.com/xHyroM/frog)
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#a53f132](https://github.com/xHyroM/frog/commit/a53f132) feat: module namespaces (built-in, like math.x)
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#cd1b507](https://github.com/xHyroM/frog/commit/cd1b507) feat: support dot notation acess
 
 
 ___
