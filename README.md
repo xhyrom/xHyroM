@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Closed [#906 Economy provider issue](https://github.com/MilkBowl/Vault/issues/906) in [MilkBowl/Vault](https://github.com/MilkBowl/Vault)
+* ➡️ Pushed 2 commits in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#b371179](https://github.com/xHyroM/rajce.pro/commit/b371179) feat: add mysql
+  * [#66add35](https://github.com/xHyroM/rajce.pro/commit/66add35) feat: start working on economy
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#280ee07](https://github.com/xHyroM/rajce.pro/commit/280ee07) feat: scoreboard, start working on xEconomy
 * #️⃣ Opened [#906 Economy provider issue](https://github.com/MilkBowl/Vault/issues/906) in [MilkBowl/Vault](https://github.com/MilkBowl/Vault)
@@ -27,10 +31,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#9bba439](https://github.com/xHyroM/xHyroM/commit/9bba439) Update Metrics.yml
 * ⏺️ Created new repository  [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#0b0ca7a](https://github.com/xHyroM/frog/commit/0b0ca7a) feat: use print! instead println!
-* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
-  * [#880c44f](https://github.com/xHyroM/frog/commit/880c44f) feat: more math functions, allow numbers in function name
 
 
 ___
