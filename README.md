@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#3 allow anonymous functions](https://github.com/xHyroM/frog/issues/3) in [xHyroM/frog](https://github.com/xHyroM/frog)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#a53f132](https://github.com/xHyroM/frog/commit/a53f132) feat: module namespaces (built-in, like math.x)
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
@@ -21,7 +22,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
   * [#90f7679](https://github.com/xHyroM/frog/commit/90f7679) feat(evaluator): add builtin modules
 * #️⃣ Closed [#2 thread &#39;main&#39; has overflowed its stack ( recursive imports )](https://github.com/xHyroM/frog/issues/2) in [xHyroM/frog](https://github.com/xHyroM/frog)
-* 💬 Commented on [#2 thread &#39;main&#39; has overflowed its stack ( recursive imports )](https://github.com/xHyroM/frog/issues/2) from [xHyroM/frog](https://github.com/xHyroM/frog)
 
 
 ___
