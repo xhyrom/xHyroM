@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#d951dea](https://github.com/xHyroM/rajce.pro/commit/d951dea) feat: add unfinished work - economy, mysql
 * #️⃣ Closed [#906 Economy provider issue](https://github.com/MilkBowl/Vault/issues/906) in [MilkBowl/Vault](https://github.com/MilkBowl/Vault)
 * ➡️ Pushed 2 commits in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b371179](https://github.com/xHyroM/rajce.pro/commit/b371179) feat: add mysql
@@ -30,7 +32,6 @@ ___
   * [#f1a7f7d](https://github.com/xHyroM/xHyroM/commit/f1a7f7d) Update Metrics.yml
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#9bba439](https://github.com/xHyroM/xHyroM/commit/9bba439) Update Metrics.yml
-* ⏺️ Created new repository  [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
 
 
 ___
