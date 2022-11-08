@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🌟 Starred [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
+* 💬 Commented on [#4 how does this work](https://github.com/xHyroM/discord-list/issues/4) from [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#8f588d5](https://github.com/xHyroM/rajce.pro/commit/8f588d5) feat: new
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -29,9 +31,6 @@ ___
 * #️⃣ Opened [#906 Economy provider issue](https://github.com/MilkBowl/Vault/issues/906) in [MilkBowl/Vault](https://github.com/MilkBowl/Vault)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#0e94f51](https://github.com/xHyroM/rajce.pro/commit/0e94f51) chore: create oneblock
-* ⏺️ Created new branch main in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#d422f3f](https://github.com/xHyroM/xHyroM/commit/d422f3f) Update Metrics.yml
 
 
 ___
