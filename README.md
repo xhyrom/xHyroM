@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#b063e59](https://github.com/xHyroM/rajce.pro/commit/b063e59) feat: tona
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -28,8 +30,6 @@ ___
   * [#8f588d5](https://github.com/xHyroM/rajce.pro/commit/8f588d5) feat: new
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#18ceb19](https://github.com/xHyroM/rajce.pro/commit/18ceb19) feat: economy, sql
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#d951dea](https://github.com/xHyroM/rajce.pro/commit/d951dea) feat: add unfinished work - economy, mysql
 
 
 ___
