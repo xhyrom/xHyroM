@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
+* 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#7bc45ce](https://github.com/xHyroM/rajce.pro/commit/7bc45ce) feat
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -28,10 +30,6 @@ ___
   * [#18ceb19](https://github.com/xHyroM/rajce.pro/commit/18ceb19) feat: economy, sql
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#d951dea](https://github.com/xHyroM/rajce.pro/commit/d951dea) feat: add unfinished work - economy, mysql
-* #️⃣ Closed [#906 Economy provider issue](https://github.com/MilkBowl/Vault/issues/906) in [MilkBowl/Vault](https://github.com/MilkBowl/Vault)
-* ➡️ Pushed 2 commits in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#b371179](https://github.com/xHyroM/rajce.pro/commit/b371179) feat: add mysql
-  * [#66add35](https://github.com/xHyroM/rajce.pro/commit/66add35) feat: start working on economy
 
 
 ___
