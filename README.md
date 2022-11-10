@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#8555937](https://github.com/xHyroM/rajce.pro/commit/8555937) fix: gui - inv per player
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#b7aa94c](https://github.com/xHyroM/rajce.pro/commit/b7aa94c) feat: add hopper upgrades
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6062abe](https://github.com/xHyroM/rajce.pro/commit/6062abe) fix: autoreconnect for mysql
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#d367ac6](https://github.com/xHyroM/rajce.pro/commit/d367ac6) fix: typo
@@ -27,10 +31,6 @@ ___
   * [#b063e59](https://github.com/xHyroM/rajce.pro/commit/b063e59) feat: tona
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#7bc45ce](https://github.com/xHyroM/rajce.pro/commit/7bc45ce) feat
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#62eaef8](https://github.com/xHyroM/rajce.pro/commit/62eaef8) feat: chatformat, money command completion
 
 
 ___
