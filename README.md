@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#6062abe](https://github.com/xHyroM/rajce.pro/commit/6062abe) fix: autoreconnect for mysql
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#d367ac6](https://github.com/xHyroM/rajce.pro/commit/d367ac6) fix: typo
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#aef1036](https://github.com/xHyroM/rajce.pro/commit/aef1036) feat: finish upgrades menu - ob upgrading
 * ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
   * [#a68974b](https://github.com/xHyroM/typing-test/commit/a68974b) Update words.ts
 * #️⃣ Opened [#33 API](https://github.com/BentoBoxWorld/Bank/issues/33) in [BentoBoxWorld/Bank](https://github.com/BentoBoxWorld/Bank)
@@ -25,10 +31,6 @@ ___
   * [#7bc45ce](https://github.com/xHyroM/rajce.pro/commit/7bc45ce) feat
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#62eaef8](https://github.com/xHyroM/rajce.pro/commit/62eaef8) feat: chatformat, money command completion
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#489f3fe](https://github.com/xHyroM/rajce.pro/commit/489f3fe) feat: finish economy
-* 🌟 Starred [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
-* 💬 Commented on [#4 how does this work](https://github.com/xHyroM/discord-list/issues/4) from [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
 
 
 ___
