@@ -14,6 +14,9 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
+  * [#a68974b](https://github.com/xHyroM/typing-test/commit/a68974b) Update words.ts
+* #️⃣ Opened [#33 API](https://github.com/BentoBoxWorld/Bank/issues/33) in [BentoBoxWorld/Bank](https://github.com/BentoBoxWorld/Bank)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b063e59](https://github.com/xHyroM/rajce.pro/commit/b063e59) feat: tona
 * 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
@@ -26,10 +29,6 @@ ___
   * [#489f3fe](https://github.com/xHyroM/rajce.pro/commit/489f3fe) feat: finish economy
 * 🌟 Starred [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
 * 💬 Commented on [#4 how does this work](https://github.com/xHyroM/discord-list/issues/4) from [xHyroM/discord-list](https://github.com/xHyroM/discord-list)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#8f588d5](https://github.com/xHyroM/rajce.pro/commit/8f588d5) feat: new
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#18ceb19](https://github.com/xHyroM/rajce.pro/commit/18ceb19) feat: economy, sql
 
 
 ___
