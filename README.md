@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#a710a50](https://github.com/xHyroM/rajce.pro/commit/a710a50) fix: correct scoreboard line
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#c44e5bf](https://github.com/xHyroM/rajce.pro/commit/c44e5bf) feat: start working on menu
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#8555937](https://github.com/xHyroM/rajce.pro/commit/8555937) fix: gui - inv per player
@@ -31,7 +33,6 @@ ___
 * #️⃣ Opened [#33 API](https://github.com/BentoBoxWorld/Bank/issues/33) in [BentoBoxWorld/Bank](https://github.com/BentoBoxWorld/Bank)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b063e59](https://github.com/xHyroM/rajce.pro/commit/b063e59) feat: tona
-* 💬 Commented on [#821 escapeTags doesnt works correctly](https://github.com/KyoriPowered/adventure/issues/821) from [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure)
 
 
 ___
