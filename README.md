@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#caf9785](https://github.com/xHyroM/rajce.pro/commit/caf9785) revert: im dumb
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#aebc658](https://github.com/xHyroM/rajce.pro/commit/aebc658) feat: NEW REPO AND MONOREPO IN MONOREPO IM DUMB
 * 💬 Commented on [#7 Test](https://github.com/worm-emoji/ch_ylukem/issues/7) from [worm-emoji/ch_ylukem](https://github.com/worm-emoji/ch_ylukem)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#58f5685](https://github.com/xHyroM/rajce.pro/commit/58f5685) feat: new features
@@ -29,10 +33,6 @@ ___
   * [#b7aa94c](https://github.com/xHyroM/rajce.pro/commit/b7aa94c) feat: add hopper upgrades
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6062abe](https://github.com/xHyroM/rajce.pro/commit/6062abe) fix: autoreconnect for mysql
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#d367ac6](https://github.com/xHyroM/rajce.pro/commit/d367ac6) fix: typo
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#aef1036](https://github.com/xHyroM/rajce.pro/commit/aef1036) feat: finish upgrades menu - ob upgrading
 
 
 ___
