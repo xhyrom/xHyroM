@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#449c378](https://github.com/xHyroM/rajce.pro/commit/449c378) feat: public profile
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#caf9785](https://github.com/xHyroM/rajce.pro/commit/caf9785) revert: im dumb
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#aebc658](https://github.com/xHyroM/rajce.pro/commit/aebc658) feat: NEW REPO AND MONOREPO IN MONOREPO IM DUMB
@@ -31,8 +33,6 @@ ___
   * [#8555937](https://github.com/xHyroM/rajce.pro/commit/8555937) fix: gui - inv per player
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b7aa94c](https://github.com/xHyroM/rajce.pro/commit/b7aa94c) feat: add hopper upgrades
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#6062abe](https://github.com/xHyroM/rajce.pro/commit/6062abe) fix: autoreconnect for mysql
 
 
 ___
