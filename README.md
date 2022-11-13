@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#d15623b](https://github.com/xHyroM/rajce.pro/commit/d15623b) feat: progress
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#855e132](https://github.com/xHyroM/rajce.pro/commit/855e132) feat: HEX COLORSSSSSSSSSSSSSSSS
 * ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
   * [#986b405](https://github.com/xHyroM/typing-test/commit/986b405) Update words.ts
@@ -31,8 +33,6 @@ ___
   * [#7d74572](https://github.com/xHyroM/rajce.pro/commit/7d74572) feat: big progress
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#a710a50](https://github.com/xHyroM/rajce.pro/commit/a710a50) fix: correct scoreboard line
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#c44e5bf](https://github.com/xHyroM/rajce.pro/commit/c44e5bf) feat: start working on menu
 
 
 ___
