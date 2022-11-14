@@ -14,7 +14,26 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
-No recent activity
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#439322a](https://github.com/xHyroM/rajce.pro/commit/439322a) feat: implement and MUST FINISH IT
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#fd263cc](https://github.com/xHyroM/rajce.pro/commit/fd263cc) feat: register events first
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#3c94054](https://github.com/xHyroM/rajce.pro/commit/3c94054) feat: cache for economy
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#98ce7bf](https://github.com/xHyroM/rajce.pro/commit/98ce7bf) feat: add default things package
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#d15623b](https://github.com/xHyroM/rajce.pro/commit/d15623b) feat: progress
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#855e132](https://github.com/xHyroM/rajce.pro/commit/855e132) feat: HEX COLORSSSSSSSSSSSSSSSS
+* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
+  * [#986b405](https://github.com/xHyroM/typing-test/commit/986b405) Update words.ts
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#449c378](https://github.com/xHyroM/rajce.pro/commit/449c378) feat: public profile
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#caf9785](https://github.com/xHyroM/rajce.pro/commit/caf9785) revert: im dumb
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#aebc658](https://github.com/xHyroM/rajce.pro/commit/aebc658) feat: NEW REPO AND MONOREPO IN MONOREPO IM DUMB
 
 
 ___
