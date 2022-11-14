@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#61b70c9](https://github.com/xHyroM/rajce.pro/commit/61b70c9) feat: xeconoy fix
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#439322a](https://github.com/xHyroM/rajce.pro/commit/439322a) feat: implement and MUST FINISH IT
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#fd263cc](https://github.com/xHyroM/rajce.pro/commit/fd263cc) feat: register events first
@@ -32,8 +34,6 @@ ___
   * [#449c378](https://github.com/xHyroM/rajce.pro/commit/449c378) feat: public profile
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#caf9785](https://github.com/xHyroM/rajce.pro/commit/caf9785) revert: im dumb
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#aebc658](https://github.com/xHyroM/rajce.pro/commit/aebc658) feat: NEW REPO AND MONOREPO IN MONOREPO IM DUMB
 
 
 ___
