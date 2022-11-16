@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch general_kubo/finish-tasks in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
+* 🍽️ Forked [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin) to [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#61b70c9](https://github.com/xHyroM/rajce.pro/commit/61b70c9) feat: xeconoy fix
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -30,10 +32,6 @@ ___
   * [#855e132](https://github.com/xHyroM/rajce.pro/commit/855e132) feat: HEX COLORSSSSSSSSSSSSSSSS
 * ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
   * [#986b405](https://github.com/xHyroM/typing-test/commit/986b405) Update words.ts
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#449c378](https://github.com/xHyroM/rajce.pro/commit/449c378) feat: public profile
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#caf9785](https://github.com/xHyroM/rajce.pro/commit/caf9785) revert: im dumb
 
 
 ___
