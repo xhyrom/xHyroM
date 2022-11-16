@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
+  * 14 files changed `++256 --54`
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#a5df9e2](https://github.com/xHyroM/RecruitmentPlugin/commit/a5df9e2) chore: set java version in build.gradle
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#cdae51a](https://github.com/xHyroM/RecruitmentPlugin/commit/cdae51a) feat: kosmonaut command
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#6b9ab48](https://github.com/xHyroM/RecruitmentPlugin/commit/6b9ab48) chore: add javadocs
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#60263a1](https://github.com/xHyroM/RecruitmentPlugin/commit/60263a1) feat: add random join messages
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
@@ -25,13 +33,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#867a092](https://github.com/xHyroM/RecruitmentPlugin/commit/867a092) cleanup, add plugin.yml, fix compilation issues
 * ⏺️ Created new branch general_kubo/finish-tasks in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
-* 🍽️ Forked [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin) to [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#61b70c9](https://github.com/xHyroM/rajce.pro/commit/61b70c9) feat: xeconoy fix
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#439322a](https://github.com/xHyroM/rajce.pro/commit/439322a) feat: implement and MUST FINISH IT
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#fd263cc](https://github.com/xHyroM/rajce.pro/commit/fd263cc) feat: register events first
 
 
 ___
