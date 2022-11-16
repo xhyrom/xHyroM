@@ -14,6 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#60263a1](https://github.com/xHyroM/RecruitmentPlugin/commit/60263a1) feat: add random join messages
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#267430a](https://github.com/xHyroM/RecruitmentPlugin/commit/267430a) feat: add spawn command
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#83d2e31](https://github.com/xHyroM/RecruitmentPlugin/commit/83d2e31) some work
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#1f96f48](https://github.com/xHyroM/RecruitmentPlugin/commit/1f96f48) chore: delete .idea folder
+* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
+  * [#867a092](https://github.com/xHyroM/RecruitmentPlugin/commit/867a092) cleanup, add plugin.yml, fix compilation issues
 * ⏺️ Created new branch general_kubo/finish-tasks in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
 * 🍽️ Forked [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin) to [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -22,16 +32,6 @@ ___
   * [#439322a](https://github.com/xHyroM/rajce.pro/commit/439322a) feat: implement and MUST FINISH IT
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#fd263cc](https://github.com/xHyroM/rajce.pro/commit/fd263cc) feat: register events first
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#3c94054](https://github.com/xHyroM/rajce.pro/commit/3c94054) feat: cache for economy
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#98ce7bf](https://github.com/xHyroM/rajce.pro/commit/98ce7bf) feat: add default things package
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#d15623b](https://github.com/xHyroM/rajce.pro/commit/d15623b) feat: progress
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#855e132](https://github.com/xHyroM/rajce.pro/commit/855e132) feat: HEX COLORSSSSSSSSSSSSSSSS
-* ➡️ Pushed 1 commit in [xHyroM/typing-test](https://github.com/xHyroM/typing-test) on branch `master`
-  * [#986b405](https://github.com/xHyroM/typing-test/commit/986b405) Update words.ts
 
 
 ___
