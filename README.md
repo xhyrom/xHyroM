@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#d7c018c](https://github.com/xHyroM/rajce.pro/commit/d7c018c) feat: add cratekeys
 * 🔃 Opened [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
   * 14 files changed `++256 --54`
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
@@ -32,7 +34,6 @@ ___
   * [#1f96f48](https://github.com/xHyroM/RecruitmentPlugin/commit/1f96f48) chore: delete .idea folder
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#867a092](https://github.com/xHyroM/RecruitmentPlugin/commit/867a092) cleanup, add plugin.yml, fix compilation issues
-* ⏺️ Created new branch general_kubo/finish-tasks in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin)
 
 
 ___
