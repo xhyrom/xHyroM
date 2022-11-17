@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💬 Commented on [#10 when is better discord plugins support coming](https://github.com/xHyroM/hykord/issues/10) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#393802a](https://github.com/xHyroM/rajce.pro/commit/393802a) feat: add chat reactions
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -32,8 +33,6 @@ ___
   * [#267430a](https://github.com/xHyroM/RecruitmentPlugin/commit/267430a) feat: add spawn command
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#83d2e31](https://github.com/xHyroM/RecruitmentPlugin/commit/83d2e31) some work
-* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
-  * [#1f96f48](https://github.com/xHyroM/RecruitmentPlugin/commit/1f96f48) chore: delete .idea folder
 
 
 ___
