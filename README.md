@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#88c7c66](https://github.com/xHyroM/rajce.pro/commit/88c7c66) feat: add chatreactions rewards
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6728c54](https://github.com/xHyroM/rajce.pro/commit/6728c54) feat: add chatreaction types
 * 💬 Commented on [#10 when is better discord plugins support coming](https://github.com/xHyroM/hykord/issues/10) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -31,8 +33,6 @@ ___
   * [#6b9ab48](https://github.com/xHyroM/RecruitmentPlugin/commit/6b9ab48) chore: add javadocs
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#60263a1](https://github.com/xHyroM/RecruitmentPlugin/commit/60263a1) feat: add random join messages
-* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
-  * [#267430a](https://github.com/xHyroM/RecruitmentPlugin/commit/267430a) feat: add spawn command
 
 
 ___
