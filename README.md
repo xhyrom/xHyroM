@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#0fae965](https://github.com/xHyroM/rajce.pro/commit/0fae965) feat: chatformat
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#788ef7f](https://github.com/xHyroM/rajce.pro/commit/788ef7f) feat: daily rewards
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#4c03d85](https://github.com/xHyroM/rajce.pro/commit/4c03d85) feat: add daily rewards
@@ -31,8 +33,6 @@ ___
   * 14 files changed `++256 --54`
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#a5df9e2](https://github.com/xHyroM/RecruitmentPlugin/commit/a5df9e2) chore: set java version in build.gradle
-* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
-  * [#cdae51a](https://github.com/xHyroM/RecruitmentPlugin/commit/cdae51a) feat: kosmonaut command
 
 
 ___
