@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#4c03d85](https://github.com/xHyroM/rajce.pro/commit/4c03d85) feat: add daily rewards
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#88c7c66](https://github.com/xHyroM/rajce.pro/commit/88c7c66) feat: add chatreactions rewards
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6728c54](https://github.com/xHyroM/rajce.pro/commit/6728c54) feat: add chatreaction types
@@ -31,8 +33,6 @@ ___
   * [#cdae51a](https://github.com/xHyroM/RecruitmentPlugin/commit/cdae51a) feat: kosmonaut command
 * ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
   * [#6b9ab48](https://github.com/xHyroM/RecruitmentPlugin/commit/6b9ab48) chore: add javadocs
-* ➡️ Pushed 1 commit in [xHyroM/RecruitmentPlugin](https://github.com/xHyroM/RecruitmentPlugin) on branch `general_kubo/finish-tasks`
-  * [#60263a1](https://github.com/xHyroM/RecruitmentPlugin/commit/60263a1) feat: add random join messages
 
 
 ___
