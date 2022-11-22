@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#1280321](https://github.com/xHyroM/rajce.pro/commit/1280321) feat: some new things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#49311d5](https://github.com/xHyroM/rajce.pro/commit/49311d5) feat: SOME PROGRESS
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#0fae965](https://github.com/xHyroM/rajce.pro/commit/0fae965) feat: chatformat
@@ -31,8 +33,6 @@ ___
   * [#393802a](https://github.com/xHyroM/rajce.pro/commit/393802a) feat: add chat reactions
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#d7c018c](https://github.com/xHyroM/rajce.pro/commit/d7c018c) feat: add cratekeys
-* 🔃 Opened [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
-  * 14 files changed `++256 --54`
 
 
 ___
