@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#ac97c6c](https://github.com/xHyroM/rajce.pro/commit/ac97c6c) feat: too much new things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#1280321](https://github.com/xHyroM/rajce.pro/commit/1280321) feat: some new things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#49311d5](https://github.com/xHyroM/rajce.pro/commit/49311d5) feat: SOME PROGRESS
@@ -31,8 +33,6 @@ ___
 * 💬 Commented on [#10 when is better discord plugins support coming](https://github.com/xHyroM/hykord/issues/10) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#393802a](https://github.com/xHyroM/rajce.pro/commit/393802a) feat: add chat reactions
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#d7c018c](https://github.com/xHyroM/rajce.pro/commit/d7c018c) feat: add cratekeys
 
 
 ___
