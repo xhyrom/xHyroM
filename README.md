@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#f7d70a8](https://github.com/xHyroM/rajce.pro/commit/f7d70a8) feat: update
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b1860fa](https://github.com/xHyroM/rajce.pro/commit/b1860fa) feat: add things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#644e26d](https://github.com/xHyroM/rajce.pro/commit/644e26d) feat: some updates
@@ -32,8 +34,6 @@ ___
   * [#4c03d85](https://github.com/xHyroM/rajce.pro/commit/4c03d85) feat: add daily rewards
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#88c7c66](https://github.com/xHyroM/rajce.pro/commit/88c7c66) feat: add chatreactions rewards
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#6728c54](https://github.com/xHyroM/rajce.pro/commit/6728c54) feat: add chatreaction types
 
 
 ___
