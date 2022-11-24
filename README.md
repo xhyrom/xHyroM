@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#644e26d](https://github.com/xHyroM/rajce.pro/commit/644e26d) feat: some updates
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#ac97c6c](https://github.com/xHyroM/rajce.pro/commit/ac97c6c) feat: too much new things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#1280321](https://github.com/xHyroM/rajce.pro/commit/1280321) feat: some new things
