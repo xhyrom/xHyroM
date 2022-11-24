@@ -31,8 +31,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6728c54](https://github.com/xHyroM/rajce.pro/commit/6728c54) feat: add chatreaction types
 * 💬 Commented on [#10 when is better discord plugins support coming](https://github.com/xHyroM/hykord/issues/10) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#393802a](https://github.com/xHyroM/rajce.pro/commit/393802a) feat: add chat reactions
 
 
 ___
