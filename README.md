@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#b1860fa](https://github.com/xHyroM/rajce.pro/commit/b1860fa) feat: add things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#644e26d](https://github.com/xHyroM/rajce.pro/commit/644e26d) feat: some updates
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#ac97c6c](https://github.com/xHyroM/rajce.pro/commit/ac97c6c) feat: too much new things
@@ -32,7 +34,6 @@ ___
   * [#88c7c66](https://github.com/xHyroM/rajce.pro/commit/88c7c66) feat: add chatreactions rewards
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#6728c54](https://github.com/xHyroM/rajce.pro/commit/6728c54) feat: add chatreaction types
-* 💬 Commented on [#10 when is better discord plugins support coming](https://github.com/xHyroM/hykord/issues/10) from [xHyroM/hykord](https://github.com/xHyroM/hykord)
 
 
 ___
