@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#6997a61](https://github.com/xHyroM/rajce.pro/commit/6997a61) feat: fix minimessage
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#37ac30d](https://github.com/xHyroM/rajce.pro/commit/37ac30d) feat: new things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#9479d69](https://github.com/xHyroM/rajce.pro/commit/9479d69) feat: some things
 * 💼 Added [OLIMINATOR](https://github.com/OLIMINATOR) as collaborator in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -29,10 +33,6 @@ ___
   * [#1280321](https://github.com/xHyroM/rajce.pro/commit/1280321) feat: some new things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#49311d5](https://github.com/xHyroM/rajce.pro/commit/49311d5) feat: SOME PROGRESS
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#0fae965](https://github.com/xHyroM/rajce.pro/commit/0fae965) feat: chatformat
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#788ef7f](https://github.com/xHyroM/rajce.pro/commit/788ef7f) feat: daily rewards
 
 
 ___
