@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#2fd386a](https://github.com/xHyroM/rajce.pro/commit/2fd386a) feat: 3x3 pickaxe
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#38a8d27](https://github.com/xHyroM/rajce.pro/commit/38a8d27) feat: minions
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b68494e](https://github.com/xHyroM/rajce.pro/commit/b68494e) feat: rajceshop
@@ -31,8 +33,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#3959974](https://github.com/xHyroM/rajce.pro/commit/3959974) fix: repair cmd
 * 💬 Commented on [#278 [Suggestion] @Cooldown(time)](https://github.com/aikar/commands/issues/278) from [aikar/commands](https://github.com/aikar/commands)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#4f81eb6](https://github.com/xHyroM/rajce.pro/commit/4f81eb6) feat: repair command
 
 
 ___
