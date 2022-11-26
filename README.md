@@ -15,6 +15,9 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#3959974](https://github.com/xHyroM/rajce.pro/commit/3959974) fix: repair cmd
+* 💬 Commented on [#278 [Suggestion] @Cooldown(time)](https://github.com/aikar/commands/issues/278) from [aikar/commands](https://github.com/aikar/commands)
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#4f81eb6](https://github.com/xHyroM/rajce.pro/commit/4f81eb6) feat: repair command
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b75f25c](https://github.com/xHyroM/rajce.pro/commit/b75f25c) feat: message
@@ -25,10 +28,6 @@ ___
   * [#1d66435](https://github.com/xHyroM/rajce.pro/commit/1d66435) feat: message
 * 💬 Commented on [#750 TAB Sorting issue](https://github.com/NEZNAMY/TAB/issues/750) from [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB)
 * #️⃣ Opened [#750 TAB Sorting issue](https://github.com/NEZNAMY/TAB/issues/750) in [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#448f645](https://github.com/xHyroM/rajce.pro/commit/448f645) feat: some fixes
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#6997a61](https://github.com/xHyroM/rajce.pro/commit/6997a61) feat: fix minimessage
 
 
 ___
