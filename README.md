@@ -15,6 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#2c033e2](https://github.com/xHyroM/rajce.pro/commit/2c033e2) feat: fix eating
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#df074bd](https://github.com/xHyroM/rajce.pro/commit/df074bd) feat: add tips
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#61e422b](https://github.com/xHyroM/rajce.pro/commit/61e422b) feat: things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#4b00096](https://github.com/xHyroM/rajce.pro/commit/4b00096) feat: things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#42c6143](https://github.com/xHyroM/rajce.pro/commit/42c6143) feat: things
@@ -28,12 +34,6 @@ ___
   * [#38a8d27](https://github.com/xHyroM/rajce.pro/commit/38a8d27) feat: minions
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#b68494e](https://github.com/xHyroM/rajce.pro/commit/b68494e) feat: rajceshop
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#58e86b6](https://github.com/xHyroM/rajce.pro/commit/58e86b6) feat: add spawner key
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#99db0f8](https://github.com/xHyroM/rajce.pro/commit/99db0f8) fix: pvp arena
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#c56aaf3](https://github.com/xHyroM/rajce.pro/commit/c56aaf3) things
 
 
 ___
