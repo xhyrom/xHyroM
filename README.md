@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#465f4f1](https://github.com/xHyroM/rajce.pro/commit/465f4f1) zdrazovanie, inflacia
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#c702dde](https://github.com/xHyroM/rajce.pro/commit/c702dde) ok
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#2fd386a](https://github.com/xHyroM/rajce.pro/commit/2fd386a) feat: 3x3 pickaxe
@@ -32,8 +34,6 @@ ___
   * [#0189ad6](https://github.com/xHyroM/rajce.pro/commit/0189ad6) feat: iipdate
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#fa12920](https://github.com/xHyroM/rajce.pro/commit/fa12920) feat: iipdate
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#3959974](https://github.com/xHyroM/rajce.pro/commit/3959974) fix: repair cmd
 
 
 ___
