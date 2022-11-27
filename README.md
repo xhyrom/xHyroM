@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#4b00096](https://github.com/xHyroM/rajce.pro/commit/4b00096) feat: things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#42c6143](https://github.com/xHyroM/rajce.pro/commit/42c6143) feat: things
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#465f4f1](https://github.com/xHyroM/rajce.pro/commit/465f4f1) zdrazovanie, inflacia
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#c702dde](https://github.com/xHyroM/rajce.pro/commit/c702dde) ok
@@ -30,10 +34,6 @@ ___
   * [#99db0f8](https://github.com/xHyroM/rajce.pro/commit/99db0f8) fix: pvp arena
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#c56aaf3](https://github.com/xHyroM/rajce.pro/commit/c56aaf3) things
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#0189ad6](https://github.com/xHyroM/rajce.pro/commit/0189ad6) feat: iipdate
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#fa12920](https://github.com/xHyroM/rajce.pro/commit/fa12920) feat: iipdate
 
 
 ___
