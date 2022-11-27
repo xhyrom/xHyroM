@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#40cab78](https://github.com/xHyroM/rajce.pro/commit/40cab78) feat: enderchest cmd
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#c658719](https://github.com/xHyroM/rajce.pro/commit/c658719) feat: enderchest cmd
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#2c033e2](https://github.com/xHyroM/rajce.pro/commit/2c033e2) feat: fix eating
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#df074bd](https://github.com/xHyroM/rajce.pro/commit/df074bd) feat: add tips
@@ -30,10 +34,6 @@ ___
   * [#c702dde](https://github.com/xHyroM/rajce.pro/commit/c702dde) ok
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#2fd386a](https://github.com/xHyroM/rajce.pro/commit/2fd386a) feat: 3x3 pickaxe
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#38a8d27](https://github.com/xHyroM/rajce.pro/commit/38a8d27) feat: minions
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#b68494e](https://github.com/xHyroM/rajce.pro/commit/b68494e) feat: rajceshop
 
 
 ___
