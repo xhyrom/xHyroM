@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
+* ⏺️ Created new repository  [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#40cab78](https://github.com/xHyroM/rajce.pro/commit/40cab78) feat: enderchest cmd
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -30,10 +32,6 @@ ___
   * [#42c6143](https://github.com/xHyroM/rajce.pro/commit/42c6143) feat: things
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#465f4f1](https://github.com/xHyroM/rajce.pro/commit/465f4f1) zdrazovanie, inflacia
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#c702dde](https://github.com/xHyroM/rajce.pro/commit/c702dde) ok
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#2fd386a](https://github.com/xHyroM/rajce.pro/commit/2fd386a) feat: 3x3 pickaxe
 
 
 ___
