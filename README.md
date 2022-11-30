@@ -14,6 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#f122b5e](https://github.com/xHyroM/HyLib/commit/f122b5e) refactor(ConfigManager): rename registerConfig to register
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#426e82a](https://github.com/xHyroM/HyLib/commit/426e82a) chore: remove some bad files
+* ⏺️ Created new branch main in [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
 * ⏺️ Created new repository  [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
 * ⏺️ Created new repository  [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -26,12 +31,6 @@ ___
   * [#df074bd](https://github.com/xHyroM/rajce.pro/commit/df074bd) feat: add tips
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#61e422b](https://github.com/xHyroM/rajce.pro/commit/61e422b) feat: things
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#4b00096](https://github.com/xHyroM/rajce.pro/commit/4b00096) feat: things
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#42c6143](https://github.com/xHyroM/rajce.pro/commit/42c6143) feat: things
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#465f4f1](https://github.com/xHyroM/rajce.pro/commit/465f4f1) zdrazovanie, inflacia
 
 
 ___
