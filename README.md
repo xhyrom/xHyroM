@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#43d2af4](https://github.com/xHyroM/HyLib/commit/43d2af4) feat: add bstabts
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#514d5ed](https://github.com/xHyroM/HyChat/commit/514d5ed) feat: add bstats
 * ⏺️ Created new branch main in [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#7e3b7b6](https://github.com/xHyroM/HyLib/commit/7e3b7b6) chore: fix issue with minimessage
@@ -27,9 +31,6 @@ ___
   * [#426e82a](https://github.com/xHyroM/HyLib/commit/426e82a) chore: remove some bad files
 * ⏺️ Created new branch main in [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
 * ⏺️ Created new repository  [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
-* ⏺️ Created new repository  [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#40cab78](https://github.com/xHyroM/rajce.pro/commit/40cab78) feat: enderchest cmd
 
 
 ___
