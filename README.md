@@ -14,6 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch main in [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#7e3b7b6](https://github.com/xHyroM/HyLib/commit/7e3b7b6) chore: fix issue with minimessage
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#08d5d95](https://github.com/xHyroM/HyLib/commit/08d5d95) feat: add packetevents as dep
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#b357e30](https://github.com/xHyroM/HyLib/commit/b357e30) feat: add language manager
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -25,12 +30,6 @@ ___
 * ⏺️ Created new repository  [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#40cab78](https://github.com/xHyroM/rajce.pro/commit/40cab78) feat: enderchest cmd
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#c658719](https://github.com/xHyroM/rajce.pro/commit/c658719) feat: enderchest cmd
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#2c033e2](https://github.com/xHyroM/rajce.pro/commit/2c033e2) feat: fix eating
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#df074bd](https://github.com/xHyroM/rajce.pro/commit/df074bd) feat: add tips
 
 
 ___
