@@ -15,6 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#8a848f1](https://github.com/xHyroM/HyLib/commit/8a848f1) chore: remove val
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#aa1426f](https://github.com/xHyroM/HyLib/commit/aa1426f) fix: add permission to hy command
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#c85ca47](https://github.com/xHyroM/HyChat/commit/c85ca47) feat: add anti swer
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#43d2af4](https://github.com/xHyroM/HyLib/commit/43d2af4) feat: add bstabts
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#514d5ed](https://github.com/xHyroM/HyChat/commit/514d5ed) feat: add bstats
@@ -27,10 +33,6 @@ ___
   * [#b357e30](https://github.com/xHyroM/HyLib/commit/b357e30) feat: add language manager
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#f122b5e](https://github.com/xHyroM/HyLib/commit/f122b5e) refactor(ConfigManager): rename registerConfig to register
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#426e82a](https://github.com/xHyroM/HyLib/commit/426e82a) chore: remove some bad files
-* ⏺️ Created new branch main in [xHyroM/HyLib](https://github.com/xHyroM/HyLib)
-* ⏺️ Created new repository  [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
 
 
 ___
