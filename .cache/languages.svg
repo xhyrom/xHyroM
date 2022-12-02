@@ -31,13 +31,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.10812244644865" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="313.10812244644865" y="0" width="303.14944777836723" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="616.2575702248158" y="0" width="142.8265755368917" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="759.0841457617075" y="0" width="69.38586615773627" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="828.4700119194439" y="0" width="44.54400892924811" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="873.014020848692" y="0" width="25.727685492038777" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="898.7417063407307" y="0" width="21.25829365926926" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.35468011445374" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="312.35468011445374" y="0" width="302.4199693314574" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="614.7746494459111" y="0" width="142.4828872693931" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="757.2575367153042" y="0" width="71.43272681284284" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="828.6902635281472" y="0" width="44.436821221366806" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="873.1270847495139" y="0" width="25.665776119638934" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="898.7928608691528" y="0" width="21.207139130847178" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>987 kB</div>
-                                <div>34.03%</div>
+                                <div>33.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>140 kB</div>
-                                <div>4.84%</div>
+                                <div>4.83%</div>
                             </small>
                         </div>
                     </section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>956 kB</div>
-                                <div>32.95%</div>
+                                <div>32.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@
                             </div>
                             <small>
                                 <div>81.1 kB</div>
-                                <div>2.8%</div>
+                                <div>2.79%</div>
                             </small>
                         </div>
                     </section>
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>450 kB</div>
-                                <div>15.52%</div>
+                                <div>15.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -127,8 +127,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>218 kB</div>
-                                <div>7.54%</div>
+                                <div>225 kB</div>
+                                <div>7.76%</div>
                             </small>
                         </div>
                     </section>
