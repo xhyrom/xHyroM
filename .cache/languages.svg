@@ -31,13 +31,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.35468011445374" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="312.35468011445374" y="0" width="302.4199693314574" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="614.7746494459111" y="0" width="142.4828872693931" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="757.2575367153042" y="0" width="71.43272681284284" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="828.6902635281472" y="0" width="44.436821221366806" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="873.1270847495139" y="0" width="25.665776119638934" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="898.7928608691528" y="0" width="21.207139130847178" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.1087319697196" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="312.1087319697196" y="0" width="302.1818437802079" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="614.2905757499275" y="0" width="142.37069621220317" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="756.6612719621306" y="0" width="72.10088887286389" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="828.7621608349945" y="0" width="44.40183165843382" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="873.1639924934284" y="0" width="25.645566881802402" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="898.8095593752307" y="0" width="21.19044062476928" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>987 kB</div>
-                                <div>33.95%</div>
+                                <div>33.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>956 kB</div>
-                                <div>32.87%</div>
+                                <div>32.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>450 kB</div>
-                                <div>15.49%</div>
+                                <div>15.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@
                             </div>
                             <small>
                                 <div>67 kB</div>
-                                <div>2.31%</div>
+                                <div>2.3%</div>
                             </small>
                         </div>
                     </section>
@@ -127,8 +127,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>225 kB</div>
-                                <div>7.76%</div>
+                                <div>228 kB</div>
+                                <div>7.84%</div>
                             </small>
                         </div>
                     </section>
