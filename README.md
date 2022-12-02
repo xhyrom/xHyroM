@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#852488c](https://github.com/xHyroM/HyChat/commit/852488c) feat: new things
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#849bfa2](https://github.com/xHyroM/HyChat/commit/849bfa2) feat: use AsyncChatEvent
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#8a848f1](https://github.com/xHyroM/HyLib/commit/8a848f1) chore: remove val
@@ -31,8 +33,6 @@ ___
   * [#7e3b7b6](https://github.com/xHyroM/HyLib/commit/7e3b7b6) chore: fix issue with minimessage
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#08d5d95](https://github.com/xHyroM/HyLib/commit/08d5d95) feat: add packetevents as dep
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#b357e30](https://github.com/xHyroM/HyLib/commit/b357e30) feat: add language manager
 
 
 ___
