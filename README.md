@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#c8b50dc](https://github.com/xHyroM/HyLib/commit/c8b50dc) feat: add utils manager
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#7a2f88e](https://github.com/xHyroM/HyChat/commit/7a2f88e) feat: add join and leave
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
@@ -31,8 +33,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#514d5ed](https://github.com/xHyroM/HyChat/commit/514d5ed) feat: add bstats
 * ⏺️ Created new branch main in [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#7e3b7b6](https://github.com/xHyroM/HyLib/commit/7e3b7b6) chore: fix issue with minimessage
 
 
 ___
