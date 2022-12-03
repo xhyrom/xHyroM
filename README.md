@@ -15,6 +15,18 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#74c2c99](https://github.com/xHyroM/HyLib/commit/74c2c99) feat(BStatsManager): allow to register addon with custom bstats id
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#78ca9a1](https://github.com/xHyroM/HyChat/commit/78ca9a1) chore: add images
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#b43608b](https://github.com/xHyroM/HyChat/commit/b43608b) chore: rename README to README.md
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#6bec0df](https://github.com/xHyroM/HyLib/commit/6bec0df) chore(deps): upgrade gradle-build-action
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#27a8518](https://github.com/xHyroM/HyLib/commit/27a8518) fix: make gradlew executable
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#1d00b95](https://github.com/xHyroM/HyLib/commit/1d00b95) chore(actions): add correct distribution
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#cc98b1a](https://github.com/xHyroM/HyLib/commit/cc98b1a) chore:
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#9c8cbcd](https://github.com/xHyroM/HyLib/commit/9c8cbcd) chore: add upload build libs
@@ -22,18 +34,6 @@ ___
   * [#df2f918](https://github.com/xHyroM/HyLib/commit/df2f918) chore: add task gradle
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#f148c37](https://github.com/xHyroM/HyLib/commit/f148c37) chore: use hylib-xx.jar for API version of this
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#7ca1877](https://github.com/xHyroM/HyLib/commit/7ca1877) chore: add maven-publish
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#4e88026](https://github.com/xHyroM/HyLib/commit/4e88026) feat: add artifacts
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#57d0533](https://github.com/xHyroM/HyLib/commit/57d0533) chore: fix jitpack
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#0accb46](https://github.com/xHyroM/HyLib/commit/0accb46) chore: fix jitpack
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#105ba64](https://github.com/xHyroM/HyChat/commit/105ba64) fix: translate legacy to miniMessage in nameHover
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#e0132b8](https://github.com/xHyroM/HyChat/commit/e0132b8) feat: add mention system
 
 
 ___
