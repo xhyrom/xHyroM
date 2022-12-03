@@ -1,10 +1,10 @@
-import lume from "https://deno.land/x/lume@v1.7.3/mod.ts";
-import postcss from "https://deno.land/x/lume@v1.7.3/plugins/postcss.ts";
-import parcelCss from "https://deno.land/x/lume@v1.7.3/plugins/parcel_css.ts";
-import codeHighlight from "https://deno.land/x/lume@v1.7.3/plugins/code_highlight.ts";
-import resolveUrls from "https://deno.land/x/lume@v1.7.3/plugins/resolve_urls.ts";
-import esbuild from "https://deno.land/x/lume@v1.7.3/plugins/esbuild.ts";
-import date from "https://deno.land/x/lume@v1.7.3/plugins/date.ts";
+import lume from "https://deno.land/x/lume@v1.13.2/mod.ts";
+import postcss from "https://deno.land/x/lume@v1.13.2/plugins/postcss.ts";
+import parcelCss from "https://deno.land/x/lume@v1.13.2/plugins/parcel_css.ts";
+import codeHighlight from "https://deno.land/x/lume@v1.13.2/plugins/code_highlight.ts";
+import resolveUrls from "https://deno.land/x/lume@v1.13.2/plugins/resolve_urls.ts";
+import esbuild from "https://deno.land/x/lume@v1.13.2/plugins/esbuild.ts";
+import date from "https://deno.land/x/lume@v1.13.2/plugins/date.ts";
 import { readingTime } from "./plugins/readingTime.ts";
 import { htmlMinifier } from "./plugins/htmlMinifier.ts";
 
