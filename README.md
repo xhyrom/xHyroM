@@ -14,6 +14,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#177627d](https://github.com/xHyroM/xHyroM/commit/177627d) Update import_map.json
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#9d3b5b5](https://github.com/xHyroM/xHyroM/commit/9d3b5b5) Update deno.json
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#6f8a189](https://github.com/xHyroM/xHyroM/commit/6f8a189) Update _config.ts
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#257b4c7](https://github.com/xHyroM/xHyroM/commit/257b4c7) Update other.ts
+* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
+  * [#f9b84ec](https://github.com/xHyroM/xHyroM/commit/f9b84ec) Update info.txt
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#bcfe8e0](https://github.com/xHyroM/HyChat/commit/bcfe8e0) chore: make gradlew executable
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
@@ -24,16 +34,6 @@ ___
   * [#502fd0a](https://github.com/xHyroM/HyLib/commit/502fd0a) feat: automatically generate help for command
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#dfe2729](https://github.com/xHyroM/HyLib/commit/dfe2729) chore: change version in plugin.yml
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#c145073](https://github.com/xHyroM/HyLib/commit/c145073) feat(UtilsManager): add formatCommandArguments for formatting :)
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#9ec31af](https://github.com/xHyroM/HyChat/commit/9ec31af) refactor: make createCommand private
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#646b46f](https://github.com/xHyroM/HyChat/commit/646b46f) chore: add send-metrics and update hylib
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#4ebb366](https://github.com/xHyroM/HyChat/commit/4ebb366) chore: change config version
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#fa2d606](https://github.com/xHyroM/HyChat/commit/fa2d606) fix!: use papi tag resolver in MiniMessage
 
 
 ___
