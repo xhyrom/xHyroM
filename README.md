@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#bcfe8e0](https://github.com/xHyroM/HyChat/commit/bcfe8e0) chore: make gradlew executable
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#47c2865](https://github.com/xHyroM/HyChat/commit/47c2865) chore: add gradle workflow
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#0eadbf4](https://github.com/xHyroM/HyChat/commit/0eadbf4) chore: cleanup, bump HyLib
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#502fd0a](https://github.com/xHyroM/HyLib/commit/502fd0a) feat: automatically generate help for command
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#dfe2729](https://github.com/xHyroM/HyLib/commit/dfe2729) chore: change version in plugin.yml
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -26,14 +34,6 @@ ___
   * [#4ebb366](https://github.com/xHyroM/HyChat/commit/4ebb366) chore: change config version
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#fa2d606](https://github.com/xHyroM/HyChat/commit/fa2d606) fix!: use papi tag resolver in MiniMessage
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#eb08df0](https://github.com/xHyroM/HyChat/commit/eb08df0) fix: clickable links
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#66feea3](https://github.com/xHyroM/HyChat/commit/66feea3) chore: some readme :D
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#74c2c99](https://github.com/xHyroM/HyLib/commit/74c2c99) feat(BStatsManager): allow to register addon with custom bstats id
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#78ca9a1](https://github.com/xHyroM/HyChat/commit/78ca9a1) chore: add images
 
 
 ___
