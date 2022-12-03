@@ -15,6 +15,16 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#cc98b1a](https://github.com/xHyroM/HyLib/commit/cc98b1a) chore:
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#9c8cbcd](https://github.com/xHyroM/HyLib/commit/9c8cbcd) chore: add upload build libs
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#df2f918](https://github.com/xHyroM/HyLib/commit/df2f918) chore: add task gradle
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#f148c37](https://github.com/xHyroM/HyLib/commit/f148c37) chore: use hylib-xx.jar for API version of this
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#7ca1877](https://github.com/xHyroM/HyLib/commit/7ca1877) chore: add maven-publish
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#4e88026](https://github.com/xHyroM/HyLib/commit/4e88026) feat: add artifacts
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#57d0533](https://github.com/xHyroM/HyLib/commit/57d0533) chore: fix jitpack
@@ -24,16 +34,6 @@ ___
   * [#105ba64](https://github.com/xHyroM/HyChat/commit/105ba64) fix: translate legacy to miniMessage in nameHover
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#e0132b8](https://github.com/xHyroM/HyChat/commit/e0132b8) feat: add mention system
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#58d1b12](https://github.com/xHyroM/HyChat/commit/58d1b12) feat: some updates
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#c8b50dc](https://github.com/xHyroM/HyLib/commit/c8b50dc) feat: add utils manager
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#7a2f88e](https://github.com/xHyroM/HyChat/commit/7a2f88e) feat: add join and leave
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#852488c](https://github.com/xHyroM/HyChat/commit/852488c) feat: new things
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#849bfa2](https://github.com/xHyroM/HyChat/commit/849bfa2) feat: use AsyncChatEvent
 
 
 ___
