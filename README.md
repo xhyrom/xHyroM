@@ -15,6 +15,10 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#105ba64](https://github.com/xHyroM/HyChat/commit/105ba64) fix: translate legacy to miniMessage in nameHover
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#e0132b8](https://github.com/xHyroM/HyChat/commit/e0132b8) feat: add mention system
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#58d1b12](https://github.com/xHyroM/HyChat/commit/58d1b12) feat: some updates
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#c8b50dc](https://github.com/xHyroM/HyLib/commit/c8b50dc) feat: add utils manager
@@ -30,10 +34,6 @@ ___
   * [#aa1426f](https://github.com/xHyroM/HyLib/commit/aa1426f) fix: add permission to hy command
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#c85ca47](https://github.com/xHyroM/HyChat/commit/c85ca47) feat: add anti swer
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#43d2af4](https://github.com/xHyroM/HyLib/commit/43d2af4) feat: add bstabts
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#514d5ed](https://github.com/xHyroM/HyChat/commit/514d5ed) feat: add bstats
 
 
 ___
