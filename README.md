@@ -14,6 +14,12 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#4e88026](https://github.com/xHyroM/HyLib/commit/4e88026) feat: add artifacts
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#57d0533](https://github.com/xHyroM/HyLib/commit/57d0533) chore: fix jitpack
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#0accb46](https://github.com/xHyroM/HyLib/commit/0accb46) chore: fix jitpack
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#105ba64](https://github.com/xHyroM/HyChat/commit/105ba64) fix: translate legacy to miniMessage in nameHover
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
@@ -28,12 +34,6 @@ ___
   * [#852488c](https://github.com/xHyroM/HyChat/commit/852488c) feat: new things
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#849bfa2](https://github.com/xHyroM/HyChat/commit/849bfa2) feat: use AsyncChatEvent
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#8a848f1](https://github.com/xHyroM/HyLib/commit/8a848f1) chore: remove val
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#aa1426f](https://github.com/xHyroM/HyLib/commit/aa1426f) fix: add permission to hy command
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#c85ca47](https://github.com/xHyroM/HyChat/commit/c85ca47) feat: add anti swer
 
 
 ___
