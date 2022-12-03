@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#58d1b12](https://github.com/xHyroM/HyChat/commit/58d1b12) feat: some updates
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#c8b50dc](https://github.com/xHyroM/HyLib/commit/c8b50dc) feat: add utils manager
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
@@ -32,7 +34,6 @@ ___
   * [#43d2af4](https://github.com/xHyroM/HyLib/commit/43d2af4) feat: add bstabts
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#514d5ed](https://github.com/xHyroM/HyChat/commit/514d5ed) feat: add bstats
-* ⏺️ Created new branch main in [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
 
 
 ___
