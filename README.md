@@ -15,25 +15,25 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#dfe2729](https://github.com/xHyroM/HyLib/commit/dfe2729) chore: change version in plugin.yml
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#c145073](https://github.com/xHyroM/HyLib/commit/c145073) feat(UtilsManager): add formatCommandArguments for formatting :)
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#9ec31af](https://github.com/xHyroM/HyChat/commit/9ec31af) refactor: make createCommand private
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#646b46f](https://github.com/xHyroM/HyChat/commit/646b46f) chore: add send-metrics and update hylib
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#4ebb366](https://github.com/xHyroM/HyChat/commit/4ebb366) chore: change config version
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#fa2d606](https://github.com/xHyroM/HyChat/commit/fa2d606) fix!: use papi tag resolver in MiniMessage
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#eb08df0](https://github.com/xHyroM/HyChat/commit/eb08df0) fix: clickable links
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#66feea3](https://github.com/xHyroM/HyChat/commit/66feea3) chore: some readme :D
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#74c2c99](https://github.com/xHyroM/HyLib/commit/74c2c99) feat(BStatsManager): allow to register addon with custom bstats id
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#78ca9a1](https://github.com/xHyroM/HyChat/commit/78ca9a1) chore: add images
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#b43608b](https://github.com/xHyroM/HyChat/commit/b43608b) chore: rename README to README.md
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#6bec0df](https://github.com/xHyroM/HyLib/commit/6bec0df) chore(deps): upgrade gradle-build-action
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#27a8518](https://github.com/xHyroM/HyLib/commit/27a8518) fix: make gradlew executable
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#1d00b95](https://github.com/xHyroM/HyLib/commit/1d00b95) chore(actions): add correct distribution
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#cc98b1a](https://github.com/xHyroM/HyLib/commit/cc98b1a) chore:
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#9c8cbcd](https://github.com/xHyroM/HyLib/commit/9c8cbcd) chore: add upload build libs
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#df2f918](https://github.com/xHyroM/HyLib/commit/df2f918) chore: add task gradle
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#f148c37](https://github.com/xHyroM/HyLib/commit/f148c37) chore: use hylib-xx.jar for API version of this
 
 
 ___
