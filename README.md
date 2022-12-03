@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#a8c8e5a](https://github.com/Hyro-Blobs/blobs/commit/a8c8e5a) feat: add hermelin blob by hermeľín#8606
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#3a6ad9c](https://github.com/Hyro-Blobs/blobs/commit/3a6ad9c) Create README.md
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#434c74e](https://github.com/xHyroM/HyLib/commit/434c74e) chore: add README
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#a7b34df](https://github.com/xHyroM/HyChat/commit/a7b34df) chore: add logo
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#177627d](https://github.com/xHyroM/xHyroM/commit/177627d) Update import_map.json
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
@@ -26,14 +34,6 @@ ___
   * [#f9b84ec](https://github.com/xHyroM/xHyroM/commit/f9b84ec) Update info.txt
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#bcfe8e0](https://github.com/xHyroM/HyChat/commit/bcfe8e0) chore: make gradlew executable
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#47c2865](https://github.com/xHyroM/HyChat/commit/47c2865) chore: add gradle workflow
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#0eadbf4](https://github.com/xHyroM/HyChat/commit/0eadbf4) chore: cleanup, bump HyLib
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#502fd0a](https://github.com/xHyroM/HyLib/commit/502fd0a) feat: automatically generate help for command
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#dfe2729](https://github.com/xHyroM/HyLib/commit/dfe2729) chore: change version in plugin.yml
 
 
 ___
