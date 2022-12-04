@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#f967272](https://github.com/xHyroM/HyChat/commit/f967272) chore: add process resources task
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#4b4fe6a](https://github.com/xHyroM/HyLib/commit/4b4fe6a) chore: add process resources task
 * ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
   * [#a8c8e5a](https://github.com/Hyro-Blobs/blobs/commit/a8c8e5a) feat: add hermelin blob by hermeľín#8606
 * ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
@@ -30,10 +34,6 @@ ___
   * [#6f8a189](https://github.com/xHyroM/xHyroM/commit/6f8a189) Update _config.ts
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#257b4c7](https://github.com/xHyroM/xHyroM/commit/257b4c7) Update other.ts
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#f9b84ec](https://github.com/xHyroM/xHyroM/commit/f9b84ec) Update info.txt
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#bcfe8e0](https://github.com/xHyroM/HyChat/commit/bcfe8e0) chore: make gradlew executable
 
 
 ___
