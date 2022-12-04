@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 💼 Added [OLIMINATOR](https://github.com/OLIMINATOR) as collaborator in [xHyroM/website](https://github.com/xHyroM/website)
+* ⏺️ Created new repository  [xHyroM/website](https://github.com/xHyroM/website)
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#f967272](https://github.com/xHyroM/HyChat/commit/f967272) chore: add process resources task
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -30,10 +32,6 @@ ___
   * [#177627d](https://github.com/xHyroM/xHyroM/commit/177627d) Update import_map.json
 * ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
   * [#9d3b5b5](https://github.com/xHyroM/xHyroM/commit/9d3b5b5) Update deno.json
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#6f8a189](https://github.com/xHyroM/xHyroM/commit/6f8a189) Update _config.ts
-* ➡️ Pushed 1 commit in [xHyroM/xHyroM](https://github.com/xHyroM/xHyroM) on branch `master`
-  * [#257b4c7](https://github.com/xHyroM/xHyroM/commit/257b4c7) Update other.ts
 
 
 ___
