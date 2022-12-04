@@ -15,6 +15,8 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#4b39e72](https://github.com/xHyroM/HyLib/commit/4b39e72) chore: some issues
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#b9265c7](https://github.com/xHyroM/HyLib/commit/b9265c7) chore: some issues
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#8e3d769](https://github.com/xHyroM/HyLib/commit/8e3d769) chore: some issues
@@ -29,8 +31,6 @@ ___
   * [#8c4d08f](https://github.com/xHyroM/HyLib/commit/8c4d08f) refactor: multi platform
 * 💼 Added [OLIMINATOR](https://github.com/OLIMINATOR) as collaborator in [xHyroM/website](https://github.com/xHyroM/website)
 * ⏺️ Created new repository  [xHyroM/website](https://github.com/xHyroM/website)
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#f967272](https://github.com/xHyroM/HyChat/commit/f967272) chore: add process resources task
 
 
 ___
