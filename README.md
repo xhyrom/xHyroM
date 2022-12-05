@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#57b1b60](https://github.com/xHyroM/HyChat/commit/57b1b60) chore: bump HyLib to 1.0.0
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#a43c1c9](https://github.com/xHyroM/HyLib/commit/a43c1c9) chore: bump version to 1.0.0
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#9f7a02b](https://github.com/xHyroM/HyLib/commit/9f7a02b) chore: add repository to readme
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#83a3db3](https://github.com/xHyroM/HyLib/commit/83a3db3) chore: add -all jar
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#07fdfdb](https://github.com/xHyroM/HyLib/commit/07fdfdb) chore: add repository
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -28,19 +36,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-a3c0e7af8c18ca28361a277a22b2bf11 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
 * 🔃 Opened [#70 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/Garlic-Team/gcommands-addons/pull/70) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
   * 2 files changed `++100 --184`
-* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-cbaabc08074108ba7c19c0d24e3bb6e8`
-  * [#69e90f6](https://github.com/Garlic-Team/gcommands-addons/commit/69e90f6) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-QS-3153490
-* ⏺️ Created new branch snyk-fix-cbaabc08074108ba7c19c0d24e3bb6e8 in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-* 🔃 Opened [#3 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/xHyroM/Emojis/pull/3) in [xHyroM/Emojis](https://github.com/xHyroM/Emojis)
-  * 2 files changed `++86 --86`
-* ➡️ Pushed 1 commit in [xHyroM/Emojis](https://github.com/xHyroM/Emojis) on branch `snyk-fix-dc9f77dface7b2d28e3a3abd407530fa`
-  * [#2310eda](https://github.com/xHyroM/Emojis/commit/2310eda) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-QS-3153490
 
 
 ___
