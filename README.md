@@ -15,6 +15,14 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#6b0491b](https://github.com/xHyroM/HyChat/commit/6b0491b) chore: fix gradle CI
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#3dbb738](https://github.com/xHyroM/HyLib/commit/3dbb738) chore: readme
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#1b6dc03](https://github.com/xHyroM/HyChat/commit/1b6dc03) chore: fix redme
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
+  * [#6977252](https://github.com/xHyroM/HyChat/commit/6977252) chore: add maven publish
+* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#57b1b60](https://github.com/xHyroM/HyChat/commit/57b1b60) chore: bump HyLib to 1.0.0
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#a43c1c9](https://github.com/xHyroM/HyLib/commit/a43c1c9) chore: bump version to 1.0.0
@@ -26,16 +34,6 @@ ___
   * [#07fdfdb](https://github.com/xHyroM/HyLib/commit/07fdfdb) chore: add repository
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#70eefd6](https://github.com/xHyroM/HyLib/commit/70eefd6) chore: add repository
-* 🔃 Opened [#12 [Snyk] Security upgrade express from 4.17.1 to 4.17.3](https://github.com/xHyroM/BlobRadio/pull/12) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-  * 2 files changed `++223 --235`
-* ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-a3c0e7af8c18ca28361a277a22b2bf11`
-  * [#0876157](https://github.com/xHyroM/BlobRadio/commit/0876157) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-QS-3153490
-* ⏺️ Created new branch snyk-fix-a3c0e7af8c18ca28361a277a22b2bf11 in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
-* 🔃 Opened [#70 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/Garlic-Team/gcommands-addons/pull/70) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
-  * 2 files changed `++100 --184`
 
 
 ___
