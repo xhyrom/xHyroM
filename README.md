@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#360508b](https://github.com/xHyroM/HyLib/commit/360508b) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
+* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
+  * [#03b6ef9](https://github.com/xHyroM/rajce.pro/commit/03b6ef9) add missing things
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#6b0491b](https://github.com/xHyroM/HyChat/commit/6b0491b) chore: fix gradle CI
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -30,10 +34,6 @@ ___
   * [#9f7a02b](https://github.com/xHyroM/HyLib/commit/9f7a02b) chore: add repository to readme
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#83a3db3](https://github.com/xHyroM/HyLib/commit/83a3db3) chore: add -all jar
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#07fdfdb](https://github.com/xHyroM/HyLib/commit/07fdfdb) chore: add repository
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#70eefd6](https://github.com/xHyroM/HyLib/commit/70eefd6) chore: add repository
 
 
 ___
