@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#3 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/xHyroM/Emojis/pull/3) in [xHyroM/Emojis](https://github.com/xHyroM/Emojis)
+  * 2 files changed `++86 --86`
+* ➡️ Pushed 1 commit in [xHyroM/Emojis](https://github.com/xHyroM/Emojis) on branch `snyk-fix-dc9f77dface7b2d28e3a3abd407530fa`
+  * [#2310eda](https://github.com/xHyroM/Emojis/commit/2310eda) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-QS-3153490
+* ⏺️ Created new branch snyk-fix-dc9f77dface7b2d28e3a3abd407530fa in [xHyroM/Emojis](https://github.com/xHyroM/Emojis)
 * 🔃 Opened [#13 [Snyk] Security upgrade express from 4.17.1 to 4.17.3](https://github.com/xHyroM/InfinityNextGen/pull/13) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
   * 2 files changed `++163 --262`
 * ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-155bddd82f1c8f51e1bb86865f530c96`
@@ -30,11 +38,6 @@ The following vulnerabilities are fixed with an upgrade:
   * [#5d1d89f](https://github.com/xHyroM/HyLib/commit/5d1d89f) chore: add release creating to action
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#b901c7e](https://github.com/xHyroM/HyLib/commit/b901c7e) chore: some issues
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#6c1279f](https://github.com/xHyroM/HyLib/commit/6c1279f) chore: some issues
-* 🔃 Opened [#28 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/Garlic-Team/InviteManager/pull/28) in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
-  * 2 files changed `++69 --54`
-* ⏺️ Created new branch snyk-fix-066203764a6573ce0ea9aa322c5afe2c in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
 
 
 ___
