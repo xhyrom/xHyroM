@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#70 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/Garlic-Team/gcommands-addons/pull/70) in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
+  * 2 files changed `++100 --184`
+* ➡️ Pushed 1 commit in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons) on branch `snyk-fix-cbaabc08074108ba7c19c0d24e3bb6e8`
+  * [#69e90f6](https://github.com/Garlic-Team/gcommands-addons/commit/69e90f6) fix: packages/plugin-votes/package.json &amp; packages/plugin-votes/package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-QS-3153490
+* ⏺️ Created new branch snyk-fix-cbaabc08074108ba7c19c0d24e3bb6e8 in [Garlic-Team/gcommands-addons](https://github.com/Garlic-Team/gcommands-addons)
 * 🔃 Opened [#3 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/xHyroM/Emojis/pull/3) in [xHyroM/Emojis](https://github.com/xHyroM/Emojis)
   * 2 files changed `++86 --86`
 * ➡️ Pushed 1 commit in [xHyroM/Emojis](https://github.com/xHyroM/Emojis) on branch `snyk-fix-dc9f77dface7b2d28e3a3abd407530fa`
@@ -32,12 +40,6 @@ The following vulnerabilities are fixed with an upgrade:
 * ⏺️ Created new branch snyk-fix-155bddd82f1c8f51e1bb86865f530c96 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#ea3c341](https://github.com/xHyroM/HyLib/commit/ea3c341) chore: add release creating to action
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#4dd1583](https://github.com/xHyroM/HyLib/commit/4dd1583) chore: add release creating to action
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#5d1d89f](https://github.com/xHyroM/HyLib/commit/5d1d89f) chore: add release creating to action
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#b901c7e](https://github.com/xHyroM/HyLib/commit/b901c7e) chore: some issues
 
 
 ___
