@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Opened [#13 [Snyk] Security upgrade express from 4.17.1 to 4.17.3](https://github.com/xHyroM/InfinityNextGen/pull/13) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
+  * 2 files changed `++163 --262`
+* ➡️ Pushed 1 commit in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen) on branch `snyk-fix-155bddd82f1c8f51e1bb86865f530c96`
+  * [#9570873](https://github.com/xHyroM/InfinityNextGen/commit/9570873) fix: package.json &amp; package-lock.json to reduce vulnerabilities
+
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-QS-3153490
+* ⏺️ Created new branch snyk-fix-155bddd82f1c8f51e1bb86865f530c96 in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#ea3c341](https://github.com/xHyroM/HyLib/commit/ea3c341) chore: add release creating to action
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -27,14 +35,6 @@ ___
 * 🔃 Opened [#28 [Snyk] Security upgrade express from 4.17.2 to 4.17.3](https://github.com/Garlic-Team/InviteManager/pull/28) in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
   * 2 files changed `++69 --54`
 * ⏺️ Created new branch snyk-fix-066203764a6573ce0ea9aa322c5afe2c in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager)
-* ➡️ Pushed 1 commit in [Garlic-Team/InviteManager](https://github.com/Garlic-Team/InviteManager) on branch `snyk-fix-066203764a6573ce0ea9aa322c5afe2c`
-  * [#22e1ffc](https://github.com/Garlic-Team/InviteManager/commit/22e1ffc) fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-QS-3153490
-* #️⃣ Opened [#5313 Unable to build multi modules repo](https://github.com/jitpack/jitpack.io/issues/5313) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#92c2834](https://github.com/xHyroM/HyLib/commit/92c2834) chore: some issues
 
 
 ___
