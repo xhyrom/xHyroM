@@ -14,6 +14,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#07fdfdb](https://github.com/xHyroM/HyLib/commit/07fdfdb) chore: add repository
+* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#70eefd6](https://github.com/xHyroM/HyLib/commit/70eefd6) chore: add repository
 * 🔃 Opened [#12 [Snyk] Security upgrade express from 4.17.1 to 4.17.3](https://github.com/xHyroM/BlobRadio/pull/12) in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio)
   * 2 files changed `++223 --235`
 * ➡️ Pushed 1 commit in [xHyroM/BlobRadio](https://github.com/xHyroM/BlobRadio) on branch `snyk-fix-a3c0e7af8c18ca28361a277a22b2bf11`
@@ -37,9 +41,6 @@ The following vulnerabilities are fixed with an upgrade:
 
 The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-QS-3153490
-* ⏺️ Created new branch snyk-fix-dc9f77dface7b2d28e3a3abd407530fa in [xHyroM/Emojis](https://github.com/xHyroM/Emojis)
-* 🔃 Opened [#13 [Snyk] Security upgrade express from 4.17.1 to 4.17.3](https://github.com/xHyroM/InfinityNextGen/pull/13) in [xHyroM/InfinityNextGen](https://github.com/xHyroM/InfinityNextGen)
-  * 2 files changed `++163 --262`
 
 
 ___
