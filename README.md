@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new repository  [xHyroM/HyX](https://github.com/xHyroM/HyX)
 * ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#360508b](https://github.com/xHyroM/HyLib/commit/360508b) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
@@ -32,8 +33,6 @@ ___
   * [#a43c1c9](https://github.com/xHyroM/HyLib/commit/a43c1c9) chore: bump version to 1.0.0
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#9f7a02b](https://github.com/xHyroM/HyLib/commit/9f7a02b) chore: add repository to readme
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#83a3db3](https://github.com/xHyroM/HyLib/commit/83a3db3) chore: add -all jar
 
 
 ___
