@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
+  * [#f5744d9](https://github.com/xHyroM/HyX/commit/f5744d9) feat: some updates
 * 🔃 Closed [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
   * 14 files changed `++256 --54`
 * ⏺️ Created new branch xHyroM/feat/implement-process-argv0 in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
@@ -91,8 +93,6 @@ Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
 * ⏺️ Created new repository  [xHyroM/HyX](https://github.com/xHyroM/HyX)
 * ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#360508b](https://github.com/xHyroM/HyLib/commit/360508b) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
-* ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
-  * [#03b6ef9](https://github.com/xHyroM/rajce.pro/commit/03b6ef9) add missing things
 
 
 ___
