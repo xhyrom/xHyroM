@@ -14,6 +14,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 3 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
+  * [#be1b8a0](https://github.com/oven-sh/bun-types/commit/be1b8a0) Add type for Bun.argv (#22)
+  * [#389c7f5](https://github.com/oven-sh/bun-types/commit/389c7f5) Running generate:package
+  * [#bb9c989](https://github.com/oven-sh/bun-types/commit/bb9c989) Adding argv to bun.d.ts
+* 🔃 Merged [#22 Add type for Bun.argv](https://github.com/oven-sh/bun-types/pull/22) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
+  * 2 files changed `++4 --1`
+* 🔍 Reviewed [#22 Add type for Bun.argv](https://github.com/oven-sh/bun-types/pull/22) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * ⏺️ Created new branch main in [xHyroM/HyX](https://github.com/xHyroM/HyX)
 * ⏺️ Created new repository  [xHyroM/HyX](https://github.com/xHyroM/HyX)
 * ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -26,12 +33,6 @@ ___
   * [#3dbb738](https://github.com/xHyroM/HyLib/commit/3dbb738) chore: readme
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#1b6dc03](https://github.com/xHyroM/HyChat/commit/1b6dc03) chore: fix redme
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#6977252](https://github.com/xHyroM/HyChat/commit/6977252) chore: add maven publish
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#57b1b60](https://github.com/xHyroM/HyChat/commit/57b1b60) chore: bump HyLib to 1.0.0
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#a43c1c9](https://github.com/xHyroM/HyLib/commit/a43c1c9) chore: bump version to 1.0.0
 
 
 ___
