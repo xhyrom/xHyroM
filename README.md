@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* 🔃 Closed [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
+  * 14 files changed `++256 --54`
 * ⏺️ Created new branch xHyroM/feat/implement-process-argv0 in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
 * ➡️ Pushed 508 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
   * [#c154402](https://github.com/xhyrom-forks/bun/commit/c154402) Undo
@@ -91,8 +93,6 @@ Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
   * [#360508b](https://github.com/xHyroM/HyLib/commit/360508b) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
 * ➡️ Pushed 1 commit in [xHyroM/rajce.pro](https://github.com/xHyroM/rajce.pro) on branch `main`
   * [#03b6ef9](https://github.com/xHyroM/rajce.pro/commit/03b6ef9) add missing things
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#6b0491b](https://github.com/xHyroM/HyChat/commit/6b0491b) chore: fix gradle CI
 
 
 ___
