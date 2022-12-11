@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [rajce-pro/KetchupOneBlock](https://github.com/rajce-pro/KetchupOneBlock) on branch `main`
+  * [#c6a1430](https://github.com/rajce-pro/KetchupOneBlock/commit/c6a1430) feat: increase maximum spawners to 10
 * ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
   * [#f5744d9](https://github.com/xHyroM/HyX/commit/f5744d9) feat: some updates
 * 🔃 Closed [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
@@ -91,8 +93,6 @@ Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
 * 🔍 Reviewed [#22 Add type for Bun.argv](https://github.com/oven-sh/bun-types/pull/22) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
 * ⏺️ Created new branch main in [xHyroM/HyX](https://github.com/xHyroM/HyX)
 * ⏺️ Created new repository  [xHyroM/HyX](https://github.com/xHyroM/HyX)
-* ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#360508b](https://github.com/xHyroM/HyLib/commit/360508b) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
 
 
 ___
