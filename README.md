@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#706 Password in remote nodes](https://github.com/sedmelluq/lavaplayer/issues/706) in [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer)
 * ➡️ Pushed 4 commits in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
   * [#6c2c9d2](https://github.com/Hyro-Blobs/blobs/commit/6c2c9d2) Merge pull request #3 from SlenkyDev/main
 
@@ -98,8 +99,6 @@ Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
   * [#be1b8a0](https://github.com/oven-sh/bun-types/commit/be1b8a0) Add type for Bun.argv (#22)
   * [#389c7f5](https://github.com/oven-sh/bun-types/commit/389c7f5) Running generate:package
   * [#bb9c989](https://github.com/oven-sh/bun-types/commit/bb9c989) Adding argv to bun.d.ts
-* 🔃 Merged [#22 Add type for Bun.argv](https://github.com/oven-sh/bun-types/pull/22) in [oven-sh/bun-types](https://github.com/oven-sh/bun-types)
-  * 2 files changed `++4 --1`
 
 
 ___
