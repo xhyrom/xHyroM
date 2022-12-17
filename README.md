@@ -14,6 +14,11 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ⏺️ Created new branch main in [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
+* ⏺️ Created new repository  [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
+* 💬 Commented on [#58 Position is always 0](https://github.com/freyacodes/Lavalink-Client/issues/58) from [freyacodes/Lavalink-Client](https://github.com/freyacodes/Lavalink-Client)
+* #️⃣ Closed [#58 Position is always 0](https://github.com/freyacodes/Lavalink-Client/issues/58) in [freyacodes/Lavalink-Client](https://github.com/freyacodes/Lavalink-Client)
+* #️⃣ Opened [#58 Position is always 0](https://github.com/freyacodes/Lavalink-Client/issues/58) in [freyacodes/Lavalink-Client](https://github.com/freyacodes/Lavalink-Client)
 * #️⃣ Opened [#74 Password on remote nodes](https://github.com/Walkyst/lavaplayer-fork/issues/74) in [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
 * #️⃣ Opened [#706 Password in remote nodes](https://github.com/sedmelluq/lavaplayer/issues/706) in [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer)
 * ➡️ Pushed 4 commits in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
@@ -26,76 +31,6 @@ Dumbum
 * 🔃 Merged [#3 Dumbum ](https://github.com/Hyro-Blobs/blobs/pull/3) in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs)
   * 2 files changed `++3 --0`
 * 🔍 Reviewed [#3 Dumbum ](https://github.com/Hyro-Blobs/blobs/pull/3) in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs)
-* ➡️ Pushed 1 commit in [rajce-pro/KetchupOneBlock](https://github.com/rajce-pro/KetchupOneBlock) on branch `main`
-  * [#c6a1430](https://github.com/rajce-pro/KetchupOneBlock/commit/c6a1430) feat: increase maximum spawners to 10
-* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
-  * [#f5744d9](https://github.com/xHyroM/HyX/commit/f5744d9) feat: some updates
-* 🔃 Closed [#1 feat: finish tasks](https://github.com/rajce-pro/RecruitmentPlugin/pull/1) in [rajce-pro/RecruitmentPlugin](https://github.com/rajce-pro/RecruitmentPlugin)
-  * 14 files changed `++256 --54`
-* ⏺️ Created new branch xHyroM/feat/implement-process-argv0 in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun)
-* ➡️ Pushed 508 commits in [xhyrom-forks/bun](https://github.com/xhyrom-forks/bun) on branch `main`
-  * [#c154402](https://github.com/xhyrom-forks/bun/commit/c154402) Undo
-  * [#17b8056](https://github.com/xhyrom-forks/bun/commit/17b8056) Update action.yml
-  * [#40160ec](https://github.com/xhyrom-forks/bun/commit/40160ec) Prettier
-  * [#fe92a89](https://github.com/xhyrom-forks/bun/commit/fe92a89) Pass `tar -C`
-  * [#1cb5a73](https://github.com/xhyrom-forks/bun/commit/1cb5a73) [TypeScript] Fix `export = value`
-  * [#70fa156](https://github.com/xhyrom-forks/bun/commit/70fa156) Fix artifact name, use tarball
-  * [#fcd8397](https://github.com/xhyrom-forks/bun/commit/fcd8397) Try tarball
-  * [#4688d72](https://github.com/xhyrom-forks/bun/commit/4688d72) Try again
-  * [#c55f59e](https://github.com/xhyrom-forks/bun/commit/c55f59e) Node12 is deprecated
-  * [#be108c0](https://github.com/xhyrom-forks/bun/commit/be108c0) feat(child_process): add node:child_process polyfill (#1424)
-
-* feat(child_process): beginning of child_process, add ChildProcess and spawn base case
-
-* fix(child_process): remove invalid single arg array syntax (thanks Copilot)
-
-* refactor(child_process): unhack Readable.on, move stuff into node:stream
-
-* feat(child_process): add more params for spawn, refactor, add fromWeb() to Readable
-
-* feat(child_process): finish rest of exports (minus fork), refactor, add tests
-
-* cleanup(streams): remove a bunch of unnecessary stuff
-
-* cleanup(child_process): remove dead refs
-
-* fix(child_process): fix stdio
-
-* fix(child_process): change stdio to bunStdio
-
-* test(child_process): uncomment timeout test
-
-* test(child_process): fix hanging tests
-
-* test(child_process): remove stray console.log
-
-* test(child_process): fix cwd test for linux
-
-* refactor(child_process): divide paths for encoded vs raw execFile stdio
-
-* fix(child_process): fix logic for execFile slow path
-  * [#4e3fb8e](https://github.com/xhyrom-forks/bun/commit/4e3fb8e) fix(subprocess): fix typo in spawnSync (#1464)
-  * [#9d3f1e0](https://github.com/xhyrom-forks/bun/commit/9d3f1e0) Fix fetch api to accept stringifier object (#1460)
-
-* fetch accept stringifier object
-
-* test: update fetch params tests
-  * [#88ca7fd](https://github.com/xhyrom-forks/bun/commit/88ca7fd) Fix crash in setTimeout/setInterval
-  * [#30e1fe1](https://github.com/xhyrom-forks/bun/commit/30e1fe1) Fix incorrect exit code
-  * [#562595f](https://github.com/xhyrom-forks/bun/commit/562595f) Fix crash when reading promise value wihtout checking if null
-  * [#d6520cd](https://github.com/xhyrom-forks/bun/commit/d6520cd) Fix `which` not handling absolute paths to a bin
-
-This code has not been tested.
-  * [#13cfca4](https://github.com/xhyrom-forks/bun/commit/13cfca4) Fix `cmd not found in $PATH` printing raw struct
-  * [#e20461d](https://github.com/xhyrom-forks/bun/commit/e20461d) Delete unused file
-  * [#d04c0d5](https://github.com/xhyrom-forks/bun/commit/d04c0d5) Add minified prod build of react-dom/server.bun (#1458)
-
-Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
-  * [#a5b25c5](https://github.com/xhyrom-forks/bun/commit/a5b25c5) chore: remove unecessary files (#1457)
-
-* Delete labeler.yml
-
-* Delete labels.yml
 
 
 ___
