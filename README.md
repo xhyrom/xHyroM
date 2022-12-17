@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
+  * [#453efd2](https://github.com/xHyroM/HyX/commit/453efd2) feat: add players whitelist - allow to add all online players to wl
 * ⏺️ Created new branch main in [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
 * ⏺️ Created new repository  [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
 * 💬 Commented on [#58 Position is always 0](https://github.com/freyacodes/Lavalink-Client/issues/58) from [freyacodes/Lavalink-Client](https://github.com/freyacodes/Lavalink-Client)
@@ -30,7 +32,6 @@ Dumbum
   * [#f2b0b66](https://github.com/Hyro-Blobs/blobs/commit/f2b0b66) Create README.md
 * 🔃 Merged [#3 Dumbum ](https://github.com/Hyro-Blobs/blobs/pull/3) in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs)
   * 2 files changed `++3 --0`
-* 🔍 Reviewed [#3 Dumbum ](https://github.com/Hyro-Blobs/blobs/pull/3) in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs)
 
 
 ___
