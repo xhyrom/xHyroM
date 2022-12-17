@@ -14,6 +14,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* #️⃣ Opened [#74 Password on remote nodes](https://github.com/Walkyst/lavaplayer-fork/issues/74) in [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
 * #️⃣ Opened [#706 Password in remote nodes](https://github.com/sedmelluq/lavaplayer/issues/706) in [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer)
 * ➡️ Pushed 4 commits in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
   * [#6c2c9d2](https://github.com/Hyro-Blobs/blobs/commit/6c2c9d2) Merge pull request #3 from SlenkyDev/main
@@ -95,10 +96,6 @@ Co-authored-by: Colin McDonnell &lt;colinmcd@alum.mit.edu&gt;
 * Delete labeler.yml
 
 * Delete labels.yml
-* ➡️ Pushed 3 commits in [oven-sh/bun-types](https://github.com/oven-sh/bun-types) on branch `master`
-  * [#be1b8a0](https://github.com/oven-sh/bun-types/commit/be1b8a0) Add type for Bun.argv (#22)
-  * [#389c7f5](https://github.com/oven-sh/bun-types/commit/389c7f5) Running generate:package
-  * [#bb9c989](https://github.com/oven-sh/bun-types/commit/bb9c989) Adding argv to bun.d.ts
 
 
 ___
