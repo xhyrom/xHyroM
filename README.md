@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
+  * [#07f660e](https://github.com/xHyroM/HyX/commit/07f660e) feat(Vanish): add fake messages, admin notifications
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#4c987be](https://github.com/xHyroM/benchmarks/commit/4c987be) chore: upgrade lume
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
@@ -49,8 +51,6 @@ documentation, README, etc.
   * [#f50a3a9](https://github.com/xHyroM/mumblum/commit/f50a3a9) fix(Queue): check if queue size is less than 10
 * ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
   * [#8aa72be](https://github.com/Hyro-Blobs/blobs/commit/8aa72be) Add files via upload
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#0ef3b7e](https://github.com/xHyroM/mumblum/commit/0ef3b7e) fix: destroy music manager when disconnect
 
 
 ___
