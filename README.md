@@ -14,6 +14,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#32e137b](https://github.com/xHyroM/frog/commit/32e137b) test: add raw call to anonymous function
+* #️⃣ Closed [#3 allow anonymous functions](https://github.com/xHyroM/frog/issues/3) in [xHyroM/frog](https://github.com/xHyroM/frog)
+* 💬 Commented on [#3 allow anonymous functions](https://github.com/xHyroM/frog/issues/3) from [xHyroM/frog](https://github.com/xHyroM/frog)
+* ➡️ Pushed 1 commit in [xHyroM/frog](https://github.com/xHyroM/frog) on branch `main`
+  * [#f06e734](https://github.com/xHyroM/frog/commit/f06e734) feat: add anonymous function support
+* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
+  * [#f1235c2](https://github.com/xHyroM/HyX/commit/f1235c2) feat: add v as alias to vanish cmd
 * #️⃣ Opened [#1 1.19.3](https://github.com/xHyroM/HyChat/issues/1) in [xHyroM/HyChat](https://github.com/xHyroM/HyChat)
 * ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
   * [#0e20af3](https://github.com/xHyroM/HyChat/commit/0e20af3) fix: temporary fix for chat reports bypass
@@ -25,16 +33,6 @@ disable everything underno-chat-reports
   * [#ce6a274](https://github.com/xHyroM/HyLib/commit/ce6a274) feat: support for 1.19.3 packetevents bump
 * ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#7d39f08](https://github.com/xHyroM/HyLib/commit/7d39f08) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#ef3776d](https://github.com/xHyroM/mumblum/commit/ef3776d) chore: fix upload script
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#04eb55f](https://github.com/xHyroM/mumblum/commit/04eb55f) chore: fix upload script
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#61fda48](https://github.com/xHyroM/mumblum/commit/61fda48) chore: fix upload script
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#0141ce4](https://github.com/xHyroM/mumblum/commit/0141ce4) chore: add undici
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#b45acd7](https://github.com/xHyroM/mumblum/commit/b45acd7) chore: fix script
 
 
 ___
