@@ -15,6 +15,12 @@ ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
 * ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#4c987be](https://github.com/xHyroM/benchmarks/commit/4c987be) chore: upgrade lume
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#dfb7f91](https://github.com/xHyroM/benchmarks/commit/dfb7f91) chore: try to fix CI
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#524bb68](https://github.com/xHyroM/benchmarks/commit/524bb68) fix(CI): install build-essential
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
   * [#4981ec0](https://github.com/xHyroM/benchmarks/commit/4981ec0) fix: add node-gyp dep
 * ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
   * [#4cf5228](https://github.com/Garlic-Team/docs/commit/4cf5228) Docs build for branch next: bd8282c0fecf4f51a428219dc4ef89eae7ffbf47
@@ -45,12 +51,6 @@ documentation, README, etc.
   * [#8aa72be](https://github.com/Hyro-Blobs/blobs/commit/8aa72be) Add files via upload
 * ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
   * [#0ef3b7e](https://github.com/xHyroM/mumblum/commit/0ef3b7e) fix: destroy music manager when disconnect
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#7cb7b11](https://github.com/xHyroM/mumblum/commit/7cb7b11) feat: add queue command
-* ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
-  * [#aa0453e](https://github.com/Mr-Infinity-Bot/bot/commit/aa0453e) Update antispam.ts
-* ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
-  * [#850456d](https://github.com/xHyroM/HyLib/commit/850456d) Update gradle.yml
 
 
 ___
