@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 2 commits in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
+  * [#7d39f08](https://github.com/xHyroM/HyLib/commit/7d39f08) Merge branch &#39;main&#39; of https://github.com/xHyroM/HyLib
 * ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
   * [#ef3776d](https://github.com/xHyroM/mumblum/commit/ef3776d) chore: fix upload script
 * ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
@@ -32,8 +34,6 @@ ___
   * [#d41bc14](https://github.com/xHyroM/mumblum/commit/d41bc14) chore: remove if from workflow
 * ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
   * [#96bba04](https://github.com/xHyroM/mumblum/commit/96bba04) chore: make gradlew executable
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#b23721d](https://github.com/xHyroM/mumblum/commit/b23721d) feat: add github action
 
 
 ___
