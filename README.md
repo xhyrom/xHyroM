@@ -14,6 +14,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
+  * [#7cb7b11](https://github.com/xHyroM/mumblum/commit/7cb7b11) feat: add queue command
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#aa0453e](https://github.com/Mr-Infinity-Bot/bot/commit/aa0453e) Update antispam.ts
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
@@ -31,7 +33,6 @@ ___
 * ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
   * [#453efd2](https://github.com/xHyroM/HyX/commit/453efd2) feat: add players whitelist - allow to add all online players to wl
 * ⏺️ Created new branch main in [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
-* ⏺️ Created new repository  [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
 
 
 ___
