@@ -14,25 +14,43 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/xHyroM)**
+* ➡️ Pushed 1 commit in [xHyroM/benchmarks](https://github.com/xHyroM/benchmarks) on branch `main`
+  * [#4981ec0](https://github.com/xHyroM/benchmarks/commit/4981ec0) fix: add node-gyp dep
+* ➡️ Pushed 1 commit in [Garlic-Team/docs](https://github.com/Garlic-Team/docs) on branch `main`
+  * [#4cf5228](https://github.com/Garlic-Team/docs/commit/4cf5228) Docs build for branch next: bd8282c0fecf4f51a428219dc4ef89eae7ffbf47
+* ➡️ Pushed 2 commits in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands) on branch `next`
+  * [#bd8282c](https://github.com/Garlic-Team/gcommands/commit/bd8282c) feat(Command): add nsfw commands support (#481)
+
+**Please describe the changes this PR makes and why it should be
+merged:**
+waiting for official release - X
+djs - https://github.com/discordjs/discord.js/pull/7976
+
+**Status and versioning classification:**
+- This PR changes the library&#39;s interface (methods or parameters added)
+
+&lt;!--
+Please move lines that apply to you out of the comment:
+- This PR includes breaking changes (methods removed or renamed,
+parameters moved or removed)
+- This PR **only** includes non-code changes, like changes to
+documentation, README, etc.
+--&gt;
+  * [#9c0fa7c](https://github.com/Garlic-Team/gcommands/commit/9c0fa7c) feat: add nsfw commands support
+* 🔃 Merged [#481 feat(Command): add nsfw commands support](https://github.com/Garlic-Team/gcommands/pull/481) in [Garlic-Team/gcommands](https://github.com/Garlic-Team/gcommands)
+  * 1 file changed `++5 --0`
+* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
+  * [#f50a3a9](https://github.com/xHyroM/mumblum/commit/f50a3a9) fix(Queue): check if queue size is less than 10
+* ➡️ Pushed 1 commit in [Hyro-Blobs/blobs](https://github.com/Hyro-Blobs/blobs) on branch `main`
+  * [#8aa72be](https://github.com/Hyro-Blobs/blobs/commit/8aa72be) Add files via upload
+* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
+  * [#0ef3b7e](https://github.com/xHyroM/mumblum/commit/0ef3b7e) fix: destroy music manager when disconnect
 * ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
   * [#7cb7b11](https://github.com/xHyroM/mumblum/commit/7cb7b11) feat: add queue command
 * ➡️ Pushed 1 commit in [Mr-Infinity-Bot/bot](https://github.com/Mr-Infinity-Bot/bot) on branch `master`
   * [#aa0453e](https://github.com/Mr-Infinity-Bot/bot/commit/aa0453e) Update antispam.ts
 * ➡️ Pushed 1 commit in [xHyroM/HyLib](https://github.com/xHyroM/HyLib) on branch `main`
   * [#850456d](https://github.com/xHyroM/HyLib/commit/850456d) Update gradle.yml
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#6d9aeab](https://github.com/xHyroM/HyChat/commit/6d9aeab) fix(AntiSwear): filter characters - keep only alphanumeric
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#c0c446d](https://github.com/xHyroM/HyChat/commit/c0c446d) fix(AntiSwear): everything to lowercase
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#12cf2a8](https://github.com/xHyroM/HyChat/commit/12cf2a8) chore: bump version to 1.1.0
-* ➡️ Pushed 1 commit in [xHyroM/HyChat](https://github.com/xHyroM/HyChat) on branch `main`
-  * [#547b26e](https://github.com/xHyroM/HyChat/commit/547b26e) feat(AntiSwear): implement jaro winkler &amp; levenshtein distance checks
-* ➡️ Pushed 1 commit in [xHyroM/mumblum](https://github.com/xHyroM/mumblum) on branch `main`
-  * [#25d2caf](https://github.com/xHyroM/mumblum/commit/25d2caf) feat: add stop &amp; stop music manager if bot has been disconnected
-* ➡️ Pushed 1 commit in [xHyroM/HyX](https://github.com/xHyroM/HyX) on branch `main`
-  * [#453efd2](https://github.com/xHyroM/HyX/commit/453efd2) feat: add players whitelist - allow to add all online players to wl
-* ⏺️ Created new branch main in [xHyroM/mumblum](https://github.com/xHyroM/mumblum)
 
 
 ___
