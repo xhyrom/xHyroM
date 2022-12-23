@@ -13,10 +13,6 @@ ___
 
 ___
 
-<%- await include(`partials/activity.ejs`) %>
-
-___
-
 <%- await embed(`isocalendar`, {isocalendar:true, isocalendar_duration:"half-year", config_display:"large"}) %>
 
 ___
