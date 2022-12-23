@@ -21,8 +21,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
           plugin_achievements: yes
-          plugin_activity: yes
-          plugin_activity_limit: 10
+          plugin_activity: false
+          plugin_activity_limit: 0
           plugin_lines: yes
           plugin_followup: yes
           plugin_isocalendar: yes
