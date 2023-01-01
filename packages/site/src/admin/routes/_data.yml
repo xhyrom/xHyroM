@@ -1,3 +1,0 @@
-type: admin-routes
-load_script: admin
-layout: layouts/base.njk
