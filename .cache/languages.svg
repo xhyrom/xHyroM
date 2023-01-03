@@ -31,13 +31,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.5275731213598" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="322.5275731213598" y="0" width="320.3443442596958" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="642.8719173810556" y="0" width="145.52784443058536" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="788.3997618116409" y="0" width="41.42851001906212" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="829.828271830703" y="0" width="37.84652354224144" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="867.6747953729445" y="0" width="26.450619959197912" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="894.1254153321423" y="0" width="25.874584667857608" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.30873265899464" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="322.30873265899464" y="0" width="320.12698515537056" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="642.4357178143653" y="0" width="145.42910130467527" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="787.8648191190406" y="0" width="41.40040006802776" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="829.2652191870684" y="0" width="38.44507973015654" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="867.7102989172249" y="0" width="26.432672762170085" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="894.142971679395" y="0" width="25.857028320605124" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>994 kB</div>
-                                <div>35.06%</div>
+                                <div>35.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,8 +61,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>116 kB</div>
-                                <div>4.11%</div>
+                                <div>118 kB</div>
+                                <div>4.18%</div>
                             </small>
                         </div>
                     </section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>988 kB</div>
-                                <div>34.82%</div>
+                                <div>34.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@
                             </div>
                             <small>
                                 <div>81.6 kB</div>
-                                <div>2.88%</div>
+                                <div>2.87%</div>
                             </small>
                         </div>
                     </section>
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>448 kB</div>
-                                <div>15.82%</div>
+                                <div>15.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
