@@ -3,7 +3,8 @@
     <h1 align="center">Hi, my name is xHyroM 👋</h1>
 </p>
 
-I'm a programmer. I work on a couple of open source projects, but also closed source projects. I work on projects like [Mr. Infinity](https://discord.com/oauth2/authorize?client_id=720321585625694239&scope=bot%20applications.commands&permissions=8&redirect_uri=https://blobs.gq/imanager&prompt=consent&response_type=code), [GCommands](https://github.com/Garlic-Team/GCommands), [Muploader](https://github.com/xHyroM/Muploader), [Roles Bot](https://github.com/xHyroM/roles-bot) and many more.  
+My name is Jozef Steinhübl ("bl" - not "bel", I'm not a bell), but you may know me by my pseudonyms, Hyro, xHyroM, or general_kubo . I am a developer with a passion for creating innovative solutions, and I am currently engaged in various projects. Most of my work is open-source and accessible on GitHub, where I contribute to the development of cutting-edge software solutions. You can also check Projects page on this website.
+
 I'll be glad if you take a look at my github 😀👀.
 
 ___
