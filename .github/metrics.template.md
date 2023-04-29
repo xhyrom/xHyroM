@@ -1,29 +1,34 @@
-<p align="center">
-    <!-- <img src="https://avatars.githubusercontent.com/u/56601352" width="192" alt="hyro's pfp" /> -->
-    <h1 align="center">Hi, my name is {{ LOGIN }} 👋</h1>
-</p>
+## 👋 Hello, I'm {{ LOGIN }}
 
-My name is Jozef Steinhübl ("bl" - not "bel", I'm not a bell), but you may know me by my pseudonyms, Hyro, xHyroM, or general_kubo . I am a developer with a passion for creating innovative solutions, and I am currently engaged in various projects. Most of my work is open-source and accessible on GitHub, where I contribute to the development of cutting-edge software solutions. You can also check Projects page on this website.
+My real name is Jozef Steinhübl and I live in Slovakia . I enjoy coding and spend a lot of time on it. I work on many things that are also open-source.
 
-I'll be glad if you take a look at my github 😀👀.
+You can read more about me on [my website](https://xhyrom.dev/about) or join my [discord server](https://discord.gg/kFPKmEKeMS)
 
-___
-**Data**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0KA3I5)
 
-<%- await embed(`base`, {base:"activity, community, repositories"}) %>
+<%- await embed(`base`, { base: "header, activity, community, repositories, metadata" }) %>
 
-___
+<details>	
+    <summary><b>🗓️ My Calendar</b></summary>
+    <%- await embed(`isocalendar`, { isocalendar: true, isocalendar_duration: "half-year" }) %>
+</details>
 
-<%- await embed(`isocalendar`, {isocalendar:true, isocalendar_duration:"half-year", config_display:"large"}) %>
+<details>	
+    <summary><b>🔥 My Streak</b></summary>
+    <img src="https://streak-stats.demolab.com/?user=xHyroM&theme=dark&hide_border=true" alt="streak" />
+</details>
 
-___
+<details>	
+    <summary><b>🟣 Issues & PRs Analysis</b></summary>
+    <%- await embed(`followup`, { followup: true, followup_indepth: true }) %>
+</details>
 
-<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
+<details>	
+    <summary><b>👅 Used Languages</b></summary>
+    <%- await embed(`languages`, { languages: true, languages_indepth: true, languages_details: "bytes-size, percentage", languages_skipped: "discord-datamining" }) %>
+</details>
 
-___
-
-<%- await embed(`achievements`, { achievements: true, achievements_secrets: true, achievements_threshold: "C" }) %>
-
-___
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xHyroM&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<details>	
+    <summary><b>🏅 Achievements</b></summary>
+    <%- await embed(`achievements`, { achievements: true, achievements_display: compact }) %>
+</details>
