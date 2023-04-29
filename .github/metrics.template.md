@@ -25,7 +25,7 @@ You can read more about me on [my website](https://xhyrom.dev/about) or join my 
 
 <details>	
     <summary><b>👅 Used Languages</b></summary>
-    <%- await embed(`languages`, { languages: true, languages_indepth: true, languages_details: "bytes-size, percentage", languages_skipped: "discord-datamining" }) %>
+    <%- await embed(`languages`, { languages: true, languages_details: "bytes-size, percentage", languages_skipped: "discord-datamining" }) %>
 </details>
 
 <details>	
