@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📘 Markdown template
-        uses: lowlighter/metrics@0f720e83521d609f4d0f69c5f370e60c9f9e93ef
+        uses: lowlighter/metrics@f6c4f63ecfbc342039ad33651e74a8519989b380
         if: ${{ success() || failure() }}
         with:
           # Your GitHub token
@@ -28,6 +28,7 @@ jobs:
 
           # Achievements
           plugin_achievements: yes
+          plugin_achievements_threshold: C
           plugin_achievements_display: compact
 
           # Followup
