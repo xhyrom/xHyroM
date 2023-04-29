@@ -16,7 +16,7 @@ jobs:
         if: ${{ success() || failure() }}
         with:
           filename: .cache/achievements.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -28,7 +28,7 @@ jobs:
         if: ${{ success() || failure() }}
         with:
           filename: .cache/followup.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
@@ -40,7 +40,7 @@ jobs:
         if: ${{ success() || failure() }}
         with:
           filename: .cache/isocalendar.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -52,7 +52,7 @@ jobs:
         if: ${{ success() || failure() }}
         with:
           filename: .cache/languages.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
