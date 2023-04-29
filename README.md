@@ -10,19 +10,19 @@ I'll be glad if you take a look at my github 😀👀.
 ___
 **Data**
 
-<img src="https://github.com/xHyroM/xHyroM/blob/master/.cache/base.svg">
+<img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/base.svg">
 
 ___
 
-<img src="https://github.com/xHyroM/xHyroM/blob/master/.cache/isocalendar.svg">
+<img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/isocalendar.svg">
 
 ___
 
-<img src="https://github.com/xHyroM/xHyroM/blob/master/.cache/languages.svg">
+<img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/languages.svg">
 
 ___
 
-<img src="https://github.com/xHyroM/xHyroM/blob/master/.cache/achievements.svg">
+<img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/achievements.svg">
 
 ___
 
