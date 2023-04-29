@@ -31,4 +31,8 @@ You can read more about me on [my website](https://xhyrom.dev/about) or join my 
 <details>	
     <summary><b>🏅 Achievements</b></summary>
     <img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/achievements.svg">
+    <details>
+        <summary><b>Detailed</b></summary>
+        <img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/achievements_detailed.svg">
+    </details>
 </details>
