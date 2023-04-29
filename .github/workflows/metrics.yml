@@ -45,3 +45,5 @@ jobs:
           plugin_languages_skipped: discord-datamining
 
           output_action: commit
+          extras_css: |
+            .field.warning { display: none; }
