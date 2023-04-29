@@ -20,7 +20,7 @@ You can read more about me on [my website](https://xhyrom.dev/about) or join my 
 
 <details>	
     <summary><b>🟣 Issues & PRs Analysis</b></summary>
-    <%- await embed(`followup`, { followup: true, followup_indepth: true }) %>
+    <%- await embed(`followup`, { followup: true }) %>
 </details>
 
 <details>	
