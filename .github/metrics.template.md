@@ -31,4 +31,8 @@ You can read more about me on [my website](https://xhyrom.dev/about) or join my 
 <details>	
     <summary><b>🏅 Achievements</b></summary>
     <%- await embed(`achievements`, { achievements: true, achievements_threshold: "C", achievements_display: "compact" }) %>
+    <details>
+        <summary><b>Detailed</b></summary>
+        <%- await embed(`achievements_detailed`, { achievements: true, achievements_threshold: "C", achievements_display: "detailed" }) %>
+    </details>
 </details>
