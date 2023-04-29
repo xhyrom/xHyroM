@@ -19,7 +19,7 @@ jobs:
           # Options
           template: markdown
           filename: README.md
-          markdown: https://raw.githubusercontent.com/xHyroM/xHyroM/master/.github/metrics.template.md
+          markdown: https://raw.githubusercontent.com/xHyroM/xHyroM/main/.github/metrics.template.md
           config_output: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
