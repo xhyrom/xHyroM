@@ -24,6 +24,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
 
+          # Activities
+          plugin_activity: false
+          plugin_activity_limit: 0
+
           # Achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
