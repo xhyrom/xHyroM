@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm xHyroM
 
-My real name is Jozef Steinhübl and I live in Slovakia . I enjoy coding and spend a lot of time on it. I work on many things that are also open-source.
+Hey, my name is Jozef Steinhübl, alias Hyro. I'm a 14 years old developer and computer enthusiast doing things that come to my mind. Most of my work is open-source and available here.
 
 You can read more about me on [my website](https://xhyrom.dev/about) or join my [discord server](https://discord.gg/kFPKmEKeMS)
 
