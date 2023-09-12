@@ -15,7 +15,7 @@ You can read more about me on [my website](https://xhyrom.dev/about) or join my 
 
 <details>	
     <summary><b>🔥 My Streak</b></summary>
-    <img src="https://streak-stats.demolab.com/?user=xHyroM&theme=dark&hide_border=true" alt="streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhyrom&theme=dark" alt="streak" />
 </details>
 
 <details>	
