@@ -31,14 +31,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.7216617019497" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.7216617019497" y="0" width="16.990029910673428" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.71169161262316" y="0" width="10.160575669057302" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.8722672816805" y="0" width="1.7931055988052391" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="455.66537288048573" y="0" width="1.4177192570605817" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="457.0830921375463" y="0" width="0.9989956303340207" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.08208776788035" y="0" width="0.9854654451166657" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="459.06755321299704" y="0" width="0.932446787003046" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.8594879913268" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.8594879913268" y="0" width="16.995517498928624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.85500549025545" y="0" width="10.16385742053159" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.01886291078705" y="0" width="1.7936847517129189" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="455.8125476625" y="0" width="1.4181771644088979" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="457.2307248269089" y="0" width="0.9857837393534009" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.2165085662623" y="0" width="0.9327479568105069" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.1492565230728" y="0" width="0.8507434769272666" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>25.1 MB</div>
-                                <div>92.77%</div>
+                                <div>92.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,13 +81,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Astro
+                                Rust
                             </div>
                             <small>
-                                <div>58.1 kB</div>
-                                <div>0.21%</div>
+                                <div>54.9 kB</div>
+                                <div>0.2%</div>
                             </small>
                         </div>
                     </section>
@@ -119,25 +119,25 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Astro
                             </div>
                             <small>
-                                <div>58.9 kB</div>
-                                <div>0.22%</div>
+                                <div>58.1 kB</div>
+                                <div>0.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Kotlin
                             </div>
                             <small>
-                                <div>54.9 kB</div>
-                                <div>0.2%</div>
+                                <div>50.1 kB</div>
+                                <div>0.18%</div>
                             </small>
                         </div>
                     </section>
