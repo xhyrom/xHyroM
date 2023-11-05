@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm {{ LOGIN }}
 
-Hey, my name is Jozef Steinhübl, alias Hyro. I'm a 14 years old developer and computer enthusiast doing things that come to my mind. Most of my work is open-source and available here.
+Hey, my name is Jozef Steinhübl, alias Hyro. I'm a 15 years old developer and computer enthusiast doing things that come to my mind. Most of my work is open-source and available here.
 
 You can read more about me on [my website](https://xhyrom.dev/about) or join my [discord server](https://discord.gg/kFPKmEKeMS)
 
