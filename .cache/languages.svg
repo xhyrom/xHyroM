@@ -31,14 +31,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.1821999143009" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.1821999143009" y="0" width="16.977573782065996" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.15977369636687" y="0" width="10.55933441025816" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.719108106625" y="0" width="1.7903759311165581" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="455.5094840377416" y="0" width="1.4155610448224414" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="456.92504508256405" y="0" width="1.231031584090469" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="458.1560766666545" y="0" width="0.9310273112802595" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.08710397793476" y="0" width="0.9128960220652188" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.15442409069044" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.15442409069044" y="0" width="16.97646729264715" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.13089138333754" y="0" width="10.558646220535357" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.6895376038729" y="0" width="1.7902592458911566" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="455.4797968497641" y="0" width="1.4154687876284555" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="456.8952656373925" y="0" width="1.2309513533437473" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.12621699073634" y="0" width="0.9428163763749383" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.0690333671112" y="0" width="0.9309666328887642" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>25.1 MB</div>
-                                <div>92.65%</div>
+                                <div>92.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,12 +81,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Python
                             </div>
                             <small>
-                                <div>54.9 kB</div>
+                                <div>55.7 kB</div>
                                 <div>0.2%</div>
                             </small>
                         </div>
@@ -131,12 +131,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Rust
                             </div>
                             <small>
-                                <div>53.9 kB</div>
+                                <div>54.9 kB</div>
                                 <div>0.2%</div>
                             </small>
                         </div>
