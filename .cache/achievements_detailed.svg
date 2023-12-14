@@ -35,7 +35,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1060.2 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1060.3033333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -57,7 +57,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11260 times</div>
+                                <div class="text">Repositories have been deployed 11261 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -93,7 +93,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 108 out of 44.2m repositories</span>
+                                    <span class="gh">ranked 108 out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 66036 stars</div>
                             </div>
@@ -198,7 +198,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 222k out of 120m users</span>
+                                    <span class="gh">ranked 222k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 88 public repositories</div>
                             </div>
@@ -366,7 +366,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 37.3k out of 120m users</span>
+                                    <span class="gh">ranked 37.3k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 227 users</div>
                             </div>
@@ -412,7 +412,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 455k out of 44.2m repositories</span>
+                                    <span class="gh">ranked 455k out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
