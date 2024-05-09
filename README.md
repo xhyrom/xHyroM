@@ -1,6 +1,6 @@
 # Hiya, I'm Jozef Steinhübl 👋
 
-I'm a 15-year-old computer enthusiast and student. I mainly work on the backend and am self-taught. I'm an open-source software creator and love experimenting with different programming languages and frameworks, including [`TypeScript`](https://www.typescriptlang.org/), [`Java`](http://java.net/), [`Astro`](https://astro.dev), and [`React`](https://react.dev), as well as a little bit of [`Lua`](https://lua.org), [`Go`](https://go.dev) and [`Rust`](https://rust-lang.org).
+I'm a 15-year-old computer enthusiast and student. I mainly work on the backend and am self-taught. I'm an open-source software creator and love experimenting with different programming languages and frameworks, including [`TypeScript`](https://www.typescriptlang.org/), [`Python`](https://python.org) (mainly for school), [`Java`](http://java.net/), [`Astro`](https://astro.dev), and [`React`](https://react.dev), and a little bit of [`Lua`](https://lua.org), [`Go`](https://go.dev) and [`Rust`](https://rust-lang.org).
 
 I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql.com), [Redis](https://redis.io) and more. If you want to reach me, you can do so through mail at [`lol@xhyrom.dev`](mailto:lol@xhyrom.dev) or on [Discord](https://discord.com/users/525316393768452098) (xhyrom, 525316393768452098). You can also take a look at my [website](https://xhyrom.dev) and [link tree](https://links.xhyrom.dev).
 
@@ -18,16 +18,6 @@ I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql
         </td>
     </tr>
 </table>
-
-<details>	
-    <summary><b>🟣 Issues & PRs</b></summary>
-    <img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/followup.svg">
-</details>
-
-<details>	
-    <summary><b>👅 Used Languages</b></summary>
-    <img src="https://github.com/xHyroM/xHyroM/blob/main/.cache/languages.svg">
-</details>
 
 <details>	
     <summary><b>🏅 Achievements</b></summary>
