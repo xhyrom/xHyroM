@@ -1,25 +1,26 @@
-## 👋 Hello, I'm {{ LOGIN }}
+# Hiya, I'm Jozef Steinhübl 👋
 
-Hey, my name is Jozef Steinhübl, alias Hyro. I'm a 15 years old computer enthusiast and aspiring software engineer with a passion for creating innovative software that can improve people's lives. Most of my work is open-source and available here.
+I'm a 15-year-old computer enthusiast and student. I mainly work on the backend and am self-taught. I'm an open-source software creator and love experimenting with different programming languages and frameworks, including [`TypeScript`](https://www.typescriptlang.org/), [`Java`](http://java.net/), [`Astro`](https://astro.dev), and [`React`](https://react.dev), as well as a little bit of [`Lua`](https://lua.org), [`Go`](https://go.dev) and [`Rust`](https://rust-lang.org).
 
-You can read more about me on [my website](https://xhyrom.dev/about) or join my [discord server](https://discord.gg/kFPKmEKeMS)
+I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql.com), [Redis](https://redis.io) and more. If you want to reach me, you can do so through mail at [`lol@xhyrom.dev`](mailto:lol@xhyrom.dev) or on [Discord](https://discord.com/users/525316393768452098) (xhyrom, 525316393768452098). You can also take a look at my [website](https://xhyrom.dev) and [link tree](https://links.xhyrom.dev).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0KA3I5)
 
-<%- await embed(`base`, { base: "header, activity, community, repositories, metadata" }) %>
+### 👀 Quick Statistics
+
+<table>
+    <tr>
+        <td style="padding=0;width=50%;">
+            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=xhyrom&title_color=FB8C00&text_color=ffffff&bg_color=151515&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="basic info" />
+        </td>
+        <td style="padding=0;width=50%;">
+            <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=xhyrom&theme=dark&hide_border=true" alt="streak" />
+        </td>
+    </tr>
+</table>
 
 <details>	
-    <summary><b>🗓️ My Calendar</b></summary>
-    <%- await embed(`isocalendar`, { isocalendar: true, isocalendar_duration: "half-year" }) %>
-</details>
-
-<details>	
-    <summary><b>🔥 My Streak</b></summary>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhyrom&theme=dark" alt="streak" />
-</details>
-
-<details>	
-    <summary><b>🟣 Issues & PRs Analysis</b></summary>
+    <summary><b>🟣 Issues & PRs</b></summary>
     <%- await embed(`followup`, { followup: true }) %>
 </details>
 
