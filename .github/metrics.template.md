@@ -20,6 +20,11 @@ I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql
 </table>
 
 <details>	
+    <summary><b>🔥 Used Languages</b></summary>
+    <%- await embed(`languages`, { languages: true, languages_details: "bytes-size, percentage", languages_skipped: "discord-datamining" }) %>
+</details>
+
+<details>	
     <summary><b>🏅 Achievements</b></summary>
     <%- await embed(`achievements`, { achievements: true, achievements_threshold: "C", achievements_display: "compact" }) %>
     <details>
