@@ -2,7 +2,7 @@
 
 I'm a 15-year-old computer enthusiast and student. I mainly work on the backend and am self-taught. I'm an open-source software creator and love experimenting with different programming languages and frameworks, including [`TypeScript`](https://www.typescriptlang.org/), [`Python`](https://python.org) (primarily for school), [`Java`](http://java.net/), [`Astro`](https://astro.dev), and [`React`](https://react.dev), and a little bit of [`Lua`](https://lua.org), [`Go`](https://go.dev) and [`Rust`](https://rust-lang.org).
 
-I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql.com), [Redis](https://redis.io) and more. If you want to reach me, you can do so through mail at [`lol@xhyrom.dev`](mailto:lol@xhyrom.dev) or on [Discord](https://discord.com/users/525316393768452098) (xhyrom, 525316393768452098). You can also take a look at my [website](https://xhyrom.dev) and [link tree](https://links.xhyrom.dev).
+I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql.com), [Redis](https://redis.io) and more. If you want to reach me, you can do so through mail at [`github@xhyrom.dev`](mailto:lol@xhyrom.dev) or on [Discord](https://discord.com/users/525316393768452098) (xhyrom, 525316393768452098). You can also take a look at my [website](https://xhyrom.dev) and [link tree](https://links.xhyrom.dev).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0KA3I5)
 
