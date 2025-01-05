@@ -43,8 +43,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_skipped: |
-            discord-datamining
-            xeon
+            xhyrom/discord-datamining
+            xhyrom/xeon
+            rybar-mc/mc
 
           output_action: commit
           extras_css: |
