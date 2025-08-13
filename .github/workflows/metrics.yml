@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📘 Markdown template
-        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
+        uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
         if: ${{ success() || failure() }}
         with:
           # Your GitHub token
