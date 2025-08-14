@@ -21,14 +21,14 @@ I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql
 
 <details>	
     <summary><b>🔥 Used Languages</b></summary>
-    <img src="https://github.com/xhyrom/xHyroM/blob/main/.cache/languages.svg">
+    <img src="https://github.com/xhyrom/xhyrom/blob/main/.cache/languages.svg">
 </details>
 
 <details>	
     <summary><b>🏅 Achievements</b></summary>
-    <img src="https://github.com/xhyrom/xHyroM/blob/main/.cache/achievements.svg">
+    <img src="https://github.com/xhyrom/xhyrom/blob/main/.cache/achievements.svg">
     <details>
         <summary><b>Detailed</b></summary>
-        <img src="https://github.com/xhyrom/xHyroM/blob/main/.cache/achievements_detailed.svg">
+        <img src="https://github.com/xhyrom/xhyrom/blob/main/.cache/achievements_detailed.svg">
     </details>
 </details>
